@@ -413,14 +413,20 @@ https://vtsstr3.tv24.vn/elive1/_definst_/smil:btv5_HD.smil/chunklist_b2692000.m3
 #EXTINF:-1 aspect-ratio="16:9" group-title="SCTV" tvg-logo="https://i.postimg.cc/8CmDM9h7/sctv-phimtonghop.png",SCTV HD PHIM TỔNG HỢP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vtsstr1.tv24.vn/live/_definst_/smil:SCTVHDPhimTH.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
-#------------------------Sự Kiện-----------------------#
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Sự Kiện" tvg-logo="https://i.imgur.com/F6BJbRE.png",Sự Kiện 1
+#------------------------Khác-----------------------#
+#EXTINF:-1 aspect-ratio="16:9" group-title="Khác" tvg-logo="https://i.imgur.com/v08VbZS.png",HiTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://vnptudpxy.trialsonserver.com:8889/udp/232.84.1.55:8310
+#EXTINF:-1 aspect-ratio="16:9" group-title="Khác" tvg-logo="http://i.imgur.com/FD1sjQe.png",HanoiCab2 - YouTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://quangvinh997.duckdns.org:8889/udp/225.1.1.207:30120
+#EXTINF:-1 aspect-ratio="16:9" group-title="Khác" tvg-logo="https://i.imgur.com/F6BJbRE.png",Sự Kiện 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://livecdn.fptplay.net/tvc/sukien01_2000.stream/chunklist.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Sự Kiện" tvg-logo="https://i.imgur.com/F6BJbRE.png",Sự Kiện 2
+#EXTINF:-1 aspect-ratio="16:9" group-title="Khác" tvg-logo="https://i.imgur.com/F6BJbRE.png",Sự Kiện 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://livecdn.fptplay.net/tvc/sukien02_2000.stream/chunklist.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Sự Kiện" tvg-logo="https://i.imgur.com/F6BJbRE.png",Sự Kiện 3
+#EXTINF:-1 aspect-ratio="16:9" group-title="Khác" tvg-logo="https://i.imgur.com/F6BJbRE.png",Sự Kiện 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://livecdn.fptplay.net/tvc/sukien03_2000.stream/chunklist.m3u8
 #------------------------Địa Phương------------------------#
@@ -1092,9 +1098,6 @@ http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r24.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/e3wm4xi.png",Россия 24 [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/e3wm4xi.png",Россия 24 [Сочи]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://sochi.camera:8080/cam_256/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/e3wm4xi.png",Россия 24 [Н.Новгород]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://live-vestinn.cdnvideo.ru/vestinn/vestinn/playlist.m3u8
@@ -1176,9 +1179,6 @@ http://rtmp.one.by:2300/
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="",ONE BY HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://rtmp.one.by:1300/
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="",ONE BY 4K
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://rtmp.one.by:1499
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="",HD Media 3D HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://serv25.vintera.tv:8081/HDMediaFree/hdm3d/playlist.m3u8
