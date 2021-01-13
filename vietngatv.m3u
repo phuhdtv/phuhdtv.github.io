@@ -996,6 +996,12 @@ http://livecdn.fptplay.net/hda3/cbeebies_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/nzvNMfP.png",Cartoon Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://livecdn.fptplay.net/qnetlive/cartoonnetworkhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg",Disney Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://quangvinh997.duckdns.org:8889/udp/225.1.2.158:30120
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/Disney_Junior.svg",Disney Junior
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://quangvinh997.duckdns.org:8889/udp/225.1.1.233:30120
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/shYYVk8.png",Boomerang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
@@ -1064,7 +1070,16 @@ http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
 http://dmitry-tv.my1.ru/his/01/CH_1TV_EVRAZIYA_KZ.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/OdY6SQk.png",Россия 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://dmitry-tv.my1.ru/his/01/CH_RUSSIA1.m3u8
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/OdY6SQk.png",Россия 1 [Марий Эл]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://gtrkmariel-live.cdnvideo.ru/gtrkmariel/gtrkmariel/playlist.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/OdY6SQk.png",Россия 1 [Нижний Новгород]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://a3569458063-s26881.cdn.ngenix.net/vgtrkrtmp/smil:nnov.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/OdY6SQk.png",Россия 1 [Калуга]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/smil:kaluga_r1.smil/chunklist_b400000.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/tvUT0Ss.png",Россия 1 HD [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
@@ -1077,9 +1092,18 @@ http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r24.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/e3wm4xi.png",Россия 24 [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/e3wm4xi.png",Россия 24 [Сочи]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://sochi.camera:8080/cam_256/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/e3wm4xi.png",Россия 24 [Н.Новгород]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://live-vestinn.cdnvideo.ru/vestinn/vestinn/playlist.m3u8
+http://live-vestinn.cdnvideo.ru/vestinn/vestinn/playlist.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/e3wm4xi.png",Россия 24 [Ульяновск]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://gtrk-volga.ru/media/hr24/stream1.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/e3wm4xi.png",Россия 24 [Чита]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://tv-online.gtrkchita.ru:8080/hls/r24-chita_576p.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/i4hHXeO.png",Россия K [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rk.smil/chunklist_b1600000.m3u8
@@ -1092,7 +1116,7 @@ http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/3Q5F9zJ.png",Россия РТР [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://vnptudpxy.trialsonserver.com:8889/udp/232.84.2.127:8544
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/CQzxLCm.png",ТВЦ (Международный)
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/CQzxLCm.png",ТВЦ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://ad-hls-tvc.cdnvideo.ru/tvc-p222/smil:tvc.smil/chunklist_b1682100.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/ouijeoB.png",РЕН ТВ
@@ -1103,10 +1127,10 @@ http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
 http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/KN4Z1xc.png",Звезда
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/KN4Z1xc.png",Звезда HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/WgGYZ3l.png",Мир
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
@@ -1118,13 +1142,13 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 http://e3.online.video.rbc.ru/online2/rbctv_576p/index.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/83rNRcq.png",RTД HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://rt-doc-gd.secure2.footprint.net/1101_2500Kb.m3u8
+http://rt-doc-gd.secure2.footprint.net/1101_2500Kb.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/vx1Sryi.png",RU.TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://rutv.gcdn.co/streams/1410_95/480n/index.m3u8
+http://rutv.gcdn.co/streams/1410_95/480n/index.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/vx1Sryi.png",RU.TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
+http://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/o4Julue.jpg",Известия HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
@@ -1134,6 +1158,9 @@ http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="",360°
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://video1.in-news.ru/360/index.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="",360° НОВОСТИ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="",47 Канал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://194.190.88.34:1935/videowhisper/47channel_live_broadcast.stream/playlist.m3u8
@@ -1142,7 +1169,7 @@ http://194.190.88.34:1935/videowhisper/47channel_live_broadcast.stream/playlist.
 http://176.99.110.252/stream8/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="",Телеканал 86 (Сургут)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://sitv.ru/hls/s861024.m3u8
+http://sitv.ru/hls/s861024.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="",ONE BY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://rtmp.one.by:2300/
@@ -1163,7 +1190,7 @@ http://89.106.234.3:80/hdl_38_39.m3u8
 http://206.190.141.27:1935/live/impact/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="",Kurai TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
+http://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="",Nano TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://nano.teleservice.su:8080/hls/nano.m3u8
@@ -1194,12 +1221,18 @@ http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="",АРИС 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="",Архыз 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="",Астрахань LIVE HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://dmitry-tv.my1.ru/his/01/CH_ASTRAKHANRULIVEHD_ASTRH.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="",Астрахань 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://streaming.astrakhan.ru/astrakhan24/tracks-v2a1/index.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="",Астрахань 24 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://streaming.astrakhan.ru/astrakhan24/tracks-v1a1/mono.m3u8
+http://streaming.astrakhan.ru/astrakhan24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="",Астрахань.Ru Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
@@ -1209,6 +1242,9 @@ http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8?checkedb
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="",Башкортостан 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://live.gtrk.tv/720/b24-720.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="",Волгоград 1 (Волгоград)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://213.234.30.38/Live/1000k/stream.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="",Белгород 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
@@ -1221,6 +1257,12 @@ http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="",Городской телеканал (Ярославль)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://www.gtk.tv/hls/gtyar.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố",Губерния (Воронеж)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://tvgubernia-htlive.cdn.ngenix.net/live/mp4:tv-gubernia-live/playlist.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố",Губерния Самарская
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/chunklist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố" tvg-logo="",Губерния (Самара)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
@@ -1287,6 +1329,9 @@ http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố",Мир Белогорья
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố",Майдан (Казань)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://dmitry-tv.my1.ru/his/02/CH_MAIDAN_KZN.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố",Москва 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
@@ -1296,6 +1341,9 @@ http://retc.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố",Моя Планета
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố",Моя Удмуртия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://hls-myudm.cdnvideo.ru/myudm-live/myudm.sdp/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố",МузСоюз
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
@@ -1305,6 +1353,9 @@ http://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố",НТМ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố",НТС HD (Севастополь)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố",Надежда
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
@@ -1326,6 +1377,9 @@ http://serv25.vintera.tv:8081/novoetv/nov_tv/chunks.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố",Новороссия ТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://ott.inmart.tv:8081/19/index.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố",Нижний Новгород
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://live-vestinn.cdnvideo.ru/vestinn/nn24/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố",ОТВ (Днепр)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://91.193.128.233:1935/live//otv.stream_576p/playlist.m3u8
@@ -1344,15 +1398,36 @@ http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố",Союз
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố",Сочи 24 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://serv30.vintera.tv:8081/sochi/maks24hd/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố",Сургут 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://video1.in-news.ru/c24/index.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố",ТБН
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://62.32.67.187:1935/WEB_TBN/TBN.stream/playlist.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố",ТВ7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://vod.tv7.fi:1935/tv7-ru/_definst_/smil:tv7-ru.smil/playlist.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố",ТНВ Планета
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://tnv.bonus-tv.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố",ТНВ Татарстан
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://dmitry-tv.my1.ru/his/02/CH_TNVT_KZN.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố",ТКР (Рязань)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố",TMTV (Казань)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://dmitry-tv.my1.ru/his/02/CH_TMTV_KZN.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố",ТВР 24 (Сергиев Посад)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://live-tvr24.cdnvideo.ru/tvr24/tvr24.sdp/playlist.m3u8
+http://live-tvr24.cdnvideo.ru/tvr24/tvr24.sdp/playlist.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố",Татарстан 24 (Казань)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://dmitry-tv.my1.ru/his/02/CH_TATARSTAN24.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố",Тивиком HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
@@ -1365,18 +1440,27 @@ http://hls.tv.3angels.ru/stream/HQ.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố",Туган Тел
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://streamer.rtcommufa.ru:1935/tugantel/tugantel1/playlist.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố",Туган Тел HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://195.20.196.69:1935/tugantel/hd/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố",Удмуртия
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://hls-myudm.cdnvideo.ru/myudm-live/myudm.sdp/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố",Хузур ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố",Урал-Информ HD720 (Пермь)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://dmitry-tv.my1.ru/his/02/CH_URALINFORMHD720_PERM.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố",Шансон-ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố",Щелковское ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://stream0.tv41.ru/live.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố",Эфир (Казань)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://dmitry-tv.my1.ru/his/02/CH_EFIR.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố",Эхо TV (Рязань)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
@@ -1386,6 +1470,12 @@ http://serv24.vintera.tv:8081/utv/Stream/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố",Югра
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố",Ямал-Регион (Ноябрьск)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://dmitry-tv.my1.ru/his/02/CH_YAMREG.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố",Ямал-Регион HD (Ноябрьск)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://dmitry-tv.my1.ru/his/02/CH_YAMREGHD_720.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố",радио Хит ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://hithd.camsh.orsk.ru/hls/hit.m3u8
