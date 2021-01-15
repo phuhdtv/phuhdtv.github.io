@@ -1158,12 +1158,18 @@ http://vnptudpxy.trialsonserver.com:8889/udp/232.84.1.48:8268
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/9t7FsCk.png",Animal Planet HD
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/amlBPub.png",TLC SD
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://vnptudpxy.trialsonserver.com:8889/udp/232.84.1.49:8274
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/amlBPub.png",TLC HD
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/5ukCy9p.png",Euronews
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/BT8eRjq.png",[V] SD
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://vnptudpxy.trialsonserver.com:8889/udp/232.84.1.13:8052
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/BT8eRjq.png",[V] HD
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
@@ -1179,10 +1185,16 @@ http://vnptudpxy.trialsonserver.com:8889/udp/232.84.1.16:8070
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/nzvNMfP.png",Cartoon Network HD
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://livecdn.fptplay.net/qnetlive/cartoonnetworkhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg",Disney Channel
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg",Disney Channel SD
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://vnptudpxy.trialsonserver.com:8889/udp/232.84.1.18:8082
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg",Disney Channel HD
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://vnptudpxy.trialsonserver.com:8889/udp/232.84.2.143:10678
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/Disney_Junior.svg",Disney Junior
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/Disney_Junior.svg",Disney Junior SD
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://vnptudpxy.trialsonserver.com:8889/udp/232.84.1.90:10398
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/Disney_Junior.svg",Disney Junior HD
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://vnptudpxy.trialsonserver.com:8889/udp/232.84.3.200:11122
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/shYYVk8.png",Boomerang
@@ -1266,9 +1278,6 @@ http://dmitry-tv.my1.ru/his/01/CH_1TV_EVRAZIYA_KZ.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/OdY6SQk.png",Россия 1
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/OdY6SQk.png",Россия 1 [+6]
-#EXTVLCOPT:http-user-agent=SmartSDK
-http://tv-online.gtrkchita.ru:8080/hls/r1-chita_180p.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/OdY6SQk.png",Россия 1 [Марий Эл]
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://gtrkmariel-live.cdnvideo.ru/gtrkmariel/gtrkmariel/playlist.m3u8
@@ -1302,9 +1311,6 @@ http://live-vestinn.cdnvideo.ru/vestinn/vestinn/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/e3wm4xi.png",Россия 24 [Ульяновск]
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://gtrk-volga.ru/media/hr24/stream1.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/e3wm4xi.png",Россия 24 [Чита]
-#EXTVLCOPT:http-user-agent=SmartSDK
-http://tv-online.gtrkchita.ru:8080/hls/r24-chita_576p.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/i4hHXeO.png",Россия K [Server 1]
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rk.smil/chunklist_b1600000.m3u8
@@ -1407,12 +1413,6 @@ http://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/DaYMzz8.jpg",Atameken Business TV (KZ)
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://live-atameken.cdnvideo.ru/atameken/atameken_hq.sdp/playlist.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="",ONE BY
-#EXTVLCOPT:http-user-agent=SmartSDK
-http://rtmp.one.by:2300/
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="",ONE BY HD
-#EXTVLCOPT:http-user-agent=SmartSDK
-http://rtmp.one.by:1300/
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="",HD Media 3D HD
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://serv25.vintera.tv:8081/HDMediaFree/hdm3d/playlist.m3u8
