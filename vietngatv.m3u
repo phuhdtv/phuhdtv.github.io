@@ -1094,7 +1094,7 @@ http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/YTlPk6Q.png",France 24 (Arabic)
 #EXTVLCOPT:http-user-agent=SmartSDK
-https://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
+http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/JuELCHc.png",TV5 Monde Asie
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://livecdn.fptplay.net/world/tv5_hls.smil/chunklist_b2500000.m3u8
@@ -1112,7 +1112,7 @@ http://vnptudpxy.trialsonserver.com:8889/udp/232.84.2.124:8358
 http://vnptudpxy.trialsonserver.com:8889/udp/232.84.2.125:8538
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/oUlVrf5.jpg",Russia Today HD
 #EXTVLCOPT:http-user-agent=SmartSDK
-https://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
+http://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Quốc Tê" tvg-logo="https://i.imgur.com/83rNRcq.png",Russia Today Documentary
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://rt-doc-gd.secure2.footprint.net/1101_2500Kb.m3u8
@@ -1421,7 +1421,7 @@ http://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="",Дождь
 #EXTVLCOPT:http-user-agent=SmartSDK
-https://a3569457435-s78511.cdn.ngenix.net/open/_definst_/TVRain_noaudio/chunklist_DVR.m3u8
+http://a3569457435-s78511.cdn.ngenix.net/open/_definst_/TVRain_noaudio/chunklist_DVR.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="",1HD MUSIC TELEVISION
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
@@ -1467,9 +1467,6 @@ http://songtvru.ru:8060/hd/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="",Sochi Live HD
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="",TnBnkom FHD
-#EXTVLCOPT:http-user-agent=SmartSDK
-http://tvcom.stream.intelema.ru/tvcom/studio/tracks-v1a1/index.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="",Univer TV
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
@@ -1538,13 +1535,13 @@ http://infochhdcdn.trkeurasia.ru/orsk-infochhd/infochhd/playlist.m3u8
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="",Красная линия
 #EXTVLCOPT:http-user-agent=SmartSDK
-https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
+http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="",Крик-ТВ
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://hls-rictv.cdnvideo.ru/rictv/rictv.sdp/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="",Кубань 24 Орбита
 #EXTVLCOPT:http-user-agent=SmartSDK
-https://stream.kuban24.tv:1500/hls/stream.m3u8
+http://stream.kuban24.tv:1500/hls/stream.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/WkPm5EB.png",Кузбасс Первый HD (Кемерово)
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://www.10kanal.ru/live/hls/k24.m3u8
@@ -1601,7 +1598,7 @@ http://retc.educom.ru/mosobrtv/tv1/index.m3u8
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan",Моя Удмуртия
 #EXTVLCOPT:http-user-agent=SmartSDK
-https://hls-myudm.cdnvideo.ru/myudm-live/myudm.sdp/playlist.m3u8
+http://hls-myudm.cdnvideo.ru/myudm-live/myudm.sdp/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan",МузСоюз
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
@@ -1637,7 +1634,7 @@ http://serv25.vintera.tv:8081/novoetv/nov_tv/chunks.m3u8
 http://ott.inmart.tv:8081/19/index.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan",Нижний Новгород 24
 #EXTVLCOPT:http-user-agent=SmartSDK
-https://live-vestinn.cdnvideo.ru/vestinn/nn24/playlist.m3u8
+http://live-vestinn.cdnvideo.ru/vestinn/nn24/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan",ОТВ (Днепр)
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://91.193.128.233:1935/live//otv.stream_576p/playlist.m3u8
@@ -1652,7 +1649,7 @@ http://ott.inmart.tv:8081/18/index.m3u8
 http://cdn-01.bonus-tv.ru:8080/prosveschenie_edge/index.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan",С1 (Сургут)
 #EXTVLCOPT:http-user-agent=SmartSDK
-https://sitv.ru/hls/stv1024.m3u8
+http://sitv.ru/hls/stv1024.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan",Смайлик ТВ
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
@@ -1686,9 +1683,12 @@ http://dmitry-tv.my1.ru/his/02/CH_TMTV_KZN.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan",ТВР 24 (Сергиев Посад)
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://live-tvr24.cdnvideo.ru/tvr24/tvr24.sdp/playlist.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan",Тивиком HD
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="",Тивиком HD
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="",Тивиком FHD
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://tvcom.stream.intelema.ru/tvcom/studio/tracks-v1a1/index.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan",Тольятти 24
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://91.234.108.26/hls-live/livepkgr/_definst_/liveevent1/vazlivestream1.m3u8
@@ -1704,9 +1704,12 @@ http://195.20.196.69:1935/tugantel/hd/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan",Удмуртия
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://hls-myudm.cdnvideo.ru/myudm-live/myudm.sdp/playlist.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan",Хабар 24
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/tEH4vmX.png",Хабар 24 [Server 1]
 #EXTVLCOPT:http-user-agent=SmartSDK
-https://live-24kz.cdnvideo.ru/24kz/24kz.sdp/playlist.m3u8
+http://live-24kz.cdnvideo.ru/24kz/24kz.sdp/playlist.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/tEH4vmX.png",Хабар 24 [Server 2]
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan",Хузур ТВ
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
@@ -1728,9 +1731,6 @@ http://serv24.vintera.tv:8081/utv/Stream/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan",Югра
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/tEH4vmX.png",Хабар 24
-#EXTVLCOPT:http-user-agent=SmartSDK
-http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="",радио Хит ТВ
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://hithd.camsh.orsk.ru/hls/hit.m3u8
