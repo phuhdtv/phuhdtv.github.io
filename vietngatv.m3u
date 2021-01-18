@@ -287,9 +287,6 @@ http://livecdn.fptplay.net/sdc/vtc14_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/kpD8AAE.png",VTC16 SD
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://udpxyvnpt-hthanhmedia.duckdns.org:8889/rtp/232.84.1.215:9264
-#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/kpD8AAE.png",VTC16 SD
-#EXTVLCOPT:http-user-agent=SmartSDK
-http://udpxyvnpt-hthanhmedia.duckdns.org:8889/rtp/232.84.1.215:9264
 #EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/kpD8AAE.png",VTC16 HD
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
@@ -361,6 +358,9 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/QUOCHOI-SD-ABR/HTV-ABR/QUOCHOI-SD-
 #EXTINF:-1 group-title="Kênh Tin Tức" tvg-logo="https://i.imgur.com/713vQig.jpg",Quốc Hội Việt Nam HD
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://livecdn.fptplay.net/sdc/quochoivn_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh Tin Tức" tvg-logo="https://i.imgur.com/713vQig.jpg",Quốc Hội Việt Nam HD [1080p]
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://36.37.252.114:888/Apple/OneTV-106/playlist.m3u8
 #EXTINF:-1 group-title="Kênh Tin Tức" tvg-logo="https://i.imgur.com/dcjQ1eA.jpg",Quốc Phòng Việt Nam SD
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/QPTV-SD-ABR/HTV-ABR/QPTV-SD-480p/playlist.m3u8
@@ -382,9 +382,12 @@ http://livecdn.fptplay.net/sda/ttxvn_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Kênh Tin Tức" tvg-logo="https://i.imgur.com/rswzxzG.png",Nhân Dân TV
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NHANDAN-SD-ABR/HTV-ABR/NHANDAN-SD-480p/playlist.m3u8
-#EXTINF:-1 group-title="Kênh Tin Tức" tvg-logo="https://i.imgur.com/rswzxzG.png",Nhân Dân TV HD
+#EXTINF:-1 group-title="Kênh Tin Tức" tvg-logo="https://i.imgur.com/rswzxzG.png",Nhân Dân TV HD [FPT Play]
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Kênh Tin Tức" tvg-logo="https://i.imgur.com/rswzxzG.png",Nhân Dân TV HD [VTC]
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://36.37.252.114:888/Apple/OneTV-109/playlist.m3u8
 #------------------------SCTV------------------------#
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://i.postimg.cc/nLJpspQ8/sctv1hd.png",SCTV1 HD
 #EXTVLCOPT:http-user-agent=SmartSDK
@@ -477,21 +480,9 @@ http://dmitry-tv.ddns.net:8666/his/CH_D-TV6
 #EXTINF:-1 group-title="Khác" tvg-logo="http://dmitry-tv.my1.ru/d-tv/ch_dmitry-tv/images/22.png",Dmitry-tv HD
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://dmitry-tv.ddns.net:8000/his/CH_DMITRY-TVHD
-#EXTINF:-1 group-title="FPT Service" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/80/FPT_New_Logo.png",Dolife Hospital
-#EXTVLCOPT:http-user-agent=SmartSDK
-http://quangvinh997.duckdns.org:8889/udp/225.1.1.127:30120
-#EXTINF:-1 group-title="FPT Service" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/80/FPT_New_Logo.png",Grand Phoenix Hotel
-#EXTVLCOPT:http-user-agent=SmartSDK
-http://quangvinh997.duckdns.org:8889/udp/225.1.1.66:30120
-#EXTINF:-1 group-title="FPT Service" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/80/FPT_New_Logo.png",The Mira Hotel
-#EXTVLCOPT:http-user-agent=SmartSDK
-http://quangvinh997.duckdns.org:8889/udp/225.1.1.123:30120
 #EXTINF:-1 group-title="FPT Service" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/80/FPT_New_Logo.png",The Ocean Resort
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://quangvinh997.duckdns.org:8889/udp/225.1.1.121:30120
-#EXTINF:-1 group-title="FPT Service" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/80/FPT_New_Logo.png",FPT Giới Thiệu Chương Trình
-#EXTVLCOPT:http-user-agent=SmartSDK
-http://quangvinh997.duckdns.org:8889/udp/225.1.1.2:30120
 #EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://i.imgur.com/F6BJbRE.png",Sự Kiện 1
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://livecdn.fptplay.net/tvc/sukien01_2000.stream/chunklist.m3u8
@@ -802,15 +793,21 @@ http://livecdn.fptplay.net/sda/quangngai_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://imgur.com/bjGI2q2.png",QTV1 - Truyền hình Quảng Ninh SD
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://livecdn.fptplay.net/sda/quangninh1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/jOutDk2.png",QTV1 - Truyền hình Quảng Ninh HD
+#EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/jOutDk2.png",QTV1 - Truyền hình Quảng Ninh HD [Server 1]
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://mediatech.vncdn.vn/qtvlive/tv1live.m3u8
+#EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/jOutDk2.png",QTV1 - Truyền hình Quảng Ninh HD [Server 2]
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://36.37.252.114:888/Apple/OneTV-107/playlist.m3u8
 #EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/FXn4W5C.png",QTV3 - Truyền hình Quảng Ninh SD
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://livecdn.fptplay.net/sda/quangninh3_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/YmdD8Hl.png",QTV3 - Truyền hình Quảng Ninh HD
+#EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/YmdD8Hl.png",QTV3 - Truyền hình Quảng Ninh HD [Server 1]
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://mediatech.vncdn.vn/qtvlive/tv3live.m3u8
+#EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/YmdD8Hl.png",QTV3 - Truyền hình Quảng Ninh HD [Server 2]
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://36.37.252.114:888/Apple/OneTV-108/playlist.m3u8
 #EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/9ppMtcU.png",QRTV - Truyền hình Quảng Trị
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://livecdn.fptplay.net/sdc/quangtri_hls.smil/chunklist_b2500000.m3u8
@@ -886,6 +883,9 @@ http://livecdn.fptplay.net/hda/vinhlong1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/mDQssNg.jpg",THVL1 - Truyền hình Vĩnh Long 1 HD [HTVC]
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/THVL1-HD-1080p/playlist.m3u8
+#EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/mDQssNg.jpg",THVL1 - Truyền hình Vĩnh Long 1 HD [VTC]
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://36.37.252.114:888/Apple/OneTV-111/playlist.m3u8
 #EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/hrsgjNu.jpg",THVL2 - Truyền hình Vĩnh Long 2 SD
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://udpxyvnpt-hthanhmedia.duckdns.org:8889/rtp/232.84.1.196:9150
@@ -895,6 +895,9 @@ http://livecdn.fptplay.net/sdb/vinhlong2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/hrsgjNu.jpg",THVL2 - Truyền hình Vĩnh Long 2 HD [HTVC]
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/THVL2-HD-1080p/playlist.m3u8
+#EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/hrsgjNu.jpg",THVL2 - Truyền hình Vĩnh Long 2 HD [VTC]
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://36.37.252.114:888/Apple/OneTV-112/playlist.m3u8
 #EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/w7nxAjc.jpg",THVL3 - Truyền hình Vĩnh Long 3 SD
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://udpxyvnpt-hthanhmedia.duckdns.org:8889/rtp/232.84.3.151:10894
@@ -1085,7 +1088,7 @@ http://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
 http://livecdn.fptplay.net/qnetlive/cnn_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/krupazx.png",CNN HD
 #EXTVLCOPT:http-user-agent=SmartSDK
-http://udpxyvnpt-hthanhmedia.duckdns.org:8889/rtp/232.84.3.153:10690
+http://36.37.252.114:888/Apple/OneTV-100/playlist.m3u8
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/U3GlkzU.png",DW English
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://livecdn.fptplay.net/world/dwenglish_hls.smil/chunklist_b2500000.m3u8
@@ -1169,7 +1172,7 @@ http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8
 http://36.37.252.114:888/Apple/OneTV-048/playlist.m3u8
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/cjx78kt.png",National Geographic SD
 #EXTVLCOPT:http-user-agent=SmartSDK
-http://udpxyvnpt-hthanhmedia.duckdns.org:8889/rtp/232.84.2.122:8364
+http://36.37.252.114:888/Apple/OneTV-101/playlist.m3u8
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/cjx78kt.png",National Geographic HD
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
@@ -1707,9 +1710,12 @@ http://streamer.rtcommufa.ru:1935/tugantel/tugantel1/playlist.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/b/bb/Туган_Тел.jpg/revision/latest?cb=20120722155340&path-prefix=ru",Туган Тел HD
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://195.20.196.69:1935/tugantel/hd/playlist.m3u8
-#EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/tEH4vmX.png",Хабар 24
+#EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/tEH4vmX.png",Хабар 24 [Server 1]
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://live-24kz.cdnvideo.ru/24kz/24kz.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/tEH4vmX.png",Хабар 24 [Server 2]
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/7/72/Хузур_ТВ_%28чёрный%29.png/revision/latest?cb=20171101105438&path-prefix=ru",Хузур ТВ
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
