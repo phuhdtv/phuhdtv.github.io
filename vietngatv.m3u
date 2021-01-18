@@ -293,6 +293,9 @@ http://14.232.176.71:8889/rtp/232.84.1.215:9264
 #EXTINF:-1 aspect-ratio="16:9" group-title="VTC" tvg-logo="https://imgur.com/kpD8AAE.png",VTC16 HD
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="VTC" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d3/VTC_Digital.png/revision/latest?cb=20201018105639&path-prefix=vi",VTC Digital
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://36.37.252.114:888/Apple/OneTV-117/playlist.m3u8
 #------------------------VOV------------------------#
 #EXTINF:-1 aspect-ratio="16:9" group-title="VOV" tvg-logo="https://i.imgur.com/MGLFyKb.png",VOV TV
 #EXTVLCOPT:http-user-agent=SmartSDK
@@ -474,6 +477,12 @@ http://livecdn.fptplay.net/tvc/sukien02_2000.stream/chunklist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Khác" tvg-logo="https://i.imgur.com/F6BJbRE.png",Sự Kiện 3
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://livecdn.fptplay.net/tvc/sukien03_2000.stream/chunklist.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Khác" tvg-logo="http://dmitry-tv.my1.ru/d-tv/ch_d-tv6/images/d-tv6.png",DTV-6
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://dmitry-tv.ddns.net:8666/his/CH_D-TV6
+#EXTINF:-1 aspect-ratio="16:9" group-title="Khác" tvg-logo="http://dmitry-tv.my1.ru/d-tv/ch_dmitry-tv/images/22.png",Dmitry-tv HD
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://dmitry-tv.ddns.net:8666/his/CH_D-TV6
 #------------------------Địa Phương------------------------#
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/JpnhkCA.png",ATV - Truyền hình An Giang HD
 #EXTVLCOPT:http-user-agent=SmartSDK
@@ -634,6 +643,9 @@ http://livecdn.fptplay.net/sda/hagiang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/0q2BVky.png",THHN - Truyền hình Hà Nam
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://livecdn.fptplay.net/sda/hanam_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/0q2BVky.png",THHN - Truyền hình Hà Nam HD
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://hanamtv.vncdn.vn/medias/hanam/720P/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/tMHmrZz.jpg",H1 - Truyền hình Hà Nội 1 SD
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://livecdn.fptplay.net/sdc/hanoitv1_hls.smil/chunklist_b2500000.m3u8
@@ -1203,6 +1215,9 @@ http://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/5ukCy9p.png",Euronews
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/5ukCy9p.png",Euronews HD
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://36.37.252.114:888/Apple/OneTV-048/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/BT8eRjq.png",[V] SD
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://14.232.176.71:8889/rtp/232.84.1.13:8052
@@ -1449,9 +1464,6 @@ http://serv25.vintera.tv:8081/HDMediaFree/hdm3d/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="",HDL
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://89.106.234.3:80/hdl_38_39.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan",Impact TV
-#EXTVLCOPT:http-user-agent=SmartSDK
-http://206.190.141.27:1935/live/impact/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="",Nano TV
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://nano.teleservice.su:8080/hls/nano.m3u8
@@ -1503,7 +1515,7 @@ http://213.234.30.38/Live/1000k/stream.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="",Белгород 24
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="",Вестник Надыма +2
+#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="",Вестник Надыма
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://live-trknadym.cdnvideo.ru/trknadym-pub/trknadym.sdp/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="",Ветта 24 (Пермь)
@@ -1617,12 +1629,6 @@ http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan",Настоящее время
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan",Наше Крутое HD
-#EXTVLCOPT:http-user-agent=SmartSDK
-http://ba5729d5.krasnafhg.ru/iptv/EAEWFFWBXPVVLY/915/index.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan",Небеса ТВ7
-#EXTVLCOPT:http-user-agent=SmartSDK
-http://vod.tv7.fi:1935/tv7-ru/_definst_/smil:tv7-ru.smil/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan",Ника ТВ
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
@@ -1635,15 +1641,9 @@ http://ott.inmart.tv:8081/19/index.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan",Нижний Новгород 24
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://live-vestinn.cdnvideo.ru/vestinn/nn24/playlist.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan",ОТВ (Днепр)
-#EXTVLCOPT:http-user-agent=SmartSDK
-http://91.193.128.233:1935/live//otv.stream_576p/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan",Одинцово ТВ
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://185.18.4.16/live/3m/playlist.m3u8
-#EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan",Первый республиканский
-#EXTVLCOPT:http-user-agent=SmartSDK
-http://ott.inmart.tv:8081/18/index.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="",ПРОДВИЖЕНИЕ
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://cdn-01.bonus-tv.ru:8080/prosveschenie_edge/index.m3u8
