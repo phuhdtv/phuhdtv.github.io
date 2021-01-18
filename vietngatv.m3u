@@ -323,13 +323,16 @@ https://stream.vov.vn/audio/vovvn1_vov3.stream_aac/chunklist_w1521076795.m3u8
 http://media.kythuatvov.vn:1936/live/VOV3.sdp/playlist.m3u8
 #EXTINF:-1 group-title="VOV" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov4_2.png",VOV4
 #EXTVLCOPT:http-user-agent=SmartSDK
-https://stream.vov.vn/audio/vovvn1_vovTTHCM.stream_aac/chunklist_w1163981877.m3u8
-#EXTINF:-1 group-title="VOV" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov5new_0.png",VOV5 [VOV.VN]
+http://media.kythuatvov.vn:1936/live/VOV4_MT.sdp/playlist.m3u8
+#EXTINF:-1 group-title="VOV" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov4_2.png",VOV4 [VOV.VN]
 #EXTVLCOPT:http-user-agent=SmartSDK
-https://stream.vov.vn/audio/vovvn1_vov5.stream_aac/chunklist_w199416983.m3u8
+https://stream.vov.vn/audio/vovvn1_vovTTHCM.stream_aac/chunklist_w1163981877.m3u8
 #EXTINF:-1 group-title="VOV" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov5new_0.png",VOV5
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://media.kythuatvov.vn:1936/live/VOV5.sdp/playlist.m3u8
+#EXTINF:-1 group-title="VOV" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov5new_0.png",VOV5 [VOV.VN]
+#EXTVLCOPT:http-user-agent=SmartSDK
+https://stream.vov.vn/audio/vovvn1_vov5.stream_aac/chunklist_w199416983.m3u8
 #EXTINF:-1 group-title="VOV" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov6_2.png",VOV6
 #EXTVLCOPT:http-user-agent=SmartSDK
 https://stream.vov.vn/audio/vovvn1_vov6.stream_aac/chunklist.m3u8
@@ -489,9 +492,6 @@ http://quangvinh997.duckdns.org:8889/udp/225.1.1.121:30120
 #EXTINF:-1 group-title="FPT Service" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/80/FPT_New_Logo.png",FPT Giới Thiệu Chương Trình
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://quangvinh997.duckdns.org:8889/udp/225.1.1.2:30120
-#EXTINF:-1 group-title="FPT Service" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/80/FPT_New_Logo.png",Chơi Hay Chia
-#EXTVLCOPT:http-user-agent=SmartSDK
-http://quangvinh997.duckdns.org:8889/udp/225.1.1.26:30120
 #EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://i.imgur.com/F6BJbRE.png",Sự Kiện 1
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://livecdn.fptplay.net/tvc/sukien01_2000.stream/chunklist.m3u8
@@ -959,6 +959,9 @@ http://125.212.213.71:1935/live/channel3/playlist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://i.imgur.com/am9seHK.png",VOH 87.7
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://125.212.213.71:1935/live/channel5/playlist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://i.imgur.com/GM97H8L.png",Bình Dương FM
+#EXTVLCOPT:http-user-agent=SmartSDK
+https://btvfm.htvc.catchup.vnroute.com/2c0df317cc995aff6884a1274931168a1604410416/btv-fm.tms/index.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://i.imgur.com/GM97H8L.png",Bình Phước FM
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://mediatech.vncdn.vn/bptvlive/radio.m3u8
@@ -1071,6 +1074,15 @@ http://14.232.176.71:8889/rtp/232.84.1.8:8022
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/OV5nhkM.png",NHK World Japan HD
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://livecdn.fptplay.net/world/nhkworld_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/9ZqIRg1.png",BBC World News
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/krupazx.png",CNN
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://livecdn.fptplay.net/qnetlive/cnn_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/krupazx.png",CNN HD
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://14.232.176.71:8889/rtp/232.84.3.153:10690
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/U3GlkzU.png",DW English
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://livecdn.fptplay.net/world/dwenglish_hls.smil/chunklist_b2500000.m3u8
@@ -1146,6 +1158,12 @@ http://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
 #EXTINF:-1 group-title="Kênh Quốc Tê" tvg-logo="https://i.imgur.com/83rNRcq.png",Russia Today Documentary
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://rt-doc-gd.secure2.footprint.net/1101_2500Kb.m3u8
+#EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/5ukCy9p.png",Euronews
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8
+#EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/5ukCy9p.png",Euronews HD
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://36.37.252.114:888/Apple/OneTV-048/playlist.m3u8
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/cjx78kt.png",National Geographic SD
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://14.232.176.71:8889/rtp/232.84.2.122:8364
@@ -1185,18 +1203,9 @@ http://14.232.176.71:8889/rtp/232.84.1.2:7986
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/Zyy11Cs.png",Fashion TV HD
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://livecdn.fptplay.net/qnetlive/fashiontvhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/krupazx.png",CNN
-#EXTVLCOPT:http-user-agent=SmartSDK
-http://livecdn.fptplay.net/qnetlive/cnn_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/krupazx.png",CNN HD
-#EXTVLCOPT:http-user-agent=SmartSDK
-http://14.232.176.71:8889/rtp/232.84.3.153:10690
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/3sQunND.png",BBC Earth
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/9ZqIRg1.png",BBC World News
-#EXTVLCOPT:http-user-agent=SmartSDK
-http://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/wwTUVYP.png",BBC Lifestyle
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
@@ -1230,12 +1239,6 @@ http://14.232.176.71:8889/rtp/232.84.1.49:8274
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/amlBPub.png",TLC HD
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/5ukCy9p.png",Euronews
-#EXTVLCOPT:http-user-agent=SmartSDK
-http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8
-#EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/5ukCy9p.png",Euronews HD
-#EXTVLCOPT:http-user-agent=SmartSDK
-http://36.37.252.114:888/Apple/OneTV-048/playlist.m3u8
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/BT8eRjq.png",[V] SD
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://14.232.176.71:8889/rtp/232.84.1.13:8052
@@ -1344,7 +1347,7 @@ http://14.232.176.71:8889/rtp/232.84.2.128:8352
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/zGGqlZt.png",Первый канал [Server 3]
 #EXTVLCOPT:http-user-agent=SmartSDK
 https://cdn1.mobiletv.bg/T5/perviy_kanal/perviy_kanal_794613_850k.m3u8
-#EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/bJIkebD.png",Первый канал Евразия
+#EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/bJIkebD.png",Первый канал Евразия (KZ)
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://dmitry-tv.my1.ru/his/01/CH_1TV_EVRAZIYA_KZ.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/OdY6SQk.png",Россия 1
@@ -1704,12 +1707,9 @@ http://streamer.rtcommufa.ru:1935/tugantel/tugantel1/playlist.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/b/bb/Туган_Тел.jpg/revision/latest?cb=20120722155340&path-prefix=ru",Туган Тел HD
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://195.20.196.69:1935/tugantel/hd/playlist.m3u8
-#EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/tEH4vmX.png",Хабар 24 [Server 1]
+#EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/tEH4vmX.png",Хабар 24
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://live-24kz.cdnvideo.ru/24kz/24kz.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/tEH4vmX.png",Хабар 24 [Server 2]
-#EXTVLCOPT:http-user-agent=SmartSDK
-http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/7/72/Хузур_ТВ_%28чёрный%29.png/revision/latest?cb=20171101105438&path-prefix=ru",Хузур ТВ
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
