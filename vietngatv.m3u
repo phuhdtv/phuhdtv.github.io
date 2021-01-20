@@ -1298,6 +1298,12 @@ http://109.171.7.192:81/udp/239.22.0.41:1234
 #EXTINF:-1 tvg-logo="https://iptv.live/images/logo/channel/crops/645218ea392a5a3cb22cfdf9f332c8d9.png" group-title="Kênh Nga Ngố",ПЕРВЫЙ КАНАЛ HD (+4)
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://109.171.7.192:81/udp/239.54.5.61:1224
+#EXTINF:-1 group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/OdY6SQk.png",Россия 1 (+4) [Server 1]
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia1_plus4/chunklist_b800000.m3u8
+#EXTINF:-1 group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/OdY6SQk.png",Россия 1 (+4) [Server 2]
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia1_plus4/playlist_3.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/OdY6SQk.png",Россия 1 - ГТРК Алтай (+4)
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://109.171.7.192:81/udp/239.22.0.42:1234
@@ -1523,15 +1529,9 @@ http://109.171.7.192:81/udp/239.54.5.93:1234
 #EXTINF:-1 group-title="Kênh Nga Ngố" tvg-logo="",VIASAT SPORT
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://109.171.7.192:81/udp/239.54.5.94:1234
-#EXTINF:-1 group-title="Kênh Nga Ngố" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/6/69/Союз_3.png/revision/latest?cb=20140303110716&path-prefix=ru",Союз
-#EXTVLCOPT:http-user-agent=SmartSDK
-http://tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/e/ee/TBN_logo_2.png/revision/latest?cb=20170412094945&path-prefix=ru",ТБН
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://62.32.67.187:1935/WEB_TBN/TBN.stream/playlist.m3u8
-#EXTINF:-1 group-title="Kênh Nga Ngố" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/9/94/ТНВ-Планета.png/revision/latest?cb=20171107143127&path-prefix=ru",ТНВ Планета
-#EXTVLCOPT:http-user-agent=SmartSDK
-http://tnv.bonus-tv.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố" tvg-logo="https://i.imgur.com/EeFTjw9.png",Радио России
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_64kbps
