@@ -544,7 +544,7 @@ http://udpxyvnpt-hthanhmedia.duckdns.org:8889/rtp/232.84.1.137:8796
 #EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/hf1hqrS.jpg",BTV2 - Truyền hình Bình Dương 2 HD
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://livecdn.fptplay.net/hda/btv2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f4/BTV.png",BTV3 - Truyền hình Bình Dương 3 HD
+#EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/77/BTV3-0.png/revision/latest?cb=20201010135254&path-prefix=vi",BTV3 - Truyền hình Bình Dương 3 HD
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://quangvinh997.duckdns.org:8889/udp/225.1.2.22:30120
 #EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/pbyLu9c.png",BTV4 - Truyền hình Bình Dương 4 SD
@@ -1356,9 +1356,6 @@ http://89.106.234.3:80/1KanalEvraziya_34_35.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/bJIkebD.png",Первый канал Евразия (KZ) [Server 2]
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://sc.id-tv.kz/1KanalEvraziya_38_39.m3u8
-#EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://iptv.live/images/logo/channel/crops/645218ea392a5a3cb22cfdf9f332c8d9.png",Первый канал HD
-#EXTVLCOPT:http-user-agent=SmartSDK
-http://serv30.vintera.tv:8081/restream/pervij/playlist.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/OdY6SQk.png",Россия 1
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://gtrkmariel-live.cdnvideo.ru/gtrkmariel/gtrkmariel/playlist.m3u8
@@ -1407,6 +1404,9 @@ http://36.37.252.114:888/Apple/OneTV-027/playlist.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/uBCPAz5.png",НТВ
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/ntv/playlist.m3u8
+#EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/uBCPAz5.png",НТВ [Backup]
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://89.106.234.3:80/NTV_34_35.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/e3wm4xi.png",Россия 24 [Server 1]
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r24.smil/chunklist_b1200000.m3u8
@@ -1446,9 +1446,6 @@ http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/ouijeoB.png",РЕН ТВ International [Server 1]
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://89.106.234.3:80/RenTV_34_35.m3u8
-#EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/ouijeoB.png",РЕН ТВ International [Server 2]
-#EXTVLCOPT:http-user-agent=SmartSDK
-http://188.93.95.83:80/rentv/mpegts
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/05b7pNF.png",СПАС
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
@@ -1476,7 +1473,7 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/KN4Z1xc.png",Звезда HD
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
-#EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/WgGYZ3l.png",Мир
+#EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/WgGYZ3l.png",Мир HD
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/WgGYZ3l.png",Мир (+2)
@@ -1500,9 +1497,6 @@ http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/tnt/playlist.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/YWo7NZY.png",ТНТ HD
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://188.35.9.11:2018
-#EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/Swh39pH.png",Че
-#EXTVLCOPT:http-user-agent=SmartSDK
-http://serv30.vintera.tv:8081/provider/che23/playlist.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/6zyqdbr.png",ТНТ4
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://89.106.234.3:80/tnt4_34_35.m3u8
@@ -1515,6 +1509,9 @@ http://188.93.95.83:80/perec/mpegts
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/3/38/Мир_24.png/revision/latest?cb=20151115160710&path-prefix=ru",Мир 24
 #EXTVLCOPT:http-user-agent=SmartSDK
 https://sc.id-tv.kz/Mir24_38_39.m3u8
+#EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/3/38/Мир_24.png/revision/latest?cb=20151115160710&path-prefix=ru",Мир 24 [Backup]
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://89.106.234.3:80/Mir24_34_35.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/3/38/Мир_24.png/revision/latest?cb=20151115160710&path-prefix=ru",Мир 24 HD
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
@@ -1611,7 +1608,7 @@ http://live-trknadym.cdnvideo.ru/trknadym-pub/trknadym.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/2/2b/Vetta24.png/revision/latest?cb=20200909150008&path-prefix=ru",Ветта 24 (Пермь)
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
-#EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="",Вместе РФ
+#EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/d/d1/Вместе_РФ_%282020%29.svg/revision/latest?cb=20201111081639&path-prefix=ru",Вместе РФ
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://cdn-01.bonus-tv.ru:8080/vmesterf/index.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/e/e9/ГТ_%282019-2020%29.png/revision/latest?cb=20190307151028&path-prefix=ru",Городской телеканал (Ярославль)
@@ -1785,7 +1782,7 @@ http://live-24kz.cdnvideo.ru/24kz/24kz.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/7/72/Хузур_ТВ_%28чёрный%29.png/revision/latest?cb=20171101105438&path-prefix=ru",Хузур ТВ
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
-#EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="",УрФО 24 HD
+#EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/b/b0/УрФО_24_%282019%2C_без_фона%29.png/revision/latest?cb=20190116165539&path-prefix=ru",24/6
 #EXTVLCOPT:http-user-agent=SmartSDK
 https://live-urfo24.cdnvideo.ru/urfo24/urfo24.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/0/00/Урал-Информ_ТВ_%28третий_логотип%29.png/revision/latest?cb=20170519170240&path-prefix=ru",Урал-Информ HD (Пермь)
