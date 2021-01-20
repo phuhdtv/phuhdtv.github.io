@@ -287,6 +287,9 @@ http://udpxyvnpt-hthanhmedia.duckdns.org:8889/rtp/232.84.1.215:9264
 #EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/kpD8AAE.png",VTC16 HD
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/VTC_logo_2018.svg",Hướng Dẫn Dịch Vụ VTC
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://36.37.252.114:888/Apple/OneTV-117/playlist.m3u8
 #------------------------VOV------------------------#
 #EXTINF:-1 group-title="VOV" tvg-logo="https://i.imgur.com/MGLFyKb.png",VOV TV
 #EXTVLCOPT:http-user-agent=SmartSDK
@@ -1358,25 +1361,43 @@ http://sc.id-tv.kz/1KanalEvraziya_38_39.m3u8
 http://serv30.vintera.tv:8081/restream/pervij/playlist.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/OdY6SQk.png",Россия 1
 #EXTVLCOPT:http-user-agent=SmartSDK
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia1/chunklist_b800000.m3u8
-#EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/OdY6SQk.png",Россия 1 [Марий Эл]
-#EXTVLCOPT:http-user-agent=SmartSDK
 http://gtrkmariel-live.cdnvideo.ru/gtrkmariel/gtrkmariel/playlist.m3u8
-#EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/OdY6SQk.png",Россия 1 (+2)
-#EXTVLCOPT:http-user-agent=SmartSDK
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia1_plus2/chunklist_b800000.m3u8
-#EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/OdY6SQk.png",Россия 1 (+4)
-#EXTVLCOPT:http-user-agent=SmartSDK
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia1_plus4/chunklist_b800000.m3u8
-#EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/OdY6SQk.png",Россия 1 (+6)
-#EXTVLCOPT:http-user-agent=SmartSDK
-http://tv-online.gtrkchita.ru:8080/hls/r1-chita_576p.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/OdY6SQk.png",Россия 1 [Нижний Новгород]
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://a3569458063-s26881.cdn.ngenix.net/vgtrkrtmp/smil:nnov.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/OdY6SQk.png",Россия 1 [Калуга]
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/smil:kaluga_r1.smil/chunklist_b400000.m3u8
+#EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/OdY6SQk.png",Россия 1 (+1)
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia1_plus1/playlist_3.m3u8
+#EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/OdY6SQk.png",Россия 1 (+2)
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia1_plus2/playlist_3.m3u8
+#EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/OdY6SQk.png",Россия 1 (+3)
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia1_plus3/playlist_3.m3u8
+#EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/OdY6SQk.png",Россия 1 (+4)
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia1_plus4/playlist_3.m3u8
+#EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/OdY6SQk.png",Россия 1 (+5)
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia1_plus5/playlist_3.m3u8
+#EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/OdY6SQk.png",Россия 1 (+6)
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia1_plus6/playlist_3.m3u8
+#EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/OdY6SQk.png",Россия 1 (+6) [Чита]
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://tv-online.gtrkchita.ru:8080/hls/r1-chita_576p.m3u8
+#EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/OdY6SQk.png",Россия 1 (+7)
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia1_plus7/playlist_3.m3u8
+#EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/OdY6SQk.png",Россия 1 (+8)
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia1_plus8/playlist_3.m3u8
+#EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/OdY6SQk.png",Россия 1 (+9)
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia1_plus9/playlist_3.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/tvUT0Ss.png",Россия 1 HD [Server 1]
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
