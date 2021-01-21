@@ -613,9 +613,12 @@ http://202.43.109.142:1935/thbttv/bttv/chunklist.m3u8
 #EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/gqnuDmL.jpg",CTV - Truyền hình Cà Mau
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://udpxyvnpt-hthanhmedia.duckdns.org:8889/rtp/232.84.2.117:8826
-#EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/gqnuDmL.jpg",CTV - Truyền hình Cà Mau HD
+#EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/gqnuDmL.jpg",CTV - Truyền hình Cà Mau HD [Server 1]
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://livecdn.fptplay.net/sdc/camau_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/gqnuDmL.jpg",CTV - Truyền hình Cà Mau HD [Server 2]
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://tv.ctvcamau.vn/live/tv/tv.m3u8
 #EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/sFEBJSE.png",THTPCT - Truyền hình Cần Thơ
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://livecdn.fptplay.net/sda/cantho_hls.smil/chunklist_b2500000.m3u8
@@ -703,9 +706,12 @@ http://hatinhtv.vn:82/hls/httv.m3u8
 #EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/2yykcKF.png",THD - Truyền hình Hải Dương
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://livecdn.fptplay.net/sdc/haiduong_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/HZluJKB.png",THP - Truyền hình Hải Phòng HD
+#EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/HZluJKB.png",THP - Truyền hình Hải Phòng HD [Server 1]
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://livecdn.fptplay.net/sdc/haiphong_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/HZluJKB.png",THP - Truyền hình Hải Phòng HD [Server 2]
+#EXTVLCOPT:http-user-agent=SmartSDK
+https://live.thhp.vn/thp/index.m3u8
 #EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/szIkO5V.png",THP+ - Truyền hình Hải Phòng Plus HD
 #EXTVLCOPT:http-user-agent=SmartSDK
 https://live.thhp.vn/hls/thpplus/index.m3u8
@@ -802,9 +808,12 @@ http://udpxyvnpt-hthanhmedia.duckdns.org:8889/rtp/232.84.2.98:9042
 #EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/qHcbY51.png",QBTV - Truyền hình Quảng Bình HD
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://livecdn.fptplay.net/sda/quangbinh_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/ktxl0AP.png",QRT - Truyền hình Quảng Nam HD
+#EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/ktxl0AP.png",QRT - Truyền hình Quảng Nam
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://livecdn.fptplay.net/sdc/quangnam_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/ktxl0AP.png",QRT - Truyền hình Quảng Nam HD
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://quangvinh997.duckdns.org:8889/udp/225.1.2.50:30120
 #EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/Xh6cZmD.png",PTQ - Truyền hình Quảng Ngãi
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://udpxyvnpt-hthanhmedia.duckdns.org:8889/rtp/232.84.2.108:9054
@@ -850,9 +859,12 @@ http://livecdn.fptplay.net/sdc/sonla_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/vRyHb6F.png",TTV11 - Truyền hình Tây Ninh
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/TAYNINH-SD-ABR/HTV-ABR/TAYNINH-SD-480p/playlist.m3u8
-#EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/vRyHb6F.png",TTV11 - Truyền hình Tây Ninh HD
+#EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/vRyHb6F.png",TTV11 - Truyền hình Tây Ninh HD [Server 1]
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://livecdn.fptplay.net/sda/tayninhhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/vRyHb6F.png",TTV11 - Truyền hình Tây Ninh HD [Server 2]
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://202.43.109.142:1935/ttv11/tntv/chunklist.m3u8
 #EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/xntFx4y.png",TBTV - Truyền hình Thái Bình
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://livecdn.fptplay.net/sda/thaibinh_hls.smil/chunklist_b2500000.m3u8
@@ -1361,9 +1373,6 @@ http://livecdn.fptplay.net/italyfootball/seriea09_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/DMPQlOf.png",Serie A 10
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://livecdn.fptplay.net/italyfootball/seriea10_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/eM0IiDd.png",Матч! ТВ HD
-#EXTVLCOPT:http-user-agent=SmartSDK
-http://195.191.208.80:80/jwt/4497e44f4252b7acb1d1412d7e0fd83b882181e9-520-0-24h502315-None-90559203-1587035792--v2A0n6gqPo7LzFYq89o-QvUbXYdxs_gCJqlVLkKfy5o-0
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/c/c2/Матч%21_Планета_%28экранный%29.svg/revision/latest?cb=20180525134218&path-prefix=ru",Матч! Планета
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://51.68.141.106:8081/tv/match-planeta/playlist.m3u8
@@ -1431,12 +1440,21 @@ http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/tvUT0Ss.png",Россия 1 HD [Server 2]
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://36.37.252.114:888/Apple/OneTV-027/playlist.m3u8
+#EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/eM0IiDd.png",Матч! ТВ HD
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://195.191.208.80:80/jwt/4497e44f4252b7acb1d1412d7e0fd83b882181e9-520-0-24h502315-None-90559203-1587035792--v2A0n6gqPo7LzFYq89o-QvUbXYdxs_gCJqlVLkKfy5o-0
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/uBCPAz5.png",НТВ
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/ntv/playlist.m3u8
-#EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/uBCPAz5.png",НТВ [Backup]
+#EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/pqgiu6S.png",Пятый канал
 #EXTVLCOPT:http-user-agent=SmartSDK
-http://89.106.234.3:80/NTV_34_35.m3u8
+http://mfe.cliptv.az/dash/5_Kanal_SD.ism/playlist.mpd?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/i4hHXeO.png",Россия K [Server 1]
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rk.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/i4hHXeO.png",Россия K [Server 2]
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist_3.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/e3wm4xi.png",Россия 24 [Server 1]
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r24.smil/chunklist_b1200000.m3u8
@@ -1452,12 +1470,6 @@ http://tv-online.gtrkchita.ru:8080/hls/r24-chita_576p.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/e3wm4xi.png",Россия 24 [Ульяновск]
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://gtrk-volga.ru/media/hr24/stream1.m3u8
-#EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/i4hHXeO.png",Россия K [Server 1]
-#EXTVLCOPT:http-user-agent=SmartSDK
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rk.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/i4hHXeO.png",Россия K [Server 2]
-#EXTVLCOPT:http-user-agent=SmartSDK
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist_3.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/3Q5F9zJ.png",Россия РТР [Server 1]
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
@@ -1470,6 +1482,9 @@ http://udpxyvnpt-hthanhmedia.duckdns.org:8889/rtp/232.84.2.127:8544
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/CQzxLCm.png",ТВЦ
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://ad-hls-tvc.cdnvideo.ru/tvc-p222/smil:tvc.smil/chunklist_b1682100.m3u8
+#EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/5X119Eb.png",ОТР
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://80.82.77.130:80/live/mag00:1A:79:B1:2B:B5/hku8cTCx3n/4414.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/ouijeoB.png",РЕН ТВ [Server 1]
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
@@ -1527,12 +1542,15 @@ http://dmitry-tv.my1.ru/his/01/CH_MIR_7.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/YWo7NZY.png",ТНТ
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/tnt/playlist.m3u8
-#EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/QV67LKt.png",МУЗ ТВ
-#EXTVLCOPT:http-user-agent=SmartSDK
-http://mfe.cliptv.az/dash/Muz_SD.ism/playlist.mpd?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/YWo7NZY.png",ТНТ HD
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://188.35.9.11:2018
+#EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/QV67LKt.png",МУЗ ТВ
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://mfe.cliptv.az/dash/Muz_SD.ism/playlist.mpd?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/Swh39pH.png",Че
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://mfe.cliptv.az/dash/Ce_SD.ism/playlist.mpd?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/6zyqdbr.png",ТНТ4
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://89.106.234.3:80/tnt4_34_35.m3u8
@@ -1605,9 +1623,6 @@ http://songtvru.ru:8060/hd/playlist.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/e/e3/Sochi_Live_%282018%29.png/revision/latest?cb=20180530140804&path-prefix=ru",Sochi Live HD
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
-#EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/6/6d/UNIVER_%282020%29.png/revision/latest?cb=20201215173111&path-prefix=ru",Univer TV
-#EXTVLCOPT:http-user-agent=SmartSDK
-http://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/6/6d/UNIVER_%282020%29.png/revision/latest?cb=20201215173111&path-prefix=ru",Univer TV HD
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
