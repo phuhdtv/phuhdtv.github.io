@@ -314,9 +314,6 @@ http://livecdn.fptplay.net/sdc/vtc14_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/jlvmYDY.png",VTC14 HD [Server 2]
 #EXTVLCOPT:http-user-agent=SmartSDK
 https://vtc130121.cdn.vnns.io/VTC14_abr/vtc130121/VTC14_abr_1080p/chunks.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/NPKKsS2.png",VTC15
-#EXTVLCOPT:http-user-agent=SmartSDK
-http://dmitry-tv.ddns.net:8666/his/CH_D-TV6
 #EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/kpD8AAE.png",VTC16
 #EXTVLCOPT:http-user-agent=SmartSDK
 https://vtc130121.cdn.vnns.io/VTC16_abr/vtc130121/VTC16_abr_480p/chunks.m3u8
@@ -329,9 +326,6 @@ https://vtc130121.cdn.vnns.io/VTC16_abr/vtc130121/VTC16_abr_1080p/chunks.m3u8
 #EXTINF:-1 group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/VTC_logo_2018.svg",Thông Tin Dịch Vụ VTC
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://36.37.252.114:888/Apple/OneTV-117/playlist.m3u8
-#EXTINF:-1 group-title="VTC" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d1/Logo_go.vn_from_2010_to_2015.png/revision/latest?cb=20200621232943&path-prefix=vi",Go Music
-#EXTVLCOPT:http-user-agent=SmartSDK
-http://dmitry-tv.ddns.net:8000/his/CH_DMITRY-TVHD
 #------------------------VOV------------------------#
 #EXTINF:-1 group-title="VOV" tvg-logo="https://i.imgur.com/MGLFyKb.png",VOV TV
 #EXTVLCOPT:http-user-agent=SmartSDK
@@ -1500,7 +1494,10 @@ http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/dom/playlist.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/m19Px3Q.png",ТВ3
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/tv3/playlist.m3u8
-#EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/LVCEIS7.png",Пятница!
+#EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/LVCEIS7.png",Пятница! [Server 1]
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://89.106.234.3:80/friday_34_35.m3u8
+#EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/LVCEIS7.png",Пятница! [Server 2]
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://89.106.234.3:80/friday_34_35.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/KN4Z1xc.png",Звезда
@@ -1530,6 +1527,9 @@ http://dmitry-tv.my1.ru/his/01/CH_MIR_7.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/YWo7NZY.png",ТНТ
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/tnt/playlist.m3u8
+#EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/QV67LKt.png",МУЗ ТВ
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://mfe.cliptv.az/dash/Muz_SD.ism/playlist.mpd?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/YWo7NZY.png",ТНТ HD
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://188.35.9.11:2018
