@@ -220,40 +220,55 @@ http://livecdn.fptplay.net/sdc/fbnchd_2000.stream/chunklist.m3u8
 #------------------------VTC------------------------#
 #EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/Pc2ZuX0.png",VTC1
 #EXTVLCOPT:http-user-agent=SmartSDK
-http://udpxyvnpt-hthanhmedia.duckdns.org:8889/rtp/232.84.1.30:8154
-#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/Pc2ZuX0.png",VTC1 HD
+https://vtc130121.cdn.vnns.io/VTC1_abr/vtc130121/VTC1_abr_480p/chunks.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/Pc2ZuX0.png",VTC1 HD [Server 1]
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://livecdn.fptplay.net/sdb/vtc1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/Pc2ZuX0.png",VTC1 HD [Server 2]
+#EXTVLCOPT:http-user-agent=SmartSDK
+https://vtc130121.cdn.vnns.io/VTC1_abr/vtc130121/VTC1_abr_1080p/chunks.m3u8
 #EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/1FccD2h.png",VTC2
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/1FccD2h.png",VTC2 HD
+#EXTVLCOPT:http-user-agent=SmartSDK
+https://vtc130121.cdn.vnns.io/VTC2_abr/vtc130121/VTC2_abr_1080p/chunks.m3u8
 #EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/vemNwkI.png",VTC3
 #EXTVLCOPT:http-user-agent=SmartSDK
-http://udpxyvnpt-hthanhmedia.duckdns.org:8889/rtp/232.84.1.60:8232
-#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/vemNwkI.png",VTC3 HD
+https://vtc130121.cdn.vnns.io/VTC3_abr/vtc130121/VTC3_abr_480p/chunks.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/vemNwkI.png",VTC3 HD [Server 1]
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://livecdn.fptplay.net/hda/vtc3hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/vemNwkI.png",VTC3 HD [Server 2]
+#EXTVLCOPT:http-user-agent=SmartSDK
+https://vtc130121.cdn.vnns.io/VTC3_abr/vtc130121/VTC3_abr_1080p/chunks.m3u8
 #EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/0dkRtxJ.png",VTC4
 #EXTVLCOPT:http-user-agent=SmartSDK
-http://udpxyvnpt-hthanhmedia.duckdns.org:8889/rtp/232.84.2.37:10630
-#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/0dkRtxJ.png",VTC4 HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTC4-SD-ABR/HTV-ABR/VTC4-SD-480p/playlist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/0dkRtxJ.png",VTC4 HD [Server 1]
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://livecdn.fptplay.net/sdc/vtc4_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/0dkRtxJ.png",VTC4 HD [Server 2]
+#EXTVLCOPT:http-user-agent=SmartSDK
+https://vtc130121.cdn.vnns.io/VTC4_abr/vtc130121/VTC4_abr_1080p/chunks.m3u8
 #EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/IDkKiEa.png",VTC5
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://livecdn.fptplay.net/sdb/vtc5_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/IDkKiEa.png",VTC5 HD
 #EXTVLCOPT:http-user-agent=SmartSDK
-http://udpxyvnpt-hthanhmedia.duckdns.org:8889/rtp/232.84.3.136:10720
+https://vtc130121.cdn.vnns.io/VTC5_abr/vtc130121/VTC5_abr_1080p/chunks.m3u8
 #EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/rTxMJIB.png",VTC6
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/rTxMJIB.png",VTC6 HD
+#EXTVLCOPT:http-user-agent=SmartSDK
+https://vtc130121.cdn.vnns.io/VTC6_abr/vtc130121/VTC6_abr_1080p/chunks.m3u8
 #EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/sDWf2Q1.png",VTC7
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://livecdn.fptplay.net/sdb/todaytv_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/sDWf2Q1.png",VTC7 HD
 #EXTVLCOPT:http-user-agent=SmartSDK
-http://udpxyvnpt-hthanhmedia.duckdns.org:8889/rtp/232.84.2.151:10726
+https://vtc130121.cdn.vnns.io/VTC7_abr/vtc130121/VTC7_abr_1080p/chunks.m3u8
 #EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/cQ8Ygbk.png",VTC8
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
@@ -262,37 +277,55 @@ http://livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
 http://livecdn.fptplay.net/sdb/vtc9_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/QuXPUqi.png",VTC9 HD
 #EXTVLCOPT:http-user-agent=SmartSDK
-http://udpxyvnpt-hthanhmedia.duckdns.org:8889/rtp/232.84.3.141:10732
+https://vtc130121.cdn.vnns.io/VTC9_abr/vtc130121/VTC9_abr_1080p/chunks.m3u8
 #EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/F6x7ZNA.png",VTC10
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://livecdn.fptplay.net/sdb/vtc10_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/F6x7ZNA.png",VTC10 HD
+#EXTVLCOPT:http-user-agent=SmartSDK
+https://vtc130121.cdn.vnns.io/VTC10_abr/vtc130121/VTC10_abr_1080p/chunks.m3u8
 #EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/RoTy0Ly.png",VTC11
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/RoTy0Ly.png",VTC11 HD
+#EXTVLCOPT:http-user-agent=SmartSDK
+https://vtc130121.cdn.vnns.io/VTC11_abr/vtc130121/VTC11_abr_1080p/chunks.m3u8
 #EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/qAOy5Cd.png",VTC12
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/qAOy5Cd.png",VTC12 HD
+#EXTVLCOPT:http-user-agent=SmartSDK
+https://vtc130121.cdn.vnns.io/VTC12_abr/vtc130121/VTC12_abr_1080p/chunks.m3u8
 #EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/2RRt2M4.png",VTC13
 #EXTVLCOPT:http-user-agent=SmartSDK
-http://udpxyvnpt-hthanhmedia.duckdns.org:8889/rtp/232.84.1.62:8346
-#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/2RRt2M4.png",VTC13 HD
+https://vtc130121.cdn.vnns.io/VTC13_abr/vtc130121/VTC13_abr_480p/chunks.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/2RRt2M4.png",VTC13 HD [Server 1]
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://livecdn.fptplay.net/sdc/vtc13_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/2RRt2M4.png",VTC13 HD [Server 2]
+#EXTVLCOPT:http-user-agent=SmartSDK
+https://vtc130121.cdn.vnns.io/VTC13_abr/vtc130121/VTC13_abr_1080p/chunks.m3u8
 #EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/jlvmYDY.png",VTC14
 #EXTVLCOPT:http-user-agent=SmartSDK
-http://udpxyvnpt-hthanhmedia.duckdns.org:8889/rtp/232.84.1.216:9270
-#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/jlvmYDY.png",VTC14 HD
+https://vtc130121.cdn.vnns.io/VTC14_abr/vtc130121/VTC14_abr_480p/chunks.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/jlvmYDY.png",VTC14 HD [Server 2]
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://livecdn.fptplay.net/sdc/vtc14_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/jlvmYDY.png",VTC14 HD [Server 2]
+#EXTVLCOPT:http-user-agent=SmartSDK
+https://vtc130121.cdn.vnns.io/VTC14_abr/vtc130121/VTC14_abr_1080p/chunks.m3u8
 #EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/NPKKsS2.png",VTC15
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://dmitry-tv.ddns.net:8666/his/CH_D-TV6
 #EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/kpD8AAE.png",VTC16
 #EXTVLCOPT:http-user-agent=SmartSDK
-http://udpxyvnpt-hthanhmedia.duckdns.org:8889/rtp/232.84.1.215:9264
-#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/kpD8AAE.png",VTC16 HD
+https://vtc130121.cdn.vnns.io/VTC16_abr/vtc130121/VTC16_abr_480p/chunks.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/kpD8AAE.png",VTC16 HD [Server 1]
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VTC" tvg-logo="https://imgur.com/kpD8AAE.png",VTC16 HD [Server 2]
+#EXTVLCOPT:http-user-agent=SmartSDK
+https://vtc130121.cdn.vnns.io/VTC16_abr/vtc130121/VTC16_abr_1080p/chunks.m3u8
 #EXTINF:-1 group-title="VTC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/VTC_logo_2018.svg",Thông Tin Dịch Vụ VTC
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://36.37.252.114:888/Apple/OneTV-117/playlist.m3u8
@@ -1536,6 +1569,12 @@ http://video1.in-news.ru/360/index.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/c/c7/360°_Новости_%282017-н.в.%29_%28используется_в_эфире%29.png/revision/latest?cb=20180205063059&path-prefix=ru",360° НОВОСТИ
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
+#EXTINF:0 tvg-logo="" group-title="Kênh Nga Ngố Và Kazakhstan",31 канал
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://sc.id-tv.kz/31Kanal_38_39.m3u8
+#EXTINF:0 tvg-logo="" group-title="Kênh Nga Ngố Và Kazakhstan",7 канал (KZ)
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://sc.id-tv.kz/7_kanal_38_39.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/6/6d/Восьмой_6.png/revision/latest?cb=20180605124445&path-prefix=ru",8 Канал
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://176.99.110.252/stream8/playlist.m3u8
@@ -1644,6 +1683,9 @@ https://stream.kuban24.tv:1500/hls/stream.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/WkPm5EB.png",Кузбасс Первый HD (Кемерово)
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://www.10kanal.ru/live/hls/k24.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/BGy7EMr.png" group-title="Kênh Nga Ngố Và Kazakhstan",КТК
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://195.49.213.56/ktklive/live.hq/playlist.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/8/80/Курай_ТВ_%282016%29.png/revision/latest?cb=20181112153528&path-prefix=ru",Курай (Уфа)
 #EXTVLCOPT:http-user-agent=SmartSDK
 http://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
