@@ -1397,9 +1397,6 @@ http://livecdn.fptplay.net/italyfootball/seriea09_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/DMPQlOf.png",Serie A 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://livecdn.fptplay.net/italyfootball/seriea10_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/c/c2/Матч%21_Планета_%28экранный%29.svg/revision/latest?cb=20180525134218&path-prefix=ru",Матч! Планета
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://51.68.141.106:8081/tv/match-planeta/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/fCRDsuJ.jpg",ФУТБОЛ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://95-213-224-176.livesports24.online/footballrus.m3u8
@@ -1499,7 +1496,7 @@ http://195.191.208.80:80/jwt/4497e44f4252b7acb1d1412d7e0fd83b882181e9-520-0-24h5
 http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/ntv/playlist.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/pqgiu6S.png",Пятый канал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://mfe.cliptv.az/dash/5_Kanal_SD.ism/playlist.mpd?checkedby:iptvcat.com
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/bw2000000/variant.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/i4hHXeO.png",Россия K [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rk.smil/chunklist_b1600000.m3u8
@@ -1530,6 +1527,12 @@ http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/3Q5F9zJ.png",Россия РТР [Server 3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://udpxyvnpt-hthanhmedia.duckdns.org:8889/rtp/232.84.2.127:8544
+#EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/p4JmI7J.png",Карусель
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/bw2000000/variant.m3u8
+#EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/5X119Eb.png",ОТР
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://a3569458686-zabava-htlive.cdn.ngenix.net/hls/CH_OTR/bw2000000/variant.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/CQzxLCm.png",ТВЦ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://ad-hls-tvc.cdnvideo.ru/tvc-p222/smil:tvc.smil/chunklist_b1682100.m3u8
