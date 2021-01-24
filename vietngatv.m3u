@@ -613,12 +613,9 @@ http://202.43.109.142:1935/thbttv/bttv/chunklist.m3u8
 #EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/gqnuDmL.jpg",CTV - Truyền hình Cà Mau
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://udpxyvnpt-hthanhmedia.duckdns.org:8889/rtp/232.84.2.117:8826
-#EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/gqnuDmL.jpg",CTV - Truyền hình Cà Mau HD [Server 1]
+#EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/gqnuDmL.jpg",CTV - Truyền hình Cà Mau HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://livecdn.fptplay.net/sdc/camau_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/gqnuDmL.jpg",CTV - Truyền hình Cà Mau HD [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://tv.ctvcamau.vn/live/tv/tv.m3u8
 #EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/sFEBJSE.png",THTPCT - Truyền hình Cần Thơ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://livecdn.fptplay.net/sda/cantho_hls.smil/chunklist_b2500000.m3u8
@@ -1397,33 +1394,51 @@ http://livecdn.fptplay.net/italyfootball/seriea09_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/DMPQlOf.png",Serie A 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://livecdn.fptplay.net/italyfootball/seriea10_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/uIzMStV.png",EUROSPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://95-213-224-169.livesports24.online/eurosport1ru.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/OXWgpvT.png",EUROSPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://95-213-224-169.livesports24.online/ruseurosport2.m3u8
+#EXTINF:-1 tvg-logo="http://pl.ottg.tv:80/icon/4652.png" group-title="KÊNH THỂ THAO",Setanta Sports 1 RU 1920x1080 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://95-213-224-169.livesports24.online/rusetantaeurasia.m3u8
+#EXTINF:-1 tvg-logo="http://pl.ottg.tv:80/icon/1931.png" group-title="KÊNH THỂ THAO",Setanta Sports 2 RU 1920x1080 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://95-213-224-169.livesports24.online/setantaplusru.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/fCRDsuJ.jpg",ФУТБОЛ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://95-213-224-176.livesports24.online/footballrus.m3u8
+https://95-213-224-169.livesports24.online/footballrus.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/c/c2/Матч%21_Планета_%28экранный%29.svg/revision/latest?cb=20180525134218&path-prefix=ru",Матч! Планета
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://51.68.141.106:8081/tv/match-planeta/playlist.m3u8
+https://95-213-224-169.livesports24.online/matchplanetarus.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/3NFialh.png",КХЛ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://95-213-224-169.livesports24.online/rukhl.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/yXIQtCv.png",КХЛ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://95-213-224-169.livesports24.online/khlhdru.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/oa6D696.png",Матч! Арена
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://51.68.141.106:8081/tv/match-arena/playlist.m3u8
+https://95-213-224-169.livesports24.online/rumatcharena.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/dXKSMws.png",Матч! Игра
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://51.68.140.190:8081/tv/match-igra/playlist.m3u8
+https://95-213-224-169.livesports24.online/migra.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/yQkbld7.png",Матч! СТРАНА
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://51.68.140.190:8081/tv/match-nash-sport/playlist.m3u8
+https://95-213-224-169.livesports24.online/mnashsport.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/pMmChoI.png",Матч! БОЕЦ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://176.115.152.6:4003/play/a00d/index.m3u8
+https://95-213-224-169.livesports24.online/matchboetsru.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/BrxfHX8.png",Матч! Футбол 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://51.68.140.190:8081/tv/match-fut-1/chunks.m3u8
+https://95-213-224-169.livesports24.online/ntvmatchfoot1.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/Whlgp8U.png",Матч! Футбол 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://51.68.140.190:8081/tv/match-fut-2/chunks.m3u8
+https://95-213-224-169.livesports24.online/mfootball2rus.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/9QVVNK1.png",Матч! Футбол 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://51.68.140.190:8081/tv/match-fut-3/chunks.m3u8
+https://95-213-224-169.livesports24.online/rumatchf3.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/CxiUK9c.png",Матч Премьер
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://95-213-224-176.livesports24.online/mpremierrus.m3u8
