@@ -9,4 +9,6 @@ KZ: Вьетнамнан орыс немесе қазақ тілдеріне ж�
 
 Адрес 2/Мекен жайы 2: http://bom.to/TVVietnga
 
-http://gg.gg/iptvvietnga
+Link Backup: http://gg.gg/iptvvietnga
+
+List FPT: https://bom.to/iptv-fpt
