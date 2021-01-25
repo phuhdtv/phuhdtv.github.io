@@ -351,18 +351,18 @@ https://stream.vov.vn/audio/vovvn1_vov3.stream_aac/chunklist_w1521076795.m3u8
 #EXTINF:-1 group-title="VOV" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov3_2.png",VOV3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://media.kythuatvov.vn:1936/live/VOV3.sdp/playlist.m3u8
-#EXTINF:-1 group-title="VOV" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov4_2.png",VOV4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://media.kythuatvov.vn:1936/live/VOV4_MT.sdp/playlist.m3u8
 #EXTINF:-1 group-title="VOV" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov4_2.png",VOV4 [VOV.VN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://stream.vov.vn/audio/vovvn1_vovTTHCM.stream_aac/chunklist_w1163981877.m3u8
-#EXTINF:-1 group-title="VOV" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov5new_0.png",VOV5
+#EXTINF:-1 group-title="VOV" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov4_2.png",VOV4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://media.kythuatvov.vn:1936/live/VOV5.sdp/playlist.m3u8
+http://media.kythuatvov.vn:1936/live/VOV4_MT.sdp/playlist.m3u8
 #EXTINF:-1 group-title="VOV" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov5new_0.png",VOV5 [VOV.VN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://stream.vov.vn/audio/vovvn1_vov5.stream_aac/chunklist_w199416983.m3u8
+#EXTINF:-1 group-title="VOV" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov5new_0.png",VOV5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://media.kythuatvov.vn:1936/live/VOV5.sdp/playlist.m3u8
 #EXTINF:-1 group-title="VOV" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov6_2.png",VOV6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://stream.vov.vn/audio/vovvn1_vov6.stream_aac/chunklist.m3u8
@@ -1332,6 +1332,9 @@ http://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://imgur.com/LBU2zCq.png",BabyTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://183.80.198.91:8889/udp/225.1.4.35:30120
+#EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Dreamworks.png",Dreamworks
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://183.80.198.91:8889/udp/225.1.1.136:30120
 #-------------------Mua Sắm-------------------#
 #EXTINF:-1 group-title="Mua Sắm" tvg-logo="https://i.imgur.com/6AXWWS9.png",HTV coop
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -1349,6 +1352,9 @@ http://livecdn.fptplay.net/sda/btv11_hls.smil/chunklist_b2500000.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://udpxyvnpt-hthanhmedia.duckdns.org:8889/rtp/232.84.3.135:10476
 #------------------------KÊNH THỂ THAO------------------------#
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",XEM LẠI FA CUP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://183.80.198.91:8889/udp/225.1.1.95:30120
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/FA_Cup_2020.png",FA CUP 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://livecdn.fptplay.net/footballassociation/facup01_hls.smil/chunklist_b2500000.m3u8
@@ -1546,15 +1552,18 @@ http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://udpxyvnpt-hthanhmedia.duckdns.org:8889/rtp/232.84.2.127:8544
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/p4JmI7J.png",Карусель
-#EXTVLCOPT:http-user-agent=SmartSDK
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/bw2000000/variant.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://s72169.cdn.ngenix.net/hls/CH_KARUSEL/bw2000000/variant.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/5X119Eb.png",ОТР
-#EXTVLCOPT:http-user-agent=SmartSDK
-http://a3569458686-zabava-htlive.cdn.ngenix.net/hls/CH_OTR/bw2000000/variant.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://s72169.cdn.ngenix.net/hls/CH_OTR/bw2000000/variant.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/CQzxLCm.png",ТВЦ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://ad-hls-tvc.cdnvideo.ru/tvc-p222/smil:tvc.smil/chunklist_b1682100.m3u8
-#EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/ouijeoB.png",РЕН ТВ [Server 1]
+#EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/ouijeoB.png",РЕН ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
+#EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/ouijeoB.png",РЕН ТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/ouijeoB.png",РЕН ТВ [Server 2]
@@ -1641,6 +1650,9 @@ http://e3.online.video.rbc.ru/online2/rbctv_576p/index.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/vx1Sryi.png",RU.TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
+#EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/o4Julue.jpg",Известия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/o4Julue.jpg",Известия HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
@@ -1701,9 +1713,12 @@ http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/5/5b/Архыз_24.jpg/revision/latest?cb=20150220164420&path-prefix=ru",Архыз 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
+#EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/e/ec/Астрахань_24_%28без_надписи%2C_белый%29.png/revision/latest/scale-to-width-down/33?cb=20190424073027&path-prefix=ru",Астрахань LIVE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v2a1/index.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/e/ec/Астрахань_24_%28без_надписи%2C_белый%29.png/revision/latest/scale-to-width-down/33?cb=20190424073027&path-prefix=ru",Астрахань LIVE HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://dmitry-tv.my1.ru/his/01/CH_ASTRAKHANRULIVEHD_ASTRH.m3u8
+http://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/9/95/Астрахань_24.png/revision/latest?cb=20160506193442&path-prefix=ru",Астрахань 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://streaming.astrakhan.ru/astrakhan24/tracks-v2a1/index.m3u8
@@ -1908,12 +1923,6 @@ http://streamer.rtcommufa.ru:1935/tugantel/tugantel1/playlist.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/b/bb/Туган_Тел.jpg/revision/latest?cb=20120722155340&path-prefix=ru",Туган Тел HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://195.20.196.69:1935/tugantel/hd/playlist.m3u8
-#EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/tEH4vmX.png",Хабар 24 [Server 1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://sc.id-tv.kz/Khabar_24_34_35.m3u8
-#EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/tEH4vmX.png",Хабар 24 [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://89.106.234.3:80/Khabar_24_34_35.m3u8
 #EXTINF:-1 group-title="Kênh Nga Ngố Và Kazakhstan" tvg-logo="https://i.imgur.com/tEH4vmX.png",Хабар 24 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://live-24kz.cdnvideo.ru/24kz/24kz.sdp/playlist.m3u8
