@@ -223,9 +223,6 @@ http://livecdn.fptplay.net/hda/htvcthuanviethd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="HTVC HD" tvg-logo="https://i.imgur.com/Ekn8jdW.png",HTVC FBNC HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://livecdn.fptplay.net/sdc/fbnchd_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="HTVC HD" tvg-logo="https://i.imgur.com/Ekn8jdW.png",HTVC FBNC HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://livecdn.fptplay.net/sdc/fbnchd_2000.stream/chunklist.m3u8
 #------------------------VTC------------------------#
 #EXTINF:-1 group-title="VTC SD" tvg-logo="https://imgur.com/Pc2ZuX0.png",VTC1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -523,6 +520,10 @@ http://quocthai.duckdns.org:18886/rtp/232.84.1.82:8466
 #EXTINF:-1 group-title="Khác" tvg-logo="https://imgur.com/qzEFit1.png",MTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://quocthai.duckdns.org:18886/rtp/232.84.2.171:10834
+#EXTINF:-1 group-title="Khác" tvg-logo="https://i.imgur.com/F6BJbRE.png",Thử Nghiệm
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://58.186.179.103:4022/udp/225.1.1.7:30120
+#------------------------Sự Kiện-----------------------#
 #EXTINF:-1 group-title="Sự Kiện" tvg-logo="https://i.imgur.com/F6BJbRE.png",Sự Kiện 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://livecdn.fptplay.net/tvc/sukien01_2000.stream/chunklist.m3u8
