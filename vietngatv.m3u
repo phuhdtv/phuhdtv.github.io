@@ -367,6 +367,9 @@ http://media.kythuatvov.vn:1936/live/VOV3.sdp/playlist.m3u8
 #EXTINF:-1 group-title="VOV" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov4_2.png",VOV4 [VOV.VN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://stream.vov.vn/audio/vovvn1_vovTTHCM.stream_aac/chunklist_w1163981877.m3u8
+#EXTINF:-1 group-title="VOV" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov4_2.png",VOV4 [VOV.VN] [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming1.vov.vn:8443/audio/vovvn1_vovTTTB.stream_aac/chunklist_w1178564480.m3u8
 #EXTINF:-1 group-title="VOV" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov4_2.png",VOV4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://media.kythuatvov.vn:1936/live/VOV4_MT.sdp/playlist.m3u8
@@ -504,7 +507,7 @@ https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTV20_HD.smil/chunklist_b2692000.m
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://i.postimg.cc/8c0TsvLw/sctv22hd.png",SCTV22 HD | SSPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTV22_HD.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
-#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/o7lrnVk.jpg",BTV5 | SSPORT 3
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://i.imgur.com/o7lrnVk.jpg",BTV5 | Truyền hình Bình Dương 5 [SSPORT 3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vtsstr3.tv24.vn/elive1/_definst_/smil:btv5_HD.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://i.postimg.cc/8CmDM9h7/sctv-phimtonghop.png",SCTV HD PHIM TỔNG HỢP
@@ -597,10 +600,10 @@ http://quocthai.duckdns.org:18886/rtp/232.84.1.139:8808
 #EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/pbyLu9c.png",BTV4 | Truyền hình Bình Dương 4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://livecdn.fptplay.net/hda/btv4hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/CSnNIAs.png",BTV6 | Truyền hình Bình Dương 6
+#EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/CSnNIAs.png",BTV6 | Truyền hình Bình Dương 6 [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://livecdn.fptplay.net/sda/btv6_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/CSnNIAs.png",BTV6 | Truyền hình Bình Dương 6 [Backup]
+#EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/CSnNIAs.png",BTV6 | Truyền hình Bình Dương 6 [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sda/vietteen_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/glzn3Lj.png",BTV9 | An Viên TV HD
@@ -720,6 +723,9 @@ http://hatinhtv.vn:82/hls/httv.m3u8
 #EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/2yykcKF.png",THD | Truyền hình Hải Dương
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://livecdn.fptplay.net/sdc/haiduong_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/HZluJKB.png",THP | Truyền hình Hải Phòng
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HAIPHONG-SD-ABR/HTV-ABR/HAIPHONG-SD-480p/playlist.m3u8
 #EXTINF:-1 group-title="Kênh Địa phương" tvg-logo="https://i.imgur.com/HZluJKB.png",THP | Truyền hình Hải Phòng HD [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://livecdn.fptplay.net/sdc/haiphong_2000.stream/chunklist.m3u8
@@ -1820,13 +1826,19 @@ http://live-trc33.cdnvideo.ru/trc33/trc33.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Tiếng Nga/Kazakh" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/b/b2/РГВК_Дагестан_2.png/revision/latest?cb=20130720124804&path-prefix=ru",РГВК Дагестан | Kênh Truyền Hình Nga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/4/43/Ел_Арна_%282019%29.png/revision/latest?cb=20191020121735&path-prefix=ru",EL ARNA | Kênh Truyền Hình Kazakhstan [Server 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://89.106.234.3:80/ElArna_34_35.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/4/43/Ел_Арна_%282019%29.png/revision/latest?cb=20191020121735&path-prefix=ru",EL ARNA | Kênh Truyền Hình Kazakhstan [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://sc.id-tv.kz/ElArna_38_39.m3u8
 #EXTINF:-1 group-title="Tiếng Nga/Kazakh" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/2/22/Евразия_%28Орск%29.svg/revision/latest?cb=20190721045520&path-prefix=ru",Евразия | Kênh Truyền Hình Nga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://infochhdcdn.trkeurasia.ru/orsk-infochhd/infochhd/playlist.m3u8
 #EXTINF:-1 group-title="Tiếng Nga/Kazakh" tvg-logo="https://i.imgur.com/UvpzpBC.png",Енисей HD | Kênh Truyền Hình Nga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
-#EXTINF:-1 group-title="Tiếng Nga/Kazakh" tvg-logo="",KAZAKH TV | Kênh Truyền Hình Kazakhstan
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/f/fa/Kazakh_TV_%282016%2C_2_версия%29.png/revision/latest?cb=20191020115428&path-prefix=ru",KAZAKH TV | Kênh Truyền Hình Kazakhstan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://89.106.234.3:80/KazakhTV_34_35.m3u8
 #EXTINF:-1 group-title="Tiếng Nga/Kazakh" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/a/ab/Красная_линия_%28без_фона%29.png/revision/latest?cb=20180110123944&path-prefix=ru",Красная линия | Kênh Truyền Hình Nga
