@@ -44,7 +44,7 @@ http://livecdn.fptplay.net/hda/vtv4_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="VTV HD" tvg-logo="https://i.ibb.co/hD7yYgp/vtv5logobyvovanloc.png",VTV5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://livecdn.fptplay.net/hda/vtv5hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="VTV HD" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/93/VTV5_Tây_Nam_Bộ_HD_logo.png/revision/latest?cb=20210124041631&path-prefix=vi",VTV5 HD Tây Nam Bộ
+#EXTINF:-1 group-title="VTV HD" tvg-logo="https://i.ibb.co/L97YQt3/VTV5-HD-TNB-BEARTV.png",VTV5 HD Tây Nam Bộ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vtvgolivesbd.vtvdigital.vn/08bb27b394bbebfff0ff0ff41517fc241602593234601/vtv5tnb.smil/chunklist_b1728000.m3u8
 #EXTINF:-1 group-title="VTV HD" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3a/VTV5_Tây_Nguyên_HD_logo.png/revision/latest?cb=20201204145738&path-prefix=vi",VTV5 HD Tây Nguyên
@@ -69,6 +69,9 @@ https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab1_SD.smil/chunklist_w736153104
 #EXTINF:-1 group-title="VTVCab" tvg-logo="https://i.imgur.com/WkuhkZD.jpg",VTVCab2 | Phim Việt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab2_SD.smil/chunklist_w572040416_b2692000.m3u8
+#EXTINF:-1 group-title="VTVCab" tvg-logo="https://imgur.com/QfDeJpD.png",VTVCab3 | Thể Thao TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://203.162.123.181:21585/vtvcab3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="VTVCab" tvg-logo="https://imgur.com/QfDeJpD.png",VTVCab3 | Thể Thao TV [DRM]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://quocthai.duckdns.org:18886/rtp/232.84.1.208:9222
@@ -110,13 +113,13 @@ https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab12_SD.smil/chunklist_w17042229
 http://livecdn.fptplay.net/sda/vtvhomeshopping_1000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bf/VTVcab_14.png/revision/latest?cb=20201019043309&path-prefix=vi",VTVCab14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://dmitry-tv.my1.ru/his/02/CH_TOPSHOP.m3u8
+http://iptvh.it/vtvcab14
 #EXTINF:-1 group-title="VTVCab" tvg-logo="https://i.imgur.com/e7I4mQK.jpg",VTVCab15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab15_SD.smil/chunklist_w1045987880_b2692000.m3u8
 #EXTINF:-1 group-title="VTVCab" tvg-logo="https://i.imgur.com/e40ks2V.jpg",VTVCab16 | BÓNG ĐÁ TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab16_SD.smil/chunklist_w59021678_b2692000.m3u8
+http://203.162.123.181:21585/vtvcab16/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="VTVCab" tvg-logo="https://i.imgur.com/e40ks2V.jpg",VTVCab16 | BÓNG ĐÁ TV [DRM]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://quocthai.duckdns.org:18886/rtp/232.84.1.138:8802
@@ -135,7 +138,7 @@ https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab19_SD.smil/chunklist_w20206569
 #EXTINF:-1 group-title="VTVCab" tvg-logo="https://i.imgur.com/INmmZZn.jpg",VTVCab20 | V FAMILY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab20_SD.smil/chunklist_w1750066304_b2692000.m3u8
-#EXTINF:-1 group-title="VTVCab" tvg-logo="https://i.imgur.com/krh6my8.png",VTVCab23 | GOLF TV
+#EXTINF:-1 group-title="VTVCab" tvg-logo="https://i.imgur.com/krh6my8.png",VTVCab23 | GOLF TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://quocthai.duckdns.org:18886/rtp/232.84.2.246:10876
 #------------------------HTV------------------------#
@@ -1253,16 +1256,10 @@ http://rt-doc-gd.secure2.footprint.net/1101_2500Kb.m3u8
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/83rNRcq.png",Russia Today Documentary [RU]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://rtmp.api.rt.com/hls/rtdru.m3u8
-#EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/5ukCy9p.png",Euronews English
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://bozztv.com/36bay2/gin/giniko_euronews_800kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/5ukCy9p.png",Euronews English HD [Server 1]
+#EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/5ukCy9p.png",Euronews English HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://36.37.252.114:888/Apple/OneTV-047/playlist.m3u8
-#EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/5ukCy9p.png",Euronews English HD [Server 2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://iptvh.it/euronewshd
-#EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/5ukCy9p.png",Euronews Russian
+#EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/5ukCy9p.png",Euronews Russian SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/cjx78kt.png",National Geographic
