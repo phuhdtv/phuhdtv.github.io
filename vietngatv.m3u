@@ -1274,6 +1274,9 @@ http://livecdn.fptplay.net/world/nhkworld_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/9ZqIRg1.png",BBC World News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/9ZqIRg1.png",BBC World News HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://160.119.77.116:8081/iptv/hd-bbcworldnews.stream/playlist.m3u8
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/krupazx.png",CNN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://livecdn.fptplay.net/qnetlive/cnn_hls.smil/chunklist_b2500000.m3u8
@@ -1294,7 +1297,7 @@ http://dmitry-tv.my1.ru/his/01/CH_DW_DEUTSCH_PLUS.m3u8
 http://dmitry-tv.my1.ru/his/01/CH_DW_ESPANOL.m3u8
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://en.wikipedia.org/wiki/File:Aljazeera.svg",Aljazeera
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index255.m3u8
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/iIrAEGx.png",Arirang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://livecdn.fptplay.net/world/arirang_hls.smil/chunklist_b2500000.m3u8
@@ -1304,6 +1307,9 @@ http://36.37.252.114:888/Apple/OneTV-039/playlist.m3u8
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/iIrAEGx.png",Arirang HD [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
+#EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/WynjUJJ.png",CCTV4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://160.119.77.116:8081/iptv/sd-cctv4.stream/playlist.m3u8
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/eyzGJhD.png",CNA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://livecdn.fptplay.net/world/newsasia_hls.smil/chunklist_b2500000.m3u8
@@ -1312,8 +1318,11 @@ http://livecdn.fptplay.net/world/newsasia_hls.smil/chunklist_b2500000.m3u8
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/x90A7Ad.png",CNBC [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://58.186.179.103:4022/udp/225.1.1.227:30120
+http://160.119.77.116:8081/iptv/sd-cnbc.stream/playlist.m3u8
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/x90A7Ad.png",CNBC [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://58.186.179.103:4022/udp/225.1.1.227:30120
+#EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/x90A7Ad.png",CNBC [Server 3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://14.186.66.114:8889/rtp/232.84.3.179:10488
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/QCSeNYK.png",CGTN
@@ -1352,6 +1361,9 @@ http://14.186.66.114:8889/rtp/232.84.3.207:11164
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/YTlPk6Q.png",France 24 Espanol
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
+#EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png",SKY News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/05.m3u8
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-logo="https://i.imgur.com/YTlPk6Q.png",France 24 Arabic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
@@ -1631,22 +1643,22 @@ https://95-213-224-176.livesports24.online/mpremierrus.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://92.46.127.146:8080/qazsport/index.m3u8
 #------------------------Tiếng Nga/Kazakh------------------------#
-#EXTINF:-1 group-title="Tiếng Nga/Kazakh" tvg-logo="https://i.imgur.com/zGGqlZt.png",OPT1 | Kênh Truyền Hình Nga [Server 1]
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh" tvg-logo="https://i.imgur.com/3GLvIr3.png",OPT1 | Kênh Truyền Hình Nga [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://36.37.252.114:888/Apple/OneTV-041/playlist.m3u8
-#EXTINF:-1 group-title="Tiếng Nga/Kazakh" tvg-logo="https://i.imgur.com/zGGqlZt.png",OPT1 | Kênh Truyền Hình Nga [Server 2]
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh" tvg-logo="https://i.imgur.com/3GLvIr3.png",OPT1 | Kênh Truyền Hình Nga [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn1.mobiletv.bg/T5/perviy_kanal/perviy_kanal_794613_850k.m3u8
-#EXTINF:-1 group-title="Tiếng Nga/Kazakh" tvg-logo="https://i.imgur.com/zGGqlZt.png",OPT1 | Kênh Truyền Hình Nga [Server 3]
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh" tvg-logo="https://i.imgur.com/3GLvIr3.png",OPT1 | Kênh Truyền Hình Nga [Server 3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://14.186.66.114:8889/rtp/232.84.2.128:8352
 #EXTINF:-1 group-title="Tiếng Nga/Kazakh" tvg-logo="https://i.imgur.com/2zktZGR.jpg",OPT1 HD | Kênh Truyền Hình Nga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://mfe.cliptv.az/dash/Perviy_Kanal_HD.ism/playlist.mpd?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Tiếng Nga/Kazakh" tvg-logo="https://i.imgur.com/bJIkebD.png",OPT1 Eurasia | Kênh Truyền Hình Kazakhstan [Server 1]
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh" tvg-logo="https://i.imgur.com/TkEE2ZL.jpg",OPT1 Eurasia | Kênh Truyền Hình Kazakhstan [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://89.106.234.3:80/1KanalEvraziya_34_35.m3u8
-#EXTINF:-1 group-title="Tiếng Nga/Kazakh" tvg-logo="https://i.imgur.com/bJIkebD.png",OPT1 Eurasia | Kênh Truyền Hình Kazakhstan [Server 2]
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh" tvg-logo="https://i.imgur.com/TkEE2ZL.jpg",OPT1 Eurasia | Kênh Truyền Hình Kazakhstan [Server 2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://sc.id-tv.kz/1KanalEvraziya_38_39.m3u8
 #EXTINF:-1 group-title="Tiếng Nga/Kazakh" tvg-logo="https://i.imgur.com/OdY6SQk.png",Россия 1 | Kênh Truyền Hình Nga
