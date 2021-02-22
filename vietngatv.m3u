@@ -1588,9 +1588,12 @@ https://95-213-224-169.livesports24.online/matchplanetarus.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/3NFialh.png",КХЛ | Kênh Thể Thao
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://95-213-224-169.livesports24.online/rukhl.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/yXIQtCv.png",КХЛ HD | Kênh Thể Thao
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/yXIQtCv.png",КХЛ HD | Kênh Thể Thao [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://95-213-224-169.livesports24.online/khlhdru.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/yXIQtCv.png",КХЛ HD | Kênh Thể Thao [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://89.106.234.3:80/khl_hd_34_35.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/oa6D696.png",Матч! Арена | Kênh Thể Thao
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://95-213-224-169.livesports24.online/rumatcharena.m3u8
@@ -1688,9 +1691,12 @@ https://95-213-224-169.livesports24.online/ooomatch.m3u8
 #EXTINF:-1 group-title="Tiếng Nga/Kazakh" tvg-logo="https://i.imgur.com/eM0IiDd.png",Матч! ТВ HD | Kênh Truyền Hình Nga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://195.191.208.80:80/jwt/4497e44f4252b7acb1d1412d7e0fd83b882181e9-520-0-24h502315-None-90559203-1587035792--v2A0n6gqPo7LzFYq89o-QvUbXYdxs_gCJqlVLkKfy5o-0
-#EXTINF:-1 group-title="Tiếng Nga/Kazakh" tvg-logo="https://i.imgur.com/uBCPAz5.png",НТВ | Kênh Truyền Hình Nga
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh" tvg-logo="https://i.imgur.com/uBCPAz5.png",НТВ | Kênh Truyền Hình Nga [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/ntv/playlist.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh" tvg-logo="https://i.imgur.com/uBCPAz5.png",НТВ | Kênh Truyền Hình Nga [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://89.106.234.3:80/NTV_34_35.m3u8
 #EXTINF:-1 group-title="Tiếng Nga/Kazakh" tvg-logo="https://i.imgur.com/i4hHXeO.png",Россия K | Kênh Truyền Hình Nga [Server 1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rk.smil/chunklist_b1600000.m3u8
