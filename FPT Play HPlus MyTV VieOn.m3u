@@ -242,13 +242,13 @@ https://livecdn.fptplay.net/sdc/vtc14_hls.smil/chunklist_b2800000.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/kpD8AAE.png",VTC16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HgJ7K7q/sctv2logobyvovanloc.png",SCTV2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTB02Kf1/sctv2.png",SCTV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sda/sctv2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mS8Mv03/Sctv8logobyvovanloc.png",VITV-SCTV8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV8%20-%20ViTV.png",VITV-SCTV8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mS8Mv03/Sctv8logobyvovanloc.png",VITV-SCTV8 [576p]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/SCTV8%20-%20ViTV.png",VITV-SCTV8 [576p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://quocthai.duckdns.org:18886/rtp/232.84.1.32:8166
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KXJY60J/Hanoi1logobyvovanloc.png",HA NOI 1
@@ -284,6 +284,9 @@ https://livecdn.fptplay.net/hda/btv1_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/10BZLKG/BTV2logobyvovanloc.png",BINH DUONG 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/hda/btv2_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/7/77/BTV3-0.png/revision/latest?cb=20201010135254&path-prefix=vi",BINH DUONG 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://quangvinh997.duckdns.org:8889/udp/225.1.2.22:30120
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gTJR0Fy/BTV4logobyvovanloc.png",BINH DUONG 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/hda/btv4hd_hls.smil/chunklist_b2500000.m3u8
@@ -344,6 +347,9 @@ https://livecdn.fptplay.net/sda/dongnai2_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/1/15/ĐN3_logo_new_2018.png/revision/latest?cb=20201123041513&path-prefix=vi",DONG NAI 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://live-vthcm.vieon.vn/htv_drm/live/dong_nai_3/TV_HD/dong_nai_3_480p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/%C4%90NRTV9%20-%20Sky%20Shop%20TV.png",DONG NAI 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://quocthai.duckdns.org:18886/rtp/232.84.3.135:10476
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1b39pcv/dongthap1tvlogobyvovanloc.png",DONG THAP 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sdc/dongthap_hls.smil/chunklist_b2500000.m3u8
@@ -446,7 +452,7 @@ https://livecdn.fptplay.net/sdc/quangtri_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SNCzPgM/soctrang1logobyvovanloc.png",SOC TRANG 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sda/soctrang_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SNCzPgM/soctrang1logobyvovanloc.png",SOC TRANG 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8gLRG1f/soctrang2tvlogobyvovanloc.png",SOC TRANG 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://115.78.3.164:8135/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4T4V34k/sonlatvlogobyvovanloc.png",SON LA
@@ -506,6 +512,9 @@ https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2y38WHL/animaxlogobyvovanloc.png",ANIMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/13602072_ico.png",Aljazeera
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PCTVq50/Ariranglogobyvovanloc.png",ARIRANG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/world/arirang_hls.smil/chunklist_b2500000.m3u8
@@ -1037,7 +1046,7 @@ https://tvcdn01.oktv.kz/tv/mtrk/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/d/db/Hit_TV_%28Казахстан%29.png/revision/latest?cb=20160608122412&path-prefix=ru",Hit TV (Казахстан)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://sc.id-tv.kz/HitTV_36_37.m3u8
-#EXTINF:-1 tvg-logo="",Алау ТВ (Казахстан)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/3/37/Алсу_.jpeg/revision/latest?cb=20180612153631&path-prefix=ru",Алау ТВ (Казахстан)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 rtmp://109.248.236.42:1935/live/Alau
 #EXTINF:-1 tvg-logo="",КСК ТВ (Казахстан)
