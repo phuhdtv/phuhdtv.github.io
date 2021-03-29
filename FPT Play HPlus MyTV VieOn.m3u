@@ -137,7 +137,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N9kw6pq/htv3logobyvovanloc.png",DreamsTV-HTV3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Pzq0q46/htvkeylogobyvovanloc.png",HTV KEY
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/2/22/HTV4_logo_new.png/revision/latest?cb=20210129133800&path-prefix=vi",HTV4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QKtTwrJ/htv7logobyvovanloc.png",HTV7 [HD 720p]
@@ -296,7 +296,7 @@ https://livecdn.fptplay.net/sdc/vtc14_hls.smil/chunklist_b2800000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xqmkBGz/vtc14logobyvovanloc.png",VTC14 [HD 1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://live-vthn.vieon.vn:443/vtc/live/hd_vtc14/TV_HD/hd_vtc14_1080p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTC15%20HD.png",VTC15-Shopping
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTC15%20HD.png",VTC15-MUA SAM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://iptvh.it/VTC15
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZcZV2Dx/vtc16logobyvovanloc.png",VTC16 [HD 720p]
@@ -593,12 +593,21 @@ https://livecdn.fptplay.net/sda/quangninh1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QTV1%20-%20Truyền%20hình%20Quảng%20Ninh%201%20HD.png",QUANG NINH 1 [HD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://qtv.vncdn.vn/qtvlive/tv1live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QTV2%20-%20Truyền%20hình%20Quảng%20Ninh%202%20HD.png",QUANG NINH 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://iptvh.it/quangninhtv2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4f28Nhy/quangninh3logobyvovanloc.png",QUANG NINH 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sda/quangninh3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QTV3%20-%20Truyền%20hình%20Quảng%20Ninh%203%20HD.png",QUANG NINH 3 [HD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://qtv.vncdn.vn/qtvlive/tv3live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QTV4%20-%20Truyền%20hình%20Quảng%20Ninh%204%20HD.png",QUANG NINH 4 [HD]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://iptvh.it/quangninhtv4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/QTV5%20-%20Truyền%20hình%20Quảng%20Ninh%205%20HD.png",QUANG NINH 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://iptvh.it/quangninhtv5
 #EXTINF:-1 tvg-logo="https://imgur.com/axWuakT.png",QUANG TRI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sdc/quangtri_hls.smil/chunklist_b2500000.m3u8
@@ -683,6 +692,9 @@ https://livecdn.fptplay.net/hda/vinhlong4hd_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Lv2BffY/THVL4logobyvovanloc.png",VINH LONG 4 [HD 1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://live-vthcm.vieon.vn/htv_drm/live/thvl4/TV_HD/thvl4_1080p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Truyền%20hình%20Vĩnh%20Long%205%20HD.png",VINH LONG 5 [HD 720p]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://iptvh.it/truyenhinhvinhlong5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7ryzTL0/vinhphuctvlogobyvovanloc.png",VINH PHUC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sdc/vinhphuc_hls.smil/chunklist_b2500000.m3u8
@@ -911,9 +923,6 @@ https://livecdn.fptplay.net/world/tv5_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZHmSGDH/Warner-TVlogobyvovanloc.png",WARNER BROS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/qnetlive/warnertv_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/1/1a/Первый_канал_4_белый.svg/revision/latest?cb=20120524150705&path-prefix=ru",Первый канал
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://iptvh.it/OPT1_ver2
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/1/1a/Первый_канал_4_белый.svg/revision/latest?cb=20120524150705&path-prefix=ru",Первый канал (Болгария)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn1.mobiletv.bg/T5/perviy_kanal/perviy_kanal_794613_850k.m3u8
@@ -1316,6 +1325,9 @@ https://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/5/52/1586206577861.png/revision/latest?cb=20200407052625&path-prefix=ru",Gakku TV (Казахстан)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://sc.id-tv.kz/Gakku_38_39.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/5/52/1586206577861.png/revision/latest?cb=20200407052625&path-prefix=ru",Gakku TV (Казахстан) [S2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://sc.id-tv.kz/Gakku_36_37.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/b/be/Новое_телевидение.png/revision/latest?cb=20160608121954&path-prefix=ru",Новое Телевидение (Казахстан)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://sc.id-tv.kz/New_Television_38_39.m3u8
