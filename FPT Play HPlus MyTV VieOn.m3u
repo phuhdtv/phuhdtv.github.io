@@ -911,13 +911,13 @@ https://livecdn.fptplay.net/world/tv5_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZHmSGDH/Warner-TVlogobyvovanloc.png",WARNER BROS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/qnetlive/warnertv_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/1/1a/Первый_канал_4_белый.svg/revision/latest?cb=20120524150705&path-prefix=ru",Первый канал [360p]
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/1/1a/Первый_канал_4_белый.svg/revision/latest?cb=20120524150705&path-prefix=ru",Первый канал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn1.mobiletv.bg/T5/perviy_kanal/perviy_kanal_794613_850k.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/1/1a/Первый_канал_4_белый.svg/revision/latest?cb=20120524150705&path-prefix=ru",Первый канал [576p]
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/1/1a/Первый_канал_4_белый.svg/revision/latest?cb=20120524150705&path-prefix=ru",Первый канал [S2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://51.68.141.106:8081/tv/pervyiy-kanal/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/1/1a/Первый_канал_4_белый.svg/revision/latest?cb=20120524150705&path-prefix=ru",Первый канал [Реверв]
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/1/1a/Первый_канал_4_белый.svg/revision/latest?cb=20120524150705&path-prefix=ru",Первый канал [S3]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://iptvh.it/OPT_1
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/9/94/Первый_канал_HD_%28белый%29.png/revision/latest?cb=20150326101330&path-prefix=ru",Первый канал HD
@@ -956,6 +956,12 @@ http://89.106.234.3:80/NTV_34_35.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/e/e3/НТВ_HD_%28используется_в_эфире%29.png/revision/latest?cb=20190525062710&path-prefix=ru",НТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://mfe.cliptv.az/dash/NTV_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/e/e3/НТВ_HD_%28используется_в_эфире%29.png/revision/latest?cb=20190525062710&path-prefix=ru",НТВ HD [S2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://195.49.206.244:90/NTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/f/f1/Пятый_канал_7.svg/revision/latest?cb=20110716153443&path-prefix=ru",Пятый канал
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://195.49.206.244:90/5kanal/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/f/f1/Пятый_канал_7.svg/revision/latest?cb=20110716153443&path-prefix=ru",Пятый канал (International)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://mfe.cliptv.az/dash/5_Kanal_SD.ism/playlist.mpd
@@ -977,6 +983,12 @@ http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/0/0d/РТР-Планета_3_%28другой_шрифт%29.png/revision/latest?cb=20170822154335&path-prefix=ru",Россия PTP [Реверв]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://iptvh.it/RTR_Planeta
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/2/2d/Karusel_2019.svg/revision/latest?cb=20200117163024&path-prefix=ru",Карусель
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://195.49.206.244:90/Karusel/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/d/d0/OTR_2013_Flat_No_Name.svg/revision/latest?cb=20200322182336&path-prefix=ru",ОТР
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://195.49.206.244:90/OTR/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/c/cd/ТВ_Центр_5_%28без_фона%29.png/revision/latest?cb=20161109132713&path-prefix=ru",ТВЦ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://ad-hls-tvc.cdnvideo.ru/tvc-p222/smil:tvc.smil/chunklist_b1682100.m3u8
@@ -1042,16 +1054,28 @@ http://mfe.cliptv.az/dash/Ce_SD.ism/playlist.mpd
 http://mfe.cliptv.az/dash/STS_Love_SD.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/5/51/ТНТ4_2018.png/revision/latest?cb=20190403145740&path-prefix=ru",ТНТ4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://195.49.206.244:90/TNT4/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/5/51/ТНТ4_2018.png/revision/latest?cb=20190403145740&path-prefix=ru",ТНТ4 (International)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://89.106.234.3:80/tnt4_34_35.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/e/ec/2x2_5.svg/revision/latest?cb=20160126153022&path-prefix=ru",2x2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://195.49.206.244:90/2x2/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/e/ec/2x2_5.svg/revision/latest?cb=20160126153022&path-prefix=ru",2x2 (СНГ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://mfe.cliptv.az/dash/2x2_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/a/ad/Суббота%21.svg/revision/latest?cb=20210218213833&path-prefix=ru",Суббота!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://195.49.206.244:90/Super/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/4/48/Ю_4_%28эфир%29.png/revision/latest?cb=20190914160202&path-prefix=ru",Ю
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://hlstv.brn.211.ru/239.211.211.29/stream.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/a/a0/Disney_Channel_Russia_logo_%282018%29.png/revision/latest?cb=20201211172009&path-prefix=ru",Disney Channel Russia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://mfe.cliptv.az/dash/Disney_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/a/a0/Disney_Channel_Russia_logo_%282018%29.png/revision/latest?cb=20201211172009&path-prefix=ru",Disney Channel Russia [S2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://195.49.206.244:90/Disney/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/b/b1/RU.TV_3_%28розовый%29.png/revision/latest?cb=20150210060216&path-prefix=ru",RU.TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://rut-v.gcdn.co/streams/1410_1323/360n/index.m3u8
