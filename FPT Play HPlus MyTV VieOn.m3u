@@ -965,6 +965,9 @@ http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/ntv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/8/8e/НТВ_%282010-н.в.%29_%28используется_в_эфире%29.svg/revision/latest?cb=20181025162918&path-prefix=ru",НТВ [S2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://195.49.206.244:90/NTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/8/8e/НТВ_%282010-н.в.%29_%28используется_в_эфире%29.svg/revision/latest?cb=20181025162918&path-prefix=ru",НТВ (Мир)
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+http://ott-cdn.ucom.am/s17/04.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/e/e3/НТВ_HD_%28используется_в_эфире%29.png/revision/latest?cb=20190525062710&path-prefix=ru",НТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://mfe.cliptv.az/dash/NTV_HD.ism/playlist.mpd
@@ -992,6 +995,9 @@ http://195.49.206.244:90/Rossiya24/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/d/de/Россия-24_4_%28вариант_2%29.svg/revision/latest?cb=20180605083644&path-prefix=ru",Россия 24 (Нижний Новгород)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://live-vestinn.cdnvideo.ru/vestinn/vestinn/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/e/ec/Планета_РТР_4.png/revision/latest?cb=20170823122437&path-prefix=ru",Planeta RTR
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+http://ott-cdn.ucom.am/s15/04.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/0/0d/РТР-Планета_3_%28другой_шрифт%29.png/revision/latest?cb=20170822154335&path-prefix=ru",Россия PTP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
@@ -1017,6 +1023,9 @@ http://195.49.206.244:90/TVC/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/2/25/РЕН_10.svg/revision/latest/scale-to-width-down/150?cb=20181022161933&path-prefix=ru",РЕН ТВ (International)
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+http://ott-cdn.ucom.am/s85/04.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/2/25/РЕН_10.svg/revision/latest/scale-to-width-down/150?cb=20181022161933&path-prefix=ru",РЕН ТВ (International) [Казахстан]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://sc.id-tv.kz/RenTV_34_35.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/e/ee/Спас_%283-ий_логотип%2C_васильковый%2C_с_надписью_«Телеканал»%29.svg/revision/latest?cb=20180827131619&path-prefix=ru",СПАС
@@ -1029,6 +1038,9 @@ http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/sts/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://195.49.206.244:90/STS/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/STS%20Russia.png",СТС (International)
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+http://ott-cdn.ucom.am/s52/04.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/STS%20Russia.png",СТС (International) [Казахстан]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://sc.id-tv.kz/STS_34_35.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/a/a6/Домашний_6.png/revision/latest?cb=20180214101934&path-prefix=ru",Домашний
@@ -1037,6 +1049,9 @@ http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/dom/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/a/a6/Домашний_6.png/revision/latest?cb=20180214101934&path-prefix=ru",Домашний (International)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://mfe.cliptv.az/dash/Domashniy_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/a/a6/Домашний_6.png/revision/latest?cb=20180214101934&path-prefix=ru",Домашний (International) [СНГ]
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+http://ott-cdn.ucom.am/s88/04.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/8/8d/TV3_logo_2015.svg/revision/latest/scale-to-width-down/200?cb=20201226082152&path-prefix=ru",ТВ-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/tv3/playlist.m3u8
