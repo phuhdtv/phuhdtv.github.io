@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U aspect-ratio=16:9
 #EXTINF:-1 tvg-logo="https://i.imgur.com/te4Rb7f.png",VTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://quocthai.duckdns.org:18886/rtp/232.84.1.27:8136
@@ -424,7 +424,7 @@ https://livecdn.fptplay.net/sdc/hanoitv1_hls.smil/chunklist_b2500000.m3u8
 http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dgqk70P/Hanoi2logobyvovanloc.png",HA NOI 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://14.185.28.162:2806/rtp/232.84.1.23:8112
+http://quocthai.duckdns.org:18886/rtp/232.84.1.23:8112
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dgqk70P/Hanoi2logobyvovanloc.png",HA NOI 2 [HD 720p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sdc/hanoitv2_hls.smil/chunklist_b2500000.m3u8
@@ -1105,7 +1105,7 @@ https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Rai_Italia_-_Logo_2017.svg",Rai Italia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://14.185.28.162:2806/rtp/232.84.2.124:8358
+http://quocthai.duckdns.org:18886/rtp/232.84.2.124:8358
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0F7Wb96/RTnewslogobyvovanloc.png",Russia Today
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://quocthai.duckdns.org:18886/rtp/232.84.2.125:8538
@@ -1129,7 +1129,7 @@ http://quocthai.duckdns.org:18886/rtp/232.84.1.49:8274
 https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_TVE-Internacional.svg",TVE [HD 1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://14.185.28.162:2806/rtp/232.84.3.205:11152
+http://quocthai.duckdns.org:18886/rtp/232.84.3.205:11152
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r3WNN61/TV5-Mondelogobyvovanloc.png",TV5MONDE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/world/tv5_hls.smil/chunklist_b2500000.m3u8
