@@ -401,10 +401,10 @@ https://live-vthn.vieon.vn:443/vtc/live/hd_vtc16/TV_HD/hd_vtc16_1080p/chunks.m3u
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xTB02Kf1/sctv2.png",SCTV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sda/sctv2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/BQIrc6A.png",VITV-SCTV8
+#EXTINF:-1 tvg-logo="https://imgur.com/BQIrc6A.png",SCTV8-VITV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/BQIrc6A.png",VITV-SCTV8 [576p]
+#EXTINF:-1 tvg-logo="https://imgur.com/BQIrc6A.png",SCTV8-VITV [576p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://quocthai.duckdns.org:18886/rtp/232.84.1.32:8166
 #EXTINF:-1 tvg-logo="https://imgur.com/HwMUDwy.png",SCTV10-VTV Hyundai Homeshopping
@@ -905,6 +905,9 @@ http://quocthai.duckdns.org:18886/rtp/232.84.1.14:8058
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fQySbyW/axnlogobyvovanloc.png",AXN [HD 720p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/qnetlive/axnhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fQySbyW/axnlogobyvovanloc.png",AXN [HD 1080p]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kb9TTcY/babyfirstlogobyvovanloc.png",BABY FIRST
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
@@ -914,6 +917,9 @@ http://quangvinh997.duckdns.org:8889/udp/225.1.4.28:30120
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png",Baby TV [HD 720p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://quangvinh997.duckdns.org:8889/udp/225.1.4.35:30120
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sCjXR0T/cbeebieslogobyvovanloc.png",BBC CBEEBIES [HD 720p]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://livecdn.fptplay.net/hda3/cbeebies_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/txj3bLH/BBCEarthlogobyvovanloc.png",BBC EARTH [HD 720p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
@@ -932,6 +938,9 @@ https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8NkLGtv/Bloomberglogobyvovanloc.png",BLOOMBERG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/qnetlive/bloomberg_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8NkLGtv/Bloomberglogobyvovanloc.png",BLOOMBERG [HD 720p]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mfe.cliptv.az/dash/Blomberg_HD.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8NkLGtv/Bloomberglogobyvovanloc.png",BLOOMBERG [HD 1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://quocthai.duckdns.org:18886/rtp/232.84.3.157:10696
@@ -944,24 +953,27 @@ http://quangvinh997.duckdns.org:8889/udp/225.1.1.138:30120
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3p6FbN/Cartoon-Networklogobyvovanloc.png",CARTOON NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://mfe.cliptv.az/dash/Cartoon_Network_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3p6FbN/Cartoon-Networklogobyvovanloc.png",CARTOON NETWORK [VNPT]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://quocthai.duckdns.org:18886/rtp/232.84.1.16:8070
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3p6FbN/Cartoon-Networklogobyvovanloc.png",CARTOON NETWORK [HD 720p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/qnetlive/cartoonnetworkhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QQYVVH7/Channel-Vlogobyvovanloc.png",CHANNEL [V] (HD 720p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QQYVVH7/Channel-Vlogobyvovanloc.png",CHANNEL [V]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://quocthai.duckdns.org:18886/rtp/232.84.1.13:8052
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QQYVVH7/Channel-Vlogobyvovanloc.png",CHANNEL [V] (HD 720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QQYVVH7/Channel-Vlogobyvovanloc.png",CHANNEL [V] (HD 1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/3/3f/Clubbing_TV_%28чёрный%29.png/revision/latest?cb=20161227145500&path-prefix=ru",Clubbing TV [HD 1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://quocthai.duckdns.org:18886/rtp/232.84.3.194:11086
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YPVNFqk/Cinema-Worldlogobyvovanloc.png",CINEMA WORLD [HD 720p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/qnetlive/cinemawork_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WynjUJJ.png",CCTV4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cctvcnch5ca.v.wscdns.com/live/cctveurope_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V9jNktF/CGTNlogobyvovanloc.png",CGTN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://live.cgtn.com/1000/prog_index.m3u8
@@ -980,6 +992,12 @@ http://liveru.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",CGTN Documentary
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xMY0R2p/cinemaxlogobyvovanloc.png",CINEMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://quocthai.duckdns.org:18886/rtp/232.84.1.20:8094
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xMY0R2p/cinemaxlogobyvovanloc.png",CINEMAX [HD 1080p]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://quocthai.duckdns.org:18886/rtp/232.84.2.139:10654
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2dvptZN/CNAlogobyvovanloc.png",CNA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/world/newsasia_hls.smil/chunklist_b2500000.m3u8
@@ -992,6 +1010,9 @@ https://livecdn.fptplay.net/qnetlive/cnn_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6D31ZYJ/Davincikidslogobyvovanloc.png",DA VINCI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://mfe.cliptv.az/dash/DaVinci_Learning_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6D31ZYJ/Davincikidslogobyvovanloc.png",DA VINCI [VNPT]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://quocthai.duckdns.org:18886/rtp/232.84.1.108:10224
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6D31ZYJ/Davincikidslogobyvovanloc.png",DA VINCI [HD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
@@ -1001,6 +1022,9 @@ http://quocthai.duckdns.org:18886/rtp/232.84.1.47:8262
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sJ5fzcr/Discoverylogobyvovanloc.png",DISCOVERY [HD 720p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sJ5fzcr/Discoverylogobyvovanloc.png",DISCOVERY [HD 1080p]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3p1JnX4/Discovery-Asialogobyvovanloc.png",DISCOVERY ASIA [HD 720p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
@@ -1039,6 +1063,9 @@ http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8
 http://mfe.cliptv.az/dash/Evronovosti_SD.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DLhCJ42/Fashion-TVlogobyvovanloc.png",FASHION TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mfe.cliptv.az/dash/Fashion_TV_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DLhCJ42/Fashion-TVlogobyvovanloc.png",FASHION TV [VNPT]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://quocthai.duckdns.org:18886/rtp/232.84.1.2:7986
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DLhCJ42/Fashion-TVlogobyvovanloc.png",FASHION TV [HD 720p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -1049,6 +1076,9 @@ http://quocthai.duckdns.org:18886/rtp/232.84.1.66:8370
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KjFZBbx/foxhdlogobyvovanloc.png",FOX [HD 720p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KjFZBbx/foxhdlogobyvovanloc.png",FOX [HD 1080p]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg",FX [HD 1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://quangvinh997.duckdns.org:8889/udp/225.1.1.213:30120
@@ -1058,18 +1088,27 @@ http://quocthai.duckdns.org:18886/rtp/232.84.3.215:11212
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KWVt4SN/Fox-Family-Movieslogobyvovanloc.png",FOX FAMILY MOVIES [HD 720p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KWVt4SN/Fox-Family-Movieslogobyvovanloc.png",FOX FAMILY MOVIES [HD 1080p]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tZJbf62/Foxlifelogobyvovanloc.png",FOX LIFE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://quocthai.duckdns.org:18886/rtp/232.84.2.119:8382
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tZJbf62/Foxlifelogobyvovanloc.png",FOX LIFE [HD 720p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tZJbf62/Foxlifelogobyvovanloc.png",FOX LIFE [HD 1080p]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DDhp3Y2/foxmovieslogobyvovanloc.png",FOX MOVIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://quocthai.duckdns.org:18886/rtp/232.84.1.10:8034
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DDhp3Y2/foxmovieslogobyvovanloc.png",FOX MOVIES [HD 720p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DDhp3Y2/foxmovieslogobyvovanloc.png",FOX MOVIES [HD 1080p]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j6qwrdv/foxsportslogobyvovanloc.png",FOX SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://quocthai.duckdns.org:18886/rtp/232.84.1.11:8040
@@ -1109,9 +1148,21 @@ https://live-vthcm.vieon.vn/htv_drm/live/kbs_world/TV_HD/kbs_world_1080p/chunks.
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4ZYdX8g/kidhdlogobyvovanloc.png",KIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/4/47/Gulli_Girl_%282018-н.в.%29.png/revision/latest?cb=20181010121332&path-prefix=ru",Gulli Girl
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mfe.cliptv.az/dash/Gulli_Girl_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LxjKRfz/hbologobyvovanloc.png",HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://quocthai.duckdns.org:18886/rtp/232.84.1.19:8088
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LxjKRfz/hbologobyvovanloc.png",HBO [HD 1080p]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://quocthai.duckdns.org:18886/rtp/232.84.2.138:10648
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/History%20HD.png",History [HD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://mfe.cliptv.az/dash/History_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/f/f3/Investigation_Discovery_%282020%29.svg/revision/latest?cb=20200930181605&path-prefix=ru",Investigation Discovery
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mfe.cliptv.az/dash/Investigation_Discovery_SD.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F8J2zvg/National-Geographic-Channellogobyvovanloc.png",NATIONAL GEOGRAPHIC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://quocthai.duckdns.org:18886/rtp/232.84.2.122:8364
@@ -1139,15 +1190,30 @@ https://livecdn.fptplay.net/world/nhkworld_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P9Bg12T/NHKWorldlogobyvovanloc.webp",NHK WORLD [HD 1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://b-nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RJwaiHH.png",OUTDOOR CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mfe.cliptv.az/dash/Outdoor_HD.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RJwaiHH.png",OUTDOOR CHANNEL [HD 720p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jrFY82v/Paramount-Networklogobyvovanloc.png",PARAMOUNT CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mfe.cliptv.az/dash/Paramount_Channel_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jrFY82v/Paramount-Networklogobyvovanloc.png",PARAMOUNT CHANNEL [HD 720p]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/4/4e/Paramount_Comedy_%28второй_логотип%29.png/revision/latest?cb=20181027120126&path-prefix=ru",PARAMOUNT COMEDY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mfe.cliptv.az/dash/Paramount_Comedy_SD.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Rai_Italia_-_Logo_2017.svg",Rai Italia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://quocthai.duckdns.org:18886/rtp/232.84.2.124:8358
+#EXTINF:-1 tvg-logo="https://imgur.com/tLRt17t.png",RED BY HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://quocthai.duckdns.org:18886/rtp/232.84.1.44:8244
+#EXTINF:-1 tvg-logo="https://imgur.com/tLRt17t.png",RED BY HBO [HD 1080p]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://quocthai.duckdns.org:18886/rtp/232.84.2.172:10840
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0F7Wb96/RTnewslogobyvovanloc.png",Russia Today
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://quocthai.duckdns.org:18886/rtp/232.84.2.125:8538
@@ -1163,6 +1229,12 @@ http://rtmp.api.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0F7Wb96/RTnewslogobyvovanloc.png",Russia Today Arabic [HD 720p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://rt-arab.secure.footprint.net/1104_2500Kb.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/3/3b/Sony_Sci-Fi_%282016%29.png/revision/latest?cb=20190119115417&path-prefix=ru",Sony Sci-Fi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mfe.cliptv.az/dash/Sony_Sci_Fi_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/8/80/Sony_Turbo_2.png/revision/latest?cb=20190119115717&path-prefix=ru",Sony Turbo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mfe.cliptv.az/dash/Sony_Turbo_SD.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yqybFxh/TLClogobyvovanloc.png",TLC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://quocthai.duckdns.org:18886/rtp/232.84.1.49:8274
@@ -1172,15 +1244,36 @@ https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_TVE-Internacional.svg",TVE [HD 1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://quocthai.duckdns.org:18886/rtp/232.84.3.205:11152
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/7/7d/TV1000_4.png/revision/latest?cb=20140426121927&path-prefix=ru",TV1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mfe.cliptv.az/dash/TV1000_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/6/6e/TV1000_Русское_кино_3.png/revision/latest?cb=20191215094437&path-prefix=ru",TV1000 Русское кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mfe.cliptv.az/dash/TV1000_Russkoe_Kino_SD.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r3WNN61/TV5-Mondelogobyvovanloc.png",TV5MONDE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/world/tv5_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/1/11/TiJi_%282021%29.png/revision/latest?cb=20210110210142&path-prefix=ru",Tiji
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mfe.cliptv.az/dash/Tiji_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/7/73/Travel_Channel_3.svg/revision/latest?cb=20130903120234&path-prefix=ru",Travel Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mfe.cliptv.az/dash/Travel_Channel_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/3/3b/VH1_3.svg/revision/latest?cb=20130608173411&path-prefix=ru",VH1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mfe.cliptv.az/dash/VH1_EUROPE_SD.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZHmSGDH/Warner-TVlogobyvovanloc.png",WARNER BROS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://quocthai.duckdns.org:18886/rtp/232.84.1.91:10404
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZHmSGDH/Warner-TVlogobyvovanloc.png",WARNER BROS TV [HD 720p]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZHmSGDH/Warner-TVlogobyvovanloc.png",WARNER BROS TV [FPT Play]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/qnetlive/warnertv_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZHmSGDH/Warner-TVlogobyvovanloc.png",WARNER BROS TV [HTVC]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/f/f8/TV_XXI_2.svg/revision/latest?cb=20141219144040&path-prefix=ru",XXI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mfe.cliptv.az/dash/TV_XXI_SD.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iW5vhkb.png",Первый канал (+0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://51.68.141.106:8081/tv/pervyiy-kanal/playlist.m3u8
@@ -1310,6 +1403,9 @@ http://195.49.206.244:90/STS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pJNWVAz.png",СТС (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/sts/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/f/f3/СТС-Мир_%282017-н.в.%2C_жёлтый%29.png/revision/latest?cb=20171023184931&path-prefix=ru",СТС МИР (Новосибирск)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://serv30.vintera.tv:8081/stanciya_mir/mir/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pJNWVAz.png",СТС International (СНГ)
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s52/04.m3u8
@@ -1379,6 +1475,36 @@ http://ott-cdn.ucom.am/s19/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n7bGFXj.png",МУЗ ТВ (+0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://mfe.cliptv.az/dash/Muz_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/e/e4/Москва_24_%282019%2C_серо-бирюзовый%29.svg/revision/latest?cb=20190806193257&path-prefix=ru",Москва 24 [+0]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/e/e4/Москва_24_%282019%2C_серо-бирюзовый%29.svg/revision/latest?cb=20190806193257&path-prefix=ru",Москва 24 [+0] (S2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://radio-live-mg.rtr-vesti.ru/hls/moscow_24/playlist_3.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/7/7d/Московский_образовательный_%28второй_логотип%2C_фон%29.jpg/revision/latest?cb=20180305074749&path-prefix=ru",Московский Образовательный
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://retc.educom.ru/mosobrtv/smil:tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/7/7d/Московский_образовательный_%28второй_логотип%2C_фон%29.jpg/revision/latest?cb=20180305074749&path-prefix=ru",Московский Образовательный HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://retc.educom.ru/mosobrtv/tv1/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/7/73/360°_%282017%29.svg/revision/latest?cb=20171202113014&path-prefix=ru",360°
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://video1.in-news.ru/360/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/8/85/360°_Новости_2017.svg/revision/latest?cb=20180204175804&path-prefix=ru",360° Новости HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/c/c1/Катунь_24_%28Барнаул%29.png/revision/latest?cb=20201108140306&path-prefix=ru",Катунь 24 (Барнаул)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://live.katun24.ru:8082/katun/katun/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/7/70/Кузбасс_1_%28Кемерово%29.png/revision/latest?cb=20201124200704&path-prefix=ru",Кузбасс 1 (Кемерово)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://www.10kanal.ru/live/hls/k24.m3u8
+#EXTINF:-1 tvg-logo="https://www.nalog.ru/cdn/image/1442279/original.jpg",Между.Net (Междуреченск)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/e/eb/Енисей_%28с_2014%29.png/revision/latest?cb=20150529121440&path-prefix=ru",Енисей (Красноярск)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/c/cd/Че%21_%282020%29.svg/revision/latest?cb=20200310173413&path-prefix=ru",Че (+0)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://mfe.cliptv.az/dash/Ce_SD.ism/playlist.mpd
@@ -1502,6 +1628,9 @@ http://51.68.141.106:8081/iptv/box-tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/f/f1/KXL_HD.jpg/revision/latest?cb=20170827093817&path-prefix=ru",КХЛ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://sc.id-tv.kz/khl_hd_34_35.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/c/c0/Eurosport_1_%282015%29.svg/revision/latest?cb=20210101143027&path-prefix=ru",EUROSPORT1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mfe.cliptv.az/dash/EuroSport1_SD.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/8/8f/Eurosport_1_HD_%282015%29.svg/revision/latest?cb=20160810152413&path-prefix=ru",EUROSPORT1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://195.49.206.244:90/Eurosport1/index.m3u8
@@ -1526,9 +1655,15 @@ http://mfe.cliptv.az/dash/Bridge_TV_SD.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/f/fc/Шансон_ТВ_%28красный_фон%29.png/revision/latest?cb=20150930132530&path-prefix=ru",Шансон ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/f/fc/Шансон_ТВ_%28красный_фон%29.png/revision/latest?cb=20150930132530&path-prefix=ru",Шансон ТВ (СНГ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mfe.cliptv.az/dash/Shanson_SD.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/6/6a/МузСоюз.png/revision/latest?cb=20150423063533&path-prefix=ru",МузСоюз
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/8/8a/Europa_Plus_TV.svg/revision/latest?cb=20180908132419&path-prefix=ru",Europa Plus TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mfe.cliptv.az/dash/Evropa_Plus_TV_SD.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/0/0c/Моя_планета_HD_%28без_надписи%29.png/revision/latest?cb=20200718204102&path-prefix=ru",Моя планета
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
@@ -1544,15 +1679,39 @@ http://mfe.cliptv.az/dash/OceanTV_SD.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/3/34/Ностальгия.svg/revision/latest?cb=20180525142203&path-prefix=ru",Ностальгия
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://mfe.cliptv.az/dash/Nostalgiya_SD.ism/playlist.mpd
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/6/66/Nasha_Sibir%27.svg/revision/latest?cb=20210121144506&path-prefix=ru",Наша Сибирь
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/3/3f/Okhota_i_Rybalka_%282018%2C_blue%2C_vertical%29.svg/revision/latest?cb=20210108173416&path-prefix=ru",Охота и Рыбалка
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://strm.yandex.ru/kal/sibir/sibir0_169_480p.json/index-v1-a1.m3u8
+http://mfe.cliptv.az/dash/Oxota_i_Ribalka_SD.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/4/4d/TV_BRICS_%282018%2C_2%29.png/revision/latest?cb=20201215171805&path-prefix=ru",TV BRICS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/5/5d/Nano_%282020%29.png/revision/latest?cb=20201215161323&path-prefix=ru",NANO TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://nano.teleservice.su:8080/hls/nano.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/0/03/Дикий.png/revision/latest?cb=20171010104613&path-prefix=ru",Дикий
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mfe.cliptv.az/dash/Dikiy_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/a/a9/Мультиландия_%282020%29.png/revision/latest?cb=20200203174207&path-prefix=ru",АВТО 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mfe.cliptv.az/dash/Avto_24_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/e/ea/Auto_Plus_%28Russia%29_%282012%29.svg/revision/latest?cb=20210105171416&path-prefix=ru",Авто Плюс
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mfe.cliptv.az/dash/Avto_Plus_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/b/ba/Загородная_Жизнь.png/revision/latest?cb=20200914140354&path-prefix=ru",Загородная жизнь
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mfe.cliptv.az/dash/Zagorodnaya_Jizn_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/0/0f/Kukhnya_TV_%28Russia%29_%282018%29.svg/revision/latest?cb=20210105165856&path-prefix=ru",Загородная жизнь
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mfe.cliptv.az/dash/Kuxnya_TV_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/e/ea/Телекафе_%282018%29.png/revision/latest?cb=20180129160414&path-prefix=ru",ТЕЛЕКАФЕ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mfe.cliptv.az/dash/TeleKafe_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/3/3a/Viasat_History_3.png/revision/latest?cb=20200617173007&path-prefix=ru",Viasat History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mfe.cliptv.az/dash/Viasat_History_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/7/7e/Viasat_Nature_3.png/revision/latest?cb=20200617173531&path-prefix=ru",Viasat Nature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mfe.cliptv.az/dash/Viasat_Nature_SD.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/c/cd/TopShop2.png/revision/latest?cb=20171027200803&path-prefix=ru",Top Shop TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://dmitry-tv.my1.ru/his/02/CH_TOPSHOP.m3u8
@@ -1565,42 +1724,63 @@ http://tvshops.bonus-tv.ru:80/cdn/shop24/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/7/72/Ювелирочка_%282020%29.svg/revision/latest?cb=20201212051408&path-prefix=ru",Ювелирочка ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/4/4f/Мульт.png/revision/latest?cb=20150106093816&path-prefix=ru",Мульт
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mfe.cliptv.az/dash/Mult_SD.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/a/a9/Мультиландия_%282020%29.png/revision/latest?cb=20200203174207&path-prefix=ru",Мультиландия
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://serv30.vintera.tv:8081/detskiy/multimania20/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/e/e4/Москва_24_%282019%2C_серо-бирюзовый%29.svg/revision/latest?cb=20190806193257&path-prefix=ru",Москва 24 [+0]
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/c/cd/Детский_мир_%282019%2C_без_фона%29.png/revision/latest?cb=20201211141200&path-prefix=ru",Детский Мир
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/e/e4/Москва_24_%282019%2C_серо-бирюзовый%29.svg/revision/latest?cb=20190806193257&path-prefix=ru",Москва 24 [+0] (S2)
+http://mfe.cliptv.az/dash/Detskiy_Mir_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/4/40/Дом_Кино_Премиум_%28другая_версия%29.png/revision/latest?cb=20160408155100&path-prefix=ru",Дом Кино Премиум
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://radio-live-mg.rtr-vesti.ru/hls/moscow_24/playlist_3.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/7/7d/Московский_образовательный_%28второй_логотип%2C_фон%29.jpg/revision/latest?cb=20180305074749&path-prefix=ru",Московский Образовательный
+http://mfe.cliptv.az/dash/Dom_Kino_Premium_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/3/3b/Eurokino_%282012%29.svg/revision/latest?cb=20210107133719&path-prefix=ru",Еврокино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://retc.educom.ru/mosobrtv/smil:tv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/7/7d/Московский_образовательный_%28второй_логотип%2C_фон%29.jpg/revision/latest?cb=20180305074749&path-prefix=ru",Московский Образовательный HD
+http://mfe.cliptv.az/dash/Evrokino_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/7/71/Индийское_кино_%28мини-логотип%29.svg/revision/latest?cb=20180524095922&path-prefix=ru",Индийское Кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://retc.educom.ru/mosobrtv/tv1/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/7/73/360°_%282017%29.svg/revision/latest?cb=20171202113014&path-prefix=ru",360°
+http://mfe.cliptv.az/dash/Indiyskoe_Kino_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/3/37/Киномикс_%282016%29.png/revision/latest?cb=20210211200849&path-prefix=ru",КИНОМИКС
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://video1.in-news.ru/360/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/8/85/360°_Новости_2017.svg/revision/latest?cb=20180204175804&path-prefix=ru",360° Новости HD
+http://mfe.cliptv.az/dash/Kinomix_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/f/f7/Кинопремьера_%28мини-логотип%29.svg/revision/latest?cb=20180524093033&path-prefix=ru",КИНОПРЕМЬЕРА
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/c/c1/Катунь_24_%28Барнаул%29.png/revision/latest?cb=20201108140306&path-prefix=ru",Катунь 24 (Барнаул)
+http://mfe.cliptv.az/dash/Kinopremiera_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/4/45/Киносвидание_%28мини-логотип%29.svg/revision/latest?cb=20180524093923&path-prefix=ru",КИНОСВИДАНИЕ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://live.katun24.ru:8082/katun/katun/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/7/70/Кузбасс_1_%28Кемерово%29.png/revision/latest?cb=20201124200704&path-prefix=ru",Кузбасс 1 (Кемерово)
+http://mfe.cliptv.az/dash/Kinosvidaniye_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/8/8f/Киносемья_%28мини-логотип%29.svg/revision/latest?cb=20180524094228&path-prefix=ru",КИНОСЕМЬЯ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://www.10kanal.ru/live/hls/k24.m3u8
-#EXTINF:-1 tvg-logo="https://www.nalog.ru/cdn/image/1442279/original.jpg",Между.Net (Междуреченск)
+http://mfe.cliptv.az/dash/Kinosemya_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/7/74/Киносерия_%28мини-логотип%29.svg/revision/latest?cb=20180524101436&path-prefix=ru",КИНОСЕМЬЯ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/e/eb/Енисей_%28с_2014%29.png/revision/latest?cb=20150529121440&path-prefix=ru",Енисей (Красноярск)
+http://mfe.cliptv.az/dash/Kinoseriya_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/2/24/Кинохит_%28мини-логотип%29.svg/revision/latest?cb=20180524094618&path-prefix=ru",КИНОХИТ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/f/f3/СТС-Мир_%282017-н.в.%2C_жёлтый%29.png/revision/latest?cb=20171023184931&path-prefix=ru",Телестанция МИР (Новосибирск)
+http://mfe.cliptv.az/dash/Kinohit_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/0/07/Кино_ТВ_%282019%29.png/revision/latest?cb=20200103164412&path-prefix=ru",Кино ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://serv30.vintera.tv:8081/stanciya_mir/mir/playlist.m3u8
+http://mfe.cliptv.az/dash/Kino_TV_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/2/25/Кинокомедия_%282016%29.png/revision/latest?cb=20210211201046&path-prefix=ru",Кинокомедия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mfe.cliptv.az/dash/Kinokomediya_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/0/01/Наше_любимое_кино_%282009%2C_моно%29.png/revision/latest?cb=20171030180628&path-prefix=ru",Любимое Кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mfe.cliptv.az/dash/Lyubimoe_Kino_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/8/8a/Наше_новое_кино_%28мини-логотип%29.svg/revision/latest?cb=20180524095604&path-prefix=ru",НАШЕ НОВОЕ КИНО
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mfe.cliptv.az/dash/Nashe_Novoe_Kino_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/0/06/Родное_кино_%28мини-логотип%29.svg/revision/latest?cb=20180524095213&path-prefix=ru",РОДНОЕ КИНО
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mfe.cliptv.az/dash/Rodnoe_Kino_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/6/6d/Русский_детектив_%282014%29.svg/revision/latest?cb=20210102085054&path-prefix=ru",Русский Детектив
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mfe.cliptv.az/dash/Ruskiy_Detektiv_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/e/e9/Russkiy_Roman_%282013%29.svg/revision/latest?cb=20210126163058&path-prefix=ru",Русский Роман
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mfe.cliptv.az/dash/Ruskiy_Roman_SD.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/6/69/Khabar_2020.svg/revision/latest?cb=20200309073906&path-prefix=ru",Хабар (Казахстан)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://sc.id-tv.kz/Khabar_34_35.m3u8
