@@ -347,7 +347,7 @@ https://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hLQNEhy.png",VTC13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sdc/vtc13_1000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4KDDK1m/vtc8logobyvovanloc.png",VTC13 HD[720p]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4KDDK1m/vtc8logobyvovanloc.png",VTC13 HD [720p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sdc/vtc13_hls.smil/chunklist_b2800000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4KDDK1m/vtc8logobyvovanloc.png",VTC13 HD [1080p]
@@ -592,7 +592,7 @@ https://livecdn.fptplay.net/sda/hanam_hls.smil/chunklist_b2500000.m3u8
 http://117.4.240.220:80/Medias/HaNam/720P/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B6qZLG6/HATINH-BEARTV.png",HA TINH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://livecdn.fptplay.net/sdc/hatinh_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/sdc/hatinh_1000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B6qZLG6/HATINH-BEARTV.png",HA TINH HD [720p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sdc/hatinh_hls.smil/chunklist_b2500000.m3u8
@@ -1246,6 +1246,9 @@ http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
 http://hlstv.brn.211.ru/239.211.200.2/stream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Match!.png",Матч!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://95-213-224-188.livesports24.online/ooomatch.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Match!.png",Матч! [S2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://hlstv.brn.211.ru/239.211.2.3/stream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Матч!_HD.png",Матч! HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -1400,9 +1403,6 @@ http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/8CHANNEL_KRSK.png",8 канал Красноярский край (Красноярск)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://80.65.18.213/perviy_molodeginyi_3100kb.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Че.png",Че (+0)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://mfe.cliptv.az/dash/Ce_SD.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Че.png",Че (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/perec/playlist.m3u8
