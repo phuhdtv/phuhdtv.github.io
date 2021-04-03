@@ -1,13 +1,11 @@
 # IPTV
-EN: Collection publicly available IPTV channels from Vietnamese over the Russian Or Kazakh
+EN: Collection publicly available IPTV channels from Vietnamese over the Russian
 
-RU: Коллекция общедоступных IPTV каналов с вьетнамского по российскому или казахский
+RU: Коллекция общедоступных IPTV каналов с вьетнамского по российскому
 
-KZ: Вьетнамнан орыс немесе қазақ тілдеріне жалпыға қолжетімді IPTV арналарын жинау
+Адрес 1/: http://bom.to/vietNgaTV
 
-Адрес 1/Мекен жайы 1: http://bom.to/vietNgaTV
-
-Адрес 2/Мекен жайы 2: http://bom.to/TVVietnga
+Адрес 2/: http://bom.to/TVVietnga
 
 Link Backup: http://gg.gg/iptvvietnga
 
