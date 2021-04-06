@@ -203,9 +203,6 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/chunks.m3u8
 #EXTINF:-1 group-title="HTV" tvg-logo="https://i.ibb.co/F7QHJCw/htvttlogobyvovanloc.png",HTV THE THAO HD [1080p] (VieON)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://live-vthcm.vieon.vn/htv_drm/live/htv_the_thao/TV_HD/htv_the_thao_1080p/chunks.m3u8
-#EXTINF:-1 group-title="HTV" tvg-logo="http://htvc.vn/uploads/channel/2016/08/31/7613159-htv-coop.png",HTV CO.OP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://livecdn.fptplay.net/sda/htvcoop_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="HTVC" tvg-logo="https://i.ibb.co/80rLmhB/htvcdl-cslogobyvovanloc.png",HTVC DU LICH CUOC SONG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/hda/htvcdulich_hls.smil/chunklist_b2500000.m3u8
@@ -728,6 +725,9 @@ https://livecdn.fptplay.net/sdc/quangnam_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="TH DIA PHUONG" tvg-logo="https://i.ibb.co/SB6Ndr1/quangnamtvlogobyvovanloc.png",QUANG NAM HD [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://quangvinh997.duckdns.org:8889/udp/225.1.2.50:30120
+#EXTINF:-1 group-title="TH DIA PHUONG" tvg-logo="https://i.ibb.co/sQCVDsS/quangngaitvlogobyvovanloc.png",QUANG NGAI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://livecdn.fptplay.net/sda/quangngai_1000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="TH DIA PHUONG" tvg-logo="https://i.ibb.co/sQCVDsS/quangngaitvlogobyvovanloc.png",QUANG NGAI HD [720p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sda/quangngai_2000.stream/chunklist.m3u8
@@ -986,9 +986,6 @@ http://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 group-title="World TV" tvg-logo="https://i.ibb.co/xMY0R2p/cinemaxlogobyvovanloc.png",CINEMAX HD [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://quangvinh997.duckdns.org:8889/udp/225.1.2.86:30120
-#EXTINF:-1 group-title="World TV" tvg-logo="https://i.imgur.com/WynjUJJ.png",CCTV4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cctvcnch5ca.v.wscdns.com/live/cctveurope_2/index.m3u8
 #EXTINF:-1 group-title="World TV" tvg-logo="https://i.ibb.co/2dvptZN/CNAlogobyvovanloc.png",CNA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/world/newsasia_hls.smil/chunklist_b2500000.m3u8
