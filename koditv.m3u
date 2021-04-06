@@ -983,9 +983,9 @@ http://liveru.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1 group-title="World TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",CGTN Documentary
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://livedoc.cgtn.com/1000d/prog_index.m3u8
-#EXTINF:-1 group-title="World TV" tvg-logo="https://i.ibb.co/xMY0R2p/cinemaxlogobyvovanloc.png",CINEMAX HD [1080p]
+#EXTINF:-1 group-title="World TV" tvg-logo="https://i.ibb.co/xMY0R2p/cinemaxlogobyvovanloc.png",CINEMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://quangvinh997.duckdns.org:8889/udp/225.1.2.86:30120
+http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
 #EXTINF:-1 group-title="World TV" tvg-logo="https://i.ibb.co/2dvptZN/CNAlogobyvovanloc.png",CNA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/world/newsasia_hls.smil/chunklist_b2500000.m3u8
@@ -1040,10 +1040,13 @@ http://dmitry-tv.my1.ru/his/01/CH_DW_ESPANOL.m3u8
 #EXTINF:-1 group-title="World TV" tvg-logo="https://i.ibb.co/TRHnsZx/dwnewslogobyvovanloc.png",DW Arabic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://dmitry-tv.my1.ru/his/01/CH_DW_ARABIC.m3u8
-#EXTINF:-1 group-title="World TV" tvg-logo="https://i.ibb.co/X43JVn9/euronewslogobyvovanloc.png",EURONEWS [540p]
+#EXTINF:-1 group-title="World TV" tvg-logo="https://i.ibb.co/X43JVn9/euronewslogobyvovanloc.png",EURONEWS (Английский)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://36.37.252.114:888/Apple/OneTV-047/playlist.m3u8
+#EXTINF:-1 group-title="World TV" tvg-logo="https://i.ibb.co/X43JVn9/euronewslogobyvovanloc.png",EURONEWS (Русский) [540p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8
-#EXTINF:-1 group-title="World TV" tvg-logo="https://i.ibb.co/X43JVn9/euronewslogobyvovanloc.png",EURONEWS [576p]
+#EXTINF:-1 group-title="World TV" tvg-logo="https://i.ibb.co/X43JVn9/euronewslogobyvovanloc.png",EURONEWS (Русский) [576p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://mfe.cliptv.az/dash/Evronovosti_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="World TV" tvg-logo="https://i.ibb.co/DLhCJ42/Fashion-TVlogobyvovanloc.png",FASHION TV
@@ -1133,9 +1136,18 @@ https://livecdn.fptplay.net/hda/kixhd_1000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="World TV" tvg-logo="https://i.ibb.co/4ZYdX8g/kidhdlogobyvovanloc.png",KIX HD [720p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="World TV" tvg-logo="https://i.ibb.co/LxjKRfz/hbologobyvovanloc.png",HBO HD [1080p]
+#EXTINF:-1 group-title="World TV" tvg-logo="https://i.ibb.co/LxjKRfz/hbologobyvovanloc.png",HBO HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://quangvinh997.duckdns.org:8889/udp/225.1.2.233:30120
+http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
+#EXTINF:-1 group-title="World TV" tvg-logo="https://i.ibb.co/6sFyDLT/HBOHitslogobyvovanloc.png",HBO HITS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
+#EXTINF:-1 group-title="World TV" tvg-logo="https://i.ibb.co/18jrZjw/HBOFamilylogobyvovanloc.webp",HBO FAMILY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://36.37.252.114:888/Apple/OneTV-033/playlist.m3u8
+#EXTINF:-1 group-title="World TV" tvg-logo="https://i.ibb.co/k2sQDfF/HBOSignaturelogobyvovanloc.png",HBO Signature
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://36.37.252.114:888/Apple/OneTV-032/playlist.m3u8
 #EXTINF:-1 group-title="World TV" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/History%20HD.png",History HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://mfe.cliptv.az/dash/History_HD.ism/playlist.mpd
@@ -1349,12 +1361,18 @@ http://hlstv.brn.211.ru/239.211.211.29/stream.m3u8
 #EXTINF:-1 group-title="Russia (Krasnoyarsk Time)" tvg-logo="https://i.ibb.co/wwTq2Lr/Disney-Channel-BEARTV.png",Disney Channel Russia (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://hlstv.brn.211.ru/239.211.211.24/stream.m3u8
+#EXTINF:-1 group-title="Russia (Moscow Time)" tvg-logo="https://i.imgur.com/iW5vhkb.png",Первый канал
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://36.37.252.114:888/Apple/OneTV-041/playlist.m3u8
 #EXTINF:-1 group-title="Russia (Moscow Time)" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Первый_канал_HD.png",Первый канал HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://mfe.cliptv.az/dash/Perviy_Kanal_HD.ism/playlist.mpd
 #EXTINF:-1 group-title="Russia (Moscow Time)" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Россия_HD.webp",Россия HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1 group-title="Russia (Moscow Time)" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Россия_HD.webp",Россия HD (Азия)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://36.37.252.114:888/Apple/OneTV-027/playlist.m3u8
 #EXTINF:-1 group-title="Russia (Moscow Time)" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Россия_HD.webp",Россия HD [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://hlstv.brn.211.ru/239.211.200.2/stream.m3u8
@@ -1739,27 +1757,15 @@ http://mfe.cliptv.az/dash/A_Media_Hit_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Russia (Movies)" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Hollywood.png",Hollywood
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://mfe.cliptv.az/dash/AMC_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="Events" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/80/FPT_New_Logo.png",EVENT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://livecdn.fptplay.net/tvc/sukien01_1000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Events" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/80/FPT_New_Logo.png",EVENT 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://livecdn.fptplay.net/tvc/sukien01_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Events" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/80/FPT_New_Logo.png",EVENT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://livecdn.fptplay.net/tvc/sukien02_1000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Events" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/80/FPT_New_Logo.png",EVENT 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://livecdn.fptplay.net/tvc/sukien02_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Events" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/80/FPT_New_Logo.png",EVENT 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://livecdn.fptplay.net/tvc/sukien03_1000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Events" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/80/FPT_New_Logo.png",EVENT 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://livecdn.fptplay.net/tvc/sukien03_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Events" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/80/FPT_New_Logo.png",EVENT 4 | e-Event
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://livecdn.fptplay.net/event/eventExpire_1000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Events" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/80/FPT_New_Logo.png",EVENT 4 HD | e-Event
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/event/eventExpire_2000.stream/chunklist.m3u8
@@ -1769,66 +1775,6 @@ https://livecdn.fptplay.net/schedule/esport01_1000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Events" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/80/FPT_New_Logo.png",EVENT 5 HD | e-Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/schedule/esport01_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Serie_A.png",Serie A 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://livecdn.fptplay.net/italyfootball/seriea01_1000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Serie_A.png",Serie A 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://livecdn.fptplay.net/italyfootball/seriea01_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Serie_A.png",Serie A 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://livecdn.fptplay.net/italyfootball/seriea02_1000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Serie_A.png",Serie A 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://livecdn.fptplay.net/italyfootball/seriea02_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Serie_A.png",Serie A 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://livecdn.fptplay.net/italyfootball/seriea03_1000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Serie_A.png",Serie A 3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://livecdn.fptplay.net/italyfootball/seriea03_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Serie_A.png",Serie A 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://livecdn.fptplay.net/italyfootball/seriea04_1000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Serie_A.png",Serie A 4 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://livecdn.fptplay.net/italyfootball/seriea04_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Serie_A.png",Serie A 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://livecdn.fptplay.net/italyfootball/seriea05_1000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Serie_A.png",Serie A 5 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://livecdn.fptplay.net/italyfootball/seriea05_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Serie_A.png",Serie A 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://livecdn.fptplay.net/italyfootball/seriea06_1000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Serie_A.png",Serie A 6 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://livecdn.fptplay.net/italyfootball/seriea06_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Serie_A.png",Serie A 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://livecdn.fptplay.net/italyfootball/seriea07_1000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Serie_A.png",Serie A 7 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://livecdn.fptplay.net/italyfootball/seriea07_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Serie_A.png",Serie A 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://livecdn.fptplay.net/italyfootball/seriea08_1000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Serie_A.png",Serie A 8 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://livecdn.fptplay.net/italyfootball/seriea08_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Serie_A.png",Serie A 9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://livecdn.fptplay.net/italyfootball/seriea09_1000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Serie_A.png",Serie A 9 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://livecdn.fptplay.net/italyfootball/seriea09_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Serie_A.png",Serie A 10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://livecdn.fptplay.net/italyfootball/seriea10_1000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Serie_A.png",Serie A 10 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://livecdn.fptplay.net/italyfootball/seriea10_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Football" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/FA_Cup.png",FA CUP 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://livecdn.fptplay.net/footballassociation/facup01_1000.stream/chunklist.m3u8
