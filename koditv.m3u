@@ -431,9 +431,6 @@ https://livecdn.fptplay.net/sda/sctv2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="SCTV/HanoiCab" tvg-logo="https://imgur.com/BQIrc6A.png",SCTV8-VITV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1 group-title="SCTV/HanoiCab" tvg-logo="https://imgur.com/BQIrc6A.png",SCTV8-VITV [576p]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://quocthai.duckdns.org:18886/rtp/232.84.1.32:8166
 #EXTINF:-1 group-title="SCTV/HanoiCab" tvg-logo="https://imgur.com/HwMUDwy.png",SCTV10-VTV Hyundai Homeshopping
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://quangvinh997.duckdns.org:8889/udp/225.1.2.37:30120
@@ -836,6 +833,9 @@ https://livecdn.fptplay.net/sdc/thainguyen_1000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="TH DIA PHUONG" tvg-logo="https://i.ibb.co/Mn67BLh/thainguyentvlogobyvovanloc.png",THAI NGUYEN 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sdc/thainguyen_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="TH DIA PHUONG" tvg-logo="https://imgur.com/v45geuK.png",THAI NGUYEN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://quocthai.duckdns.org:18886/rtp/232.84.3.123:9168
 #EXTINF:-1 group-title="TH DIA PHUONG" tvg-logo="https://i.ibb.co/DggZfgD/thanhhoatvlogobyvovanloc.png",THANH HOA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sda/thanhhoa_hls.smil/chunklist_b2500000.m3u8
@@ -1046,7 +1046,7 @@ http://quangvinh997.duckdns.org:8889/udp/225.1.2.86:30120
 #EXTINF:-1 group-title="World TV" tvg-logo="https://i.ibb.co/2dvptZN/CNAlogobyvovanloc.png",CNA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/world/newsasia_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="World TV" tvg-logo="https://i.ibb.co/2dvptZN/CNAlogobyvovanloc.png",CNA [1080p]
+#EXTINF:-1 group-title="World TV" tvg-logo="https://i.ibb.co/2dvptZN/CNAlogobyvovanloc.png",CNA HD [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="World TV" tvg-logo="https://i.imgur.com/x90A7Ad.png",CNBC
