@@ -1055,9 +1055,6 @@ http://quangvinh997.duckdns.org:8889/udp/225.1.1.227:30120
 #EXTINF:-1 group-title="World TV" tvg-logo="https://i.ibb.co/0yBr6XK/CNNlogobyvovanloc.png",CNN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/qnetlive/cnn_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="World TV" tvg-logo="https://i.ibb.co/0yBr6XK/CNNlogobyvovanloc.png",CNN HD [1080p]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://quocthai.duckdns.org:18886/rtp/232.84.3.153:10690
 #EXTINF:-1 group-title="World TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/CNBC_logo.svg",CNBC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://quangvinh997.duckdns.org:8889/udp/225.1.1.227:30120
@@ -1303,7 +1300,7 @@ http://cdnmg.secure.live.rtr-vesti.ru/hls/russia1_plus4/playlist_3.m3u8
 http://hlstv.brn.211.ru/239.211.2.2/stream.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Россия_HD.webp",Россия HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Россия_HD.webp",Россия HD [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://hlstv.brn.211.ru/239.211.200.2/stream.m3u8
@@ -1324,7 +1321,7 @@ http://hlstv.brn.211.ru/239.211.2.4/stream.m3u8
 http://hlstv.brn.211.ru/239.211.2.5/stream.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Культура.png",Россия K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist_3.m3u8
+http://a1566400114-s26881.cdn.ngenix.net/hls/russia_k/playlist_3.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Культура.png",Россия K (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://hlstv.brn.211.ru/239.211.2.6/stream.m3u8
@@ -1336,7 +1333,7 @@ http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 http://hlstv.brn.211.ru/239.211.2.7/stream.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.imgur.com/5D1gwiv.png",Россия РТР
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+http://a3569458063-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Karusel.png",Карусель (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/karusel/playlist.m3u8
@@ -1454,6 +1451,9 @@ http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Енисей.png",Енисей HD (Красноярск)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
+#EXTINF:-1 group-title="Russia" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/ТВК.png",ТВК HD (Красноярск)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://air.tvk6.ru/tvk24/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/8CHANNEL_KRSK.png",8 канал Красноярский край (Красноярск)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://80.65.18.213/perviy_molodeginyi_3100kb.m3u8
