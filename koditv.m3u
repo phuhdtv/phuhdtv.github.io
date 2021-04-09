@@ -1115,13 +1115,16 @@ http://dmitry-tv.my1.ru/his/01/CH_DW_ESPANOL.m3u8
 #EXTINF:-1 group-title="World TV" tvg-logo="https://i.ibb.co/TRHnsZx/dwnewslogobyvovanloc.png",DW Arabic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://dmitry-tv.my1.ru/his/01/CH_DW_ARABIC.m3u8
-#EXTINF:-1 group-title="World TV" tvg-logo="https://i.ibb.co/X43JVn9/euronewslogobyvovanloc.png",EURONEWS (Английский)
+#EXTINF:-1 group-title="World TV" tvg-logo="https://i.ibb.co/X43JVn9/euronewslogobyvovanloc.png",EURONEWS (ENG) [576p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://36.37.252.114:888/Apple/OneTV-047/playlist.m3u8
-#EXTINF:-1 group-title="World TV" tvg-logo="https://i.ibb.co/X43JVn9/euronewslogobyvovanloc.png",EURONEWS (Русский) [540p]
+#EXTINF:-1 group-title="World TV" tvg-logo="https://i.ibb.co/X43JVn9/euronewslogobyvovanloc.png",EURONEWS (ENG) [1080p]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="World TV" tvg-logo="https://i.ibb.co/X43JVn9/euronewslogobyvovanloc.png",EURONEWS (RU) [540p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8
-#EXTINF:-1 group-title="World TV" tvg-logo="https://i.ibb.co/X43JVn9/euronewslogobyvovanloc.png",EURONEWS (Русский) [576p]
+#EXTINF:-1 group-title="World TV" tvg-logo="https://i.ibb.co/X43JVn9/euronewslogobyvovanloc.png",EURONEWS (RU) [576p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://mfe.cliptv.az/dash/Evronovosti_SD.ism/playlist.mpd|User-agent=Mozilla/5.0
 #EXTINF:-1 group-title="World TV" tvg-logo="https://i.ibb.co/DLhCJ42/Fashion-TVlogobyvovanloc.png",FASHION TV
