@@ -122,6 +122,9 @@ http://quocthai.duckdns.org:18886/rtp/232.84.1.205:9204
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://i.ibb.co/khYzfXs/Viedramaslogobyvovanloc.png",VTVcab 10 HD-Vie DRAMAS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://live-vthn.vieon.vn:443/vtvcab/live/hd_vtvcab_10/TV_HD/hd_vtvcab_10_1080p/chunks.m3u8
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/VTVcab_11.png",VTVcab 11-GS SHOP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://5b0446c43ca13.streamlock.net/dn/htvmuasam.stream/playlist.m3u8
 #EXTINF:-1 group-title="VTVcab" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/VTVcab_11.png",VTVcab 11-GS SHOP [FPT]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://quangvinh997.duckdns.org:8889/udp/225.1.2.167:30120
@@ -1451,6 +1454,9 @@ http://hlstv.brn.211.ru/239.211.2.20/stream.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Москва%2024.png",Москва 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Russia" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/ТЕО-ТВ.png",ТЕО-ТВ (Москва)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://82.138.2.50:1935/live/TeoTV.stream_720p/playlist.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/ТСМ-10.png",ТСМ 10 (Новосибирск)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://serv30.vintera.tv:8081/stanciya_mir/mir/playlist.m3u8
@@ -1475,6 +1481,9 @@ http://air.tvk6.ru/tvk24/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/8CHANNEL_KRSK.png",8 канал Красноярский край (Красноярск)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://80.65.18.213/perviy_molodeginyi_3100kb.m3u8
+#EXTINF:-1 group-title="Russia" tvg-logo="http://fe-sib.svc.iptv.rt.ru/images/broadcastChannel1492751843663.png",РТС (Абакан)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://194.28.241.173:8080/consume/first
 #EXTINF:-1 group-title="Russia" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Че.png",Че (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/perec/playlist.m3u8
