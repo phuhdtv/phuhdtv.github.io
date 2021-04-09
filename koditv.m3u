@@ -917,6 +917,18 @@ https://livecdn.fptplay.net/sdc/yenbai_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="TH DIA PHUONG" tvg-logo="https://i.ibb.co/Pm92kRB/yenbaitvlogobyvovanloc.png",YEN BAI HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://yenbaitv.org.vn/hls/livestream.m3u8
+#EXTINF:-1 group-title="World TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/71/Aljazeera.svg",Aljazeera (Arabic)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://live-hls-web-aja.getaj.net/AJA/04.m3u8
+#EXTINF:-1 group-title="World TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png",Aljazeera Documentery
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://live-hls-web-ajd.getaj.net/AJD/01.m3u8
+#EXTINF:-1 group-title="World TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Aljazeera_eng.svg",Aljazeera (English)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 group-title="World TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/63/Al_Jazeera_Mubasher.png",Aljazeera Mubasher
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://live-hls-web-ajm.getaj.net/AJM/01.m3u8
 #EXTINF:-1 group-title="World TV" tvg-logo="https://i.ibb.co/D8VtZRB/ABCAustralialogobyvovanloc.png",ABC AUSTRALIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/qnetlive/australiaplus_hls.smil/chunklist_b2500000.m3u8
@@ -1448,9 +1460,6 @@ http://www.10kanal.ru/live/hls/k24.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://www.nalog.ru/cdn/image/1442279/original.jpg",Между.Net (Междуреченск)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/10_канал_(Новокузнецк).png",10 канал (Новокузнецк)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://quangvinh997.duckdns.org:8889/udp/225.1.1.100:30120
 #EXTINF:-1 group-title="Russia" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Енисей.png",Енисей HD (Красноярск)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
