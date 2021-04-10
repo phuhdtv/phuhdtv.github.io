@@ -797,7 +797,7 @@ http://113.161.4.48:8080/phuyen/tv.m3u8
 #EXTINF:-1 type="stream" group-title="TH DIA PHUONG" tvg-logo="https://i.ibb.co/MG4FS72/phuyentvlogobyvovanloc.png",PHU YEN HD [720p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sda/phuyen_2000.stream/chunklist.m3u8
-#EXTINF:-1 type="stream" group-title="TH DIA PHUONG" tvg-logo="https://i.ibb.co/PrY6ZQ7/quangbinhtvlogobyvovanloc.png",QUANG BINH
+#EXTINF:-1 type="stream" group-title="TH DIA PHUONG" tvg-logo="https://i.ibb.co/PrY6ZQ7/quangbinhtvlogobyvovanloc.png",QUANG BINH HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sda/quangbinh_2000.stream/chunklist.m3u8
 #EXTINF:-1 type="stream" group-title="TH DIA PHUONG" tvg-logo="https://i.ibb.co/SB6Ndr1/quangnamtvlogobyvovanloc.png",QUANG NAM
@@ -842,6 +842,9 @@ http://115.78.3.164:8135/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3
 #EXTINF:-1 type="stream" group-title="TH DIA PHUONG" tvg-logo="https://i.ibb.co/4T4V34k/sonlatvlogobyvovanloc.png",SON LA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sdc/sonla_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 type="stream" group-title="TH DIA PHUONG" tvg-logo="https://i.ibb.co/4T4V34k/sonlatvlogobyvovanloc.png",SON LA HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://203.171.21.203:1935/live/smil:STV.smil/chunklist_w1124521047_b1200000.m3u8
 #EXTINF:-1 type="stream" group-title="TH DIA PHUONG" tvg-logo="https://i.ibb.co/pvdnWvy/tayninhtvlogobyvovanloc.png",TAY NINH 11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sda/tayninhhd_2000.stream/chunklist.m3u8
@@ -1148,12 +1151,9 @@ http://36.37.252.114:888/Apple/OneTV-047/playlist.m3u8
 #EXTINF:-1 type="stream" group-title="World TV" tvg-logo="https://i.ibb.co/X43JVn9/euronewslogobyvovanloc.png",EURONEWS (ENG) [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 type="stream" group-title="World TV" tvg-logo="https://i.ibb.co/X43JVn9/euronewslogobyvovanloc.png",EURONEWS (RU) [540p]
+#EXTINF:-1 type="stream" group-title="World TV" tvg-logo="https://i.ibb.co/X43JVn9/euronewslogobyvovanloc.png",EURONEWS (RU) [Original]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8
-#EXTINF:-1 type="stream" group-title="World TV" tvg-logo="https://i.ibb.co/X43JVn9/euronewslogobyvovanloc.png",EURONEWS (RU) [576p]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://mfe.cliptv.az/dash/Evronovosti_SD.ism/playlist.mpd
 #EXTINF:-1 type="stream" group-title="World TV" tvg-logo="https://i.ibb.co/X43JVn9/euronewslogobyvovanloc.png",EURONEWS (RU) [ViNTERA.TV]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://serv30.vintera.tv:8081/restream/evronovosti/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMC8yMDIxIDg6MTE6MjIgQU0maGFzaF92YWx1ZT1XTk8zeHdSN1hUZ3phOStyTUJzRjdBPT0mdmFsaWRtaW51dGVzPTQ4MA==
