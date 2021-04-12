@@ -7,6 +7,6 @@ RU: Коллекция общедоступных IPTV каналов с вье�
 
 Адрес 2: http://bom.to/TVVietnga
 
-Link Backup: http://gg.gg/iptvvietnga
+Link Backup: http://bom.to/Koditv
 
 List FPT: https://bom.to/iptv-fpt
