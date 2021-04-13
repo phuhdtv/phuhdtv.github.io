@@ -464,9 +464,6 @@ http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://imgur.com/BQIrc6A.png",SCTV8 - VITV (Server 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://chungxda.github.io/m3u8/TV24/SCTV/SCTV8.m3u8
-#EXTINF:-1 group-title="SCTV" tvg-logo="https://imgur.com/BQIrc6A.png",SCTV8 - VITV (Server 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://quocthai.duckdns.org:18886/rtp/232.84.1.32:8166
 #EXTINF:0 tvg-id="sctv9" group-title="SCTV" tvg-logo="https://i.imgur.com/SMW1DEk.png",SCTV9 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://chungxda.github.io/m3u8/TV24/SCTV/SCTV9HD.m3u8
@@ -1033,9 +1030,6 @@ https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="blue_ant_extreme" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/RBVkmhz/Blue-ant-extremelogobyvovanloc.png",Blue Ant Extreme
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/8NkLGtv/Bloomberglogobyvovanloc.png",BLOOMBERG HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://mfe.cliptv.az/dash/Blomberg_HD.ism/playlist.mpd
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/8NkLGtv/Bloomberglogobyvovanloc.png",BLOOMBERG SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/qnetlive/bloomberg_hls.smil/chunklist_b2500000.m3u8
@@ -1059,7 +1053,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
 http://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="cartoonhd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/N3p6FbN/Cartoon-Networklogobyvovanloc.png",Cartoon Network HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://livecdn.fptplay.net/qnetlive/cartoonnetworkhd_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/hda3/cartoonnetworkhd_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="cartoonhd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/N3p6FbN/Cartoon-Networklogobyvovanloc.png",Cartoon Network HD (Server 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD/playlist.m3u8
@@ -1132,9 +1126,12 @@ https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="france_24" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/m8R3QjW/France24logobyvovanloc.png",France 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/world/france24_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="da_vinci_kids" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/6D31ZYJ/Davincikidslogobyvovanloc.png",Da Vinci Kids
+#EXTINF:-1 tvg-id="da_vinci_kids" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/6D31ZYJ/Davincikidslogobyvovanloc.png",Da Vinci Kids | 1080P
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="da_vinci_kids" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/6D31ZYJ/Davincikidslogobyvovanloc.png",Da Vinci Kids | 720P
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="nhk_world" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/P9Bg12T/NHKWorldlogobyvovanloc.webp",NHK WORLD JAPAN | 1080p
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://b-nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m3u8
@@ -2069,3 +2066,6 @@ http://edge04.beetv.kz/btv/SWM/Eurosport2/Eurosport2_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/8YJYhpX/football.png",Футбол
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s41/04.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/8YJYhpX/football.png",Футбол (Server 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://195.49.206.244:90/Futbol/index.m3u8
