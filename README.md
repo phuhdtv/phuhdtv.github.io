@@ -10,3 +10,5 @@ RU: Коллекция общедоступных IPTV каналов с вье�
 Link Backup: http://bom.to/Koditv
 
 List FPT: https://bom.to/iptv-fpt
+
+List vovanloc: http://gg.gg/iptvbyvovanlocpart2
