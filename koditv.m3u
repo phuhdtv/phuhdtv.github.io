@@ -421,9 +421,6 @@ https://live-vthcm.vieon.vn/htv_drm/live/htv_coop/TV_HD/htv_coop_480p/chunks.m3u
 #EXTINF:0 tvg-id="sctv1" group-title="SCTV" tvg-logo="https://i.imgur.com/oPjCa43.png",SCTV1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://chungxda.github.io/m3u8/TV24/SCTV/SCTV1HD.m3u8
-#EXTINF:-1 tvg-id="sctv2_hd" group-title="SCTV" tvg-logo="https://i.imgur.com/sURj0j4.png",SCTV2 SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://livecdn.fptplay.net/sda/sctv2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="sctv2_amc" group-title="SCTV"  tvg-logo="https://i.imgur.com/sURj0j4.png",SCTV2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://chungxda.github.io/m3u8/TV24/SCTV/SCTV2.m3u8
@@ -698,6 +695,9 @@ https://live-vthcm.vieon.vn/htv_drm/live/ha_nam/TV_HD/ha_nam_480p/chunks.m3u8
 #EXTINF:-1 tvg-id="hanoitv1" group-title="KÊNH ĐỊA PHƯƠNG"  tvg-logo="https://i.ibb.co/KXJY60J/Hanoi1logobyvovanloc.png",Hà Nội 1 SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sdc/hanoitv1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="hanoitv1" group-title="KÊNH ĐỊA PHƯƠNG"  tvg-logo="https://i.ibb.co/KXJY60J/Hanoi1logobyvovanloc.png",Hà Nội 1 SD (Server 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://live-vthcm.vieon.vn/htv_drm/live/ha_noi1/TV_HD/ha_noi1_480p/chunks.m3u8
 #EXTINF:-1 tvg-id="hanoitv1" group-title="KÊNH ĐỊA PHƯƠNG"  tvg-logo="https://i.ibb.co/KXJY60J/Hanoi1logobyvovanloc.png",Hà Nội 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8
