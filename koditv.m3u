@@ -1549,6 +1549,9 @@ rtmp://8knsk.cdnvideo.ru/8knsk-mpegts/stream1
 #EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="http://fe-sib.svc.iptv.rt.ru/images/broadcastChannel1492751843663.png",РТС (Хакасия)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://194.28.241.173:8080/consume/first
+#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="http://fe-sib.svc.iptv.rt.ru/images/broadcastChannel1436853093668.png",Томское Время
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://gg.gg/tomsk_time
 #EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Че.png",Че (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://mfe.cliptv.az/dash/Ce_SD.ism/playlist.mpd
@@ -1729,6 +1732,9 @@ https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://lion-tv.com/uploads/posts/2016-09/1472964269_178.png" group-title="LIÊN BANG NGA",Радио Шансон
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LIÊN BANG NGA",1HD MUSIC TELEVISION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/TopShop.png",Top Shop TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://live-topshop.cdnvideo.ru/topshop/topshop_576p/playlist.m3u8
