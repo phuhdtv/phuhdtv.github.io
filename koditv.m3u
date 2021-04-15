@@ -726,9 +726,6 @@ https://live-vthcm.vieon.vn/htv_drm/live/ha_tinh/TV_HD/ha_tinh_480p/chunks.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/fvbQFZB/haiduongtvlogobyvovanloc.png",Hải Dương
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sdc/haiduong_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/fvbQFZB/haiduongtvlogobyvovanloc.png",Hải Dương (Server 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://gg.gg/Hai-Duong
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/DpPbLht/haiphongtvlogobyvovanloc.png",Hải Phòng HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://live.thhp.vn/thp/index.m3u8
@@ -774,9 +771,6 @@ https://livecdn.fptplay.net/sdc/kontum_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/7Cy4H5t/laichautvlogobyvovanloc.png",Lai Châu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sdc/laichau_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/7Cy4H5t/laichautvlogobyvovanloc.png",Lai Châu (Server 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://gg.gg/Lai-Chau
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/TkbMCHQ/laocaitvlogobyvovanloc.png",Lào Cai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sdc/laocai_2000.stream/chunklist.m3u8
@@ -1109,6 +1103,9 @@ http://36.37.252.114:888/Apple/OneTV-032/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://36.37.252.114:888/Apple/OneTV-047/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/X43JVn9/euronewslogobyvovanloc.png",EURONEWS Russia
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+http://ott-cdn.ucom.am/s89/04.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/X43JVn9/euronewslogobyvovanloc.png",EURONEWS Moscow
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8
 #EXTINF:-1 tvg-id="foxhd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/KjFZBbx/foxhdlogobyvovanloc.png",FOX HD | 1080P
@@ -1135,9 +1132,18 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="foxlifehd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/tZJbf62/Foxlifelogobyvovanloc.png",FOX LIFE | 720P
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="france_24" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/m8R3QjW/France24logobyvovanloc.png",France 24
+#EXTINF:-1 tvg-id="france_24" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/m8R3QjW/France24logobyvovanloc.png",FRANCE 24 English
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/world/france24_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/m8R3QjW/France24logobyvovanloc.png",FRANCE 24 English [S2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/m8R3QjW/France24logobyvovanloc.png",FRANCE 24 Francais
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/m8R3QjW/France24logobyvovanloc.png",FRANCE 24 Arabic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-id="da_vinci_kids" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/6D31ZYJ/Davincikidslogobyvovanloc.png",Da Vinci Kids | 1080P
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
