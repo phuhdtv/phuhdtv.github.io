@@ -1206,6 +1206,9 @@ https://livecdn.fptplay.net/event/eventExpire_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Sự kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/80/FPT_New_Logo.png",EVENT 5 HD | e-Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/schedule/esport01_2000.stream/chunklist.m3u8
+#EXTINF:0 group-title="Sự kiện" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Eredivisie.png",VĐQG Hà Lan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://live-vthcm.vieon.vn/htv_drm/live_event/trailer_halan/event/trailer_halan_1080p/chunks.m3u8
 
 #EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.imgur.com/iW5vhkb.png",Первый канал (СНГ)
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
@@ -1772,10 +1775,10 @@ http://ott-cdn.ucom.am/s55/04.m3u8
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s62/04.m3u8
 
-#EXTINF:-1 group-title="Kazakhstan" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/KZ/Qazaqstan.png",Qazaqstan HD (KZ)
+#EXTINF:-1 group-title="Kazakhstan" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/KZ/Qazaqstan.png",Qazaqstan (KZ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://qazaqstantv-stream.daitsuna.net/qazaqstantv2/qazaqstantv_1080/index.m3u8
-#EXTINF:-1 group-title="Kazakhstan" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/KZ/Хабар_(KZ).png",Хабар (KZ)
+#EXTINF:-1 group-title="Kazakhstan" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/KZ/Хабар.png",Хабар (KZ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://sc.id-tv.kz/Khabar_34_35.m3u8
 #EXTINF:-1 group-title="Kazakhstan" tvg-logo="https://i.imgur.com/tEH4vmX.png",Хабар 24 (KZ)
@@ -1826,7 +1829,7 @@ https://sc.id-tv.kz/7_kanal_38_39.m3u8
 #EXTINF:-1 group-title="Kazakhstan" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/KZ/31%20KZ.png",31 канал (KZ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://sc.id-tv.kz/31Kanal_38_39.m3u8
-#EXTINF:-1 group-title="Kazakhstan" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/KZ/СТВ%20(KZ).png",СТВ (KZ)
+#EXTINF:-1 group-title="Kazakhstan" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/KZ/СТВ.png",СТВ (KZ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://sc.id-tv.kz/STV_38_39.m3u8
 #EXTINF:-1 group-title="Kazakhstan" tvg-logo="https://i.imgur.com/GXlYCXz.jpg",Almaty TV (KZ)
@@ -1893,21 +1896,27 @@ https://sc.id-tv.kz/TuranTV_36_37.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://sc.id-tv.kz/ToiDuman_36_37.m3u8
 
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Премьер.png",Матч! Премьер (Russian Premier League)
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Премьер.png",Матч! Премьер (Giải Bóng Đá Nga)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://95-213-172-213.livesports24.online/mpremierrus.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Премьер.png",Матч! Премьер (Giải Bóng Đá Nga) (Server 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mfe.cliptv.az/dash/Match_Premyer_HD.ism/playlist.mpd
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Match%2521_Strana.png",Матч! Страна
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://95-213-172-213.livesports24.online/mnashsport.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Матч!%20Арена.png",Матч! Арена
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Match%2521_Strana.png",Матч! Страна (Server 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://51.68.141.106:8081/tv/match-arena/playlist.m3u8
+http://mfe.cliptv.az/dash/MATCH_NASH_SPORT_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Матч!%20Арена.png",Матч! Арена
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://51.68.141.106:8081/tv/match-arena/playlist.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Матч!%20Арена.png",Матч! Арена (Server 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://95-213-172-213.livesports24.online/rumatcharena.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Матч!%20Арена.png",Матч! Арена (Server 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://51.68.141.106:8081/tv/match-arena/playlist.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Матч!%20Арена.png",Матч! Арена (Server 3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mfe.cliptv.az/dash/Match_Arena_HD.ism/playlist.mpd
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Планета.png",Матч! Планета
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://51.68.141.106:8081/tv/match-planeta/playlist.m3u8
@@ -1917,6 +1926,9 @@ https://95-213-224-183.livesports24.online/matchplanetarus.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Матч!_Боец.png",Матч! Боец
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://95-213-224-179.livesports24.online/matchboetsru.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Матч!_Боец.png",Матч! Боец (Server 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mfe.cliptv.az/dash/Matc_Boec_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Матч!%20Игра.png",МАТЧ! Игра HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://95-213-172-213.livesports24.online/migra.m3u8
@@ -1932,7 +1944,7 @@ https://95-213-224-183.livesports24.online/rumatchf3.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/KXL_HD.jpg",КХЛ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://95-213-224-179.livesports24.online/khlhdru.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/CK9FQMK/QAZSPORTHD-BEARTV.png",QAZSPORT HD
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/CK9FQMK/QAZSPORTHD-BEARTV.png",QAZSPORT (Giải Bóng Đá Kazakhstan)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://92.46.127.146:8080/qazsport/index.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Бокс_ТВ.png",Бокс ТВ
