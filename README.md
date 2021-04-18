@@ -11,4 +11,4 @@ Link Backup: http://bom.to/Koditv
 
 List FPT: https://bom.to/iptv-fpt
 
-List vovanloc: http://gg.gg/iptvbyvovanlocpart2
+List iptvbyvietngatv: http://gg.gg/iptvbyvietngatv
