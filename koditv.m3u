@@ -826,9 +826,6 @@ https://livecdn.fptplay.net/sda/quangninh3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/SNCzPgM/soctrang1logobyvovanloc.png",Sóc Trăng 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sda/soctrang_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/SNCzPgM/soctrang1logobyvovanloc.png",Sóc Trăng 1 (Server 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://115.78.3.164:8135/liveevent.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/8gLRG1f/soctrang2tvlogobyvovanloc.png",Sóc Trăng 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://115.78.3.164:8135/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8
@@ -977,6 +974,9 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="abc_australia" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/D8VtZRB/ABCAustralialogobyvovanloc.png",ABC Australia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/qnetlive/australiaplus_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="cnn" group-title="KÊNH QUỐC TẾ" tvg-logo="https://imgur.com/LBU2zCq.png",Baby TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://36.37.252.114:888/Apple/OneTV-100/playlist.m3u8
 #EXTINF:-1 tvg-id="boomerang" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/6PcT36X/boomeranglogobyvovanloc.png",BOMMERANG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
