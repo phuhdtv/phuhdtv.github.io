@@ -12,3 +12,5 @@ Link Backup: http://bom.to/Koditv
 List FPT: https://bom.to/iptv-fpt
 
 List iptvbyvietngatv: http://gg.gg/iptvbyvietngatv
+
+Link Channel One Russia (OPT1): http://gg.gg/HaNoiIPTV-OPT1-Pervyi_Kanal
