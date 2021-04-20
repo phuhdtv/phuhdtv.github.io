@@ -1437,9 +1437,6 @@ http://84.22.141.170/8kanal-krsk.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG TIẾNG NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/8_канал_НСК.jpg",8 Канал Новосибирск
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 rtmp://8knsk.cdnvideo.ru/8knsk-mpegts/stream1
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG TIẾNG NGA" tvg-logo="http://fe-sib.svc.iptv.rt.ru/images/broadcastChannel1492751843663.png",РТС (Хакасия)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://194.28.241.173:8080/consume/first
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG TIẾNG NGA" tvg-logo="http://fe-sib.svc.iptv.rt.ru/images/broadcastChannel1436853093668.png",Томское Время
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://gg.gg/tomsk_time
@@ -2082,3 +2079,6 @@ http://ott-cdn.ucom.am/s81/04.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/vVwVcHw/SETANTA2-BEARTV.png",Setanta Sports 2
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s82/04.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/m8R3QjW/France24logobyvovanloc.png",FRANCE 24 Espanol
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
