@@ -1210,7 +1210,7 @@ http://livecdn.fptplay.net/tvc/sukien03_2000.stream/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/event/eventExpire_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-name="Channel One" group-title="LIÊN BANG NGA" tvg-logo="https://i.imgur.com/iW5vhkb.png",Первый канал 
+#EXTINF:-1 tvg-name="Channel One" group-title="LIÊN BANG NGA" tvg-logo="https://i.imgur.com/iW5vhkb.png",Первый канал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://51.68.141.106:8081/tv/pervyiy-kanal/playlist.m3u8
 #EXTINF:-1 tvg-name="Channel One" group-title="LIÊN BANG NGA" tvg-logo="https://i.imgur.com/iW5vhkb.png",Первый канал (СНГ)
@@ -2018,6 +2018,27 @@ https://dfm.hostingradio.ru/dfm96.aacp
 #EXTINF:-1 group-title="RADIO VIỆT NGA" tvg-logo="http://amradio.ru/uploads/img/russia/record-russia-novosibirsk.jpg",Радио Record
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://air.radiorecord.ru:8101/rr_128
+#EXTINF:-1 group-title="RADIO VIỆT NGA" tvg-logo="http://amradio.ru/uploads/img/russia/kuzbassfm-kemerovo.jpg",Кузбасс FM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://212.75.194.94:8000/KuzbassFM
+#EXTINF:-1 group-title="RADIO VIỆT NGA" tvg-logo="http://amradio.ru/uploads/img/russia/pravilnoe-radio-kemerovo.jpg",Правильное Радио
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://78.41.94.37:8332
+#EXTINF:-1 group-title="RADIO VIỆT NGA" tvg-logo="http://amradio.ru/uploads/img/russia/radio-vanya-russia-kemerovo.jpg",Ваня
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://51.68.141.106:8081/radio/vanya256/icecast.audio
+#EXTINF:-1 group-title="RADIO VIỆT NGA" tvg-logo="http://amradio.ru/uploads/img/russia/iskatel-russia-tomsk.png",Искатель
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://iskatel.hostingradio.ru:8015/iskatel-128.mp3
+#EXTINF:-1 group-title="RADIO VIỆT NGA" tvg-logo="http://amradio.ru/uploads/img/russia/maximum-russia-tomsk.jpg",Maximum
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://maximum.hostingradio.ru/maximum128.mp3
+#EXTINF:-1 group-title="RADIO VIỆT NGA" tvg-logo="http://amradio.ru/uploads/img/russia/echo-moscow-russia-tomsk.jpg",Эхо Москвы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://icecast-echomsksni.cdnvideo.ru/stream
+#EXTINF:-1 group-title="RADIO VIỆT NGA" tvg-logo="http://amradio.ru/uploads/img/russia/apeks-radio-novokuzneck.jpg",Апекс
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://webcast.apexradio.ru:8000/NvkzMp3
 
 #EXTINF:-1 group-title="KÊNH VIỆT NGA TV" tvg-logo="https://i.ibb.co/9TwvD6b/Vietnga-TV-Logo.png",Việt Nga TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -2025,30 +2046,18 @@ http://dmitry-tv.ddns.net:8666/his/CH_D-TV6
 #EXTINF:-1 group-title="KÊNH VIỆT NGA TV" tvg-logo="https://i.ibb.co/9TwvD6b/Vietnga-TV-Logo.png",Việt Nga TV Music HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://dmitry-tv.ddns.net:8000/his/CH_DMITRY-TVHD
-#EXTINF:-1 group-title="KÊNH VIỆT NGA TV" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/KZ/Qazaqstan.png",Qazaqstan (KZ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://qazaqstantv-stream.daitsuna.net/qazaqstantv2/qazaqstantv_1080/index.m3u8
 #EXTINF:-1 group-title="KÊNH VIỆT NGA TV" tvg-logo="https://i.imgur.com/tEH4vmX.png",Хабар 24 HD (KZ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH VIỆT NGA TV" tvg-logo="https://i.imgur.com/tEH4vmX.png",Хабар 24 HD (KZ) (Server 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://live-24kz.cdnvideo.ru/24kz/24kz.sdp/playlist.m3u8
-#EXTINF:-1 group-title="KÊNH VIỆT NGA TV" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/KZ/Balapan.png",Balapan (KZ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://balapantv-stream.daitsuna.net/balapantv/balapantv/index.m3u8
 #EXTINF:-1 group-title="KÊNH VIỆT NGA TV" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/KZ/Ел_Арна.webp",Ел Арна (KZ) (Server 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://elarna-live.cdnvideo.ru/elarna/elarna/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH VIỆT NGA TV" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Первый%20Канал%20Евразия.png",Первый канал Евразия (KZ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
-#EXTINF:-1 group-title="KÊNH VIỆT NGA TV" tvg-logo="https://i.ibb.co/fG4N40N/HD.png",Первый канал Евразия HD (KZ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://1tvkz-stream.daitsuna.net/1tvkz/1tv_720/index.m3u8
-#EXTINF:-1 group-title="KÊNH VIỆT NGA TV" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/KZ/Astana_TV.png",Astana TV (KZ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://astanatv-stream.daitsuna.net/live/astanatv_480/index.m3u8
 #EXTINF:-1 group-title="KÊNH VIỆT NGA TV" tvg-logo="https://i.imgur.com/BGy7EMr.png",КТК (KZ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://wz-kt.ktk.kz:1935/ktklive/smil:ktk-live.smil/chunklist_b3064000_slrus.m3u8
