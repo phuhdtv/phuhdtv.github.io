@@ -1101,6 +1101,9 @@ http://mfe.cliptv.az/dash/Match_HD.ism/playlist.mpd
 #EXTINF:-1 group-title="Dành cho người Việt Nam ở Nga" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/НТВ_Мир.png",НТВ Мир
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s17/04.m3u8
+#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.imgur.com/i6wrwKy.png",НТВ (+2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+https://s1.idata.uz:443/stch_temp26/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.imgur.com/i6wrwKy.png",НТВ (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/ntv/playlist.m3u8
@@ -1257,6 +1260,7 @@ https://radio-live-mg.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/ТЕО-ТВ.png",ТЕО-ТВ Москва (Kênh Thủ Đô)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://82.138.2.50:1935/live/TeoTV.stream_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rc9cpSg/VOLGOGRAD-1.png" group-title="KÊNH BIÊN GIỚI NGA KAZAKHSTAN",Волгоград 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://213.234.30.38/Live/1000k/stream.m3u8
@@ -1356,6 +1360,9 @@ https://bl.uma.media/live/317805/HLS/4614144_3,2883584_2,1153024_1/1613019214/37
 https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
 #EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/wwTq2Lr/Disney-Channel-BEARTV.png",Disney Channel Russia (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+https://s1.idata.uz:443/stch_temp18/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/wwTq2Lr/Disney-Channel-BEARTV.png",Disney Channel Russia (+2) (Server 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/Disney_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/360.png",360°
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
@@ -1434,6 +1441,9 @@ http://mfe.cliptv.az/dash/OceanTV_SD.ism/playlist.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/Nostalgiya_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.ibb.co/cvKYWFL/61-Ohota-i-Rybalka.png",Охота и Рыбалка
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+https://s3.idata.uz:443/dars5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.ibb.co/cvKYWFL/61-Ohota-i-Rybalka.png",Охота и Рыбалка (Server 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/Oxota_i_Ribalka_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/vLpm8tN.png",TV BRICS English
@@ -1630,6 +1640,9 @@ http://mfe.cliptv.az/dash/Kinokomediya_SD.ism/playlist.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/Lyubimoe_Kino_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="KÊNH PHIM LB NGA" tvg-logo="https://i.ibb.co/6BFNjRL/72-Nashe-novoe-kino.png",НАШЕ НОВОЕ КИНО
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+https://s1.idata.uz:443/stch_temp6/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KÊNH PHIM LB NGA" tvg-logo="https://i.ibb.co/6BFNjRL/72-Nashe-novoe-kino.png",НАШЕ НОВОЕ КИНО (Server 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/Nashe_Novoe_Kino_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="KÊNH PHIM LB NGA" tvg-logo="https://i.ibb.co/TtT1gmy/58-Rodnoje-kino.png",РОДНОЕ КИНО
