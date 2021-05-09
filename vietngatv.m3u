@@ -809,15 +809,15 @@ http://liveru.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/7Cr2pQt/CGTN-Documentary-logo.png",CGTN Documentary
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://livedoc.cgtn.com/1000d/prog_index.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/X43JVn9/euronewslogobyvovanloc.png",EURONEWS
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://ott-cdn.ucom.am/s89/04.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/X43JVn9/euronewslogobyvovanloc.png",EURONEWS (Server 2)
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/X43JVn9/euronewslogobyvovanloc.png",EURONEWS (540p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/X43JVn9/euronewslogobyvovanloc.png",EURONEWS (Server 3)
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/X43JVn9/euronewslogobyvovanloc.png",EURONEWS (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/Evronovosti_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/X43JVn9/euronewslogobyvovanloc.png",EURONEWS (480p)
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+http://ott-cdn.ucom.am/s89/04.m3u8
 #EXTINF:-1 tvg-id="foxhd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/Q6sGxxh/FOX-BEARTV.png",FOX HD | 1080P
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
@@ -1065,19 +1065,19 @@ http://livecdn.fptplay.net/tvc/sukien03_2000.stream/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://livecdn.fptplay.net/event/eventExpire_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.imgur.com/iW5vhkb.png",Первый канал (СНГ) (576p)
+#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/f9dKsBn/image.png",Первый канал (СНГ) (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://s1.idata.uz/stch_temp23/rewind-7200.m3u8
-#EXTINF:-1 group-title="Dành cho người Việt Nam ở Nga" tvg-logo="https://i.imgur.com/iW5vhkb.png",Первый канал (СНГ) (480p)
+#EXTINF:-1 group-title="Dành cho người Việt Nam ở Nga" tvg-logo="https://i.ibb.co/f9dKsBn/image.png",Первый канал (СНГ) (480p)
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s14/04.m3u8
-#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Первый_канал_HD.png",Первый Канал HD
+#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/cYzMtY8/HD.png",Первый Канал HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/Perviy_Kanal_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Россия%201.png",Россия 1 (+2)
+#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/cF2XtFn/RUS-1.png",Россия 1 (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://s1.idata.uz/stch_temp25/tracks-v1a1/rewind-7200.m3u8
-#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Россия%201.png",Россия 1 (+4)
+#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/cF2XtFn/RUS-1.png",Россия 1 (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia1_plus4/playlist_3.m3u8
 #EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/nRHnsyk/1-HD.png",Россия 1 HD
@@ -1086,19 +1086,19 @@ http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/nRHnsyk/1-HD.png",Россия 1 HD (Server 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/Rossiya_1_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Match!.png",Матч!
+#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/f8RwSSy/image.png",Матч!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://82.200.80.142:8080/rus2/mono.m3u8
-#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Match!.png",Матч! (Server 2)
+#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/f8RwSSy/image.png",Матч! (Server 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://uiptv.do.am/1ufc/000000003/playlist.m3u8
-#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Match!.png",Матч! HD
+#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/f8RwSSy/image.png",Матч! HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://bl.uma.media/live/133529/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
-#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Match!.png",Матч! HD (Server 2)
+#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/f8RwSSy/image.pngng",Матч! HD (Server 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/Match_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="Dành cho người Việt Nam ở Nga" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/НТВ_Мир.png",НТВ Мир
+#EXTINF:-1 group-title="Dành cho người Việt Nam ở Nga" tvg-logo="https://i.ibb.co/p0fZXFP/image.png",НТВ Мир
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s17/04.m3u8
 #EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.imgur.com/i6wrwKy.png",НТВ (+2)
@@ -1107,7 +1107,7 @@ https://s1.idata.uz:443/stch_temp26/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.imgur.com/i6wrwKy.png",НТВ (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/ntv/playlist.m3u8
-#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/НТВ_HD.png",НТВ HD
+#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/ZM6y3C6/HD.png",НТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/HTB_HD.ism/playlist.mpd
 #EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.imgur.com/qswopzO.png",Пятый канал (+2)
@@ -1137,10 +1137,10 @@ http://mfe.cliptv.az/dash/Rossiya_24_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Dành cho người Việt Nam ở Nga" tvg-logo="https://i.imgur.com/5D1gwiv.png",Россия РТР
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Karusel.png",Карусель (+2)
+#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/wRBbLRC/image.png",Карусель (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/Karusel_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Karusel.png",Карусель (+4)
+#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/wRBbLRC/image.png",Карусель (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/karusel/playlist.m3u8
 #EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.imgur.com/i2cL9dE.png",ОТР
@@ -1176,7 +1176,7 @@ http://mfe.cliptv.az/dash/Ren_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/VvQSjs9/REN-TV.png",РЕН ТВ (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/ren/playlist.m3u8
-#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/СПАС.png",СПАС
+#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/R9KSBdG/image.png",СПАС
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Dành cho người Việt Nam ở Nga" tvg-logo="https://i.imgur.com/pJNWVAz.png",СТС International
@@ -1188,19 +1188,19 @@ http://mfe.cliptv.az/dash/STS_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.imgur.com/pJNWVAz.png",СТС (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/sts/playlist.m3u8
-#EXTINF:-1 group-title="Dành cho người Việt Nam ở Nga" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Домашний.png",Домашний International
+#EXTINF:-1 group-title="Dành cho người Việt Nam ở Nga" tvg-logo="https://i.ibb.co/S5hYh29/image.png",Домашний International
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s88/04.m3u8
-#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Домашний.png",Домашний (+2)
+#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/S5hYh29/image.png",Домашний (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/Domashniy_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Домашний.png",Домашний (+4)
+#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/S5hYh29/image.png",Домашний (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/dom/playlist.m3u8
-#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/ТВ-3.png",ТВ-3 (+4)
+#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/DbrG6zG/3.png",ТВ-3 (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/tv3/playlist.m3u8
-#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/TV3HD.png",ТВ3 HD
+#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/zXdXbgM/TV3HD.png",ТВ3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://bl.uma.media/live/407373/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013859/5fdc4b8080160a4e56933b0402133da4/playlist.m3u8
 #EXTINF:-1 group-title="Dành cho người Việt Nam ở Nga" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Пятница_International.png",Пятница! International
@@ -1212,7 +1212,7 @@ http://mfe.cliptv.az/dash/Pyatnica_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.imgur.com/CNOYAUN.png",Пятница! (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/pyatnica/playlist.m3u8
-#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Пятница!_HD.png",Пятница! HD
+#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/g4wQKcs/HD.png",Пятница! HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://bl.uma.media/live/410336/HLS_R/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613010957/e2cf94524a064ecb46389bb54a359d9a/playlist.m3u8
 #EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.imgur.com/n9zLVyR.png",Звезда
@@ -1230,19 +1230,19 @@ http://ott-cdn.ucom.am/s39/04.m3u8
 #EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.imgur.com/yqXhUto.png",МИР (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
-#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Мир_HD.png",МИР HD
+#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/Dt7Lgh2/HD.png",МИР HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 group-title="Dành cho người Việt Nam ở Nga" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/ТНТ.png",ТНТ International
+#EXTINF:-1 group-title="Dành cho người Việt Nam ở Nga" tvg-logo="https://i.ibb.co/Jpv9Z89/International.png",ТНТ International
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s19/04.m3u8
-#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.imgur.com/rdLzrpr.png",ТНТ (+4)
+#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/KFP9z4X/image.png",ТНТ (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/tnt/playlist.m3u8
-#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/ТНТ%20HD.png",ТНТ HD
+#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/LS7p0Zb/HD.png",ТНТ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://bl.uma.media/live/410338/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013807/79ad96b5b87fdce129191b83aaf2fb46/playlist.m3u8?s=disabled
-#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/ТНТ%20HD.png",ТНТ HD (Server 2)
+#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/LS7p0Zb/HD.png",ТНТ HD (Server 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/TNT_HD.ism/playlist.mpd
 #EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.imgur.com/n7bGFXj.png",МУЗ ТВ
@@ -1300,56 +1300,56 @@ http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/chunklist_b7192000.m
 #EXTINF:-1 group-title="KÊNH BIÊN GIỚI NGA KAZAKHSTAN" tvg-logo="https://i.ibb.co/GQT5C8p/TSM.png",СТС-МИР (Новосибирск)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://serv30.vintera.tv:8081/stanciya_mir/mir/playlist.m3u8
-#EXTINF:-1 group-title="KÊNH BIÊN GIỚI NGA KAZAKHSTAN" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Катунь_24.webp",Катунь 24 (Барнаул)
+#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/5xPJKm9/8.jpg",8 Канал Новосибирск
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+rtmp://8knsk.cdnvideo.ru/8knsk-mpegts/stream1
+#EXTINF:-1 group-title="KÊNH BIÊN GIỚI NGA KAZAKHSTAN" tvg-logo="https://i.ibb.co/Jc65Jvg/24.webp",Катунь 24 (Барнаул)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://live.katun24.ru:8082/katun/katun/index.m3u8
 
-#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Кузбасс_1.png",Кузбасс 1 (Кемерово)
+#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/prkG8Tk/image.png",Кузбасс 1 (Кемерово)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://kuzbass1.ru:8082/10kanal/k24_576/playlist.m3u8
-#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Кузбасс_1.png",Кузбасс 1 HD (Кемерово)
+#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/prkG8Tk/image.png",Кузбасс 1 HD (Кемерово)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://www.10kanal.ru/live/hls/k24.m3u8
 #EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/xSxBWnY/Mnet.jpg",Между.Net (Междуреченск)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8
-#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/10_канал_Новокузнецк.png",10 канал (Новокузнецк)
+#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/wKzZyvh/10.png",10 канал (Новокузнецк)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://kuzbass1.ru:8082/10kanal/10kanal_720/playlist.m3u8
-#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Енисей.png",Енисей (Красноярск) (HD)
+#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/0cYdNc3/image.png",Енисей (Красноярск) (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
-#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/ТВК.png",ТВК (Красноярск)
+#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/4TXRNdf/image.png",ТВК (Красноярск)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://air.tvk6.ru/tvk24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/ТВК.png",ТВК (Красноярск) (HD)
+#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/4TXRNdf/image.png",ТВК (Красноярск) (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://air.tvk6.ru/tvk24/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Афонтово.png",Афонтово (Красноярск)
+#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/z8MFCgK/image.png",Афонтово (Красноярск)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://xstream.afontovo.ru/afontovo_ya.m3u8
-#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/8CHANNEL_KRSK.png",8 канал Красноярский край (Красноярск)
+#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/88TjXv7/8-CHANNEL-KRSK.png",8 канал Красноярский край (Красноярск)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://80.65.18.213/perviy_molodeginyi_3100kb.m3u8
-#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/8CHANNEL_KRSK.png",8 канал Красноярский край (Красноярск) (Server 2)
+#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/88TjXv7/8-CHANNEL-KRSK.png",8 канал Красноярский край (Красноярск) (Server 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://84.22.141.170/8kanal-krsk.m3u8
-#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/8_канал_НСК.jpg",8 Канал Новосибирск
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-rtmp://8knsk.cdnvideo.ru/8knsk-mpegts/stream1
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/ТНВ-Планета.png" group-title="LIÊN BANG NGA",ТНВ Планета
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Db7xDYJ/image.png" group-title="LIÊN BANG NGA",ТНВ Планета
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://tnv.bonus-tv.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Че.png",Че (+2)
+#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/Ks7H7kd/image.png",Че (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/Ce_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Че.png",Че (+4)
+#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/Ks7H7kd/image.png",Че (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/perec/playlist.m3u8
-#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/STS%20Love.png",СТС Love (+2)
+#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/zHSZHzW/Love.png",СТС Love (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/STS_Love_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/ТНТ4.png",ТНТ4 HD
+#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.imgur.com/rdLzrpr.png",ТНТ4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d161f37174905bc712e81b60d3411fc1/playlist.m3u8
 #EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/DrvTgDc/2x2.png",2x2
@@ -1358,7 +1358,7 @@ http://mfe.cliptv.az/dash/2x2_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/DrvTgDc/2x2.png",2x2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://bl.uma.media/live/317805/HLS/4614144_3,2883584_2,1153024_1/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8
-#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Суббота.png",Суббота HD
+#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/qrLb5kL/image.png",Суббота HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
 #EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/wwTq2Lr/Disney-Channel-BEARTV.png",Disney Channel Russia (+2)
@@ -1367,13 +1367,13 @@ https://s1.idata.uz:443/stch_temp18/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/wwTq2Lr/Disney-Channel-BEARTV.png",Disney Channel Russia (+2) (Server 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/Disney_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/360.png",360°
+#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/fXXMxB4/360-HD.png",360°
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://video1.in-news.ru/360/index.m3u8
-#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/360.png",360° HD
+#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/fXXMxB4/360-HD.png",360° HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
-#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/360%20Новости.png",360° Новости HD
+#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/NZncqwR/360.png",360° Новости HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
 #EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/SnfcBkH/rutv-TV.png",RU.TV
@@ -1388,56 +1388,56 @@ http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
 #EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.imgur.com/AGj8EJF.png",РБК (Server 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/RBK_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/IZ.png",Известия
+#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.imgur.com/o4Julue.jpg",Известия
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/IZ.png",Известия HD
+#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.imgur.com/o4Julue.jpg",Известия HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Mir_24.png",МИР 24
+#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/tcBDJxp/24.png",МИР 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/MIR24_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Mir_24.png",МИР 24 HD
+#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/tcBDJxp/24.png",МИР 24 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Mir_Premium.png",МИР PREMIUM HD
+#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/qC2FQn9/Premium.png",МИР PREMIUM HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img.vintera.tv/img/ico/1rnk.png" group-title="LIÊN BANG NGA",Первый российский национальный канал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://serv25.vintera.tv:8081/1pnk/1pnk/playlist.m3u8
 
-#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Красная_линия.png",Красная линия
+#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.ibb.co/SJXMhFD/image.png",Красная линия
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
-#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/ЛДПР_ТВ.png",ЛДПР ТВ
+#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.ibb.co/5j45mJB/image.png",ЛДПР ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/playlist.m3u8
-#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/ЛДПР_ТВ.png",ЛДПР ТВ HD
+#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.ibb.co/5j45mJB/image.png",ЛДПР ТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
-#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Вместе-РФ.png",Вместе-РФ HD
+#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.ibb.co/9N1cmDH/image.png",Вместе-РФ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://uiptv.do.am/1ufc/118056781/playlist.m3u8
-#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Вместе-РФ.png",Вместе-РФ HD (Server 2)
+#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.ibb.co/9N1cmDH/image.png",Вместе-РФ HD (Server 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://cdn-01.bonus-tv.ru:8080/vmesterf/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Дождь.png" group-title="KÊNH ĐẶC SẮC",ДОЖДЬ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4WDCB7Z/image.png" group-title="KÊNH ĐẶC SẮC",ДОЖДЬ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://a3569457435-s78511.cdn.ngenix.net/open/_definst_/TVRain_noaudio/chunklist_DVR.m3u8
-#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Союз.webp",Союз
+#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.ibb.co/LSHq0Tr/image.png",Союз
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.ibb.co/x2jQMqf/103-Moja-Planeta.png",Моя планета
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Просвещение.png",Просвещение
+#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.ibb.co/B22d9YF/image.png",Просвещение
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://cdn-01.bonus-tv.ru:8080/prosveschenie_edge/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Ocean_TV.png",Ocean TV
+#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.ibb.co/zFcQwQF/Ocean-TV.png",Ocean TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://91.192.168.242:9091
-#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Ocean_TV.png",Ocean TV (Server 2)
+#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.ibb.co/zFcQwQF/Ocean-TV.png",Ocean TV (Server 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/OceanTV_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.ibb.co/XkYnRKD/12-Nostalgija.png",Ностальгия
@@ -1461,28 +1461,28 @@ https://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/vLpm8tN.png",TV BRICS Chinese
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Nano.png",NANO TV
+#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.ibb.co/0BYSS4T/Nano.png",NANO TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://nano.teleservice.su:8080/hls/nano.m3u8
-#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Дикий.png",Дикий
+#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.ibb.co/51SVQMw/image.png",Дикий
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/Dikiy_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Авто24.png",АВТО 24
+#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.ibb.co/64p49ZH/24.png",АВТО 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/Avto_24_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Auto_Plus_.png",Авто Плюс
+#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.ibb.co/f8PgDn2/Auto-Plus.png",Авто Плюс
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/Avto_Plus_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Загородная_Жизнь.png",Загородная жизнь
+#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.ibb.co/p0tCHQg/image.png",Загородная жизнь
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/Zagorodnaya_Jizn_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Kukhnya_TV.png",Кухня ТВ
+#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.ibb.co/Tb2mJyq/Kukhnya-TV.png",Кухня ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/Kuxnya_TV_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Телекафе.png",ТЕЛЕКАФЕ
+#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.ibb.co/88rCgBG/image.png",ТЕЛЕКАФЕ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/TeleKafe_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Телекафе.png",ТЕЛЕКАФЕ (Server 2)
+#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.ibb.co/88rCgBG/image.png",ТЕЛЕКАФЕ (Server 2)
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s56/04.m3u8
 #EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.ibb.co/dKcyyTs/49-Viasat-History.png",Viasat History
@@ -1491,10 +1491,10 @@ http://mfe.cliptv.az/dash/Viasat_History_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.ibb.co/pLPvnP2/50-Viasat-Nature.png",Viasat Nature
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/Viasat_Nature_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/HDL.webp",HDL
+#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.ibb.co/7jDVLcX/HDL.png",HDL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/HD_life.ism/playlist.mpd
-#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Sony_Turbo.png",Sony Turbo
+#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.ibb.co/x7P8Ft5/Sony-Turbo.png",Sony Turbo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/Sony_Turbo_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="http://img.vintera.tv/img/ico/krik.png",КРИК-ТВ
@@ -1531,7 +1531,7 @@ http://mfe.cliptv.az/dash/Bridge_TV_Dance_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="CA NHẠC QUỐC TẾ" tvg-logo="https://i.ibb.co/pjfcwxP/57-Shanson-TV.png",Шансон ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
-#EXTINF:-1 group-title="CA NHẠC QUỐC TẾ" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/МузСоюз.png",МузСоюз
+#EXTINF:-1 group-title="CA NHẠC QUỐC TẾ" tvg-logo="https://i.ibb.co/6HbhRDw/image.png",МузСоюз
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
 #EXTINF:-1 group-title="CA NHẠC QUỐC TẾ" tvg-logo="https://i.ibb.co/KD706VH/34-Europa-plus.png",Europa Plus TV
@@ -1559,22 +1559,22 @@ http://rtmp.one.by:2200
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://rtmp.one.by:2300
 
-#EXTINF:-1 group-title="KÊNH BÁN HÀNG" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/TopShop.png",Top Shop TV
+#EXTINF:-1 group-title="KÊNH BÁN HÀNG" tvg-logo="https://i.ibb.co/Gvz8WzL/TopShop.png",Top Shop TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://live-topshop.cdnvideo.ru/topshop/topshop_576p/playlist.m3u8
-#EXTINF:-1 group-title="KÊNH BÁN HÀNG" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Shopping_Live.png",Shopping Live
+#EXTINF:-1 group-title="KÊNH BÁN HÀNG" tvg-logo="https://i.ibb.co/2h8G2YZ/Shopping-live.png",Shopping Live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
-#EXTINF:-1 group-title="KÊNH BÁN HÀNG" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/LEOMAX_24.png",Leomax 24
+#EXTINF:-1 group-title="KÊNH BÁN HÀNG" tvg-logo="https://i.ibb.co/Vp2SfcT/Leomax24.png",Leomax 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://tvshops.bonus-tv.ru:80/cdn/shop24/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="KÊNH BÁN HÀNG" tvg-logo="https://i.ibb.co/NmzcKNx/Leomax-Plus.png",Leomax+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://tvshops.bonus-tv.ru:80/cdn/discount/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="KÊNH BÁN HÀNG" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Ювелирочка.png",Ювелирочка ТВ HD
+#EXTINF:-1 group-title="KÊNH BÁN HÀNG" tvg-logo="https://i.ibb.co/L9dK2dq/image.png",Ювелирочка ТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
-#EXTINF:-1 group-title="KÊNH BÁN HÀNG" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Luxury.png",Luxury HD
+#EXTINF:-1 group-title="KÊNH BÁN HÀNG" tvg-logo="https://i.ibb.co/g63P02s/Luxury-HD.png",Luxury HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://nano.teleservice.su:8080/hls/luxury.m3u8
 
@@ -1590,23 +1590,23 @@ http://serv30.vintera.tv:8081/detskiy/multimania20/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH HOẠT HÌNH LB NGA" tvg-logo="https://i.ibb.co/TtWftQN/46-Detskij-mir.png",Детский Мир
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/Detskiy_Mir_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="KÊNH HOẠT HÌNH LB NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/TiJi.png",Tiji
+#EXTINF:-1 group-title="KÊNH HOẠT HÌNH LB NGA" tvg-logo="https://i.ibb.co/hswwZfQ/Tiji.png",Tiji
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/Tiji_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="KÊNH HOẠT HÌNH LB NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/TiJi.png",Tiji (Server 2)
+#EXTINF:-1 group-title="KÊNH HOẠT HÌNH LB NGA" tvg-logo="https://i.ibb.co/hswwZfQ/Tiji.png",Tiji (Server 2)
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s59/04.m3u8
-#EXTINF:-1 group-title="KÊNH HOẠT HÌNH LB NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Gulli_Girl.png",Gulli Girl
+#EXTINF:-1 group-title="KÊNH HOẠT HÌNH LB NGA" tvg-logo="https://i.ibb.co/g6D34PF/Gulli-Girl.png",Gulli Girl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/Gulli_Girl_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="KÊNH HOẠT HÌNH LB NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Ani.png",Ani
+#EXTINF:-1 group-title="KÊNH HOẠT HÌNH LB NGA" tvg-logo="https://i.ibb.co/QMFDSBm/Ani.png",Ani
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/ANITV_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="KÊNH HOẠT HÌNH LB NGA" tvg-logo="https://i.ibb.co/py6GS7H/Desktop-1.png",Смайлик ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://62.32.67.187:1935/WEB_Smilik/ngrp:Smilik.stream-adaptive/chunklist.m3u8
 
-#EXTINF:-1 group-title="KÊNH PHIM LB NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Дом_Кино_Премиум.png",Дом Кино Премиум
+#EXTINF:-1 group-title="KÊNH PHIM LB NGA" tvg-logo="https://i.ibb.co/93bPJ9K/HD.png",Дом Кино Премиум
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/Dom_Kino_Premium_HD.ism/playlist.mpd
 #EXTINF:-1 group-title="KÊNH PHIM LB NGA" tvg-logo="https://i.ibb.co/263PbNg/40-Evrokino.png",Еврокино
@@ -1621,22 +1621,22 @@ http://mfe.cliptv.az/dash/Kinomix_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="KÊNH PHIM LB NGA" tvg-logo="https://i.ibb.co/NY4jTTr/39-Kinopremjera.png",КИНОПРЕМЬЕРА HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/Kinopremiera_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="KÊNH PHIM LB NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/КИНОСВИДАНИЕ.png",КИНОСВИДАНИЕ
+#EXTINF:-1 group-title="KÊNH PHIM LB NGA" tvg-logo="https://i.ibb.co/4d168Kb/image.png",КИНОСВИДАНИЕ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/Kinosvidaniye_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="KÊNH PHIM LB NGA" tvg-logo="https://i.ibb.co/DQXpBZy/63-Kinosemja.png",КИНОСЕМЬЯ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/Kinosemya_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="KÊNH PHIM LB NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/КИНОСЕРИЯ.png",КИНОСЕРИЯ
+#EXTINF:-1 group-title="KÊNH PHIM LB NGA" tvg-logo="https://i.ibb.co/Phw189V/image.png",КИНОСЕРИЯ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/Kinoseriya_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="KÊNH PHIM LB NGA" tvg-logo="https://i.ibb.co/q9WVTbx/73-Kinohit.png",КИНОХИТ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/Kinohit_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="KÊNH PHIM LB NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Кино_ТВ.png",Кино ТВ
+#EXTINF:-1 group-title="KÊNH PHIM LB NGA" tvg-logo="https://i.ibb.co/Sw8Q1sF/image.png",Кино ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/Kino_TV_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="KÊNH PHIM LB NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Кинокомедия.png",Кинокомедия
+#EXTINF:-1 group-title="KÊNH PHIM LB NGA" tvg-logo="https://i.ibb.co/S355v37/image.png",Кинокомедия
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/Kinokomediya_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="KÊNH PHIM LB NGA" tvg-logo="https://i.ibb.co/x2mM69H/42-Lubimoe-kino.png",Любимое Кино
@@ -1651,28 +1651,28 @@ http://mfe.cliptv.az/dash/Nashe_Novoe_Kino_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="KÊNH PHIM LB NGA" tvg-logo="https://i.ibb.co/TtT1gmy/58-Rodnoje-kino.png",РОДНОЕ КИНО
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/Rodnoe_Kino_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="KÊNH PHIM LB NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Русский%20Детектив.png",Русский Детектив
+#EXTINF:-1 group-title="KÊNH PHIM LB NGA" tvg-logo="https://i.ibb.co/CJqkz4j/image.png",Русский Детектив
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/Ruskiy_Detektiv_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="KÊNH PHIM LB NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Russkiy_Roman.png",Русский Роман
+#EXTINF:-1 group-title="KÊNH PHIM LB NGA" tvg-logo="https://i.ibb.co/nr9GxG6/Russkiy-Roman.png",Русский Роман
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/Ruskiy_Roman_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="KÊNH PHIM LB NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/XXI%20TV.png",XXI
+#EXTINF:-1 group-title="KÊNH PHIM LB NGA" tvg-logo="https://i.ibb.co/dKL7Tmx/TV-XXI.png",XXI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/TV_XXI_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="KÊNH PHIM LB NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/TV1000.png",TV1000
+#EXTINF:-1 group-title="KÊNH PHIM LB NGA" tvg-logo="https://i.ibb.co/dkNczp0/TV1000.png",TV1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/TV1000_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="KÊNH PHIM LB NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/TV1000%20Action.png",TV1000 Action 
+#EXTINF:-1 group-title="KÊNH PHIM LB NGA" tvg-logo="https://i.ibb.co/BPCCvNW/TV1000-Action.png",TV1000 Action 
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s91/04.m3u8
-#EXTINF:-1 group-title="KÊNH PHIM LB NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/TV1000%20Action.png",TV1000 Action [AZ]
+#EXTINF:-1 group-title="KÊNH PHIM LB NGA" tvg-logo="https://i.ibb.co/BPCCvNW/TV1000-Action.png",TV1000 Action [AZ]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/TV1000_Action_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="KÊNH PHIM LB NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/TV1000_Русское_кино.png",TV1000 Русское кино
+#EXTINF:-1 group-title="KÊNH PHIM LB NGA" tvg-logo="https://i.ibb.co/NKXcD1h/TV1000.png",TV1000 Русское кино
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/TV1000_Russkoe_Kino_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="KÊNH PHIM LB NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Sony_Sci-Fi.png",Sony Sci-Fi
+#EXTINF:-1 group-title="KÊNH PHIM LB NGA" tvg-logo="https://i.ibb.co/BTkLcWc/Sony-Sci-Fi.png",Sony Sci-Fi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/Sony_Sci_Fi_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="KÊNH PHIM LB NGA" tvg-logo="https://i.imgur.com/lXlwfyw.png",Amedia 1
@@ -1687,13 +1687,13 @@ http://mfe.cliptv.az/dash/Amedia_2_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="KÊNH PHIM LB NGA" tvg-logo="https://i.imgur.com/GwQgT6X.png",Amedia 2 (Server 2)
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s33/index.m3u8
-#EXTINF:-1 group-title="KÊNH PHIM LB NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Amedia_Hit.png",Amedia Hit
+#EXTINF:-1 group-title="KÊNH PHIM LB NGA" tvg-logo="https://i.ibb.co/WHHYbhr/Amedia-Hit.png",Amedia Hit
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/A_Media_Hit_SD.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UHo6cwX.png" group-title="KÊNH PHIM LB NGA",Amedia Premium
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s64/index.m3u8
-#EXTINF:-1 group-title="KÊNH PHIM LB NGA" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Hollywood.png",Hollywood
+#EXTINF:-1 group-title="KÊNH PHIM LB NGA" tvg-logo="https://i.ibb.co/PQfdxXT/Hollywood.png",Hollywood
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/AMC_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="KÊNH PHIM LB NGA" tvg-logo="https://i.ibb.co/qJNhdVX/Hollywood-HD.png",Hollywood HD
@@ -1712,13 +1712,13 @@ http://mfe.cliptv.az/dash/NSTV_SD.ism/playlist.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/Cinema_SD.ism/playlist.mpd
 
-#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Paramount_Comedy.webp",PARAMOUNT COMEDY
+#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.ibb.co/kcg5w3p/Paramount-Comedy.png",PARAMOUNT COMEDY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/Paramount_Comedy_SD.ism/playlist.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Ратник.png" group-title="KÊNH ĐẶC SẮC",Ратник HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VTZSkjT/image.png" group-title="KÊNH ĐẶC SẮC",Ратник HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
-#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Сарафан.png",Сарафан
+#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.ibb.co/X3VzBqB/image.png",Сарафан
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s38/04.m3u8
 #EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/QlncxbD.png",Рыжий
@@ -1727,25 +1727,25 @@ http://serv30.vintera.tv:8081/detskiy/ryzhiy_08/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/QlncxbD.png",Рыжий (Server 2)
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s57/04.m3u8
-#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Мама.png",Мама
+#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.ibb.co/qyKKT3D/image.png",Мама
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s77/04.m3u8
 #EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/RAfV5p7.png",Загородный 
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s31/04.m3u8
-#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Телепутешествия.png",Телепутешествия 
+#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.ibb.co/48cmJCx/image.png",Телепутешествия 
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s71/04.m3u8
-#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Приключения%20HD.png",Приключения HD
+#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.ibb.co/br0nvpr/HD.png",Приключения HD
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s99/04.m3u8
 #EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/7fZXK7y.png",История 
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s40/04.m3u8
-#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Техно%2024.png",Техно 24 
+#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.ibb.co/Qkxn4Z4/24.png",Техно 24 
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s68/04.m3u8
-#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Наука.png",Наука 
+#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.ibb.co/djp19BL/image.png",Наука 
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s98/04.m3u8
 #EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/yy0YpWT.png",ЗОО-ТВ
@@ -1757,7 +1757,7 @@ http://ott-cdn.ucom.am/s55/04.m3u8
 #EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/k1Gt1Rc.png",Охотник и Рыболов HD 
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s62/04.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Министерство%20идей.png" group-title="KÊNH ĐẶC SẮC",Министерство идей
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n1dX725/image.png" group-title="KÊNH ĐẶC SẮC",Министерство идей
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WInGwXw.png" group-title="KÊNH ĐẶC SẮC",Московский образовательный
@@ -1772,7 +1772,7 @@ http://live-1.otcnet.ru/podvodoi/index.m3u8
 #EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.ibb.co/WfDbm3z/2019.png",Сиеста
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://1hdru-hls-otcnet.cdnvideo.ru/siesta/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="",ТВ Экстра
+#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.ibb.co/MBFj22w/tv-ekstra.jpg",ТВ Экстра
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://live-1.otcnet.ru:80/tvextra720b/index.m3u8
 #EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.ibb.co/0hD8hDF/Travel-Channel.png",Travel Channel
@@ -1975,10 +1975,10 @@ http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH VIỆT NGA TV" tvg-logo="https://i.imgur.com/tEH4vmX.png",Хабар 24 HD (Kazakhstan) (Server 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://live-24kz.cdnvideo.ru/24kz/24kz.sdp/playlist.m3u8
-#EXTINF:-1 group-title="KÊNH VIỆT NGA TV" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/KZ/Ел_Арна.webp",Ел Арна (Kazakhstan)
+#EXTINF:-1 group-title="KÊNH VIỆT NGA TV" tvg-logo="https://i.ibb.co/Ch9Kj2x/image.webp",Ел Арна (Kazakhstan)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://elarna-live.cdnvideo.ru/elarna/elarna/playlist.m3u8
-#EXTINF:-1 group-title="KÊNH VIỆT NGA TV" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Первый%20Канал%20Евразия.png",Первый канал Евразия (Kazakhstan)
+#EXTINF:-1 group-title="KÊNH VIỆT NGA TV" tvg-logo="https://i.ibb.co/mcHzSys/image.png",Первый канал Евразия (Kazakhstan)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
 #EXTINF:-1 group-title="KÊNH VIỆT NGA TV" tvg-logo="https://i.imgur.com/BGy7EMr.png",КТК (Kazakhstan)
@@ -1993,34 +1993,25 @@ http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH VIỆT NGA TV" tvg-logo="https://i.imgur.com/DaYMzz8.jpg",Atameken Business HD (Kazakhstan)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://live.atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8
-#EXTINF:-1 group-title="KÊNH VIỆT NGA TV" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/KZ/Kazakh_TV.png",Kazakh TV (Kazakh)
+#EXTINF:-1 group-title="KÊNH VIỆT NGA TV" tvg-logo="https://i.ibb.co/0QhWKN8/Kazakh-TV.png",Kazakh TV (Kazakh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://serv30.vintera.tv:8081/kazahtv/stream_ru/playlist.m3u8
-#EXTINF:-1 group-title="KÊNH VIỆT NGA TV" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/KZ/Kazakh_TV.png",Kazakh TV (Russian)
+#EXTINF:-1 group-title="KÊNH VIỆT NGA TV" tvg-logo="https://i.ibb.co/0QhWKN8/Kazakh-TV.png",Kazakh TV (Russian)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://serv30.vintera.tv:8081/kazahtv/stream_kz/playlist.m3u8
-#EXTINF:-1 group-title="KÊNH VIỆT NGA TV" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/KZ/Kazakh_TV.png",Kazakh TV (English)
+#EXTINF:-1 group-title="KÊNH VIỆT NGA TV" tvg-logo="https://i.ibb.co/0QhWKN8/Kazakh-TV.png",Kazakh TV (English)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://serv30.vintera.tv:8081/kazahtv/stream_en/playlist.m3u8
-#EXTINF:-1 group-title="KÊNH VIỆT NGA TV" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/KZ/Kazakh_TV.png",Kazakh TV (Kyrgyz)
+#EXTINF:-1 group-title="KÊNH VIỆT NGA TV" tvg-logo="https://i.ibb.co/0QhWKN8/Kazakh-TV.png",Kazakh TV (Kyrgyz)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://serv30.vintera.tv:8081/kazahtv/stream_kg/playlist.m3u8
-#EXTINF:-1 group-title="KÊNH VIỆT NGA TV" tvg-logo="https://i.imgur.com/XMyRwDk.png",МТРК (Kazakhstan)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-https://tvcdn01.oktv.kz/tv/mtrk/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="KÊNH VIỆT NGA TV" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/KZ/Алау%20ТВ.webp",Алау ТВ (Kazakhstan)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-rtmp://109.248.236.42:1935/live/Alau
-#EXTINF:-1 group-title="KÊNH VIỆT NGA TV" tvg-logo="https://i.ibb.co/j6YgZyy/KZ.png",КСК ТВ (Kazakhstan)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-rtmp://109.248.236.42:1935/live/KSK-TV
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PrBpZhc/KTRK.png" group-title="KÊNH VIỆT NGA TV",КТРК (Kyrgyzstan)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://onlinetv.ktrk.kg:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qgzYKbL/alatoo.png" group-title="KÊNH VIỆT NGA TV",КТРК Ала-Тоо 24 (Kyrgyzstan)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://onlinetv.ktrk.kg:1935/live/myStream3/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KÊNH VIỆT NGA TV",Маданият Тарых Тил (Kyrgyzstan)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TBn1qWF/madaniyat.png" group-title="KÊNH VIỆT NGA TV",Маданият Тарых Тил (Kyrgyzstan)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://onlinetv.ktrk.kg:1935/live/myStream5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5LmGCCB/Sport-KTRK.png" group-title="KÊNH VIỆT NGA TV",КТРК Спорт (Kyrgyzstan)
@@ -2037,7 +2028,10 @@ http://onlinetv.ktrk.kg:1935/live/myStream2/playlist.m3u8
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/cbwhzcF/image.jpg" group-title="KÊNH VIỆT NGA TV",Любимый HD/ТНТ4 (Kyrgyzstan)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://92.245.103.126:1935/live/live.stream/playlist.m3u8
+http://92.245.103.126:1935/live/live.stream/chunklist_w1710034375.m3u8
+#EXTINF:0 group-title="KÊNH VIỆT NGA TV" tvg-logo="https://i.imgur.com/QE61UXL.png",ОшТВ (Kyrgyzstan)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+http://212.42.115.75/live/oshtv/index.m3u8
 #EXTINF:-1 group-title="KÊNH VIỆT NGA TV" tvg-logo="https://i.ibb.co/7zn0nJ1/24.png",Беларусь 24 (Belarus)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
@@ -2045,25 +2039,25 @@ http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Премьер.png",Матч! Премьер (Giải Bóng Đá Nga)
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/z21X5R9/image.png",Матч! Премьер (Giải Bóng Đá Nga)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/Match_Premyer_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Match%2521_Strana.png",Матч! Страна
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/CM7Djts/Match-Strana.png",Матч! Страна
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/MATCH_NASH_SPORT_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Match%2521_Strana.png",Матч! Страна HD
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/CM7Djts/Match-Strana.png",Матч! Страна HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Матч!%20Арена.png",Матч! Арена
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/jWD3jGM/image.png",Матч! Арена
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/Match_Arena_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Матч!_Боец.png",Матч! Боец
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/LgKSCLQ/image.png",Матч! Боец
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/Matc_Boec_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/CK9FQMK/QAZSPORTHD-BEARTV.png",QAZSPORT (Giải Bóng Đá Kazakhstan)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://92.46.127.146:8080/qazsport/index.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://raw.githubusercontent.com/phuhdtv/vietngatv/master/Logo/Eurosport_1.png",EUROSPORT
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/LS2PSpt.png",EUROSPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/EuroSport1_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/8YJYhpX/football.png",Футбол
