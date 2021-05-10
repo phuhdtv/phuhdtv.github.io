@@ -827,13 +827,16 @@ http://liveru.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/7Cr2pQt/CGTN-Documentary-logo.png",CGTN Documentary
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://livedoc.cgtn.com/1000d/prog_index.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/X43JVn9/euronewslogobyvovanloc.png",EURONEWS (540p)
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/X43JVn9/euronewslogobyvovanloc.png",EURONEWS HD | English
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+https://euronews-euronews-world-1.roku.wurl.com/manifest/71bf778598cc9ce36952bb8a3331551a.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/X43JVn9/euronewslogobyvovanloc.png",EURONEWS SD | 540p
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/X43JVn9/euronewslogobyvovanloc.png",EURONEWS (576p)
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/X43JVn9/euronewslogobyvovanloc.png",EURONEWS SD | 576p
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/Evronovosti_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/X43JVn9/euronewslogobyvovanloc.png",EURONEWS (480p)
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/X43JVn9/euronewslogobyvovanloc.png",EURONEWS SD | 480p
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s89/04.m3u8
 #EXTINF:-1 tvg-id="foxhd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/Q6sGxxh/FOX-BEARTV.png",FOX HD | 1080P
@@ -977,13 +980,13 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
 #EXTINF:-1 tvg-id="warner_tv_hd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://imgur.com/9qJI1Mg.png",Warner TV (Server 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://livecdn.fptplay.net/qnetlive/warnertv_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="foxsportshd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/R2jPrQ8/Fox-Sports-BEARTV.png",FOX SPORT
+#EXTINF:-1 tvg-id="foxsportshd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/R2jPrQ8/Fox-Sports-BEARTV.png",FOX SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="foxsports2hd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/m6KmHcX/foxsport2-BEARTV.png",FOX SPORT 2
+#EXTINF:-1 tvg-id="foxsports2hd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/m6KmHcX/foxsport2-BEARTV.png",FOX SPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="fox_sports3" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/DDvdY9W/foxsport3-BEARTV.png",FOX SPORT 3
+#EXTINF:-1 tvg-id="fox_sports3" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/DDvdY9W/foxsport3-BEARTV.png",FOX SPORTS 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/yh3k2XT/VH1.png",VH1
