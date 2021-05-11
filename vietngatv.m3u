@@ -1309,9 +1309,9 @@ https://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v3a1/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/3NMYNfW/telplyus.png" group-title="KÊNH BIÊN GIỚI NGA KAZAKHSTAN",Телплюс ТВ (Астрахань)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://streaming.astrakhan.ru/telplushd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/L6QRTWL/1584883857922.png" group-title="KÊNH BIÊN GIỚI NGA KAZAKHSTAN",Югра (Тюменская область)
+#EXTINF:0 tvg-logo="https://i.ibb.co/9cLv2G7/Tumen.png" group-title="KÊNH BIÊN GIỚI NGA KAZAKHSTAN",Тюменское время (Тюмень)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/chunklist_b7192000.m3u8
+https://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH BIÊN GIỚI NGA KAZAKHSTAN" tvg-logo="https://i.ibb.co/GQT5C8p/TSM.png",СТС-МИР (Новосибирск)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://serv30.vintera.tv:8081/stanciya_mir/mir/playlist.m3u8
@@ -1384,8 +1384,11 @@ https://s1.idata.uz:443/stch_temp18/tracks-v1a1/mono.m3u8
 http://mfe.cliptv.az/dash/Disney_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/fXXMxB4/360-HD.png",360°
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+http://mfe.cliptv.az/dash/360_TV_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/fXXMxB4/360-HD.png",360° HD (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://video1.in-news.ru/360/index.m3u8
-#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/fXXMxB4/360-HD.png",360° HD
+#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/fXXMxB4/360-HD.png",360° HD (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
 #EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/NZncqwR/360.png",360° Новости HD
@@ -1561,16 +1564,16 @@ http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="CA NHẠC QUỐC TẾ" tvg-logo="https://i.ibb.co/XJ3cy2d/MCM-Top.png",MCM TOP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/MCM_TOP_SD.ism/playlist.mpd
-#EXTINF:0 tvg-logo="https://i.ibb.co/997hwM6/2019.png" group-title="CA NHẠC QUỐC TẾ",Первый Музыкальный BY (Belarus)
+#EXTINF:0 tvg-logo="https://i.ibb.co/NC0CYrr/1MusBY.png" group-title="CA NHẠC QUỐC TẾ",Первый Музыкальный BY (Belarus)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://rtmp.one.by:1200
-#EXTINF:0 tvg-logo="https://i.ibb.co/997hwM6/2019.png" group-title="CA NHẠC QUỐC TẾ",Первый Музыкальный BY [FHD] (Belarus)
+#EXTINF:0 tvg-logo="https://i.ibb.co/NC0CYrr/1MusBY.png" group-title="CA NHẠC QUỐC TẾ",Первый Музыкальный BY [FHD] (Belarus)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://rtmp.one.by:1300
-#EXTINF:0 tvg-logo="https://i.ibb.co/997hwM6/2019.png" group-title="CA NHẠC QUỐC TẾ",Первый Музыкальный RU BY (Belarus)
+#EXTINF:0 tvg-logo="https://i.ibb.co/hKmNrTx/1MusRU.png" group-title="CA NHẠC QUỐC TẾ",Первый Музыкальный RU BY (Belarus)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://rtmp.one.by:2200
-#EXTINF:0 tvg-logo="https://i.ibb.co/997hwM6/2019.png" group-title="CA NHẠC QUỐC TẾ",Первый Музыкальный RU BY [FHD] (Belarus)
+#EXTINF:0 tvg-logo="https://i.ibb.co/hKmNrTx/1MusRU.png" group-title="CA NHẠC QUỐC TẾ",Первый Музыкальный RU BY [FHD] (Belarus)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://rtmp.one.by:2300
 
@@ -1793,6 +1796,15 @@ http://live-1.otcnet.ru:80/tvextra720b/index.m3u8
 #EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.ibb.co/0hD8hDF/Travel-Channel.png",Travel Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/Travel_Channel_HD.ism/playlist.mpd
+#EXTINF:0 tvg-logo="https://i.ibb.co/FndPPGt/vip-megahit.png" group-title="KÊNH ĐẶC SẮC",VIP Megahit
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+http://mfe.cliptv.az/dash/VIP_Megahit_HD.ism/playlist.mpd
+#EXTINF:0 tvg-logo="https://i.ibb.co/Kyk6Bqw/vip-comedy.png" group-title="KÊNH ĐẶC SẮC",Vip Comedy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+http://mfe.cliptv.az/dash/VIP_Comedy_HD.ism/playlist.mpd
+#EXTINF:0 tvg-logo="https://i.ibb.co/xDWTPbg/vip-premiere.png" group-title="KÊNH ĐẶC SẮC",Vip Premiere
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+http://mfe.cliptv.az/dash/VIP_Premium_HD.ism/playlist.mpd
 
 #EXTINF:-1 group-title="RADIO VIỆT NGA" tvg-logo="https://i.ibb.co/jwvtkqq/VOV1.png",VOV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
