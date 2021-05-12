@@ -16,3 +16,5 @@ List iptvbyvietngatv: http://gg.gg/iptvbyvietngatv
 Link Euronews: http://gg.gg/HaNoiIPTV-Euronews
 
 Download SimpleTV: http://gg.gg/simple-tv
+
+Link HaNoi IPTV: http://gg.gg/hanoiiptv
