@@ -18,3 +18,5 @@ Link Euronews: http://gg.gg/HaNoiIPTV-Euronews
 Download SimpleTV: http://gg.gg/simple-tv
 
 Link HaNoi IPTV: http://gg.gg/hanoiiptv
+
+Link Textuploader: http://gg.gg/iptv-2021
