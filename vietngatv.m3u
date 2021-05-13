@@ -1258,9 +1258,6 @@ http://82.138.2.50:1935/live/TeoTV.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rc9cpSg/VOLGOGRAD-1.png" group-title="KÊNH BIÊN GIỚI NGA KAZAKHSTAN",Волгоград 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://213.234.30.38/Live/1000k/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zhNhJcZ/24.png" group-title="KÊNH BIÊN GIỚI NGA KAZAKHSTAN",Волгоград 24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://serv30.vintera.tv:8081/volga24/volgograd24/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lN6GGxb.png" group-title="KÊNH BIÊN GIỚI NGA KAZAKHSTAN",Муниципальное телевидение Волгограда
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
@@ -1799,21 +1796,6 @@ http://ott-cdn.ucom.am/s63/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x3IE7sE.png" group-title="KÊNH ĐẶC SẮC",RTG HD (Server 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/RTG_HD.ism/playlist.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/G91YCcg/neizvestnaya-planeta.png" group-title="KÊNH ĐẶC SẮC",Неизвестная планета
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://serv25.vintera.tv:8081/neplaneta/np/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zZHq63L/hdmedia1.png" group-title="KÊNH ĐẶC SẮC",HD Media
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://serv25.vintera.tv:8081/hdmedia/hdmedia_pay/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qjMc3kr/kinomenu-hd.png" group-title="KÊNH ĐẶC SẮC",КиноМеню HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://serv25.vintera.tv:8081/hdmedia/kinomenu/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gTtfcGC/klassika-kino.png" group-title="KÊNH ĐẶC SẮC",Классика Кино
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9TQw5cq/skazki-zaiki.png" group-title="KÊNH ĐẶC SẮC",Сказки Зайки
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://skazki.vintera.tv:8081/skazki/zaj/playlist.m3u8
 
 #EXTINF:-1 group-title="RADIO VIỆT NGA" tvg-logo="https://i.ibb.co/jwvtkqq/VOV1.png",VOV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
@@ -2108,6 +2090,3 @@ http://ott-cdn.ucom.am/s81/04.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/vVwVcHw/SETANTA2-BEARTV.png",Setanta Sports 2
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s82/04.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/sm9kDnR/NTS-SPORT.jpg" group-title="KÊNH THỂ THAO",НТС Спорт (Kyrgyzstan)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://212.112.101.69:8081/stream39/output.m3u8
