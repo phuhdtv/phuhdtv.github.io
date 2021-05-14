@@ -1156,10 +1156,10 @@ http://mfe.cliptv.az/dash/Karusel_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/wRBbLRC/image.png",Карусель (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/karusel/playlist.m3u8
-#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.imgur.com/i2cL9dE.png",ОТР
+#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/7pvF7wn/OTR.png",ОТР
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://uiptv.do.am/1ufc/000000008/playlist.m3u8
-#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.imgur.com/i2cL9dE.png",ОТР (Server 2)
+#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/7pvF7wn/OTR.png",ОТР (Server 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/otr/playlist.m3u8
 #EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВ Центр
@@ -1977,7 +1977,10 @@ https://elarna-live.cdnvideo.ru/elarna/elarna/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH VIỆT NGA TV" tvg-logo="https://i.imgur.com/bJIkebD.png",Первый канал Евразия (Kazakhstan)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
-#EXTINF:-1 group-title="KÊNH VIỆT NGA TV" tvg-logo="https://i.imgur.com/BGy7EMr.png",КТК (Kazakhstan)
+#EXTINF:-1 group-title="KÊNH VIỆT NGA TV" tvg-logo="https://i.imgur.com/BGy7EMr.png",КТК SD (Kazakhstan)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+http://89.218.30.37/ktklive/live.hq/playlist.m3u8
+#EXTINF:-1 group-title="KÊNH VIỆT NGA TV" tvg-logo="https://i.imgur.com/BGy7EMr.png",КТК HD (Kazakhstan)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://wz-kt.ktk.kz:1935/ktklive/smil:ktk-live.smil/chunklist_b3064000_slrus.m3u8
 #EXTINF:-1 group-title="KÊNH VIỆT NGA TV" tvg-logo="https://i.imgur.com/GXlYCXz.jpg",Almaty TV (Kazakhstan)
