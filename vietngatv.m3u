@@ -79,7 +79,7 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTC3-HD-720p/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc4hd" group-title="VTC - VOV" tvg-logo="https://i.imgur.com/v9DNS85.png",VTC4 - Yeah 1 Family
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTC4-SD-ABR/HTV-ABR/VTC4-SD-720p/playlist.m3u8
-#EXTINF:-1 tvg-id="vtc4hd" group-title="VTC - VOV" tvg-logo="https://i.imgur.com/gaLNvNp.png",VTC4 HD - Yeah 1 Family
+#EXTINF:-1 tvg-id="vtc4hd" group-title="VTC - VOV" tvg-logo="https://i.imgur.com/VsjIiRT.png",VTC4 HD - Yeah 1 Family
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://livecdn.fptplay.net/sdc/vtc4_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc5hd" group-title="VTC - VOV" tvg-logo="https://i.imgur.com/w18H0gU.jpg",VTC5
@@ -1288,10 +1288,10 @@ http://kuzbass1.ru:8082/10kanal/k24_576/playlist.m3u8
 #EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/prkG8Tk/image.png",Кузбасс 1 HD (Кемерово)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://www.10kanal.ru/live/hls/k24.m3u8
-#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/xSxBWnY/Mnet.jpg",Между.Net (Междуреченск)
+#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/DGMWwb5/Net-HD.png",Между.Net (Междуреченск)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8
-#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/wKzZyvh/10.png",10 канал (Новокузнецк)
+#EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/7Whq9Y9/10.png",10 канал (Новокузнецк)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://kuzbass1.ru:8082/10kanal/10kanal_720/playlist.m3u8
 #EXTINF:-1 group-title="LIÊN BANG NGA" tvg-logo="https://i.ibb.co/0cYdNc3/image.png",Енисей (Красноярск) (HD)
@@ -1610,6 +1610,9 @@ http://mfe.cliptv.az/dash/Kinosemya_SD.ism/playlist.mpd
 http://mfe.cliptv.az/dash/Kinoseriya_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="KÊNH PHIM LB NGA" tvg-logo="https://i.ibb.co/q9WVTbx/73-Kinohit.png",КИНОХИТ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+https://s1.idata.uz/stch_temp3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KÊNH PHIM LB NGA" tvg-logo="https://i.ibb.co/q9WVTbx/73-Kinohit.png",КИНОХИТ (Server 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/Kinohit_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="KÊNH PHIM LB NGA" tvg-logo="https://i.ibb.co/Sw8Q1sF/image.png",Кино ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
@@ -1622,7 +1625,7 @@ http://mfe.cliptv.az/dash/Kinokomediya_SD.ism/playlist.mpd
 http://mfe.cliptv.az/dash/Lyubimoe_Kino_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="KÊNH PHIM LB NGA" tvg-logo="https://i.ibb.co/6BFNjRL/72-Nashe-novoe-kino.png",НАШЕ НОВОЕ КИНО
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-https://s1.idata.uz:443/stch_temp6/tracks-v1a1/mono.m3u8
+https://s1.idata.uz/stch_temp6/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KÊNH PHIM LB NGA" tvg-logo="https://i.ibb.co/6BFNjRL/72-Nashe-novoe-kino.png",НАШЕ НОВОЕ КИНО (Server 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/Nashe_Novoe_Kino_SD.ism/playlist.mpd
@@ -2053,6 +2056,9 @@ http://mfe.cliptv.az/dash/Match_Arena_HD.ism/playlist.mpd
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/LgKSCLQ/image.png",Матч! Боец
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mfe.cliptv.az/dash/Matc_Boec_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7ppk4Cg/image.png" group-title="KÊNH THỂ THAO",Матч! Игра
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+https://s1.idata.uz/stch_temp19/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/CK9FQMK/QAZSPORTHD-BEARTV.png",QAZSPORT (Giải Bóng Đá Kazakhstan)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://92.46.127.146:8080/qazsport/index.m3u8
