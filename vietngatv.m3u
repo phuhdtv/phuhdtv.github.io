@@ -121,13 +121,13 @@ http://31.128.159.41:8080/mosfilm/index.m3u8
 #EXTINF:-1 tvg-id="vtc16hd" group-title="VTC" tvg-logo="https://i.imgur.com/amaDGnw.jpg",VTC16 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vovtv" group-title="VTC" tvg-logo="https://i.imgur.com/SReog1U.png",VOV TV HD
+
+#EXTINF:-1 tvg-id="vovtv" group-title="TIN TỨC - CHÍNH TRỊ" tvg-logo="https://i.imgur.com/SReog1U.png",VOV TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://cdn.vovtv.mediatech.vn/vovlive/tv1live.m3u8
-#EXTINF:-1 tvg-id="vovtv" group-title="VTC" tvg-logo="https://i.imgur.com/OqupP9Y.png",VOV TV SD
+#EXTINF:-1 tvg-id="vovtv" group-title="TIN TỨC - CHÍNH TRỊ" tvg-logo="https://i.imgur.com/OqupP9Y.png",VOV TV SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://livecdn.fptplay.net/sdc/vovtvsd_2000.stream/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="antvhd" group-title="TIN TỨC - CHÍNH TRỊ" tvg-logo="https://i.imgur.com/kzKZm1L.png",An Ninh TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://livecdn.fptplay.net/sdc/anninhtv_2000.stream/chunklist.m3u8
@@ -455,10 +455,10 @@ http://117.4.240.220:80/Medias/HaNam/720P/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/0q2BVky.png",Hà Nam SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://livecdn.fptplay.net/sda/hanam_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="hanoitv1" group-title="KÊNH ĐỊA PHƯƠNG"  tvg-logo="https://i.imgur.com/BUsJR8d.png",Hà Nội 1 SD
+#EXTINF:-1 tvg-id="hanoitv1" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/BUsJR8d.png",Hà Nội 1 SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://livecdn.fptplay.net/sdc/hanoitv1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="hanoitv1" group-title="KÊNH ĐỊA PHƯƠNG"  tvg-logo="https://i.imgur.com/BUsJR8d.png",Hà Nội 1 HD
+#EXTINF:-1 tvg-id="hanoitv1" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/BUsJR8d.png",Hà Nội 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="hanoitv2" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/XfkC7BY.png",Hà Nội 2 HD
