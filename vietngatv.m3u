@@ -500,7 +500,7 @@ http://cdn.hytv.mediatech.vn/hytvlive/tv1live.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/eGfpF9j.png",Hưng Yên SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://livecdn.fptplay.net/sdc/hungyen_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/G83cWHf.png",Khánh Hoà HD
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/N2gUYoh.png",Khánh Hoà HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://livecdn.fptplay.net/sda/khanhhoa_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/HqYi1Dw.png",Kiên Giang HD
@@ -542,13 +542,13 @@ http://118.107.85.5:1935/live/smil:LTV.smil/chunklist_w1501451279_b1384000.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/STKsRbJ.png",Lâm Đồng SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://livecdn.fptplay.net/sdc/lamdong_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/y4aizlR.png",Long An HD
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/OfbPgIg.png",Long An HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/tv.m3u8
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/y4aizlR.png",Long An SD
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/OfbPgIg.png",Long An SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://livecdn.fptplay.net/sdc/longan_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/y4aizlR.png",Long An SD (Server 2)
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/OfbPgIg.png",Long An SD (Server 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/LONGAN-SD-ABR/HTV-ABR/LONGAN-SD-720p/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/FsCTf6v.png",Miền Tây
@@ -1505,6 +1505,12 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xfgtSCn/1rnk.png" group-title= "NGA",Первый российский национальный канал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://serv25.vintera.tv:8081/1pnk/1pnk/playlist.m3u8
+#EXTINF:-1 group-title="NGA" tvg-logo="https://i.ibb.co/9TwvD6b/Vietnga-TV-Logo.png",Việt Nga TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+http://dmitry-tv.ddns.net:8666/his/CH_D-TV6
+#EXTINF:-1 group-title="NGA" tvg-logo="https://i.ibb.co/9TwvD6b/Vietnga-TV-Logo.png",Việt Nga TV Music HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+http://dmitry-tv.ddns.net:8000/his/CH_DMITRY-TVHD
 
 #EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.ibb.co/SJXMhFD/image.png",Красная линия
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
@@ -2065,79 +2071,73 @@ https://icecast-echomsksni.cdnvideo.ru/stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://webcast.apexradio.ru:8000/NvkzMp3
 
-#EXTINF:-1 group-title="CIS" tvg-logo="https://i.ibb.co/9TwvD6b/Vietnga-TV-Logo.png",Việt Nga TV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://dmitry-tv.ddns.net:8666/his/CH_D-TV6
-#EXTINF:-1 group-title="CIS" tvg-logo="https://i.ibb.co/9TwvD6b/Vietnga-TV-Logo.png",Việt Nga TV Music HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://dmitry-tv.ddns.net:8000/his/CH_DMITRY-TVHD
-#EXTINF:-1 group-title="CIS" tvg-logo="https://i.imgur.com/tEH4vmX.png",Хабар 24 HD
+#EXTINF:-1 group-title="NHÌN RA VIỆT NGA TV" tvg-logo="https://i.imgur.com/tEH4vmX.png",Хабар 24 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8
-#EXTINF:-1 group-title="CIS" tvg-logo="https://i.imgur.com/tEH4vmX.png",Хабар 24 HD (Server 2)
+#EXTINF:-1 group-title="NHÌN RA VIỆT NGA TV" tvg-logo="https://i.imgur.com/tEH4vmX.png",Хабар 24 HD (Server 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://live-24kz.cdnvideo.ru/24kz/24kz.sdp/playlist.m3u8
-#EXTINF:-1 group-title="CIS" tvg-logo="https://i.ibb.co/Ch9Kj2x/image.webp",Ел Арна (Kazakhstan)
+#EXTINF:-1 group-title="NHÌN RA VIỆT NGA TV" tvg-logo="https://i.ibb.co/Ch9Kj2x/image.webp",Ел Арна (Kazakhstan)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://elarna-live.cdnvideo.ru/elarna/elarna/playlist.m3u8
-#EXTINF:-1 group-title="CIS" tvg-logo="https://i.imgur.com/bJIkebD.png",Первый канал Евразия
+#EXTINF:-1 group-title="NHÌN RA VIỆT NGA TV" tvg-logo="https://i.imgur.com/bJIkebD.png",Первый канал Евразия
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
-#EXTINF:-1 group-title="CIS" tvg-logo="https://i.imgur.com/BGy7EMr.png",КТК
+#EXTINF:-1 group-title="NHÌN RA VIỆT NGA TV" tvg-logo="https://i.imgur.com/BGy7EMr.png",КТК
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://89.218.30.37/ktklive/live.hq/playlist.m3u8
-#EXTINF:-1 group-title="CIS" tvg-logo="https://i.imgur.com/BGy7EMr.png",КТК (HD)
+#EXTINF:-1 group-title="NHÌN RA VIỆT NGA TV" tvg-logo="https://i.imgur.com/BGy7EMr.png",КТК (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://wz-kt.ktk.kz:1935/ktklive/smil:ktk-live.smil/chunklist_b3064000_slrus.m3u8
-#EXTINF:-1 group-title="CIS" tvg-logo="https://i.imgur.com/GXlYCXz.jpg",Almaty TV (HD)
+#EXTINF:-1 group-title="NHÌN RA VIỆT NGA TV" tvg-logo="https://i.imgur.com/GXlYCXz.jpg",Almaty TV (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="CIS" tvg-logo="https://i.imgur.com/HLiv5Hq.jpg",Новое телевидение
+#EXTINF:-1 group-title="NHÌN RA VIỆT NGA TV" tvg-logo="https://i.imgur.com/HLiv5Hq.jpg",Новое телевидение
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
-#EXTINF:-1 group-title="CIS" tvg-logo="https://i.imgur.com/DaYMzz8.jpg",Atameken Business (HD)
+#EXTINF:-1 group-title="NHÌN RA VIỆT NGA TV" tvg-logo="https://i.imgur.com/DaYMzz8.jpg",Atameken Business (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://live.atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8
-#EXTINF:-1 group-title="CIS" tvg-logo="https://i.ibb.co/0QhWKN8/Kazakh-TV.png",Kazakh TV (Kazakh)
+#EXTINF:-1 group-title="NHÌN RA VIỆT NGA TV" tvg-logo="https://i.ibb.co/0QhWKN8/Kazakh-TV.png",Kazakh TV (Kazakh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://serv30.vintera.tv:8081/kazahtv/stream_ru/playlist.m3u8
-#EXTINF:-1 group-title="CIS" tvg-logo="https://i.ibb.co/0QhWKN8/Kazakh-TV.png",Kazakh TV (Russian)
+#EXTINF:-1 group-title="NHÌN RA VIỆT NGA TV" tvg-logo="https://i.ibb.co/0QhWKN8/Kazakh-TV.png",Kazakh TV (Russian)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://serv30.vintera.tv:8081/kazahtv/stream_kz/playlist.m3u8
-#EXTINF:-1 group-title="CIS" tvg-logo="https://i.ibb.co/0QhWKN8/Kazakh-TV.png",Kazakh TV (English)
+#EXTINF:-1 group-title="NHÌN RA VIỆT NGA TV" tvg-logo="https://i.ibb.co/0QhWKN8/Kazakh-TV.png",Kazakh TV (English)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://serv30.vintera.tv:8081/kazahtv/stream_en/playlist.m3u8
-#EXTINF:-1 group-title="CIS" tvg-logo="https://i.ibb.co/0QhWKN8/Kazakh-TV.png",Kazakh TV (Kyrgyz)
+#EXTINF:-1 group-title="NHÌN RA VIỆT NGA TV" tvg-logo="https://i.ibb.co/0QhWKN8/Kazakh-TV.png",Kazakh TV (Kyrgyz)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://serv30.vintera.tv:8081/kazahtv/stream_kg/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3rhdLb3.png" group-title="CIS",КТРК
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3rhdLb3.png" group-title="NHÌN RA VIỆT NGA TV",КТРК
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://onlinetv.ktrk.kg:1935/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B9XEVY3.png" group-title="CIS",КТРК Ала-Тоо 24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B9XEVY3.png" group-title="NHÌN RA VIỆT NGA TV",КТРК Ала-Тоо 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://onlinetv.ktrk.kg:1935/live/myStream3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CQYNlvo.png" group-title="CIS",Маданият Тарых Тил
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CQYNlvo.png" group-title="NHÌN RA VIỆT NGA TV",Маданият Тарых Тил
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://onlinetv.ktrk.kg:1935/live/myStream5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d7IiSIY.png" group-title="CIS",КТРК Спорт
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d7IiSIY.png" group-title="NHÌN RA VIỆT NGA TV",КТРК Спорт
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://onlinetv.ktrk.kg:1935/live/myStream4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RH7HdF4.png" group-title="CIS",КТРК Баластан
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RH7HdF4.png" group-title="NHÌN RA VIỆT NGA TV",КТРК Баластан
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://onlinetv.ktrk.kg:1935/live/myStream6/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zk1l8Ak.png" group-title="CIS",КТРК Музыка
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zk1l8Ak.png" group-title="NHÌN RA VIỆT NGA TV",КТРК Музыка
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://onlinetv.ktrk.kg:1935/live/myStream2/playlist.m3u8
-#EXTINF:-1 group-title="CIS" tvg-logo="https://i.ibb.co/WGCHY5s/TV1KG.jpg",TV1 KG
+#EXTINF:-1 group-title="NHÌN RA VIỆT NGA TV" tvg-logo="https://i.ibb.co/WGCHY5s/TV1KG.jpg",TV1 KG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/cbwhzcF/image.jpg" group-title="CIS",Любимый
+#EXTINF:0 tvg-logo="https://i.ibb.co/cbwhzcF/image.jpg" group-title="NHÌN RA VIỆT NGA TV",Любимый
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://92.245.103.126:1935/live/live.stream/chunklist_w1710034375.m3u8
-#EXTINF:0 group-title="CIS" tvg-logo="https://i.imgur.com/QE61UXL.png",ОшТВ
+#EXTINF:0 group-title="NHÌN RA VIỆT NGA TV" tvg-logo="https://i.imgur.com/QE61UXL.png",ОшТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://212.42.115.75/live/oshtv/index.m3u8
-#EXTINF:-1 group-title="CIS" tvg-logo="https://i.imgur.com/Dh1pUNW.png",Беларусь 24
+#EXTINF:-1 group-title="NHÌN RA VIỆT NGA TV" tvg-logo="https://i.imgur.com/Dh1pUNW.png",Беларусь 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
 
