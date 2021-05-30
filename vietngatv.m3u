@@ -1285,372 +1285,318 @@ http://livecdn.fptplay.net/tvc/sukien03_2000.stream/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://livecdn.fptplay.net/event/eventExpire_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/iW5vhkb.png",Первый канал СНГ
+#EXTINF:-1 group-title="NGA (MSK +2 - +4)" tvg-logo="https://i.imgur.com/iW5vhkb.png",Первый Канал ВС
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s14.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/iW5vhkb.png",Первый канал СНГ (480p)
+#EXTINF:-1 group-title="NGA (MSK +2 - +4)" tvg-logo="https://i.imgur.com/iW5vhkb.png",Первый Канал ВС (480p)
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s14/04.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/WPqlx2k.png",Первый Канал HD
+#EXTINF:-1 group-title="NGA (MSK)" tvg-logo="https://i.imgur.com/WPqlx2k.png",Первый Канал HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Perviy_Kanal_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/BzsskXA.png",Россия 1 (+4)
+#EXTINF:-1 group-title="NGA (MSK +2 - +4)" tvg-logo="https://i.imgur.com/BzsskXA.png",Россия 1 (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia1_plus4/playlist_3.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/laZoIeN.png",Россия 1 HD
+#EXTINF:-1 group-title="NGA (MSK +2 - +4)" tvg-logo="https://i.imgur.com/BzsskXA.png",Россия 1 (+4) (Server 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/rus1/playlist.m3u8
+#EXTINF:-1 group-title="NGA (MSK)" tvg-logo="https://i.imgur.com/laZoIeN.png",Россия 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/laZoIeN.png",Россия 1 HD (Server 2)
+#EXTINF:-1 group-title="NGA (MSK)" tvg-logo="https://i.imgur.com/laZoIeN.png",Россия 1 HD (Server 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Rossiya_1_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/kFdooR4.png",Матч! ТВ
+#EXTINF:-1 group-title="NGA (MSK)" tvg-logo="https://i.imgur.com/kFdooR4.png",Матч! ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://uiptv.do.am/1ufc/000000003/playlist.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/kFdooR4.png",Матч! ТВ HD
+#EXTINF:-1 group-title="NGA (MSK +2 - +4)" tvg-logo="https://i.imgur.com/kFdooR4.png",Матч! ТВ (Server 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/rus2/playlist.m3u8
+#EXTINF:-1 group-title="NGA (MSK)" tvg-logo="https://i.imgur.com/kFdooR4.png",Матч! ТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://bl.uma.media/live/133529/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/kFdooR4.png",Матч! ТВ HD (Server 2)
+#EXTINF:-1 group-title="NGA" tvg-logo="https://i.imgur.com/kFdooR4.png",Матч! ТВ HD (Server 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Match_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/kFdooR4.png",Матч! ТВ HD (Server 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-https://s4.idata.uz/matchHD/tracks-v1a1/rewind-7200.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/i6wrwKy.png",НТВ (+4)
+#EXTINF:-1 group-title="NGA (MSK +2 - +4)" tvg-logo="https://i.imgur.com/i6wrwKy.png",НТВ (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/ntv/playlist.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/PNtuiSn.png",НТВ HD
+#EXTINF:-1 group-title="NGA (MSK)" tvg-logo="https://i.imgur.com/PNtuiSn.png",НТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/HTB_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/qswopzO.png",Пятый канал (+2)
+#EXTINF:-1 group-title="NGA (MSK +2 - +4)" tvg-logo="https://i.imgur.com/qswopzO.png",Пятый канал (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.is_realtime_stream=true
-http://mfe.cliptv.az/dash/5_Kanal_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/Q5XxFQi.png",Россия K
+http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/5/playlist.m3u8
+#EXTINF:-1 group-title="NGA (MSK)" tvg-logo="https://i.imgur.com/Q5XxFQi.png",Россия K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://uiptv.do.am/1ufc/000000005/playlist.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/Q5XxFQi.png",Россия K (+4)
+#EXTINF:-1 group-title="NGA (MSK +2 - +4)" tvg-logo="https://i.imgur.com/Q5XxFQi.png",Россия K (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://a1566400114-s26881.cdn.ngenix.net/hls/russia_k_dubl2/playlist_3.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/wu7O85f.png",Россия 24
+#EXTINF:-1 group-title="NGA (MSK)" tvg-logo="https://i.imgur.com/wu7O85f.png",Россия 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/wu7O85f.png",Россия 24 (Server 2)
+#EXTINF:-1 group-title="NGA (MSK)" tvg-logo="https://i.imgur.com/wu7O85f.png",Россия 24 (Server 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://uiptv.do.am/1ufc/000000006/playlist.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/5D1gwiv.png",Россия РТР
+#EXTINF:-1 group-title="NGA (MSK +2 - +4)" tvg-logo="https://i.imgur.com/5D1gwiv.png",Россия РТР
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/n9IHUCD.png",Карусель (+4)
+#EXTINF:-1 group-title="NGA (MSK +2 - +4)" tvg-logo="https://i.imgur.com/n9IHUCD.png",Карусель (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/karusel/playlist.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/QyZvT3e.png",ОТР
+#EXTINF:-1 group-title="NGA (MSK)" tvg-logo="https://i.imgur.com/QyZvT3e.png",ОТР
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://uiptv.do.am/1ufc/000000008/playlist.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/QyZvT3e.png",ОТР (Server 2)
+#EXTINF:-1 group-title="NGA (MSK) (MSK +2 - +4)" tvg-logo="https://i.imgur.com/QyZvT3e.png",ОТР (Server 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/otr/playlist.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВ Центр
+#EXTINF:-1 group-title="NGA (MSK)" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВ Центр
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://uiptv.do.am/1ufc/000000009/playlist.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВ Центр (Server 2)
+#EXTINF:-1 group-title="NGA (MSK)" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВ Центр (Server 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://ad-hls-tvc.cdnvideo.ru/tvc-p222/smil:tvc.smil/chunklist_b1682100.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВ Центр (+4)
+#EXTINF:-1 group-title="NGA (MSK +2 - +4)" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВ Центр (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/tvc/playlist.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/Ot91RMW.png",РЕН ТВ
+#EXTINF:-1 group-title="NGA (MSK)" tvg-logo="https://i.imgur.com/Ot91RMW.png",РЕН ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://uiptv.do.am/1ufc/102323759/playlist.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/Ot91RMW.png",РЕН ТВ (Server 2)
+#EXTINF:-1 group-title="NGA (MSK)" tvg-logo="https://i.imgur.com/Ot91RMW.png",РЕН ТВ (Server 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/Ot91RMW.png",РЕН ТВ (+4)
+#EXTINF:-1 group-title="NGA (MSK +2 - +4)" tvg-logo="https://i.imgur.com/Ot91RMW.png",РЕН ТВ (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/ren/playlist.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/tTDc0Zw.png",СПАС
+#EXTINF:-1 group-title="NGA (MSK)" tvg-logo="https://i.imgur.com/tTDc0Zw.png",СПАС
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/pJNWVAz.png",СТС (+4)
+#EXTINF:-1 group-title="NGA (MSK +2 - +4)" tvg-logo="https://i.imgur.com/pJNWVAz.png",СТС (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/sts/playlist.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/jBnjxGR.png",Домашний (+4)
+#EXTINF:-1 group-title="NGA (MSK +2 - +4)" tvg-logo="https://i.imgur.com/jBnjxGR.png",Домашний (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/dom/playlist.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/HNxdsxm.png",ТВ-3 (+4)
+#EXTINF:-1 group-title="NGA (MSK +2 - +4)" tvg-logo="https://i.imgur.com/HNxdsxm.png",ТВ-3 (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/tv3/playlist.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/HVmmImf.png",ТВ3 HD
+#EXTINF:-1 group-title="NGA (MSK)" tvg-logo="https://i.imgur.com/HVmmImf.png",ТВ3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://bl.uma.media/live/407373/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013859/5fdc4b8080160a4e56933b0402133da4/playlist.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/CNOYAUN.png",Пятница! (+4)
+#EXTINF:-1 group-title="NGA (MSK +2 - +4)" tvg-logo="https://i.imgur.com/CNOYAUN.png",Пятница! (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/pyatnica/playlist.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.ibb.co/g4wQKcs/HD.png",Пятница! HD
+#EXTINF:-1 group-title="NGA" tvg-logo="https://i.ibb.co/g4wQKcs/HD.png",Пятница! HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://bl.uma.media/live/410336/HLS_R/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613010957/e2cf94524a064ecb46389bb54a359d9a/playlist.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/n9zLVyR.png",Звезда (+4)
+#EXTINF:-1 group-title="NGA (MSK +2 - +4)" tvg-logo="https://i.imgur.com/n9zLVyR.png",Звезда (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/zvezda/playlist.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/n9zLVyR.png",Звезда HD
+#EXTINF:-1 group-title="NGA (MSK)" tvg-logo="https://i.imgur.com/n9zLVyR.png",Звезда HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/yqXhUto.png",МИР
+#EXTINF:-1 group-title="NGA (MSK)" tvg-logo="https://i.imgur.com/yqXhUto.png",МИР
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://uiptv.do.am/1ufc/113500247/playlist.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/yqXhUto.png",МИР (+4)
+#EXTINF:-1 group-title="NGA (MSK +2 - +4)" tvg-logo="https://i.imgur.com/yqXhUto.png",МИР (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.ibb.co/Dt7Lgh2/HD.png",МИР HD
+#EXTINF:-1 group-title="NGA (MSK)" tvg-logo="https://i.ibb.co/Dt7Lgh2/HD.png",МИР HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/d9UsZWi.png",ТНТ (+4)
+#EXTINF:-1 group-title="NGA (MSK +2 - +4)" tvg-logo="https://i.imgur.com/d9UsZWi.png",ТНТ (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/tnt/playlist.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/ZaG3kc4.png",ТНТ HD
+#EXTINF:-1 group-title="NGA" tvg-logo="https://i.imgur.com/ZaG3kc4.png",ТНТ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://bl.uma.media/live/410338/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013807/79ad96b5b87fdce129191b83aaf2fb46/playlist.m3u8?s=disabled
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/ZaG3kc4.png",ТНТ HD (Server 2)
+#EXTINF:-1 group-title="NGA (MSK)" tvg-logo="https://i.imgur.com/ZaG3kc4.png",ТНТ HD (Server 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/TNT_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/n7bGFXj.png",МУЗ ТВ
+#EXTINF:-1 group-title="NGA (MSK)" tvg-logo="https://i.imgur.com/n7bGFXj.png",МУЗ ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Muz_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/n7bGFXj.png",МУЗ ТВ (480p)
+#EXTINF:-1 group-title="NGA (MSK)" tvg-logo="https://i.imgur.com/n7bGFXj.png",МУЗ ТВ (480p)
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s28/04.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/n7bGFXj.png",МУЗ ТВ (+2)
+#EXTINF:-1 group-title="NGA (MSK +2 - +4)" tvg-logo="https://i.imgur.com/n7bGFXj.png",МУЗ ТВ (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://s4.idata.uz/muztv/tracks-v1a1/rewind-7200.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/Wk3Q8sT.png",Москва 24 (Kênh Thủ Đô)
+#EXTINF:-1 group-title="NGA (MSK)" tvg-logo="https://i.imgur.com/Wk3Q8sT.png",Москва 24 (Kênh Thủ Đô)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/Wk3Q8sT.png",Москва 24 (Kênh Thủ Đô) (Server 2)
+#EXTINF:-1 group-title="NGA (MSK)" tvg-logo="https://i.imgur.com/Wk3Q8sT.png",Москва 24 (Kênh Thủ Đô) (Server 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://radio-live-mg.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.ibb.co/GQT5C8p/TSM.png",СТС-МИР (Новосибирск)
+#EXTINF:-1 group-title="NGA (MSK +2 - +4)" tvg-logo="https://i.ibb.co/GQT5C8p/TSM.png",СТС-МИР (Новосибирск)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://serv30.vintera.tv:8081/stanciya_mir/mir/playlist.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.ibb.co/5xPJKm9/8.jpg",8 Канал Новосибирск
+#EXTINF:-1 group-title="NGA (MSK +2 - +4)" tvg-logo="https://i.ibb.co/5xPJKm9/8.jpg",8 Канал Новосибирск
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 rtmp://8knsk.cdnvideo.ru/8knsk-mpegts/stream1
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.ibb.co/Jc65Jvg/24.webp",Катунь 24 (Барнаул)
+#EXTINF:-1 group-title="NGA (MSK +2 - +4)" tvg-logo="https://i.ibb.co/Jc65Jvg/24.webp",Катунь 24 (Барнаул)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://live.katun24.ru:8082/katun/katun/index.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/m6NX6Sx.png",Кузбасс 1 (Кемерово)
+#EXTINF:-1 group-title="NGA (MSK +2 - +4)" tvg-logo="https://i.imgur.com/m6NX6Sx.png",Кузбасс 1 (Кемерово)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://kuzbass1.ru:8082/10kanal/k24_576/playlist.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/m6NX6Sx.png",Кузбасс 1 HD (Кемерово)
+#EXTINF:-1 group-title="NGA (MSK +2 - +4)" tvg-logo="https://i.imgur.com/m6NX6Sx.png",Кузбасс 1 HD (Кемерово)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://www.10kanal.ru/live/hls/k24.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.ibb.co/DGMWwb5/Net-HD.png",Между.Net (Междуреченск)
+#EXTINF:-1 group-title="NGA (MSK +2 - +4)" tvg-logo="https://i.ibb.co/DGMWwb5/Net-HD.png",Между.Net (Междуреченск)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/EPTBLSP.png",10 канал (Новокузнецк)
+#EXTINF:-1 group-title="NGA (MSK +2 - +4)" tvg-logo="https://i.imgur.com/EPTBLSP.png",10 канал (Новокузнецк)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://kuzbass1.ru:8082/10kanal/10kanal_720/playlist.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.ibb.co/0cYdNc3/image.png",Енисей (Красноярск) (HD)
+#EXTINF:-1 group-title="NGA (MSK +2 - +4)" tvg-logo="https://i.ibb.co/0cYdNc3/image.png",Енисей (Красноярск) (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/Gbof1a7.png",ТВК (Красноярск)
+#EXTINF:-1 group-title="NGA (MSK +2 - +4)" tvg-logo="https://i.imgur.com/Gbof1a7.png",ТВК (Красноярск)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://air.tvk6.ru/tvk24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/Gbof1a7.png",ТВК (Красноярск) (HD)
+#EXTINF:-1 group-title="NGA (MSK +2 - +4)" tvg-logo="https://i.imgur.com/Gbof1a7.png",ТВК (Красноярск) (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://air.tvk6.ru/tvk24/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.ibb.co/z8MFCgK/image.png",Афонтово (Красноярск)
+#EXTINF:-1 group-title="NGA (MSK +2 - +4)" tvg-logo="https://i.ibb.co/z8MFCgK/image.png",Афонтово (Красноярск)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://xstream.afontovo.ru/afontovo_ya.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.ibb.co/88TjXv7/8-CHANNEL-KRSK.png",8 канал Красноярский край (Красноярск)
+#EXTINF:-1 group-title="NGA (MSK +2 - +4)" tvg-logo="https://i.ibb.co/88TjXv7/8-CHANNEL-KRSK.png",8 канал Красноярский край (Красноярск)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://80.65.18.213/perviy_molodeginyi_3100kb.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.ibb.co/88TjXv7/8-CHANNEL-KRSK.png",8 канал Красноярский край (Красноярск) (Server 2)
+#EXTINF:-1 group-title="NGA (MSK +2 - +4)" tvg-logo="https://i.ibb.co/88TjXv7/8-CHANNEL-KRSK.png",8 канал Красноярский край (Красноярск) (Server 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://84.22.141.170/8kanal-krsk.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Db7xDYJ/image.png" group-title="NGA - Kazakhstan",ТНВ Планета
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Db7xDYJ/image.png" group-title="NGA" (MSK +2 - +4),ТНВ Планета
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://tnv.bonus-tv.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.ibb.co/Ks7H7kd/image.png",Че (+4)
+#EXTINF:-1 group-title="NGA (MSK +2 - +4)" tvg-logo="https://i.ibb.co/Ks7H7kd/image.png",Че (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/perec/playlist.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/neisaju.png",СТС Love (+2)
+#EXTINF:-1 group-title="NGA (MSK +2 - +4)" tvg-logo="https://i.imgur.com/neisaju.png",СТС Love (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/STS_Love_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/rdLzrpr.png",ТНТ4 HD
+#EXTINF:-1 group-title="NGA (MSK)" tvg-logo="https://i.imgur.com/rdLzrpr.png",ТНТ4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d161f37174905bc712e81b60d3411fc1/playlist.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.ibb.co/DrvTgDc/2x2.png",2x2
+#EXTINF:-1 group-title="NGA (MSK)" tvg-logo="https://i.ibb.co/DrvTgDc/2x2.png",2x2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/2x2_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.ibb.co/DrvTgDc/2x2.png",2x2 HD
+#EXTINF:-1 group-title="NGA (MSK)" tvg-logo="https://i.ibb.co/DrvTgDc/2x2.png",2x2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://bl.uma.media/live/317805/HLS/4614144_3,2883584_2,1153024_1/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.ibb.co/qrLb5kL/image.png",Суббота HD
+#EXTINF:-1 group-title="NGA (MSK)" tvg-logo="https://i.ibb.co/qrLb5kL/image.png",Суббота HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/ifoTmr6.png",Disney (+2)
+#EXTINF:-1 group-title="NGA (MSK +2 - +4)" tvg-logo="https://i.imgur.com/ifoTmr6.png",Disney (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://s1.idata.uz:443/stch_temp18/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/ifoTmr6.png",Disney (+2) (Server 2)
+#EXTINF:-1 group-title="NGA (MSK +2 - +4)" tvg-logo="https://i.imgur.com/ifoTmr6.png",Disney (+2) (Server 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Disney_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.ibb.co/fXXMxB4/360-HD.png",360°
+#EXTINF:-1 group-title="NGA (Other)" tvg-logo="https://i.ibb.co/fXXMxB4/360-HD.png",360°
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/360_TV_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.ibb.co/fXXMxB4/360-HD.png",360° HD (720p)
+#EXTINF:-1 group-title="NGA (Other)" tvg-logo="https://i.ibb.co/fXXMxB4/360-HD.png",360° HD (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://video1.in-news.ru/360/index.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.ibb.co/fXXMxB4/360-HD.png",360° HD (1080p)
+#EXTINF:-1 group-title="NGA (Other)" tvg-logo="https://i.ibb.co/fXXMxB4/360-HD.png",360° HD (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.ibb.co/NZncqwR/360.png",360° Новости HD
+#EXTINF:-1 group-title="NGA (Other)" tvg-logo="https://i.ibb.co/NZncqwR/360.png",360° Новости HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.ibb.co/SnfcBkH/rutv-TV.png",RU.TV
+#EXTINF:-1 group-title="NGA (Other)" tvg-logo="https://i.ibb.co/SnfcBkH/rutv-TV.png",RU.TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://rut-v.gcdn.co/streams/1410_1323/360n/index.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.ibb.co/SnfcBkH/rutv-TV.png",RU.TV HD
+#EXTINF:-1 group-title="NGA (Other)" tvg-logo="https://i.ibb.co/SnfcBkH/rutv-TV.png",RU.TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/AGj8EJF.png",РБК
+#EXTINF:-1 group-title="NGA (Other)" tvg-logo="https://i.imgur.com/AGj8EJF.png",РБК
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/AGj8EJF.png",РБК (Server 2)
+#EXTINF:-1 group-title="NGA (Other)" tvg-logo="https://i.imgur.com/AGj8EJF.png",РБК (Server 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/RBK_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/AGj8EJF.png",РБК (Server 3)
+#EXTINF:-1 group-title="NGA (Other)" tvg-logo="https://i.imgur.com/AGj8EJF.png",РБК (Server 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://uiptv.do.am/1ufc/701293058/playlist.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/o4Julue.jpg",Известия
+#EXTINF:-1 group-title="NGA (Other)" tvg-logo="https://i.imgur.com/o4Julue.jpg",Известия
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/o4Julue.jpg",Известия HD
+#EXTINF:-1 group-title="NGA (Other)" tvg-logo="https://i.imgur.com/o4Julue.jpg",Известия HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.ibb.co/tcBDJxp/24.png",МИР 24
+#EXTINF:-1 group-title="NGA (Other)" tvg-logo="https://i.ibb.co/tcBDJxp/24.png",МИР 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://uiptv.do.am/1ufc/112234126/playlist.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.ibb.co/tcBDJxp/24.png",МИР 24 (Server 2)
+#EXTINF:-1 group-title="NGA (Other)" tvg-logo="https://i.ibb.co/tcBDJxp/24.png",МИР 24 (Server 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/MIR24_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.ibb.co/tcBDJxp/24.png",МИР 24 HD
+#EXTINF:-1 group-title="NGA (Other)" tvg-logo="https://i.ibb.co/tcBDJxp/24.png",МИР 24 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.ibb.co/T826kTh/Mir-Premium.png",МИР Premium HD
+#EXTINF:-1 group-title="NGA (Other)" tvg-logo="https://i.ibb.co/T826kTh/Mir-Premium.png",МИР Premium HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xfgtSCn/1rnk.png" group-title="NGA - Kazakhstan",Первый российский национальный канал
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xfgtSCn/1rnk.png" group-title="NGA (Other)",Первый российский национальный канал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://serv25.vintera.tv:8081/1pnk/1pnk/playlist.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.ibb.co/9TwvD6b/Vietnga-TV-Logo.png",Việt Nga TV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://dmitry-tv.ddns.net:8666/his/CH_D-TV6
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.ibb.co/9TwvD6b/Vietnga-TV-Logo.png",Việt Nga TV Music HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://dmitry-tv.ddns.net:8000/his/CH_DMITRY-TVHD
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/tEH4vmX.png",Хабар 24 HD
+#EXTINF:-1 group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/tEH4vmX.png",Хабар 24 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/tEH4vmX.png",Хабар 24 HD (Server 2)
+#EXTINF:-1 group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/tEH4vmX.png",Хабар 24 HD (Server 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://live-24kz.cdnvideo.ru/24kz/24kz.sdp/playlist.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/bJIkebD.png",Первый канал Евразия
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/BGy7EMr.png",КТК
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://89.218.30.37/ktklive/live.hq/playlist.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/BGy7EMr.png",КТК (HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://wz-kt.ktk.kz:1935/ktklive/smil:ktk-live.smil/chunklist_b3064000_slrus.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/GXlYCXz.jpg",Almaty TV (HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-https://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/HLiv5Hq.jpg",Новое телевидение
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/DaYMzz8.jpg",Atameken Business (HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://live.atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/048jWpk.jpg",Qazaq TV (Kazakh)
+#EXTINF:-1 group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/048jWpk.jpg",Qazaq TV (Kazakh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://serv30.vintera.tv:8081/kazahtv/stream_ru/playlist.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/048jWpk.jpg",Qazaq TV (Russian)
+#EXTINF:-1 group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/048jWpk.jpg",Qazaq TV (Russian)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://serv30.vintera.tv:8081/kazahtv/stream_kz/playlist.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/048jWpk.jpg",Qazaq TV (English)
+#EXTINF:-1 group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/048jWpk.jpg",Qazaq TV (English)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://serv30.vintera.tv:8081/kazahtv/stream_en/playlist.m3u8
-#EXTINF:-1 group-title="NGA - Kazakhstan" tvg-logo="https://i.imgur.com/048jWpk.jpg",Qazaq TV (Kyrgyz)
+#EXTINF:-1 group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/048jWpk.jpg",Qazaq TV (Kyrgyz)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://serv30.vintera.tv:8081/kazahtv/stream_kg/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XMyRwDk.png" group-title="NGA - Kazakhstan",МТРК Петропавловск
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-https://tvcdn01.oktv.kz/tv/mtrk/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3rhdLb3.png" group-title="Kyrgyzstan",КТРК
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://onlinetv.ktrk.kg:1935/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B9XEVY3.png" group-title="Kyrgyzstan",КТРК Ала-Тоо 24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://onlinetv.ktrk.kg:1935/live/myStream3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CQYNlvo.png" group-title="Kyrgyzstan",Маданият Тарых Тил
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://onlinetv.ktrk.kg:1935/live/myStream5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d7IiSIY.png" group-title="Kyrgyzstan",КТРК Спорт
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://onlinetv.ktrk.kg:1935/live/myStream4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RH7HdF4.png" group-title="Kyrgyzstan",КТРК Баластан
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://onlinetv.ktrk.kg:1935/live/myStream6/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zk1l8Ak.png" group-title="Kyrgyzstan",КТРК Музыка
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://onlinetv.ktrk.kg:1935/live/myStream2/playlist.m3u8
-#EXTINF:-1 group-title="Kyrgyzstan" tvg-logo="https://i.ibb.co/WGCHY5s/TV1KG.jpg",TV1 KG
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://212.2.225.30:1935/live/site.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/cbwhzcF/image.jpg" group-title="Kyrgyzstan",ТНТ4 - Любимый
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://92.245.103.126:1935/live/live.stream/chunklist_w1710034375.m3u8
-#EXTINF:0 group-title="Kyrgyzstan" tvg-logo="https://i.imgur.com/QE61UXL.png",ОшТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://212.42.115.75/live/oshtv/index.m3u8
 #EXTINF:-1 group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/Dh1pUNW.png",Беларусь 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
@@ -1887,18 +1833,6 @@ http://mfe.cliptv.az/dash/Mezzo_Live_HD.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aWFlyoK.png" group-title="CA NHẠC QUỐC TẾ",Жар Птица
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/NC0CYrr/1MusBY.png" group-title="CA NHẠC QUỐC TẾ",Первый Музыкальный BY (Belarus)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://rtmp.one.by:1200
-#EXTINF:0 tvg-logo="https://i.ibb.co/NC0CYrr/1MusBY.png" group-title="CA NHẠC QUỐC TẾ",Первый Музыкальный BY [FHD] (Belarus)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://rtmp.one.by:1300
-#EXTINF:0 tvg-logo="https://i.ibb.co/hKmNrTx/1MusRU.png" group-title="CA NHẠC QUỐC TẾ",Первый Музыкальный RU BY (Belarus)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://rtmp.one.by:2200
-#EXTINF:0 tvg-logo="https://i.ibb.co/hKmNrTx/1MusRU.png" group-title="CA NHẠC QUỐC TẾ",Первый Музыкальный RU BY [FHD] (Belarus)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://rtmp.one.by:2300
 
 #EXTINF:-1 group-title="KÊNH BÁN HÀNG" tvg-logo="https://i.ibb.co/Gvz8WzL/TopShop.png",Top Shop TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
@@ -2481,15 +2415,12 @@ http://mfe.cliptv.az/dash/Eurosport2_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/8YJYhpX/football.png",Футбол
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s41/04.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/0tjXfkT/SETANTA1-BEARTV.png",Setanta Sports 1
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://ott-cdn.ucom.am/s81/04.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/vVwVcHw/SETANTA2-BEARTV.png",Setanta Sports 2
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://ott-cdn.ucom.am/s82/04.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/CK9FQMK/QAZSPORTHD-BEARTV.png",QAZSPORT (Giải Bóng Đá Kazakhstan)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://92.46.127.146:8080/qazsport/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0FDfRM2/Konnyy-mir.png" group-title="KÊNH THỂ THAO",Конный Мир
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://cdn-01.bonus-tv.ru:80/konnyimir/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ys5fpb6/68-KHL.png" group-title="KÊNH THỂ THAO",КХЛ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://mfe.cliptv.az/dash/KHL_TV_SD.ism/playlist.mpd
