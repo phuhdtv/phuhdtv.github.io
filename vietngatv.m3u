@@ -1225,9 +1225,9 @@ http://livecdn.fptplay.net/tvc/sukien03_2000.stream/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://livecdn.fptplay.net/event/eventExpire_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="NGA (MSK +2 - +4)" tvg-logo="https://i.imgur.com/iW5vhkb.png",Первый Канал ВС
+#EXTINF:-1 group-title="NGA (MSK +2 - +4)" tvg-logo="https://i.imgur.com/iW5vhkb.png",Первый Канал ВС (Auto)
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://ott-cdn.ucom.am/s14.m3u8
+http://ott-cdn.ucom.am/s14/index.m3u8
 #EXTINF:-1 group-title="NGA (MSK +2 - +4)" tvg-logo="https://i.imgur.com/iW5vhkb.png",Первый Канал ВС (480p)
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s14/04.m3u8
