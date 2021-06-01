@@ -98,12 +98,9 @@ https://livecdn.fptplay.net/sdb/vtc1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc2" group-title="VTC" tvg-logo="https://i.imgur.com/PA12mGb.png",VTC2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc3" group-title="VTC" tvg-logo="https://i.imgur.com/h5QyJFw.png",VTC3 - ON Sports HD
+#EXTINF:-1 tvg-id="vtc3" group-title="VTC" tvg-logo="https://i.imgur.com/kwujTlD.png",VTC3 Thể Thao HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://livecdn.fptplay.net/hda/vtc3hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc3" group-title="VTC" tvg-logo="https://i.imgur.com/h5QyJFw.png",VTC3 - ON Sports HD (Server 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTC3-HD-720p/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc4hd" group-title="VTC" tvg-logo="https://i.imgur.com/v9DNS85.png",VTC4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTC4-SD-ABR/HTV-ABR/VTC4-SD-720p/playlist.m3u8
@@ -890,6 +887,12 @@ http://mfe.cliptv.az/dash/Evronovosti_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/do0MLyS.png",EURONEWS | 480p
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s89/04.m3u8
+#EXTINF:-1 group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/do0MLyS.png",EURONEWS ̣(In English)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+https://euronews-euronews-world-1.roku.wurl.com/manifest/b34060fcaf527710b244a3e16504edd0.m3u8
+#EXTINF:-1 group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/do0MLyS.png",EURONEWS ̣(In English) HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+https://euronews-euronews-world-1.roku.wurl.com/manifest/71bf778598cc9ce36952bb8a3331551a.m3u8
 #EXTINF:-1 tvg-id="foxhd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/NW7ZImg.png",FOX HD | 1080P
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
@@ -1004,9 +1007,6 @@ http://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u
 #EXTINF:-1 group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/RkwhjHA.png",Russia Today News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
-#EXTINF:-1 group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/RkwhjHA.png",Russia Today News (Server 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-https://uiptv.do.am/1ufc/702424953/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/RkwhjHA.png",Russia Today Arabic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://rt-arab-gd.secure2.footprint.net/1104_1600Kb.m3u8
