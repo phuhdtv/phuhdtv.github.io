@@ -13,7 +13,7 @@ List FPT: https://bom.to/iptv-fpt
 
 List iptvbyvietngatv: http://gg.gg/iptvbyvietngatv
 
-Link Euronews: http://gg.gg/HaNoiIPTV-Euronews
+Link Euronews: http://gg.gg/euronewsbyvovanloc
 
 Download SimpleTV: http://gg.gg/simple-tv
 
