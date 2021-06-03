@@ -1269,7 +1269,7 @@ http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/ren/playlist.m3u8
 #EXTINF:-1 group-title="NGA (MSK)" tvg-logo="https://i.ibb.co/cy1YyWj/HD.png",РЕН ТВ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
-#EXTINF:-1 group-title="NGA (MSK)" tvg-logo="https://i.imgur.com/tTDc0Zw.png",СПАС
+#EXTINF:-1 group-title="NGA (MSK)" tvg-logo="https://i.ibb.co/MShsKrf/image.png",СПАС
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="NGA (MSK +2 - +4)" tvg-logo="https://i.imgur.com/pJNWVAz.png",СТС (+4)
@@ -1334,7 +1334,7 @@ https://radio-live-mg.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
 http://serv30.vintera.tv:8081/stanciya_mir/mir/playlist.m3u8
 #EXTINF:-1 group-title="NGA (MSK +2 - +4)" tvg-logo="https://i.ibb.co/5xPJKm9/8.jpg",8 Канал Новосибирск
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://hls-8knsk.cdnvideo.ru/8knsk-mpegts/stream1/chunklist.m3u8
+rtmp://8knsk.cdnvideo.ru/8knsk-mpegts/stream1
 #EXTINF:-1 group-title="NGA (MSK +2 - +4)" tvg-logo="https://i.ibb.co/ZH5YGZb/k-24.png",Катунь 24 (Барнаул)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://live.katun24.ru:8082/katun/katun/index.m3u8
