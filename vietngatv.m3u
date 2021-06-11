@@ -1210,11 +1210,9 @@ http://livecdn.fptplay.net/tvc/sukien03_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/event/eventExpire_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/iW5vhkb.png",Первый Канал ВС (Auto)
-#EXTVLCOPT:http-referer=https://livecdn.fptplay.net/world/channelonerussia_hls.smil/chunklist_b2500000.m3u8
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s14/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/iW5vhkb.png",Первый Канал ВС (480p)
-#EXTVLCOPT:http-referer=https://livecdn.fptplay.net/world/channelonerussia_hls.smil/chunklist_b2500000.m3u8
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s14/04.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/WPqlx2k.png",Первый Канал HD
@@ -1224,7 +1222,6 @@ http://ott-cdn.ucom.am/s14/04.m3u8
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Perviy_Kanal_HD.ism/playlist.mpd
 #EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/5D1gwiv.png",Россия РТР
-#EXTVLCOPT:http-referer=https://livecdn.fptplay.net/world/rtrplaneta_hls.smil/chunklist_b2500000.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/BzsskXA.png",Россия 1 HD
