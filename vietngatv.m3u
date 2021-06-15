@@ -850,12 +850,6 @@ http://livedoc.cgtn.com/1000d/prog_index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/DMAX_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/cSZn7dD.png",EURONEWS English
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-https://euronews-euronews-world-1.roku.wurl.com/manifest/b34060fcaf527710b244a3e16504edd0.m3u8
-#EXTINF:-1 group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/cSZn7dD.png",EURONEWS English HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-https://euronews-euronews-world-1.roku.wurl.com/manifest/71bf778598cc9ce36952bb8a3331551a.m3u8
 #EXTINF:-1 group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/cSZn7dD.png",EURONEWS Россия | 540p
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8
@@ -1404,9 +1398,6 @@ http://kuzbass1.ru:8082/10kanal/10kanal_720/playlist.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://i.ibb.co/0cYdNc3/image.png",Енисей (Красноярск) (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
-#EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/Gbof1a7.png",ТВК (Красноярск)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://air.tvk6.ru/tvk24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/Gbof1a7.png",ТВК (Красноярск) (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://air.tvk6.ru/tvk24/tracks-v2a1/mono.m3u8
@@ -1428,6 +1419,18 @@ https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xTQ3q37.png" group-title="Россия",Ветта 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CZy6GXW.png" group-title="Россия",Сургут 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+https://sitv.ru/hls/stv1024.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f5H2nJ1.png" group-title="Россия",Сургут 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+https://video1.in-news.ru/c24/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZG9PeT9.png" group-title="Россия",Телеканал 86
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+https://sitv.ru/hls/s861024.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mTSxBVy/image.png" group-title="Россия",Вестник Надыма
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+http://live-trknadym.cdnvideo.ru/trknadym-pub/trknadym.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://i.ibb.co/Ks7H7kd/image.png",Че (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 #KODIPROP:inputstream=inputstream.adaptive
