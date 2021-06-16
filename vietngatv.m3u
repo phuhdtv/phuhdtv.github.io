@@ -1362,9 +1362,15 @@ http://serv30.vintera.tv:8081/stanciya_mir/mir/playlist.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://i.ibb.co/ZH5YGZb/k-24.png",Катунь 24 (Барнаул)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://live.katun24.ru:8082/katun/katun/index.m3u8
-#EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/m6NX6Sx.png",Кузбасс 1 (Кемерово)
+#EXTINF:-1 group-title="Россия" tvg-logo="https://i.ibb.co/ZH5YGZb/k-24.png",Катунь 24 (Барнаул) [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+http://mhd.iptv2022.com/p/09hkEiA_-55TZEoAVTJvSg,1623894824/streaming/katun24/324/variable.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/m6NX6Sx.png",Кузбасс 1 SD (Кемерово)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://kuzbass1.ru:8082/10kanal/k24_576/playlist.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/m6NX6Sx.png",Кузбасс 1 SD (Кемерово) [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+http://mhd.iptv2022.com/p/dTiTe7W4tbX307BeWCDVgA,1623894824/streaming/kuzbas1/324/1/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/m6NX6Sx.png",Кузбасс 1 HD (Кемерово)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://www.10kanal.ru/live/hls/k24.m3u8
@@ -1374,9 +1380,15 @@ http://kuzbass1.ru:8082/10kanal/k24/playlist.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/xQc3UoJ.png",Между.Net (Междуреченск)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8
-#EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/EPTBLSP.png",10 канал (Новокузнецк)
+#EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/EPTBLSP.png",Десятка (Новокузнецк)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://kuzbass1.ru:8082/10kanal/10kanal_720/playlist.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/EPTBLSP.png",Десятка (Новокузнецк) [Server 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+http://mhd.iptv2022.com/p/IWTRZ1ISoWBItWG2g3aKSw,1623894824/streaming/10channel/324/1/index.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://i.ibb.co/0cYdNc3/image.png",Енисей (Красноярск) (SD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+http://mhd.iptv2022.com/p/iyhy-H8sGq7GqfshEMJCLA,1623894824/streaming/enisey/324/1/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://i.ibb.co/0cYdNc3/image.png",Енисей (Красноярск) (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
@@ -1404,6 +1416,9 @@ http://mhd.iptv2022.com/p/Mz9drCNL551yesb7Hec4Dw,1623894824/streaming/primatv/32
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XjpvT05/cropped-logo2-1.png" group-title="Россия",ТМ-КВАНТ (Кемерово)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://mhd.iptv2022.com/p/F_M60aPwg3BdmDOE0IEcPg,1623894824/streaming/tm-kvant/324/1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Россия",Абакан 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+http://mhd.iptv2022.com/p/SxRetBmUpS4p47hEXYyYbg,1623894824/streaming/abakan24/324/1/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://i.ibb.co/Ks7H7kd/image.png",Че (+2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1422,6 +1437,9 @@ http://mhd.iptv2022.com/p/1JIZ0AzST1VAPKvxPGsFCA,1623894823/streaming/tnt4ott/32
 #EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/rdLzrpr.png",ТНТ4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d161f37174905bc712e81b60d3411fc1/playlist.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://i.ibb.co/dkb8RLK/Music-3.png",ТНТ Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+http://mhd.iptv2022.com/p/nSW59BkHfL47U2Fjj2NMQw,1623894822/streaming/tntmusic/324/variable.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/XqPS7VR.jpg",2x2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 #KODIPROP:inputstream=inputstream.adaptive
