@@ -1613,12 +1613,6 @@ http://mfe.cliptv.az/dash/Viasat_Nature_SD.ism/playlist.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/HD_life.ism/playlist.mpd
-#EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.ibb.co/x7P8Ft5/Sony-Turbo.png",Sony Turbo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.is_realtime_stream=true
-http://mfe.cliptv.az/dash/Sony_Turbo_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/qSq2TSy.png",КРИК-ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://hls-rictv.cdnvideo.ru/rictv/rictv.sdp/playlist.m3u8
@@ -1896,12 +1890,6 @@ http://mfe.cliptv.az/dash/TV1000_Action_SD.ism/playlist.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/TV1000_Russkoe_Kino_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="Kênh Điện ảnh thế giới" tvg-logo="https://i.ibb.co/BTkLcWc/Sony-Sci-Fi.png",Sony Sci-Fi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.is_realtime_stream=true
-http://mfe.cliptv.az/dash/Sony_Sci_Fi_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Kênh Điện ảnh thế giới" tvg-logo="https://i.imgur.com/lXlwfyw.png",Amedia 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 #KODIPROP:inputstream=inputstream.adaptive
