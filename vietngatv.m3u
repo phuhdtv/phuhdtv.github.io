@@ -1173,10 +1173,7 @@ http://livecdn.fptplay.net/tvc/sukien03_2000.stream/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://livecdn.fptplay.net/event/eventExpire_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/1IqCGe9.png",Первый Канал ВС (Auto)
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://ott-cdn.ucom.am/s14/index.m3u8
-#EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/1IqCGe9.png",Первый Канал ВС (480p)
+#EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/1IqCGe9.png",Первый Канал ВС
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s14/04.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://i.ibb.co/VjV4Hcy/ef3-Weh-VWg-O4.jpg",Первый Канал HD
@@ -1305,10 +1302,13 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://i.ibb.co/Dt7Lgh2/HD.png",МИР HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/LqmmkNs.png",ТНТ HD
+#EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/LqmmkNs.png",ТНТ International
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+http://ott-cdn.ucom.am/s19/04.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/ZaG3kc4.png",ТНТ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://bl.uma.media/live/410338/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013807/79ad96b5b87fdce129191b83aaf2fb46/playlist.m3u8?s=disabled
-#EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/LqmmkNs.png",ТНТ HD (Server 2)
+#EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/ZaG3kc4.png",ТНТ HD (Server 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
