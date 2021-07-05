@@ -1224,12 +1224,12 @@ http://mfe.cliptv.az/dash/5_Kanal_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/Q5XxFQi.png",Россия K (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://a1566400114-s26881.cdn.ngenix.net/hls/russia_k_dubl2/playlist_3.m3u8
-#EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/wu7O85f.png",Россия 24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-https://uiptv.do.am/1ufc/000000006/playlist.m3u8
-#EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/wu7O85f.png",Россия 24 (Server 2)
+#EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/wu7O85f.png",Россия 24 (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/wu7O85f.png",Россия 24 (480p)
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+http://ott-cdn.ucom.am/s21/04.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/n9IHUCD.png",Карусель (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://edge04.beetv.kz/btv/SWM/Karusel/Karusel_576p_2000kbps.m3u8
@@ -1251,6 +1251,9 @@ http://ott-cdn.ucom.am/s85/04.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://i.ibb.co/MShsKrf/image.png",СПАС
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://i.ibb.co/MShsKrf/image.png",СПАС (Server 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+http://edge04.beetv.kz/btv/SWM/Spas/Spas_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/pJNWVAz.png",СТС (480p)
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s52/04.m3u8
@@ -1410,6 +1413,9 @@ http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/AGj8EJF.png",РБК (25fps)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://uiptv.do.am/1ufc/701293058/playlist.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/AGj8EJF.png",РБК (480p)
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+http://ott-cdn.ucom.am/s36/04.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/o4Julue.jpg",Известия
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://hls-igi.cdnvideo.ru/igi/igi_lq/playlist.m3u8
@@ -2184,27 +2190,18 @@ http://mfe.cliptv.az/dash/Match_Arena_HD.ism/playlist.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Matc_Boec_SD.ism/playlist.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7ppk4Cg/image.png" group-title="KÊNH THỂ THAO",Матч! Игра
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-https://185-117-74-6.livesports24.online/migra.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/LS2PSpt.png",EUROSPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/EuroSport1_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/LS2PSpt.png",EUROSPORT 1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-https://www.livedoomovie.com/02_EUROHD1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/TxipcCK.png",EUROSPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Eurosport2_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/TxipcCK.png",EUROSPORT 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-https://www.livedoomovie.com/02_EUROHD2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/8YJYhpX/football.png",Футбол
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s41/04.m3u8
