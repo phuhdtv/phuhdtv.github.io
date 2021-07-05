@@ -155,10 +155,10 @@ https://vtc130121.cdn.vnns.io/VTC16/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="vovtv" group-title="KÊNH TRUYỀN HÌNH THIẾT YẾU" tvg-logo="https://i.imgur.com/SReog1U.png",VOV TV HD
+#EXTINF:-1 tvg-id="vovtv" group-title="VOV" tvg-logo="https://i.imgur.com/SReog1U.png",VOV TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://cdn.vovtv.mediatech.vn/vovlive/tv1live.m3u8
-#EXTINF:-1 tvg-id="vovtv" group-title="KÊNH TRUYỀN HÌNH THIẾT YẾU" tvg-logo="https://i.imgur.com/133s2Sc.png",VOV TV SD
+#EXTINF:-1 tvg-id="vovtv" group-title="VOV" tvg-logo="https://i.imgur.com/133s2Sc.png",VOV TV SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://livecdn.fptplay.net/sdc/vovtvsd_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="antvhd" group-title="KÊNH TRUYỀN HÌNH THIẾT YẾU" tvg-logo="https://i.ibb.co/FBJKgSG/89.png",An Ninh TV HD
@@ -1025,70 +1025,70 @@ http://mfe.cliptv.az/dash/Nickelodeon_SD.ism/playlist.mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Nick_JR_SD.ism/playlist.mpd
 
-#EXTINF:-1 group-title="RADIO TRONG NƯỚC" tvg-logo="https://i.ibb.co/jwvtkqq/VOV1.png",VOV1
+#EXTINF:-1 group-title="VOV" tvg-logo="https://i.ibb.co/jwvtkqq/VOV1.png",VOV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://media.kythuatvov.vn:1936/live/VOV1.sdp/playlist.m3u8
-#EXTINF:-1 group-title="RADIO TRONG NƯỚC" tvg-logo="https://i.ibb.co/jwvtkqq/VOV1.png",VOV1 (Server 2)
+#EXTINF:-1 group-title="VOV" tvg-logo="https://i.ibb.co/jwvtkqq/VOV1.png",VOV1 (Server 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://stream.vov.vn/audio/vovvn1_vov1.stream_aac/chunklist_w1563075043.m3u8
-#EXTINF:-1 group-title="RADIO TRONG NƯỚC" tvg-logo="https://i.ibb.co/KzJBvbx/VOV2.png",VOV2
+#EXTINF:-1 group-title="VOV" tvg-logo="https://i.ibb.co/KzJBvbx/VOV2.png",VOV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://media.kythuatvov.vn:1936/live/VOV2.sdp/playlist.m3u8
-#EXTINF:-1 group-title="RADIO TRONG NƯỚC" tvg-logo="https://i.ibb.co/KzJBvbx/VOV2.png",VOV2 (Server 2)
+#EXTINF:-1 group-title="VOV" tvg-logo="https://i.ibb.co/KzJBvbx/VOV2.png",VOV2 (Server 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://stream.vov.vn/audio/vovvn1_vov2.stream_aac/chunklist_w802179189.m3u8
-#EXTINF:-1 group-title="RADIO TRONG NƯỚC" tvg-logo="https://i.ibb.co/7XGZcrW/VOV3.png",VOV3
+#EXTINF:-1 group-title="VOV" tvg-logo="https://i.ibb.co/7XGZcrW/VOV3.png",VOV3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://media.kythuatvov.vn:1936/live/VOV3.sdp/playlist.m3u8
-#EXTINF:-1 group-title="RADIO TRONG NƯỚC" tvg-logo="https://i.ibb.co/7XGZcrW/VOV3.png",VOV3 (Server 2)
+#EXTINF:-1 group-title="VOV" tvg-logo="https://i.ibb.co/7XGZcrW/VOV3.png",VOV3 (Server 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://stream.vov.vn/audio/vovvn1_vov3.stream_aac/chunklist_w1521076795.m3u8
-#EXTINF:-1 group-title="RADIO TRONG NƯỚC" tvg-logo="https://i.ibb.co/7XGZcrW/VOV3.png",VOV3 (Server 3)
+#EXTINF:-1 group-title="VOV" tvg-logo="https://i.ibb.co/7XGZcrW/VOV3.png",VOV3 (Server 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://118.70.205.22:1935/vovlive/vov3.sdp_aac/playlist.m3u8
-#EXTINF:-1 group-title="RADIO TRONG NƯỚC" tvg-logo="https://i.ibb.co/MGyJGmS/VOV4.png",VOV4 Miền Bắc
+#EXTINF:-1 group-title="VOV" tvg-logo="https://i.ibb.co/MGyJGmS/VOV4.png",VOV4 Miền Bắc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://streaming1.vov.vn:8443/audio/vovvn1_vovTTTB.stream_aac/playlist.m3u8
-#EXTINF:-1 group-title="RADIO TRONG NƯỚC" tvg-logo="https://i.ibb.co/MGyJGmS/VOV4.png",VOV4 Miền Trung
+#EXTINF:-1 group-title="VOV" tvg-logo="https://i.ibb.co/MGyJGmS/VOV4.png",VOV4 Miền Trung
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://streaming1.vov.vn:8443/audio/vovvn1_vovTTMT.stream_aac/playlist.m3u8
-#EXTINF:-1 group-title="RADIO TRONG NƯỚC" tvg-logo="https://i.ibb.co/MGyJGmS/VOV4.png",VOV4 Tây Nguyên
+#EXTINF:-1 group-title="VOV" tvg-logo="https://i.ibb.co/MGyJGmS/VOV4.png",VOV4 Tây Nguyên
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://streaming1.vov.vn:8443/audio/vovvn1_vovTTTN.stream_aac/playlist.m3u8
-#EXTINF:-1 group-title="RADIO TRONG NƯỚC" tvg-logo="https://i.ibb.co/MGyJGmS/VOV4.png",VOV4 TPHCM
+#EXTINF:-1 group-title="VOV" tvg-logo="https://i.ibb.co/MGyJGmS/VOV4.png",VOV4 TPHCM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://streaming1.vov.vn:8443/audio/vovvn1_vovTTHCM.stream_aac/playlist.m3u8
-#EXTINF:-1 group-title="RADIO TRONG NƯỚC" tvg-logo="https://i.ibb.co/MGyJGmS/VOV4.png",VOV4 ĐBSCL
+#EXTINF:-1 group-title="VOV" tvg-logo="https://i.ibb.co/MGyJGmS/VOV4.png",VOV4 ĐBSCL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://media.kythuatvov.vn:1936/live/VOV4_CT.sdp/playlist.m3u8
-#EXTINF:-1 group-title="RADIO TRONG NƯỚC" tvg-logo="https://i.ibb.co/k899wfj/VOV5.png",VOV5
+#EXTINF:-1 group-title="VOV" tvg-logo="https://i.ibb.co/k899wfj/VOV5.png",VOV5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://media.kythuatvov.vn:1936/live/VOV5.sdp/playlist.m3u8
-#EXTINF:-1 group-title="RADIO TRONG NƯỚC" tvg-logo="https://i.ibb.co/k899wfj/VOV5.png",VOV5 (Server 2)
+#EXTINF:-1 group-title="VOV" tvg-logo="https://i.ibb.co/k899wfj/VOV5.png",VOV5 (Server 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://stream.vov.vn/audio/vovvn1_vov5.stream_aac/chunklist_w199416983.m3u8
-#EXTINF:-1 group-title="RADIO TRONG NƯỚC" tvg-logo="https://i.ibb.co/Nnmdr20/VOV6.png",VOV6
+#EXTINF:-1 group-title="VOV" tvg-logo="https://i.ibb.co/Nnmdr20/VOV6.png",VOV6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://stream.vov.vn/audio/vovvn1_vov6.stream_aac/chunklist.m3u8
-#EXTINF:-1 group-title="RADIO TRONG NƯỚC" tvg-logo="https://image.ibb.co/g78odU/r_vov247.png",VOV ENGLISH 24/7
+#EXTINF:-1 group-title="VOV" tvg-logo="https://image.ibb.co/g78odU/r_vov247.png",VOV ENGLISH 24/7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://media.kythuatvov.vn:1936/live/VOV24-7.sdp/playlist.m3u8
-#EXTINF:-1 group-title="RADIO TRONG NƯỚC" tvg-logo="https://image.ibb.co/g78odU/r_vov247.png",VOV ENGLISH 24/7 (Server 2)
+#EXTINF:-1 group-title="VOV" tvg-logo="https://image.ibb.co/g78odU/r_vov247.png",VOV ENGLISH 24/7 (Server 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://streaming1.vov.vn:8443/audio/vovvn1_vov247.stream_aac/playlist.m3u8
-#EXTINF:-1 group-title="RADIO TRONG NƯỚC" tvg-logo="https://i.ibb.co/QkBsQRK/VOVGT.png",VOV GIAO THÔNG QG
+#EXTINF:-1 group-title="VOV" tvg-logo="https://i.ibb.co/QkBsQRK/VOVGT.png",VOV GIAO THÔNG QG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://stream.vov.vn/audio/vovvn1_vovGT.stream_aac/chunklist_w792499154.m3u8
-#EXTINF:-1 group-title="RADIO TRONG NƯỚC" tvg-logo="https://i.ibb.co/QkBsQRK/VOVGT.png",VOV GIAO THÔNG HN
+#EXTINF:-1 group-title="VOV" tvg-logo="https://i.ibb.co/QkBsQRK/VOVGT.png",VOV GIAO THÔNG HN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://media.kythuatvov.vn:1936/live/VOVGTHN.sdp/playlist.m3u8
-#EXTINF:-1 group-title="RADIO TRONG NƯỚC" tvg-logo="https://i.ibb.co/QkBsQRK/VOVGT.png",VOV GIAO THÔNG TPHCM
+#EXTINF:-1 group-title="VOV" tvg-logo="https://i.ibb.co/QkBsQRK/VOVGT.png",VOV GIAO THÔNG TPHCM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://media.kythuatvov.vn:1936/live/VOVGTHCM.sdp/playlist.m3u8
-#EXTINF:-1 group-title="RADIO TRONG NƯỚC" tvg-logo="https://image.ibb.co/gu5OCp/r-vovmekong1.png",VOV MEKONG
+#EXTINF:-1 group-title="VOV" tvg-logo="https://image.ibb.co/gu5OCp/r-vovmekong1.png",VOV MEKONG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://media.kythuatvov.vn:1936/live/MEKONG.sdp/playlist.m3u8
-#EXTINF:-1 group-title="RADIO TRONG NƯỚC" tvg-logo="https://i.ibb.co/xJ1h54B/VOV-SK.png",VOV FM 89
+#EXTINF:-1 group-title="VOV" tvg-logo="https://i.ibb.co/xJ1h54B/VOV-SK.png",VOV FM 89
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://media.kythuatvov.vn:1936/live/VOV89.sdp/playlist.m3u8
 
@@ -1200,9 +1200,18 @@ http://mfe.cliptv.az/dash/HTB_HD.ism/playlist.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/5_Kanal_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/Q5XxFQi.png",Россия K
+#EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/Q5XxFQi.png",Россия K (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://uiptv.do.am/1ufc/000000005/playlist.m3u8
+#EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/Q5XxFQi.png",Россия K (576p) [Dự Phòng]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://mfe.cliptv.az/dash/Rossiya_Kulturra_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/Q5XxFQi.png",Россия K (480p)
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+http://ott-cdn.ucom.am/s16/04.m3u8
 #EXTINF:-1 group-title="Россия" tvg-logo="https://i.imgur.com/Q5XxFQi.png",Россия K (+4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://a1566400114-s26881.cdn.ngenix.net/hls/russia_k_dubl2/playlist_3.m3u8
