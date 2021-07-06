@@ -1,6 +1,7 @@
 # BẢNG KÊNH TRÊN HỆ THỐNG VIỆT NAM - NGA IPTV
 
-<h1>Nhóm kênh của Đài Truyền hình Việt Nam (VTV)</h1>
+<h1>I. NHÓM KÊNH TRONG NƯỚC</h1>
+<h2>1. NHÓM KÊNH VTV</h2>
 <table>
 	<thead>
 		<tr><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th><th align="between">Độ phân giải, FPS</th></tr>
@@ -16,7 +17,8 @@
   <tr><td align="left">9 Và 19</td><td align="between"><img height="30" src="https://i.imgur.com/delQMDJ.png"/></td><td align="left">VTV8</td><td align="left">1080.60 hoặc 720.25</td></tr>
   <tr><td align="left">10, 11 Và 20</td><td align="between"><img height="30" src="https://i.imgur.com/dFmqNRx.png"/></td><td align="left">VTV9</td><td align="left">1080.60 hoặc 720.25</td></tr>
 
-<h2>Nhóm kênh của Đài Truyền hình Kỹ Thuật Số Việt Nam (VTC)</h2>
+<h2>2. NHÓM KÊNH TRONG NƯỚC</h2>
+<h3>1. NHÓM KÊNH VTV</h3>
 <table>
 	<thead>
 		<tr><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th><th align="between">Độ phân giải, FPS</th></tr>
