@@ -66,7 +66,7 @@
 	<tbody>
   <tr><td align="left">67</td><td align="between"><img height="30" src="https://i.imgur.com/dpZNiQu.png"/></td><td align="left">SCTV2</td><td align="left">576.25</td></tr>
   <tr><td align="left">68</td><td align="between"><img height="30" src="https://i.ibb.co/H28cGVM/gs-shop-vn.png"/></td><td align="left">VTVCab11 - GS Shop</td><td align="left">720.25</td></tr>
-  <tr><td align="left">69</td><td align="between"><img height="30" src="https://i.ibb.co/H28cGVM/gs-shop-vn.png"/></td><td align="left">VTVCab13 - VTV Hyundai Homeshopping</td><td align="left">720.25</td></tr>
+  <tr><td align="left">69</td><td align="between"><img height="30" src="https://i.imgur.com/HwMUDwy.png"/></td><td align="left">VTVCab13 - VTV Hyundai Homeshopping</td><td align="left">720.25</td></tr>
   <tr><td align="left">70</td><td align="between"><img height="30" src="https://i.ibb.co/pyrxQ3x/99.png"/></td><td align="left">An Viên TV</td><td align="left">720.25</td></tr>
   <tr><td align="left">71</td><td align="between"><img height="30" src="https://i.imgur.com/yD2WAzy.png"/></td><td align="left">NCM</td><td align="left">720.25</td></tr>
 		</tbody>
