@@ -88,3 +88,12 @@
   <tr><td align="left">95 Và 96</td><td align="between"><img height="60" src="https://i.imgur.com/Tkjs3C5.png"/></td><td align="left">HTVC PLUS</td><td align="left">1080.25 hoặc 576.25</td><td align="left">97 Và 98</td><td align="between"><img height="60" src="https://i.imgur.com/PgOD7m8.png"/></td><td align="left">HTVC Ca Nhạc</td><td align="left">1080.25 hoặc 576.25</td></tr>
   <tr><td align="left">99 Và 100</td><td align="between"><img height="60" src="https://i.imgur.com/lKdRTx0.png"/></td><td align="left">FBNC</td><td align="left">576.25</td><td align="left">101</td><td align="between"><img height="60" src="https://i.imgur.com/5vKANRg.png"/></td><td align="left">HTVC Homeshopping</td><td align="left">576.25</td></tr>
 		</tbody>
+</table>
+
+<h5>NHÓM KÊNH ĐỊA PHƯƠNG</h5>
+<table>
+	<thead>
+		<tr><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th><th align="between">Độ phân giải, FPS</th></tD><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th><th align="between">Độ phân giải, FPS</th></tr>
+	</thead>
+	<tbody>
+  <tr><td align="left">102, 103 Và 104</td><td align="between"><img height="60" src="https://i.imgur.com/wCP0U5u.png"/></td><td align="left">An Giang</td><td align="left">720.25 hoặc 576.25</td><td align="left">105 Và 106</td><td align="between"><img height="60" src="https://i.imgur.com/UKNvTOK.png"/></td><td align="left">Bà Rịa Vũng Tàu</td><td align="left">720.25</td></tr>
