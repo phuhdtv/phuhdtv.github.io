@@ -1,9 +1,9 @@
-﻿# BẢNG KÊNH TRÊN HỆ THỐNG VIỆT NAM - NGA IPTV
+# BẢNG KÊNH TRÊN HỆ THỐNG VIỆT NAM - NGA IPTV
 
 <h1>Nhóm kênh của Đài Truyền hình Việt Nam (VTV)</h1>
 <table>
 	<thead>
-		<tr><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th><th align="between">Độ phân giải, FPS</th><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th><th align="between">Độ phân giải, FPS</th></tr>
+		<tr><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th><th align="between">Độ phân giải, FPS</th></tr>
 	</thead>
 	<tbody>
   <tr><td align="left">1 Và 12</td><td align="between"><img height="30" src="https://i.imgur.com/zmFFVtL.png"/></td><td align="left">VTV1</td><td align="left">1080.60 hoặc 720.25</td></tr>
@@ -19,6 +19,6 @@
 <h2>Nhóm kênh của Đài Truyền hình Kỹ Thuật Số Việt Nam (VTC)</h2>
 <table>
 	<thead>
-		<tr><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th><th align="between">Độ phân giải, FPS</th><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th><th align="between">Độ phân giải, FPS</th></tr>
+		<tr><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th><th align="between">Độ phân giải, FPS</th></tr>
 	</thead>
 	<tbody>
