@@ -1,6 +1,6 @@
 # BẢNG KÊNH TRÊN HỆ THỐNG VIỆT NAM - NGA IPTV
 
-<h1>1. NHÓM KÊNH VTV</h1>
+<h1>NHÓM KÊNH VTV</h1>
 <table>
 	<thead>
 		<tr><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th><th align="between">Độ phân giải, FPS</th></tr>
@@ -18,7 +18,7 @@
 		</tbody>
 </table>
 
-<h2>1. NHÓM KÊNH VTC VÀ VOV</h2>
+<h2>NHÓM KÊNH VTC VÀ VOV</h2>
 <table>
 	<thead>
 		<tr><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th><th align="between">Độ phân giải, FPS</th></tr>
@@ -44,7 +44,7 @@
 		</tbody>
 </table>
 
-<h3>1. NHÓM KÊNH THIẾT YẾU</h3>
+<h3>NHÓM KÊNH THIẾT YẾU</h3>
 <table>
 	<thead>
 		<tr><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th><th align="between">Độ phân giải, FPS</th></tr>
@@ -58,7 +58,7 @@
 		</tbody>
 </table>
 
-<h4>1. NHÓM KÊNH KHÁC</h4>
+<h4>NHÓM KÊNH KHÁC</h4>
 <table>
 	<thead>
 		<tr><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th><th align="between">Độ phân giải, FPS</th></tr>
@@ -72,7 +72,7 @@
 		</tbody>
 </table>
 
-<h5>1. NHÓM KÊNH HTV</h5>
+<h5>NHÓM KÊNH HTV</h5>
 <table>
 	<thead>
 		<tr><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th><th align="between">Độ phân giải, FPS</th></tr>
