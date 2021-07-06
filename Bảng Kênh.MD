@@ -72,7 +72,7 @@
 		</tbody>
 </table>
 
-<h5>NHÓM KÊNH HTV</h5>
+<h5>NHÓM KÊNH HTV VÀ HTVC</h5>
 <table>
 	<thead>
 		<tr><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th><th align="between">Độ phân giải, FPS</th></tD><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th><th align="between">Độ phân giải, FPS</th></tr>
@@ -81,3 +81,4 @@
   <tr><td align="left">72 Và 73</td><td align="between"><img height="60" src="https://i.imgur.com/k6hMK1M.png"/></td><td align="left">HTV1</td><td align="left">576.25 hoặc 480.25</td><td align="left">74 Và 75</td><td align="between"><img height="60" src="https://i.imgur.com/OXfIZvx.png"/></td><td align="left">HTV2</td><td align="left">1080.25 hoặc 720.25</td></tr>
   <tr><td align="left">76</td><td align="between"><img height="60" src="https://i.ibb.co/N9kw6pq/htv3logobyvovanloc.png"/></td><td align="left">HTV3</td><td align="left">576.25</td><td align="left">77</td><td align="between"><img height="60" src="https://i.imgur.com/BcCA0x2.png"/></td><td align="left">HTV4</td><td align="left">576.25</td></tr>
   <tr><td align="left">78</td><td align="between"><img height="60" src="https://i.imgur.com/L8fXB1M.png"/></td><td align="left">HTV7</td><td align="left">720.25</td><td align="left">79</td><td align="between"><img height="60" src="https://i.imgur.com/r3Jiu5Q.png"/></td><td align="left">HTV9</td><td align="left">720.25</td></tr>
+		</tbody>
