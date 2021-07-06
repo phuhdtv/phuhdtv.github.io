@@ -16,6 +16,8 @@
   <tr><td align="left">8 Và 18</td><td align="between"><img height="30" src="https://i.imgur.com/tGd6bu3.png"/></td><td align="left">VTV7</td><td align="left">1080.60 hoặc 720.25</td></tr>
   <tr><td align="left">9 Và 19</td><td align="between"><img height="30" src="https://i.imgur.com/delQMDJ.png"/></td><td align="left">VTV8</td><td align="left">1080.60 hoặc 720.25</td></tr>
   <tr><td align="left">10, 11 Và 20</td><td align="between"><img height="30" src="https://i.imgur.com/dFmqNRx.png"/></td><td align="left">VTV9</td><td align="left">1080.60 hoặc 720.25</td></tr>
+		</tbody>
+</table>
 
 <h2>2. NHÓM KÊNH TRONG NƯỚC</h2>
 <h3>1. NHÓM KÊNH VTV</h3>
