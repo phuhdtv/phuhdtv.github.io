@@ -18,7 +18,7 @@
 		</tbody>
 </table>
 
-<h2>1. VTC</h2>
+<h2>1. NHÓM KÊNH VTC</h2>
 <table>
 	<thead>
 		<tr><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th><th align="between">Độ phân giải, FPS</th></tr>
