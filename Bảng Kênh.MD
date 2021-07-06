@@ -1,7 +1,6 @@
 # BẢNG KÊNH TRÊN HỆ THỐNG VIỆT NAM - NGA IPTV
 
 <h1>1. NHÓM KÊNH VTV</h1>
-<h2>1. NHÓM KÊNH VTV</h2>
 <table>
 	<thead>
 		<tr><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th><th align="between">Độ phân giải, FPS</th></tr>
@@ -19,8 +18,7 @@
 		</tbody>
 </table>
 
-<h2>2. NHÓM KÊNH TRONG NƯỚC</h2>
-<h3>1. NHÓM KÊNH VTC</h3>
+<h2>1. VTC</h2>
 <table>
 	<thead>
 		<tr><th align="between">STT</th><th align="between">Logo</th><th align="between">Tên kênh</th><th align="between">Độ phân giải, FPS</th></tr>
