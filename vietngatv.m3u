@@ -213,6 +213,9 @@ https://livecdn.fptplay.net/sdc/btv9_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="anvien" group-title="KHÁC" tvg-logo="https://i.imgur.com/yD2WAzy.png",Bình Dương 10 - NCM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://livecdn.fptplay.net/sda/ncm_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="KHÁC" tvg-logo="http://i.imgur.com/7uqtQEM.png",Hanoicab2 - YouTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+https://live2cdn.todayplus.com.vn/sdb/smil:youtv.smil/chunklist_b1596000.m3u8
 
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://i.ibb.co/0qMK4cP/HTV1-BEARTV.png",HTV1 | 576P
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
@@ -590,9 +593,6 @@ https://livecdn.fptplay.net/sdc/namdinh_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.postimg.cc/mrjkBtpp/3-nghean-hd.png",Nghệ An HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://live.truyenhinhnghean.vn/hls/na1/index.m3u8
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.postimg.cc/mrjkBtpp/3-nghean-hd.png",Nghệ An HD (Server 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://cdn.natv.mediatech.vn/natvlive/tv1live.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/FLvFSLS.png",Nghệ An SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://livecdn.fptplay.net/sda/nghean_hls.smil/chunklist_b2500000.m3u8
@@ -1601,6 +1601,9 @@ http://stream2.hardlife.tv:8134/hls-live/hlsGS/_definst_/liveevent/gs.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/MTV_Russian_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="CA NHẠC QUỐC TẾ" tvg-logo="https://i.imgur.com/dPbRtRS.jpg",MTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+https://live2cdn.todayplus.com.vn/hdb/smil:mtv.smil/chunklist_b1596000.m3u8
 #EXTINF:-1 group-title="CA NHẠC QUỐC TẾ" tvg-logo="https://i.ibb.co/CK00h8T/27-Zhara.png",Жара
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 #KODIPROP:inputstream=inputstream.adaptive
