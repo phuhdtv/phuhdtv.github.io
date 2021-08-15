@@ -1130,7 +1130,7 @@ http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Rossiya_1_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="РОССИЯ" tvg-logo="https://i.imgur.com/BzsskXA.png",Россия 1 (+4) | 576P
+#EXTINF:-1 group-title="РОССИЯ" tvg-logo="https://i.imgur.com/BzsskXA.png",Россия 1 | 576P
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus4/playlist.m3u8
 #EXTINF:-1 group-title="РОССИЯ" tvg-logo="https://i.imgur.com/kFdooR4.png",Матч! ТВ | 1080P
@@ -1154,7 +1154,7 @@ http://mfe.cliptv.az/dash/HTB_HD.ism/playlist.mpd
 #EXTINF:-1 group-title="РОССИЯ" tvg-logo="https://i.imgur.com/i6wrwKy.png",НТВ | 480P
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s17/04.m3u8
-#EXTINF:-1 group-title="РОССИЯ" tvg-logo="https://i.imgur.com/qswopzO.png",Пятый канал (+2)
+#EXTINF:-1 group-title="РОССИЯ" tvg-logo="https://i.imgur.com/qswopzO.png",Пятый канал | 4:3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1162,25 +1162,16 @@ http://ott-cdn.ucom.am/s17/04.m3u8
 http://mfe.cliptv.az/dash/5_Kanal_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="РОССИЯ" tvg-logo="https://i.imgur.com/Q5XxFQi.png",Россия K | 576P
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-https://uiptv.do.am/1ufc/000000005/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЯ" tvg-logo="https://i.imgur.com/Q5XxFQi.png",Россия K | 576P | Dự phòng
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
-http://mfe.cliptv.az/dash/Rossiya_Kulturra_SD.ism/playlist.mpd
+http://radio-live-mg.rtr-vesti.ru/hls/russia_k_dubl2/playlist.m3u8
 #EXTINF:-1 group-title="РОССИЯ" tvg-logo="https://i.imgur.com/Q5XxFQi.png",Россия K | 480P
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s16/04.m3u8
-#EXTINF:-1 group-title="РОССИЯ" tvg-logo="https://i.imgur.com/Q5XxFQi.png",Россия K (+4) | 576P
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://radio-live-mg.rtr-vesti.ru/hls/russia_k_dubl2/playlist.m3u8
 #EXTINF:-1 group-title="РОССИЯ" tvg-logo="https://i.imgur.com/wu7O85f.png",Россия 24 | 576P
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЯ" tvg-logo="https://i.imgur.com/wu7O85f.png",Россия 24 | 576P | Dự phòng
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-https://uiptv.do.am/1ufc/000000006/playlist.m3u8
 #EXTINF:-1 group-title="РОССИЯ" tvg-logo="https://i.imgur.com/wu7O85f.png",Россия 24 | 480P
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s21/04.m3u8
@@ -1192,7 +1183,7 @@ http://ott-cdn.ucom.am/s21/04.m3u8
 http://mfe.cliptv.az/dash/Karusel_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="РОССИЯ" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВ Центр | 576P
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://uiptv.do.am/1ufc/000000009/playlist.m3u8
+http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/chunklist_b1703000.m3u8
 #EXTINF:-1 group-title="РОССИЯ" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВ Центр | 480P
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s54/04.m3u8
@@ -1202,12 +1193,6 @@ http://ott-cdn.ucom.am/s54/04.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Ren_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="РОССИЯ" tvg-logo="https://i.imgur.com/18TAzYV.png",РЕН ТВ | 576P
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЯ" tvg-logo="https://i.imgur.com/18TAzYV.png",РЕН ТВ | 576P | Dự phòng
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://uiptv.do.am/1ufc/102323759/playlist.m3u8
 #EXTINF:-1 group-title="РОССИЯ" tvg-logo="https://i.imgur.com/18TAzYV.png",РЕН ТВ | 480P
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s85/04.m3u8
@@ -1232,7 +1217,7 @@ http://mfe.cliptv.az/dash/Domashniy_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="РОССИЯ" tvg-logo="https://i.imgur.com/jBnjxGR.png",Домашний | 480P
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s88/04.m3u8
-#EXTINF:-1 group-title="РОССИЯ" tvg-logo="https://i.imgur.com/HNxdsxm.png",ТВ3 | 1080P
+#EXTINF:-1 group-title="РОССИЯ" tvg-logo="https://i.imgur.com/HNxdsxm.png",ТВ3 | 720P
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://bl.uma.media/live/407373/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013859/5fdc4b8080160a4e56933b0402133da4/playlist.m3u8
 #EXTINF:-1 group-title="РОССИЯ" tvg-logo="https://i.imgur.com/HNxdsxm.png",ТВ3 | 576P
@@ -1262,13 +1247,13 @@ http://ott-cdn.ucom.am/s85/04.m3u8
 #EXTINF:-1 group-title="РОССИЯ" tvg-logo="https://i.imgur.com/yqXhUto.png",МИР | 1080P
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЯ" tvg-logo="https://i.imgur.com/yqXhUto.png",МИР (+4) | 576P
+#EXTINF:-1 group-title="РОССИЯ" tvg-logo="https://i.imgur.com/yqXhUto.png",МИР | 576P
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
 #EXTINF:-1 group-title="РОССИЯ" tvg-logo="https://i.imgur.com/LqmmkNs.png",ТНТ | 720P
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://bl.uma.media/live/410338/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013807/79ad96b5b87fdce129191b83aaf2fb46/playlist.m3u8?s=disabled
-#EXTINF:-1 group-title="РОССИЯ" tvg-logo="https://i.imgur.com/LqmmkNs.png",ТНТ | 1080P
+#EXTINF:-1 group-title="РОССИЯ" tvg-logo="https://i.imgur.com/LqmmkNs.png",ТНТ | 720P | Dự phòng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1309,8 +1294,8 @@ http://kuzbass1.ru:8082/10kanal/10kanal_720/playlist.m3u8
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 group-title="РОССИЯ РЕГИОНАЛЬНЫЕ" tvg-logo="https://i.imgur.com/Gbof1a7.png",ТВК HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://air.tvk6.ru/tvk24/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЯ РЕГИОНАЛЬНЫЕ" tvg-logo="https://i.imgur.com/Y47TGky.png",Афонтово
+http://air.tvk6.ru/tvk24/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="РОССИЯ РЕГИОНАЛЬНЫЕ" tvg-logo="https://i.imgur.com/Y47TGky.png",Афонтово HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://xstream.afontovo.ru/afontovo_ya.m3u8
 #EXTINF:-1 tvg-logo="" group-title="РОССИЯ РЕГИОНАЛЬНЫЕ",ТНВ-Планета
@@ -1334,10 +1319,10 @@ http://mfe.cliptv.az/dash/STS_Love_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="РОССИЯ" tvg-logo="https://i.imgur.com/rdLzrpr.png",ТНТ4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d161f37174905bc712e81b60d3411fc1/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЯ" tvg-logo="https://i.imgur.com/XqPS7VR.jpg",2x2 HD
+#EXTINF:-1 group-title="РОССИЯ" tvg-logo="https://i.imgur.com/XqPS7VR.jpg",2x2 | 720P
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://bl.uma.media/live/317805/HLS/4614144_3,2883584_2,1153024_1/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЯ" tvg-logo="https://i.imgur.com/XqPS7VR.jpg",2x2 SD
+#EXTINF:-1 group-title="РОССИЯ" tvg-logo="https://i.imgur.com/XqPS7VR.jpg",2x2 | 576P
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1420,9 +1405,6 @@ http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.ibb.co/9N1cmDH/image.png",Вместе-РФ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://uiptv.do.am/1ufc/118056781/playlist.m3u8
-#EXTINF:-1 group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.ibb.co/9N1cmDH/image.png",Вместе-РФ HD (Server 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://cdn-01.bonus-tv.ru:8080/vmesterf/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4WDCB7Z/image.png" group-title="KÊNH GIẢI TRÍ",ДОЖДЬ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://a3569457435-s78511.cdn.ngenix.net/open/_definst_/TVRain_noaudio/chunklist_DVR.m3u8
@@ -1677,7 +1659,7 @@ http://serv30.vintera.tv:8081/detskiy/ryzhiy_08/playlist.m3u8
 http://ott-cdn.ucom.am/s57/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZeskNqH.png" group-title="KÊNH HOẠT HÌNH thế giới",Радость Моя
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-https://cdn-01.bonus-tv.ru:8090/radostmoya_edge/playlist.m3u8
+https://cdn-01.bonus-tv.ru:8080/radostmoya_edge/playlist.m3u8
 
 #EXTINF:-1 group-title="Kênh Điện ảnh thế giới" tvg-logo="https://i.ibb.co/93bPJ9K/HD.png",Дом Кино Премиум
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
@@ -1977,13 +1959,13 @@ http://ott-cdn.ucom.am/s68/index.m3u8
 
 #EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/px8nPZK/FM.png",Радио Вести FM | Video
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/rtmp_vestifm_480/chunklist.m3u8
+http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/rtmp_vestifm_480/playlist.m3u8
 #EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/px8nPZK/FM.png",Радио Вести FM | Audio
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_64kbps
 #EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/cgxDLfx/Mayk.png",Радио Маяк | Video
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mayak.smil/chunklist_b1600000.m3u8
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mayak.smil/playlist.m3u8
 #EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/cgxDLfx/Mayk.png",Радио Маяк | Audio
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_64kbps
@@ -2152,7 +2134,7 @@ http://mfe.cliptv.az/dash/Eurosport2_SD.ism/playlist.mpd
 http://ott-cdn.ucom.am/s41/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0FDfRM2/Konnyy-mir.png" group-title="KÊNH THỂ THAO",Конный Мир
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://cdn-01.bonus-tv.ru:80/konnyimir/playlist.m3u8
+http://cdn-01.bonus-tv.ru/konnyimir/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ys5fpb6/68-KHL.png" group-title="KÊNH THỂ THAO",КХЛ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 #KODIPROP:inputstream=inputstream.adaptive
