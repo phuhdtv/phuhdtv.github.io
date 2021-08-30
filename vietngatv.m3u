@@ -536,9 +536,6 @@ https://livecdn.fptplay.net/sda/ninhthuan_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/LXuRwJY.png",Phú Thọ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://livecdn.fptplay.net/sda/phutho_2000.stream/playlist.m3u8
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/LXuRwJY.png",Phú Thọ HD (Server 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://cdn.3ssoft.vn/livetv/phuthotv/phuthotv/index.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/v0zTLT9.png",Phú Yên HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://livecdn.fptplay.net/sda/phuyen_hls.smil/chunklist_b2500000.m3u8
@@ -599,9 +596,6 @@ https://livecdn.fptplay.net/sda/thanhhoa_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/UYVIFLM.png",Thừa Thiên Huế
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://livecdn.fptplay.net/sdc/hue_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/UYVIFLM.png",Thừa Thiên Huế (Server 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://trtlive.f77de468.cdnviet.com/TRT-Online/chunklist.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/2WDfq3p/180.png",Tiền Giang HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://thtg.vn:8001/stream_hi.m3u8
@@ -626,9 +620,6 @@ https://livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/iuYepMv.jpg",Vĩnh Long 4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 https://livecdn.fptplay.net/hda/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vinhlong4hd" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/iuYepMv.jpg",Vĩnh Long 4 HD (Server 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-https://thvli-live2.admon.com.vn/thvli/thvl4-1080p/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/F7PxqCs/183.png",Vĩnh Phúc HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://vinhphuctv.vn:8090/vinhphuclive/web.stream_720p/chunklist.m3u8
@@ -1088,12 +1079,6 @@ http://ott-cdn.ucom.am/s14/04.m3u8
 #EXTINF:-1 group-title="РОССИЯ" tvg-logo="https://i.imgur.com/BzsskXA.png",Россия 1 | 720P
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
-#EXTINF:-1 group-title="РОССИЯ" tvg-logo="https://i.imgur.com/BzsskXA.png",Россия 1 | 720P | Dự phòng
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.is_realtime_stream=true
-http://mfe.cliptv.az/dash/Rossiya_1_HD.ism/playlist.mpd
 #EXTINF:-1 group-title="РОССИЯ" tvg-logo="https://i.imgur.com/BzsskXA.png",Россия 1 | 576P
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia1_plus4/playlist_3.m3u8
@@ -1121,9 +1106,6 @@ http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k_dubl2/playlist_3.m3u8
 #EXTINF:-1 group-title="РОССИЯ" tvg-logo="https://i.imgur.com/wu7O85f.png",Россия 24 | 576P
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
-#EXTINF:-1 group-title="РОССИЯ" tvg-logo="https://i.imgur.com/wu7O85f.png",Россия 24 | 576P | Dự phòng
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://mfe.cliptv.az/dash/Rossiya_24_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="РОССИЯ" tvg-logo="https://i.imgur.com/wu7O85f.png",Россия 24 | 480P
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s21/04.m3u8
@@ -1843,9 +1825,6 @@ http://ott-cdn.ucom.am/s62/04.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WInGwXw.png" group-title="KÊNH GIẢI TRÍ",Московский образовательный
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
-http://live.mosobr.tv/mosobrtv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WInGwXw.png" group-title="KÊNH GIẢI TRÍ",Московский образовательный (Server 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 http://retc.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:-1 group-title="KÊNH GIẢI TRÍ" tvg-logo="https://i.ibb.co/vxZCXdC/image.png",Родной канал
