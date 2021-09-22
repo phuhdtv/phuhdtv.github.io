@@ -1,5 +1,8 @@
 #EXTM3U url-tvg="http://gg.gg/epgbearlivetv" tvg-shift=0 m3uautoload=1 http://gg.gg/simple-tv
 
+#EXTINF:-1 group-title="KÊNH GIỚI THIỆU" tvg-logo="https://i.ibb.co/PtGkCHf/Vietnga-TV-Logo.png",Việt Nga TV HD
+#EXTVLCOPT:http-user-agent=vietngatv
+https://livecdn.fptplay.net/hda4/f-channel.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.ibb.co/gywZ98j/VTV1-HD-BEARTV.png",VTV1 HD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
@@ -801,9 +804,6 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="kix_hd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/Lod13YD.png",KIX HD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="kbs_world" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/SefEfRO.png",KBS World HD
-#EXTVLCOPT:http-user-agent=vietngatv
-https://live-vthcm.vieon.vn/htv_drm/live/kbs_world/TV_HD/kbs_world_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="kbs_world" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/SefEfRO.png",KBS World SD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
@@ -1122,10 +1122,10 @@ http://37.99.5.234/btv/SWM/Pyatnica/Pyatnica_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="РОССИЯ" tvg-logo="https://i.imgur.com/CNOYAUN.png",Пятница! INT. | 480P
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s50/04.m3u8
-#EXTINF:-1 group-title="РОССИЯ" tvg-logo="https://i.imgur.com/n9zLVyR.png",Звезда HD | 720P
+#EXTINF:-1 group-title="РОССИЯ" tvg-logo="https://i.imgur.com/n9zLVyR.png",Звезда HD | 1080P
 #EXTVLCOPT:http-user-agent=vietngatv
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="РОССИЯ" tvg-logo="https://i.imgur.com/n9zLVyR.png",Звезда | 1080P
+#EXTINF:-1 group-title="РОССИЯ" tvg-logo="https://i.imgur.com/n9zLVyR.png",Звезда | 576P
 #EXTVLCOPT:http-user-agent=vietngatv
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
 #EXTINF:-1 group-title="РОССИЯ" tvg-logo="https://i.imgur.com/n9zLVyR.png",Звезда | 480P
