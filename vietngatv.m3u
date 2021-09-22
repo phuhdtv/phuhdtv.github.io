@@ -699,12 +699,9 @@ https://livecdn.fptplay.net/qnetlive/cnn_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="cnn" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/cyQpqTX.png",CNN International (Server 2)
 #EXTVLCOPT:http-user-agent=vietngatv
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CNN-SD-480p/playlist.m3u8
-#EXTINF:-1 tvg-id="channel_v" group-title="KÊNH CA NHẠC" tvg-logo="https://i.imgur.com/p7w1FbM.png",Channel [V] | 1080p
+#EXTINF:-1 tvg-id="channel_v" group-title="KÊNH CA NHẠC" tvg-logo="https://i.imgur.com/p7w1FbM.png",Channel [V] HD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="channel_v" group-title="KÊNH CA NHẠC" tvg-logo="https://i.imgur.com/p7w1FbM.png",Channel [V] | 720p
-#EXTVLCOPT:http-user-agent=vietngatv
-http://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="cartoonhd" group-title="KÊNH Thiếu nhi" tvg-logo="https://i.imgur.com/dpGiaH5.png",Cartoon Network HD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
@@ -747,24 +744,12 @@ http://mfe.cliptv.az/dash/Evronovosti_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/cSZn7dD.png",EURONEWS | 480p
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s89/04.m3u8
-#EXTINF:-1 tvg-id="foxhd" group-title="Kênh phim truyện" tvg-logo="https://i.imgur.com/fI6kBjB.jpg",FOX | 1080P
+#EXTINF:-1 tvg-id="foxhd" group-title="Kênh phim truyện" tvg-logo="https://i.imgur.com/fI6kBjB.jpg",FOX HD
 #EXTVLCOPT:http-user-agent=vietngatv
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="foxhd" group-title="Kênh phim truyện" tvg-logo="https://i.imgur.com/fI6kBjB.jpg",FOX | 720P
-#EXTVLCOPT:http-user-agent=vietngatv
-http://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="fox_movies" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/46uHrPV.png",FOX Movies | 1080p
-#EXTVLCOPT:http-user-agent=vietngatv
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="fox_movies" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/46uHrPV.png",FOX Movies | 720P
-#EXTVLCOPT:http-user-agent=vietngatv
-http://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
+http://37.99.5.234/btv/SWM/FOX/FOX_1080p_5000kbps.m3u8
 #EXTINF:-1 tvg-id="foxlifehd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/LsOkH5s.png",FOX LIFE HD
 #EXTVLCOPT:http-user-agent=vietngatv
-https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="foxlifehd" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/1bV8abI.png",FOX LIFE SD
-#EXTVLCOPT:http-user-agent=vietngatv
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXLIFE-SD-720p/playlist.m3u8
+http://37.99.5.234/btv/SWM/FoxLife/FoxLife_1080p_5000kbps.m3u8
 #EXTINF:-1 tvg-id="france_24" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/zdze6Iq.png",FRANCE 24 English
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/world/france24_hls.smil/chunklist_b2500000.m3u8
@@ -797,7 +782,10 @@ http://mfe.cliptv.az/dash/History_HD.ism/playlist.mpd
 https://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="national_geographic" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/m7Cl2M9.png",National Geographic HD
 #EXTVLCOPT:http-user-agent=vietngatv
-https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://mfe.cliptv.az/dash/National_Geographic_HD.ism/playlist.mpd
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/3jBRVrj.png",Nat Geo WILD HD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
@@ -1497,6 +1485,9 @@ http://rtmp.one.by:1300
 #EXTINF:0 tvg-logo="https://i.imgur.com/oySoEmx.png" group-title="KÊNH CA NHẠC",Первый Музыкальный RU HD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://rtmp.one.by:2300
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7WFQnkR/Music-3.png" group-title="KÊNH CA NHẠC",ТНТ Music
+#EXTVLCOPT:http-user-agent=vietngatv
+http://37.99.5.234/btv/SWM/Tnt_music/Tnt_music_576p_2000kbps.m3u8
 
 #EXTINF:-1 group-title="KÊNH BÁN HÀNG" tvg-logo="https://i.imgur.com/or5MRcL.png",Top Shop TV
 #EXTVLCOPT:http-user-agent=vietngatv
@@ -1572,15 +1563,18 @@ http://ott-cdn.ucom.am/s57/04.m3u8
 #EXTVLCOPT:http-user-agent=vietngatv
 https://cdn-01.bonus-tv.ru:8080/radostmoya_edge/playlist.m3u8
 
-#EXTINF:-1 group-title="Kênh phim truyện" tvg-logo="https://i.imgur.com/XyiksXK.jpg",Дом Кино Премиум
+#EXTINF:-1 group-title="Kênh phim truyện" tvg-logo="https://i.ibb.co/rfqF3SG/image.png",Дом Кино
+#EXTVLCOPT:http-user-agent=vietngatv
+http://37.99.5.234/btv/SWM/Dom_Kino/Dom_Kino_576p_2000kbps.m3u8
+#EXTINF:-1 group-title="Kênh phim truyện" tvg-logo="https://i.imgur.com/XyiksXK.jpg",Дом Кино Премиум HD | 1080P
+#EXTVLCOPT:http-user-agent=vietngatv
+http://37.99.5.234/btv/SWM/Dom_kino_Prem/Dom_kino_Prem_1080p_5000kbps.m3u8
+#EXTINF:-1 group-title="Kênh phim truyện" tvg-logo="https://i.imgur.com/XyiksXK.jpg",Дом Кино Премиум HD | 720P
 #EXTVLCOPT:http-user-agent=vietngatv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Dom_Kino_Premium_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="Kênh phim truyện" tvg-logo="https://i.imgur.com/XyiksXK.jpg",Дом Кино Премиум HD
-#EXTVLCOPT:http-user-agent=vietngatv
-http://87.247.44.26/btv/SWM/Dom_kino_Prem/Dom_kino_Prem.m3u8
 #EXTINF:-1 group-title="Kênh phim truyện" tvg-logo="https://i.ibb.co/263PbNg/40-Evrokino.png",Еврокино
 #EXTVLCOPT:http-user-agent=vietngatv
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1855,7 +1849,10 @@ http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2Ydfgw4.png" group-title="Các Kênh Khác",Центральное телевидение
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s20/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lHn6OlM.png" group-title="Các Kênh Khác",Дорама | 480P
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lHn6OlM.png" group-title="Các Kênh Khác",Дорама HD
+#EXTVLCOPT:http-user-agent=vietngatv
+http://37.99.5.234/btv/SWM/Dorama/Dorama_1080p_5000kbps.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lHn6OlM.png" group-title="Các Kênh Khác",Дорама SD
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s95/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F73sS4y/image.jpg" group-title="Các Kênh Khác",Арсенал | 480P
@@ -2028,13 +2025,19 @@ http://mfe.cliptv.az/dash/Match_Arena_HD.ism/playlist.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Matc_Boec_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="KÊNH THỂ THAO TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://i.imgur.com/LS2PSpt.png",EUROSPORT 1
+#EXTINF:-1 group-title="KÊNH THỂ THAO TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://i.imgur.com/LS2PSpt.png",EUROSPORT 1 | 16:9
+#EXTVLCOPT:http-user-agent=vietngatv
+http://37.99.5.234/btv/SWM/Eurosport/Eurosport_576p_2000kbps.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://i.imgur.com/LS2PSpt.png",EUROSPORT 1 | 4:3
 #EXTVLCOPT:http-user-agent=vietngatv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/EuroSport1_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="KÊNH THỂ THAO TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://i.imgur.com/TxipcCK.png",EUROSPORT 2
+#EXTINF:-1 group-title="KÊNH THỂ THAO TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://i.imgur.com/TxipcCK.png",EUROSPORT 2 | 16:9
+#EXTVLCOPT:http-user-agent=vietngatv
+http://37.99.5.234/btv/SWM/Eurosport2/Eurosport2_576p_2000kbps.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://i.imgur.com/TxipcCK.png",EUROSPORT 2 | 4:3
 #EXTVLCOPT:http-user-agent=vietngatv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
