@@ -392,6 +392,9 @@ http://113.162.84.113:8080/hls/fm/index.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/iKZnv33.png",Hà Giang SD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/sda/hagiang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/bgzHFDW/140.png",Hà Nam HD
+#EXTVLCOPT:http-user-agent=vietngatv
+http://103.90.220.236/thhnlive/tv1live.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/0q2BVky.png",Hà Nam SD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/sda/hanam_hls.smil/chunklist_b2500000.m3u8
@@ -493,7 +496,7 @@ http://202.43.109.145:1935/thdt2/thdt2/chunklist_w230918482.m3u8
 https://livecdn.fptplay.net/sdc/namdinh_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.postimg.cc/mrjkBtpp/3-nghean-hd.png",Nghệ An HD
 #EXTVLCOPT:http-user-agent=vietngatv
-https://live.truyenhinhnghean.vn/hls/na1/index.m3u8
+http://103.90.220.236/natvlive/tv1live.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/FLvFSLS.png",Nghệ An SD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/sda/nghean_hls.smil/chunklist_b2500000.m3u8
@@ -2003,9 +2006,6 @@ http://ott-cdn.ucom.am/s81/04.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://i.ibb.co/vVwVcHw/SETANTA2-BEARTV.png",Setanta Sports 2
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s82/04.m3u8
-#EXTINF:-1 group-title="KÊNH THỂ THAO TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://i.ibb.co/CM7Djts/Match-Strana.png",Матч! Страна HD
-#EXTVLCOPT:http-user-agent=vietngatv
-https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH THỂ THAO TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://i.ibb.co/jWD3jGM/image.png",Матч! Арена HD
 #EXTVLCOPT:http-user-agent=vietngatv
 #KODIPROP:inputstream=inputstream.adaptive
