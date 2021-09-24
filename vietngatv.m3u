@@ -341,7 +341,7 @@ https://livecdn.fptplay.net/sdc/bacninh_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/Xs0nf0N/125.png",Cà Mau HD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/sdc/camau_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/ILVDaWL.jpg",Cao Bằng SD
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/ILVDaWL.jpg",Cao Bằng
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/sda/caobang_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/6stS2Qx/126.png",TP Cần Thơ HD
@@ -776,19 +776,16 @@ https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/ejXfHa4.png",History HD
 #EXTVLCOPT:http-user-agent=vietngatv
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.is_realtime_stream=true
-http://mfe.cliptv.az/dash/History_HD.ism/playlist.mpd
+http://37.99.5.234/btv/SWM/HistoryHD/HistoryHD_1080p_5000kbps.m3u8
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/XIpsgye.png",History 2 HD
+#EXTVLCOPT:http-user-agent=vietngatv
+http://37.99.5.234/btv/SWM/History2HD/History2HD_1080p_5000kbps.m3u8
 #EXTINF:-1 tvg-id="nhk_world" group-title="KÊNH TIN TỨC" tvg-logo="https://i.imgur.com/cnMuKG4.jpg",NHK WORLD JAPAN HD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="national_geographic" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/m7Cl2M9.png",National Geographic HD
 #EXTVLCOPT:http-user-agent=vietngatv
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.is_realtime_stream=true
-http://mfe.cliptv.az/dash/National_Geographic_HD.ism/playlist.mpd
+http://37.99.5.234/btv/SWM/NatGeo_channel/NatGeo_channel_1080p_5000kbps.m3u8
 #EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/3jBRVrj.png",Nat Geo WILD HD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
