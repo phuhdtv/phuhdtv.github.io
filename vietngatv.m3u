@@ -1466,9 +1466,6 @@ http://ott-cdn.ucom.am/s58/04.m3u8
 #EXTINF:-1 group-title="KÊNH Thiếu nhi" tvg-logo="https://i.imgur.com/stmzkhA.png",Мультимания
 #EXTVLCOPT:http-user-agent=vietngatv
 http://serv30.vintera.tv:8081/detskiy/multimania20/playlist.m3u8
-#EXTINF:-1 group-title="KÊNH Thiếu nhi" tvg-logo="https://i.imgur.com/stmzkhA.png",Мультимания (Server 2)
-#EXTVLCOPT:http-user-agent=vietngatv
-http://mfe.cliptv.az/dash/Multimaniya_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="KÊNH Thiếu nhi" tvg-logo="https://i.imgur.com/uuUGNT0.png",Детский Мир
 #EXTVLCOPT:http-user-agent=vietngatv
 http://37.99.5.234/btv/SWM/DetskyMir/DetskyMir_576p_2000kbps.m3u8
@@ -1804,6 +1801,9 @@ http://37.99.5.234/btv/SWM/Poehali/Poehali_576p_2000kbps.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Các Kênh Khác",О! 
 #EXTVLCOPT:http-user-agent=vietngatv
 http://37.99.5.234/btv/SWM/O/O_576p_2000kbps.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yy0YpWT.png" group-title="Các Kênh Khác",Зоо ТВ
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+http://ott-cdn.ucom.am/s92/index.m3u8
 
 #EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/px8nPZK/FM.png",Радио Вести FM | Video
 #EXTVLCOPT:http-user-agent=vietngatv
