@@ -112,9 +112,6 @@ https://livecdn.fptplay.net/hda1/vtc13_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtc14" group-title="VTC" tvg-logo="https://i.imgur.com/RjXbfNd.png",VTC14 HD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cI2hqZz.png" group-title="VTC",VTC15 - TVMChannel
-#EXTVLCOPT:http-user-agent=vietngatv
-http://cdn-01.bonus-tv.ru:8080/tvm_edge/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc16hd" group-title="VTC" tvg-logo="https://i.imgur.com/silGs1H.png",VTC16 HD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
@@ -374,10 +371,13 @@ http://103.90.220.236/thhnlive/tv1live.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/0q2BVky.png",Hà Nam SD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/sda/hanam_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="hanoitv1" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/BUsJR8d.png",Hà Nội 1
+#EXTINF:-1 tvg-id="hanoitv1" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/BUsJR8d.png",Hà Nội 1 HD
+#EXTVLCOPT:http-user-agent=vietngatv
+https://live.hanoitv.vn/hntvlive/tv1live.m3u8
+#EXTINF:-1 tvg-id="hanoitv1" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/BUsJR8d.png",Hà Nội 1 SD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/sdc/hanoitv1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="hanoitv2" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/XfkC7BY.png",Hà Nội 2
+#EXTINF:-1 tvg-id="hanoitv2" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/XfkC7BY.png",Hà Nội 2 HD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/sdc/hanoitv2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/lAu4A9Q.png",Hà Tĩnh HD
@@ -633,10 +633,10 @@ https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="bbc_lifestyle" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.ibb.co/F6N3vk3/BBC-Lifestyle-BEARTV.jpg",BBC Lifestyle
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="KÊNH Thiếu nhi" tvg-logo="https://i.imgur.com/iCCuGAJ.png",Baby First
+#EXTINF:-1 group-title="KÊNH Thiếu nhi" tvg-logo="https://i.imgur.com/iCCuGAJ.png",Baby First HD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="KÊNH Thiếu nhi" tvg-logo="https://i.imgur.com/iCCuGAJ.png",Baby First (Server 2)
+#EXTINF:-1 group-title="KÊNH Thiếu nhi" tvg-logo="https://i.imgur.com/iCCuGAJ.png",Baby First SD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BABYFIRST-SD-720p/chunks.m3u8
 #EXTINF:-1 group-title="KÊNH Thiếu nhi" tvg-logo="https://i.imgur.com/LBU2zCq.png",Baby TV HD
@@ -1244,9 +1244,6 @@ https://kprf-htlive.cdn.ngenix.net/live/stream_high/playlist.m3u8
 #EXTINF:-1 group-title="Các Kênh Khác" tvg-logo="https://i.imgur.com/0StosQm.png",ЛДПР ТВ HD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
-#EXTINF:-1 group-title="Các Kênh Khác" tvg-logo="https://i.ibb.co/9N1cmDH/image.png",Вместе-РФ HD
-#EXTVLCOPT:http-user-agent=vietngatv
-http://uiptv.do.am/1ufc/118056781/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4WDCB7Z/image.png" group-title="Các Kênh Khác",ДОЖДЬ
 #EXTVLCOPT:http-user-agent=vietngatv
 https://a3569457435-s78511.cdn.ngenix.net/open/_definst_/TVRain_noaudio/chunklist_DVR.m3u8
@@ -1255,13 +1252,10 @@ https://a3569457435-s78511.cdn.ngenix.net/open/_definst_/TVRain_noaudio/chunklis
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 group-title="Các Kênh Khác" tvg-logo="https://i.imgur.com/KUfXhKC.png",Моя планета SD
 #EXTVLCOPT:http-user-agent=vietngatv
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/master.m3u8
+https://a3569456481-s26881.cdn.ngenix.net/live/smil:mplan.smil/index.m3u8
 #EXTINF:-1 group-title="Các Kênh Khác" tvg-logo="https://i.imgur.com/KUfXhKC.png",Моя планета HD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://37.99.5.234/btv/SWM/PlanetaHD/PlanetaHD_720p_3500kbps.m3u8
-#EXTINF:-1 group-title="Các Kênh Khác" tvg-logo="https://i.imgur.com/GiRvS5O.png",Просвещение
-#EXTVLCOPT:http-user-agent=vietngatv
-http://cdn-01.bonus-tv.ru:8080/prosveschenie_edge/index.m3u8
 #EXTINF:-1 group-title="Các Kênh Khác" tvg-logo="https://i.ibb.co/zFcQwQF/Ocean-TV.png",Ocean TV
 #EXTVLCOPT:http-user-agent=vietngatv
 http://91.192.168.242:9091
@@ -1286,6 +1280,9 @@ https://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Các Kênh Khác" tvg-logo="https://i.imgur.com/vLpm8tN.png",TV BRICS Chinese
 #EXTVLCOPT:http-user-agent=vietngatv
 https://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="Các Kênh Khác",TV BRICS Portuguese (1080p)
+#EXTVLCOPT:http-user-agent=vietngatv
+https://brics.bonus-tv.ru/cdn/brics/portuguese/playlist.m3u8
 #EXTINF:-1 group-title="Các Kênh Khác" tvg-logo="https://i.imgur.com/IgFmj3L.png",NANO TV
 #EXTVLCOPT:http-user-agent=vietngatv
 http://nano.teleservice.su:8080/hls/nano.m3u8
@@ -1382,7 +1379,7 @@ http://ott-cdn.ucom.am/s78/index.m3u8
 http://mfe.cliptv.az/dash/Bridge_TV_Dance_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="KÊNH CA NHẠC" tvg-logo="https://i.imgur.com/NBWyJJQ.png",Шансон ТВ | 576P
 #EXTVLCOPT:http-user-agent=vietngatv
-http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH CA NHẠC" tvg-logo="https://i.imgur.com/NBWyJJQ.png",Шансон ТВ | 480P
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s43/04.m3u8
@@ -1416,9 +1413,6 @@ http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HdPsSKn/AIVA.png" group-title="KÊNH CA NHẠC",AIVA HD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://live-1.otcnet.ru/aivaya/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KÊNH CA NHẠC",Eurodance 90 HD
-#EXTVLCOPT:http-user-agent=vietngatv
-https://eurodance90.catcast.tv/content/36987/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KÊNH CA NHẠC",Матур ТВ HD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
@@ -1431,7 +1425,7 @@ http://rtmp.one.by:2300
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7WFQnkR/Music-3.png" group-title="KÊNH CA NHẠC",ТНТ Music
 #EXTVLCOPT:http-user-agent=vietngatv
 http://37.99.5.234/btv/SWM/Tnt_music/Tnt_music_576p_2000kbps.m3u8
-#EXTINF:-1,Музыка Первого 
+#EXTINF:-1 group-title="KÊNH CA NHẠC",Музыка Первого 
 #EXTVLCOPT:http-user-agent=vietngatv
 http://37.99.5.234/btv/SWM/Muzyka_Pervogo/Muzyka_Pervogo_576p_2000kbps.m3u8
 
@@ -1465,7 +1459,10 @@ http://mfe.cliptv.az/dash/Mult_SD.ism/playlist.mpd
 http://ott-cdn.ucom.am/s58/04.m3u8
 #EXTINF:-1 group-title="KÊNH Thiếu nhi" tvg-logo="https://i.imgur.com/stmzkhA.png",Мультимания
 #EXTVLCOPT:http-user-agent=vietngatv
-http://serv30.vintera.tv:8081/detskiy/multimania20/playlist.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://mfe.cliptv.az/dash/Multimaniya_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="KÊNH Thiếu nhi" tvg-logo="https://i.imgur.com/uuUGNT0.png",Детский Мир
 #EXTVLCOPT:http-user-agent=vietngatv
 http://37.99.5.234/btv/SWM/DetskyMir/DetskyMir_576p_2000kbps.m3u8
@@ -1499,9 +1496,6 @@ http://serv30.vintera.tv:8081/detskiy/ryzhiy_08/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH Thiếu nhi" tvg-logo="https://i.imgur.com/QlncxbD.png",Рыжий | 480P
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s57/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZeskNqH.png" group-title="KÊNH Thiếu nhi",Радость Моя
-#EXTVLCOPT:http-user-agent=vietngatv
-https://cdn-01.bonus-tv.ru:8080/radostmoya_edge/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH Thiếu nhi",English Club TV 
 #EXTVLCOPT:http-user-agent=vietngatv
 http://37.99.5.234/btv/SWM/English_Club_TV/English_Club_TV_576p_2000kbps.m3u8
@@ -1677,7 +1671,7 @@ http://37.99.5.234/btv/SWM/Bollywood_HD/Bollywood_HD_1080p_5000kbps.m3u8
 http://37.99.5.234/btv/SWM/Paramount_Comedy/Paramount_Comedy_576p_2000kbps.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XA3CBj9.png" group-title="Các Kênh Khác",Ратник HD
 #EXTVLCOPT:http-user-agent=vietngatv
-http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
+https://online-video.rbc.ru/online/rbctv.m3u8
 #EXTINF:-1 group-title="Các Kênh Khác" tvg-logo="https://i.imgur.com/6UpTmJa.jpg",Мама
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s77/04.m3u8
@@ -1804,6 +1798,9 @@ http://37.99.5.234/btv/SWM/O/O_576p_2000kbps.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yy0YpWT.png" group-title="Các Kênh Khác",Зоо ТВ
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s92/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Các Kênh Khác",НТВ Стиль
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+http://ott-cdn.ucom.am/s77/index.m3u8
 
 #EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/px8nPZK/FM.png",Радио Вести FM | Video
 #EXTVLCOPT:http-user-agent=vietngatv
