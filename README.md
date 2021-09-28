@@ -3,6 +3,8 @@ EN: Collection publicly available IPTV channels from Vietnamese over the Russian
 
 RU: Коллекция общедоступных IPTV каналов с вьетнамского по российскому/Казахстанский
 
+VI: 600 kênh đài Việt Nam & Nga
+
 Адрес 1: http://bom.to/vietNgaTV
 
 Адрес 2: http://bom.to/TVVietnga
@@ -20,3 +22,5 @@ Download SimpleTV: http://gg.gg/simple-tv
 Link HaNoi IPTV: http://gg.gg/hanoiiptv
 
 Link Textuploader: http://gg.gg/iptv-2021
+
+Link phụ (alternative): http://gg.gg/minhiptv
