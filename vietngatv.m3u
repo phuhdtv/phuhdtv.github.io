@@ -88,12 +88,15 @@ https://vtc130121.cdn.vnns.io/VTC9/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://i.imgur.com/mODLJyK.png",VTC9 SD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/sdb/vtc9_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc10" group-title="VTC" tvg-logo="https://i.imgur.com/djfEjs5.png",VTC10 HD - NETVIET
+#EXTINF:-1 tvg-id="vtc10" group-title="VTC" tvg-logo="https://i.imgur.com/djfEjs5.png",VTC10 HD - Văn Hóa Việt
 #EXTVLCOPT:http-user-agent=vietngatv
 https://vtc130121.cdn.vnns.io/VTC10/playlist.m3u8
-#EXTINF:-1 tvg-id="vtc10" group-title="VTC" tvg-logo="https://i.imgur.com/MJrqbZc.png",VTC10 SD - NETVIET
+#EXTINF:-1 tvg-id="vtc10" group-title="VTC" tvg-logo="https://i.imgur.com/MJrqbZc.png",VTC10 SD - Văn Hóa Việt
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/sdb/vtc10_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="vtc10" group-title="VTC" tvg-logo="https://i.imgur.com/1U7CKCF.png",NETVIET
+#EXTVLCOPT:http-user-agent=vietngatv
+http://serv25.vintera.tv:8081/viet/netviet/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc11hd" group-title="VTC" tvg-logo="https://i.imgur.com/AyBxScM.png",VTC11
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist_b2500000.m3u8
@@ -353,6 +356,9 @@ https://livecdn.fptplay.net/sdc/daklak_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J5sWWVp.png" group-title="ĐỊA PHƯƠNG",Đắk Nông
 #EXTVLCOPT:http-user-agent=vietngatv
 https://live-vthcm.vieon.vn/htv_drm/live/dak_nong/TV_HD/dak_nong_480p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J5sWWVp.png" group-title="ĐỊA PHƯƠNG",Đắk Nông (Server 2)
+#EXTVLCOPT:http-user-agent=vietngatv
+https://htv-drm-live-cdn.fptplay.net/htvonline/daknong.480p.nimble.tms/chunks.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/vNgKLRe.png",Gia Lai
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/sda/gialai_hls.smil/chunklist_b2500000.m3u8
@@ -596,7 +602,7 @@ http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="arirang" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/E3M02yH.png",ARIRANG Korea SD
 #EXTVLCOPT:http-user-agent=vietngatv
-https://livecdn.fptplay.net/world/arirang_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/sdb/arirang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Thiếu nhi" tvg-logo="https://i.ibb.co/tKy129y/Animax.png",ANIMAX
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
@@ -608,7 +614,7 @@ https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="abc_australia" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/yIvBE2i.png",ABC Australia
 #EXTVLCOPT:http-user-agent=vietngatv
-https://livecdn.fptplay.net/qnetlive/australiaplus_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/sdb/australiaplus_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="boomerang" group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/PKOlWpr.png",BOMMERANG
 #EXTVLCOPT:http-user-agent=vietngatv
 http://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
@@ -617,7 +623,7 @@ http://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="bbc_world_news" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/GzuP1MN.png",BBC World News
 #EXTVLCOPT:http-user-agent=vietngatv
-https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
+https://livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="bbc_world_news" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/GzuP1MN.png",BBC World News (Server 2)
 #EXTVLCOPT:http-user-agent=vietngatv
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BBCNEWS-SD-720p/playlist.m3u8
@@ -665,22 +671,19 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CINEWORLD-SD-720p/playlist.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="cna_channel_news_asia" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/DhcvpCm.png",Channel News Asia SD
 #EXTVLCOPT:http-user-agent=vietngatv
-https://livecdn.fptplay.net/world/newsasia_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="cnn" group-title="TIN TỨC - KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/cyQpqTX.png",CNN International | 576P
+http://livecdn.fptplay.net/sdb/newsasia_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="cnn" group-title="TIN TỨC - KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/cyQpqTX.png",CNN International SD | 576P
 #EXTVLCOPT:http-user-agent=vietngatv
-https://livecdn.fptplay.net/qnetlive/cnn_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="cnn" group-title="TIN TỨC - KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/cyQpqTX.png",CNN International | 480P
+https://livecdn.fptplay.net/sdb/cnn_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="cnn" group-title="TIN TỨC - KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/cyQpqTX.png",CNN International SD | 480P
 #EXTVLCOPT:http-user-agent=vietngatv
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CNN-SD-480p/playlist.m3u8
-#EXTINF:-1 tvg-id="channel_v" group-title="CA NHẠC - THỜI TRANG" tvg-logo="https://i.imgur.com/p7w1FbM.png",Channel [V] HD
-#EXTVLCOPT:http-user-agent=vietngatv
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="cartoonhd" group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/dpGiaH5.png",Cartoon Network HD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/plQunhe.png",CNBC
 #EXTVLCOPT:http-user-agent=vietngatv
-https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist.m3u8
+https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/QCSeNYK.png",CGTN
 #EXTVLCOPT:http-user-agent=vietngatv
 http://live.cgtn.com/1000/prog_index.m3u8
@@ -797,7 +800,7 @@ https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.imgur.com/CDe0W1b.png",Paramount Channel HD
 #EXTVLCOPT:http-user-agent=vietngatv
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
+https://htv-livecdn.fptplay.net/htvonline/paramount.720p.nimble.tms/chunklist.m3u8
 #EXTINF:-1 tvg-id="tv5monde_asie" group-title="TIN TỨC - KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/FE0h0Cq.png",TV5 Monde SD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/world/tv5_hls.smil/chunklist_b2500000.m3u8
@@ -846,18 +849,6 @@ http://mfe.cliptv.az/dash/TRT_World_HD.ism/playlist.mpd
 #EXTINF:-1 tvg-id="warner_tv_hd" group-title="Phim truyện" tvg-logo="https://i.imgur.com/9qJI1Mg.png",Warner TV HD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="warner_tv_hd" group-title="Phim truyện" tvg-logo="https://i.imgur.com/b2eCn4J.png",Warner TV SD
-#EXTVLCOPT:http-user-agent=vietngatv
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
-#EXTINF:-1 tvg-id="foxsportshd" group-title="THỂ THAO TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://i.imgur.com/vJI3xd4.png",FOX SPORTS HD
-#EXTVLCOPT:http-user-agent=vietngatv
-https://livecdn.fptplay.net/hda2/foxsports_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="foxsports2hd" group-title="THỂ THAO TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://i.ibb.co/YycPWjr/fox2.png",FOX SPORTS 2 HD
-#EXTVLCOPT:http-user-agent=vietngatv
-https://livecdn.fptplay.net/hda3/foxsports2_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="fox_sports3" group-title="THỂ THAO TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://i.ibb.co/GVR6w1d/fox3.png",FOX SPORTS 3 HD
-#EXTVLCOPT:http-user-agent=vietngatv
-https://livecdn.fptplay.net/hda2/foxsports3_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/QqLoAs7.png",Nickelodeon
 #EXTVLCOPT:http-user-agent=vietngatv
 http://37.99.5.234/btv/SWM/Nikelodeon/Nikelodeon_576p_2000kbps.m3u8
@@ -867,6 +858,9 @@ http://37.99.5.234/btv/SWM/Nikelodeon/Nikelodeon_576p_2000kbps.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Nick_JR_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/MKVkDVo.png",Առաջին ալիք | Public TV of Armenia
+#EXTVLCOPT:http-user-agent=vietngatv
+http://serv24.vintera.tv:8081/test/h1_arm/index.m3u8
 
 #EXTINF:-1 group-title="VOV" tvg-logo="https://i.ibb.co/jwvtkqq/VOV1.png",VOV1
 #EXTVLCOPT:http-user-agent=vietngatv
@@ -978,199 +972,199 @@ https://broadcast-lic.fptplay.net/sportlive/youth01_vhls.smil/chunklist_b5000000
 #EXTVLCOPT:http-user-agent=vietngatv
 https://broadcast-lic.fptplay.net/sportlive/youth02_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/1IqCGe9.png",Первый Канал HD | 720P
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/1IqCGe9.png",Первый Канал HD | 1TV Russia HD
 #EXTVLCOPT:http-user-agent=vietngatv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Perviy_Kanal_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/1IqCGe9.png",Первый Канал | 480P
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/1IqCGe9.png",Первый Канал | 1TV Russia
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s14/04.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/BzsskXA.png",Россия 1 HD | 720P
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/BzsskXA.png",Россия 1 HD | Russia 1 HD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/5D1gwiv.png",Россия 1 | RTR Planeta
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia1_plus4/playlist_3.m3u8
-#EXTINF:-1 group-title="THỂ THAO TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://i.imgur.com/kFdooR4.png",Матч! ТВ HD
+#EXTINF:-1 group-title="THỂ THAO TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://i.imgur.com/kFdooR4.png",Матч! ТВ HD | Match TV
 #EXTVLCOPT:http-user-agent=vietngatv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Match_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/i6wrwKy.png",НТВ HD | 720P
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/i6wrwKy.png",НТВ HD | NTV Russia HD
 #EXTVLCOPT:http-user-agent=vietngatv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/HTB_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/i6wrwKy.png",НТВ | 480P
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/i6wrwKy.png",НТВ МИР | NTV International
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s17/04.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/qswopzO.png",Пятый канал | 4:3
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/qswopzO.png",Пятый канал | 5TV Russia
 #EXTVLCOPT:http-user-agent=vietngatv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/5_Kanal_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/Q5XxFQi.png",Россия K | 576P
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/Q5XxFQi.png",Россия K | Russia K
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k_dubl2/playlist_3.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/wu7O85f.png",Россия 24 | 576P
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/wu7O85f.png",Россия 24 | Russia 24
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/wu7O85f.png",Россия 24 | 576P | Dự phòng
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/wu7O85f.png",Россия 24 | Russia 24 | Dự phòng
 #EXTVLCOPT:http-user-agent=vietngatv
 http://uiptv.do.am/1ufc/000000006/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/wu7O85f.png",Россия 24 | 480P
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/wu7O85f.png",Россия 24 | Russia 24 | 480P
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s21/04.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/n9IHUCD.png",Карусель INT.
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/n9IHUCD.png",Карусель | Karusel
 #EXTVLCOPT:http-user-agent=vietngatv
 http://37.99.5.234/btv/SWM/Karusel/Karusel_576p_2000kbps.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.ibb.co/m4JKzg7/HD-c-2020.png",ТВ Центр HD
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.ibb.co/m4JKzg7/HD-c-2020.png",ТВ Центр HD | TV Center
 #EXTVLCOPT:http-user-agent=vietngatv
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/chunklist.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВ Центр INT. | 576P
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВ Центр | TVCi | 576P
 #EXTVLCOPT:http-user-agent=vietngatv
 http://37.99.5.234/btv/SWM/TVCentr/TVCentr_576p_2000kbps.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВ Центр INT. | 480P
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВ Центр | TVCi | 480P
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s54/04.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.ibb.co/TgsgLQb/HD.png",РЕН ТВ HD
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.ibb.co/TgsgLQb/HD.png",РЕН ТВ HD | REN TV HD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/18TAzYV.png",РЕН ТВ INT. | 576P
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/18TAzYV.png",РЕН ТВ | REN TV | 576P
 #EXTVLCOPT:http-user-agent=vietngatv
 http://37.99.5.234/btv/SWM/RenTV/RenTV_576p_2000kbps.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/18TAzYV.png",РЕН ТВ INT. | 480P
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/18TAzYV.png",РЕН ТВ | REN TV | 480P
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s85/04.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/cZhBFZP.png",СПАС
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/cZhBFZP.png",СПАС | SPAS
 #EXTVLCOPT:http-user-agent=vietngatv
 http://spas.mediacdn.ru/cdn/spas/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/F6j6xWc.jpg",СТС INT. | 480P
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/F6j6xWc.jpg",СТС | STS
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s52/04.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/jBnjxGR.png",Домашний INT. | 480P
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/jBnjxGR.png",Домашний | Domashiny
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s88/04.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/zvhT8JO.png",ТВ3 HD | 720P
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/zvhT8JO.png",ТВ3 HD | TV3 Russia HD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://bl.uma.media/live/407373/HLS/6307840_7/1613013859/5fdc4b8080160a4e56933b0402133da4/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/zvhT8JO.png",ТВ3 (+2) | 576P
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/zvhT8JO.png",ТВ3 | TV3 Russia
 #EXTVLCOPT:http-user-agent=vietngatv
 http://mfe.cliptv.az/dash/TV_3_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/CNOYAUN.png",Пятница! HD | 1080P
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/CNOYAUN.png",Пятница! HD | Friday HD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://bl.uma.media/live/410336/HLS_R/6307840_7/1613010957/e2cf94524a064ecb46389bb54a359d9a/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/CNOYAUN.png",Пятница! INT. | 576P
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/CNOYAUN.png",Пятница! | Friday International | 576P
 #EXTVLCOPT:http-user-agent=vietngatv
 http://37.99.5.234/btv/SWM/Pyatnica/Pyatnica_576p_2000kbps.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/CNOYAUN.png",Пятница! INT. | 480P
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/CNOYAUN.png",Пятница! | Friday International | 480P
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s50/04.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/n9zLVyR.png",Звезда HD | 1080P
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/n9zLVyR.png",Звезда HD | Zevezda HD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/n9zLVyR.png",Звезда INT. | 576P
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/n9zLVyR.png",Звезда | Zevezda | 576P
 #EXTVLCOPT:http-user-agent=vietngatv
 http://46.34.209.243/btv/SWM/zvezda_int/zvezda_int_576p_2000kbps.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/n9zLVyR.png",Звезда INT. | 480P
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/n9zLVyR.png",Звезда | Zevezda | 480P
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s85/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/yqXhUto.png",МИР | 1080P
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/yqXhUto.png",МИР HD | MIR HD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/yqXhUto.png",МИР | 576P
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/yqXhUto.png",МИР | MIR
 #EXTVLCOPT:http-user-agent=vietngatv
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/LqmmkNs.png",ТНТ HD | 720P
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/LqmmkNs.png",ТНТ HD | TNT HD
 #EXTVLCOPT:http-user-agent=vietngatv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/TNT_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/LqmmkNs.png",ТНТ INT. | 576P
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/LqmmkNs.png",ТНТ | TNT | 576P
 #EXTVLCOPT:http-user-agent=vietngatv
 http://37.99.5.234/btv/SWM/TNT/TNT_576p_2000kbps.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/LqmmkNs.png",ТНТ INT. | 480P
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/LqmmkNs.png",ТНТ | TNT | 480P
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s19/04.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/n7bGFXj.png",МУЗ ТВ | 576P
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/n7bGFXj.png",МУЗ | MUZ | 576P
 #EXTVLCOPT:http-user-agent=vietngatv
 http://mfe.cliptv.az/dash/Muz_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/n7bGFXj.png",МУЗ ТВ | 480P
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/n7bGFXj.png",МУЗ | MUZ | 480P
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s28/04.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/Wk3Q8sT.png",Москва 24
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/Wk3Q8sT.png",Москва 24 | Moscow 24
 #EXTVLCOPT:http-user-agent=vietngatv
 https://radio-live-mg.rtr-vesti.ru/hls/moscow_24/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hLD874K.jpg" group-title="РОССИЯ/NGA",Вечерняя Москва
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hLD874K.jpg" group-title="РОССИЯ/NGA",Вечерняя Москва | Evening Moscow
 #EXTVLCOPT:http-user-agent=vietngatv
 https://vmvideo.gcdn.co/streams/1503_161/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.ibb.co/7pStSYH/10.png",Телестанция Мир
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.ibb.co/7pStSYH/10.png",Телестанция Мир | TV station Mir
 #EXTVLCOPT:http-user-agent=vietngatv
 http://serv30.vintera.tv:8081/stanciya_mir/mir/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/ARh6WSf.png",Кузбасс 1 HD
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/ARh6WSf.png",Кузбасс 1 HD | Kuzbass 1 HD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://www.10kanal.ru:1443/10kanal/k24/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/ARh6WSf.png",Кузбасс 1 SD
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/ARh6WSf.png",Кузбасс 1 SD | Kuzbass 1 SD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://kuzbass1.ru:8082/10kanal/k24_576/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/xQc3UoJ.png",Между.Net HD
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/xQc3UoJ.png",Между.Net HD | Mezhdu.net HD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/EPTBLSP.png",Десятка HD
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/EPTBLSP.png",Десятка | Channel 10
 #EXTVLCOPT:http-user-agent=vietngatv
 http://kuzbass1.ru:8082/10kanal/10kanal_720/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.ibb.co/0cYdNc3/image.png",Енисей HD
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.ibb.co/0cYdNc3/image.png",Енисей HD | Enisey TV HD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/Gbof1a7.png",ТВК HD
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/Gbof1a7.png",ТВК HD | TVK HD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://air.tvk6.ru/tvk24/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/Y47TGky.png",Афонтово HD
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/Y47TGky.png",Афонтово HD | Afontvo
 #EXTVLCOPT:http-user-agent=vietngatv
 http://xstream.afontovo.ru/afontovo_ya.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZKGC5i0.png" group-title="РОССИЯ/NGA",ТНВ-Планета
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZKGC5i0.png" group-title="РОССИЯ/NGA",ТНВ-Планета | TNV Planeta
 #EXTVLCOPT:http-user-agent=vietngatv
 http://tnv.bonus-tv.ru/cdn/tnvplanet/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.ibb.co/Ks7H7kd/image.png",Че | 4:3
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.ibb.co/Ks7H7kd/image.png",Че! | Che!
 #EXTVLCOPT:http-user-agent=vietngatv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Ce_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/QALjwaY.png",Перец International
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/QALjwaY.png",Перец | Perec TV
 #EXTVLCOPT:http-user-agent=vietngatv
 http://37.99.5.234/btv/SWM/Perec/Perec_576p_2000kbps.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/neisaju.png",СТС Love | 4:3
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/neisaju.png",СТС Love | STS Love
 #EXTVLCOPT:http-user-agent=vietngatv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/STS_Love_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/rdLzrpr.png",ТНТ4 HD | 720P
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/rdLzrpr.png",ТНТ4 HD | TNT4 HD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d161f37174905bc712e81b60d3411fc1/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/rdLzrpr.png",ТНТ4 INT. | 576P
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/rdLzrpr.png",ТНТ4 | TNT4
 #EXTVLCOPT:http-user-agent=vietngatv
 http://37.99.5.234/btv/SWM/TNT4/TNT4_576p_2000kbps.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/XqPS7VR.jpg",2x2 | 720P
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/XqPS7VR.jpg",2x2 HD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://bl.uma.media/live/317805/HLS/4614144_3,2883584_2,1153024_1/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/XqPS7VR.jpg",2x2 | 576P
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/XqPS7VR.jpg",2x2 SD
 #EXTVLCOPT:http-user-agent=vietngatv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/2x2_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.ibb.co/qrLb5kL/image.png",Суббота HD
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.ibb.co/qrLb5kL/image.png",Суббота HD | Saturday TV
 #EXTVLCOPT:http-user-agent=vietngatv
 https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
-#EXTINF:-1 group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/38VPB1Z.jpg",Disney Channel | Tiếng Nga
+#EXTINF:-1 group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/38VPB1Z.jpg",Disney Channel | Russian Free To Air
 #EXTVLCOPT:http-user-agent=vietngatv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1179,7 +1173,7 @@ http://mfe.cliptv.az/dash/Disney_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.ibb.co/VW42dzH/360-2021.webp",360 HD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.ibb.co/RcwTh3c/360-News-HD.jpg",360 Новости HD
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.ibb.co/RcwTh3c/360-News-HD.jpg",360 Новости HD | 360 News
 #EXTVLCOPT:http-user-agent=vietngatv
 https://edge2-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/index.m3u8
 #EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/qpGrvHl.jpg",RTVi 
@@ -1188,28 +1182,25 @@ http://37.99.5.234/btv/SWM/RTVi/RTVi_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="CA NHẠC - THỜI TRANG" tvg-logo="https://i.imgur.com/Y6ZQyc7.png",RU.TV HD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://rutv.gcdn.co/streams/1410_95/playlist.m3u8
-#EXTINF:-1 group-title="TIN TỨC - KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/AGj8EJF.png",РБК | 576P
+#EXTINF:-1 group-title="TIN TỨC - KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/AGj8EJF.png",РБК | RBC | 576P
 #EXTVLCOPT:http-user-agent=vietngatv
 http://uiptv.do.am/1ufc/701293058/playlist.m3u8
-#EXTINF:-1 group-title="TIN TỨC - KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/AGj8EJF.png",РБК | 480P
+#EXTINF:-1 group-title="TIN TỨC - KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/AGj8EJF.png",РБК | RBC | 480P
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s36/04.m3u8
-#EXTINF:-1 group-title="TIN TỨC - KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/o4Julue.jpg",Известия HD
+#EXTINF:-1 group-title="TIN TỨC - KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/o4Julue.jpg",IZ.RU | Izvestia HD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.ibb.co/tcBDJxp/24.png",МИР 24 HD | 1080P
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.ibb.co/tcBDJxp/24.png",МИР 24 HD | MIR 24 | 1080P
 #EXTVLCOPT:http-user-agent=vietngatv
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.ibb.co/tcBDJxp/24.png",МИР 24 SD | 576P
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.ibb.co/tcBDJxp/24.png",МИР 24 SD | MIR 24 | 576P
 #EXTVLCOPT:http-user-agent=vietngatv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/MIR24_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.ibb.co/T826kTh/Mir-Premium.png",МИР Premium
-#EXTVLCOPT:http-user-agent=vietngatv
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xfgtSCn/1rnk.png" group-title="РОССИЯ/NGA",Первый российский национальный канал
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xfgtSCn/1rnk.png" group-title="РОССИЯ/NGA",ПРНК | The first Russian National Channel
 #EXTVLCOPT:http-user-agent=vietngatv
 http://serv25.vintera.tv:8081/1pnk/1pnk/playlist.m3u8
 #EXTINF:-1 group-title="TIN TỨC - KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/DaYMzz8.jpg",Atameken Business HD
@@ -1219,50 +1210,50 @@ http://live.atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8
 #EXTINF:-1 group-title="TIN TỨC - KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/tEH4vmX.png",Хабар 24 HD | Tiếng Nga/Kazakh
 #EXTVLCOPT:http-user-agent=vietngatv
 https://live-24kz.cdnvideo.ru/24kz/24kz.sdp/playlist.m3u8
-#EXTINF:-1 group-title="TIN TỨC - KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/048jWpk.jpg",Qazaq TV | Tiếng Anh
+#EXTINF:-1 group-title="TIN TỨC - KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/048jWpk.jpg",Qazaq TV | English
 #EXTVLCOPT:http-user-agent=vietngatv
 http://serv30.vintera.tv:8081/kazahtv/stream_en/playlist.m3u8
-#EXTINF:-1 group-title="TIN TỨC - KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/048jWpk.jpg",Qazaq TV | Tiếng Nga
+#EXTINF:-1 group-title="TIN TỨC - KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/048jWpk.jpg",Qazaq TV | Russian
 #EXTVLCOPT:http-user-agent=vietngatv
 http://serv30.vintera.tv:8081/kazahtv/stream_kz/playlist.m3u8
-#EXTINF:-1 group-title="TIN TỨC - KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/048jWpk.jpg",Qazaq TV | Tiếng Kazakh
+#EXTINF:-1 group-title="TIN TỨC - KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/048jWpk.jpg",Qazaq TV | Kazakh
 #EXTVLCOPT:http-user-agent=vietngatv
 http://serv30.vintera.tv:8081/kazahtv/stream_ru/playlist.m3u8
-#EXTINF:-1 group-title="TIN TỨC - KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/048jWpk.jpg",Qazaq TV | Tiếng Kyrgyz
+#EXTINF:-1 group-title="TIN TỨC - KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/048jWpk.jpg",Qazaq TV | Kyrgyz
 #EXTVLCOPT:http-user-agent=vietngatv
 http://serv30.vintera.tv:8081/kazahtv/stream_kg/playlist.m3u8
 #EXTINF:-1 group-title="TIN TỨC - KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/Dh1pUNW.png",Беларусь 24 | Tiếng Nga/Belarus
 #EXTVLCOPT:http-user-agent=vietngatv
 http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
-#EXTINF:0 tvg-logo="https://iptvx.one/icn/nastoiaschee-vremia.png" group-title="TIN TỨC - KINH TẾ TÀI CHÍNH",Настоящее время
+#EXTINF:0 tvg-logo="https://iptvx.one/icn/nastoiaschee-vremia.png" group-title="TIN TỨC - KINH TẾ TÀI CHÍNH",Настоящее время | Present time
 #EXTVLCOPT:http-user-agent=vietngatv
 http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
 
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/EMwsDdd.png",Красная линия
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/EMwsDdd.png",Красная линия | Red line
 #EXTVLCOPT:http-user-agent=vietngatv
 https://kprf-htlive.cdn.ngenix.net/live/stream_high/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/0StosQm.png",ЛДПР ТВ HD
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/0StosQm.png",ЛДПР ТВ HD | LDPR HD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.ibb.co/LSHq0Tr/image.png",Союз
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.ibb.co/LSHq0Tr/image.png",Союз | Soyz
 #EXTVLCOPT:http-user-agent=vietngatv
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/KUfXhKC.png",Моя планета SD
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/KUfXhKC.png",Моя планета | My Planeta
 #EXTVLCOPT:http-user-agent=vietngatv
 https://a3569456481-s26881.cdn.ngenix.net/live/smil:mplan.smil/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/KUfXhKC.png",Моя планета HD
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/KUfXhKC.png",Моя планета | My Planeta HD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://37.99.5.234/btv/SWM/PlanetaHD/PlanetaHD_720p_3500kbps.m3u8
 #EXTINF:-1 group-title="Các Kênh Khác" tvg-logo="https://i.ibb.co/zFcQwQF/Ocean-TV.png",Ocean TV
 #EXTVLCOPT:http-user-agent=vietngatv
 http://91.192.168.242:9091
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.ibb.co/XkYnRKD/12-Nostalgija.png",Ностальгия
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.ibb.co/XkYnRKD/12-Nostalgija.png",Ностальгия | Nostalgia
 #EXTVLCOPT:http-user-agent=vietngatv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Nostalgiya_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.ibb.co/cvKYWFL/61-Ohota-i-Rybalka.png",Охота и Рыбалка
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.ibb.co/cvKYWFL/61-Ohota-i-Rybalka.png",Охота и Рыбалка | Hunting and Fishing
 #EXTVLCOPT:http-user-agent=vietngatv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1283,46 +1274,46 @@ https://brics.bonus-tv.ru/cdn/brics/portuguese/playlist.m3u8
 #EXTINF:-1 group-title="Các Kênh Khác" tvg-logo="https://i.imgur.com/IgFmj3L.png",NANO TV
 #EXTVLCOPT:http-user-agent=vietngatv
 http://nano.teleservice.su:8080/hls/nano.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.ibb.co/51SVQMw/image.png",Дикий
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.ibb.co/51SVQMw/image.png",Дикий | Dikiy
 #EXTVLCOPT:http-user-agent=vietngatv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Dikiy_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/zfr7TBn.jpg",АВТО 24
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/zfr7TBn.jpg",АВТО 24 | Auto 24
 #EXTVLCOPT:http-user-agent=vietngatv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Avto_24_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/xKy5wNW.png",Авто Плюс
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/xKy5wNW.png",Авто Плюс | Auto Plus
 #EXTVLCOPT:http-user-agent=vietngatv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Avto_Plus_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.ibb.co/p0tCHQg/image.png",Загородная жизнь SD
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.ibb.co/p0tCHQg/image.png",Загородная жизнь | Country life SD
 #EXTVLCOPT:http-user-agent=vietngatv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Zagorodnaya_Jizn_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.ibb.co/p0tCHQg/image.png",Загородная жизнь HD
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.ibb.co/p0tCHQg/image.png",Загородная жизнь | Country life HD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://37.99.5.234/btv/SWM/Zagorodnaya_Zhizn/Zagorodnaya_Zhizn_1080p_5000kbps.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.ibb.co/Tb2mJyq/Kukhnya-TV.png",Кухня ТВ
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.ibb.co/Tb2mJyq/Kukhnya-TV.png",Кухня ТВ | Kitchen TV
 #EXTVLCOPT:http-user-agent=vietngatv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Kuxnya_TV_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/MnlcTkp.png",ТЕЛЕКАФЕ | 576P
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/MnlcTkp.png",ТЕЛЕКАФЕ | TELECAFE | 576P
 #EXTVLCOPT:http-user-agent=vietngatv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/TeleKafe_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/MnlcTkp.png",ТЕЛЕКАФЕ | 480P
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/MnlcTkp.png",ТЕЛЕКАФЕ | TELECAFE | 480P
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s56/04.m3u8
 #EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/BOmuhKL.png",Viasat History
@@ -1340,7 +1331,7 @@ http://mfe.cliptv.az/dash/Viasat_Nature_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Các Kênh Khác" tvg-logo="https://i.imgur.com/ZGNvRAr.png",HDL | HD Life
 #EXTVLCOPT:http-user-agent=vietngatv
 http://37.99.5.234/btv/SWM/HDLife/HDLife_1080p_5000kbps.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.ibb.co/WKSjS2J/3angels-1.png",Три Ангела
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.ibb.co/WKSjS2J/3angels-1.png",Три Ангела | Three Angels
 #EXTVLCOPT:http-user-agent=vietngatv
 http://hls.tv.3angels.ru/stream/HQ.m3u8
 #EXTINF:-1 group-title="Các Kênh Khác" tvg-logo="https://i.imgur.com/BJJN5Zp.jpg",Global Star TV
@@ -1350,7 +1341,7 @@ http://stream2.hardlife.tv:8134/hls-live/hlsGS/_definst_/liveevent/gs.m3u8
 #EXTINF:-1 group-title="CA NHẠC - THỜI TRANG" tvg-logo="https://i.imgur.com/dPbRtRS.jpg",MTV
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="CA NHẠC - THỜI TRANG" tvg-logo="https://i.ibb.co/CK00h8T/27-Zhara.png",Жара
+#EXTINF:-1 group-title="CA NHẠC - THỜI TRANG" tvg-logo="https://i.ibb.co/CK00h8T/27-Zhara.png",Жара | Zhara
 #EXTVLCOPT:http-user-agent=vietngatv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1374,13 +1365,13 @@ http://ott-cdn.ucom.am/s78/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Bridge_TV_Dance_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="CA NHẠC - THỜI TRANG" tvg-logo="https://i.imgur.com/NBWyJJQ.png",Шансон ТВ | 576P
+#EXTINF:-1 group-title="CA NHẠC - THỜI TRANG" tvg-logo="https://i.imgur.com/NBWyJJQ.png",Шансон ТВ | Chanson TV | 576P
 #EXTVLCOPT:http-user-agent=vietngatv
 http://37.99.5.234/btv/SWM/Shanson_TV/Shanson_TV_576p_2000kbps.m3u8
-#EXTINF:-1 group-title="CA NHẠC - THỜI TRANG" tvg-logo="https://i.imgur.com/NBWyJJQ.png",Шансон ТВ | 480P
+#EXTINF:-1 group-title="CA NHẠC - THỜI TRANG" tvg-logo="https://i.imgur.com/NBWyJJQ.png",Шансон ТВ | Chanson TV | 480P
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s43/04.m3u8
-#EXTINF:-1 group-title="CA NHẠC - THỜI TRANG" tvg-logo="https://i.ibb.co/6HbhRDw/image.png",МузСоюз
+#EXTINF:-1 group-title="CA NHẠC - THỜI TRANG" tvg-logo="https://i.ibb.co/6HbhRDw/image.png",МузСоюз | Music Union
 #EXTVLCOPT:http-user-agent=vietngatv
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1 group-title="CA NHẠC - THỜI TRANG" tvg-logo="https://i.ibb.co/KD706VH/34-Europa-plus.png",Europa Plus TV
@@ -1404,7 +1395,7 @@ http://37.99.5.234/btv/SWM/MCM/MCM_576p_2000kbps.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Mezzo_Live_HD.ism/playlist.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aWFlyoK.png" group-title="CA NHẠC - THỜI TRANG",Жар Птица
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aWFlyoK.png" group-title="CA NHẠC - THỜI TRANG",Жар Птица | Firebird
 #EXTVLCOPT:http-user-agent=vietngatv
 http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HdPsSKn/AIVA.png" group-title="CA NHẠC - THỜI TRANG",AIVA HD
@@ -1413,13 +1404,13 @@ http://live-1.otcnet.ru/aivaya/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CA NHẠC - THỜI TRANG",Матур ТВ HD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/xjJIZ5r.png" group-title="CA NHẠC - THỜI TRANG",Первый Музыкальный HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/xjJIZ5r.png" group-title="CA NHẠC - THỜI TRANG",Первый Музыкальный | 1Muz HD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://rtmp.one.by:1300
-#EXTINF:0 tvg-logo="https://i.imgur.com/oySoEmx.png" group-title="CA NHẠC - THỜI TRANG",Первый Музыкальный RU HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/oySoEmx.png" group-title="CA NHẠC - THỜI TRANG",Первый Музыкальный | 1Muz  RU HD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://rtmp.one.by:2300
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7WFQnkR/Music-3.png" group-title="CA NHẠC - THỜI TRANG",ТНТ Music
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7WFQnkR/Music-3.png" group-title="CA NHẠC - THỜI TRANG",ТНТ Музыка | TNT Music
 #EXTVLCOPT:http-user-agent=vietngatv
 http://37.99.5.234/btv/SWM/Tnt_music/Tnt_music_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="CA NHẠC - THỜI TRANG",Музыка Первого 
@@ -1435,29 +1426,29 @@ https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
 #EXTINF:-1 group-title="BÁN HÀNG" tvg-logo="https://i.ibb.co/NmzcKNx/Leomax-Plus.png",Leomax+
 #EXTVLCOPT:http-user-agent=vietngatv
 https://tvshops.bonus-tv.ru/cdn/discount/playlist.m3u8
-#EXTINF:-1 group-title="BÁN HÀNG" tvg-logo="https://i.ibb.co/L9dK2dq/image.png",Ювелирочка ТВ HD
+#EXTINF:-1 group-title="BÁN HÀNG" tvg-logo="https://i.ibb.co/L9dK2dq/image.png",Ювелирочка ТВ HD | Jeweler
 #EXTVLCOPT:http-user-agent=vietngatv
 http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 #EXTINF:-1 group-title="BÁN HÀNG" tvg-logo="https://i.ibb.co/g63P02s/Luxury-HD.png",Luxury HD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://nano.teleservice.su:8080/hls/luxury.m3u8
 
-#EXTINF:-1 group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/ZgU9fin.png",Мульт
+#EXTINF:-1 group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/ZgU9fin.png",Мульт | Russian Cartoon
 #EXTVLCOPT:http-user-agent=vietngatv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Mult_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/ZgU9fin.png",Мульт | 480P
+#EXTINF:-1 group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/ZgU9fin.png",Мульт | Russian Cartoon | 480P
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s58/04.m3u8
-#EXTINF:-1 group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/stmzkhA.png",Мультимания
+#EXTINF:-1 group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/stmzkhA.png",Мультимания | Multimania
 #EXTVLCOPT:http-user-agent=vietngatv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Multimaniya_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/uuUGNT0.png",Детский Мир
+#EXTINF:-1 group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/uuUGNT0.png",Детский Мир | Children's World
 #EXTVLCOPT:http-user-agent=vietngatv
 http://37.99.5.234/btv/SWM/DetskyMir/DetskyMir_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/tDjQD6x.png",Tiji | 576P
@@ -1481,110 +1472,110 @@ http://mfe.cliptv.az/dash/Gulli_Girl_SD.ism/playlist.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/ANITV_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/QJSYclH.png",Смайлик ТВ
+#EXTINF:-1 group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/QJSYclH.png",Смайлик ТВ | Smiley TV
 #EXTVLCOPT:http-user-agent=vietngatv
 http://62.32.67.187:1935/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
-#EXTINF:-1 group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/QlncxbD.png",Рыжий | 576P
+#EXTINF:-1 group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/QlncxbD.png",Рыжий | Red | 576P
 #EXTVLCOPT:http-user-agent=vietngatv
 http://serv30.vintera.tv:8081/detskiy/ryzhiy_08/playlist.m3u8
-#EXTINF:-1 group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/QlncxbD.png",Рыжий | 480P
+#EXTINF:-1 group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/QlncxbD.png",Рыжий | Red | 480P
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s57/04.m3u8
 #EXTINF:-1 group-title="Thiếu nhi",English Club TV 
 #EXTVLCOPT:http-user-agent=vietngatv
 http://37.99.5.234/btv/SWM/English_Club_TV/English_Club_TV_576p_2000kbps.m3u8
 
-#EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.ibb.co/rfqF3SG/image.png",Дом Кино
+#EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.ibb.co/rfqF3SG/image.png",Дом Кино | Dom Kino
 #EXTVLCOPT:http-user-agent=vietngatv
 http://37.99.5.234/btv/SWM/Dom_Kino/Dom_Kino_576p_2000kbps.m3u8
-#EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.imgur.com/XyiksXK.jpg",Дом Кино Премиум HD | 1080P
+#EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.imgur.com/XyiksXK.jpg",Дом Кино Премиум HD | Dom Kino Premium HD | 1080P
 #EXTVLCOPT:http-user-agent=vietngatv
 http://37.99.5.234/btv/SWM/Dom_kino_Prem/Dom_kino_Prem_1080p_5000kbps.m3u8
-#EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.imgur.com/XyiksXK.jpg",Дом Кино Премиум HD | 720P
+#EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.imgur.com/XyiksXK.jpg",Дом Кино Премиум HD | Dom Kino Premium HD | 720P
 #EXTVLCOPT:http-user-agent=vietngatv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Dom_Kino_Premium_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.ibb.co/263PbNg/40-Evrokino.png",Еврокино
+#EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.ibb.co/263PbNg/40-Evrokino.png",Еврокино | Eurokino
 #EXTVLCOPT:http-user-agent=vietngatv
 http://37.99.5.234/btv/SWM/Eurokino/Eurokino_576p_2000kbps.m3u8
-#EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.imgur.com/nTq0eca.png",Индийское Кино
+#EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.imgur.com/nTq0eca.png",Индийское Кино | Indian Kino
 #EXTVLCOPT:http-user-agent=vietngatv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Indiyskoe_Kino_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.ibb.co/h2V4NXy/38-Kinomix.png",КИНОМИКС
+#EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.ibb.co/h2V4NXy/38-Kinomix.png",КИНОМИКС | Kinomix
 #EXTVLCOPT:http-user-agent=vietngatv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Kinomix_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.ibb.co/NY4jTTr/39-Kinopremjera.png",КИНОПРЕМЬЕРА HD
+#EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.ibb.co/NY4jTTr/39-Kinopremjera.png",КИНОПРЕМЬЕРА HD | Kinopremiera HD
 #EXTVLCOPT:http-user-agent=vietngatv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Kinopremiera_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.ibb.co/4d168Kb/image.png",КИНОСВИДАНИЕ SD
+#EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.ibb.co/4d168Kb/image.png",КИНОСВИДАНИЕ SD | Kinosvidaniye SD
 #EXTVLCOPT:http-user-agent=vietngatv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Kinosvidaniye_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.ibb.co/4d168Kb/image.png",КИНОСВИДАНИЕ HD
+#EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.ibb.co/4d168Kb/image.png",КИНОСВИДАНИЕ HD | Kinosvidaniye HD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://37.99.5.234/btv/SWM/Kinosvidanie/Kinosvidanie_1080p_5000kbps.m3u8
-#EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.ibb.co/DQXpBZy/63-Kinosemja.png",КИНОСЕМЬЯ
+#EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.ibb.co/DQXpBZy/63-Kinosemja.png",КИНОСЕМЬЯ | Kinosemya
 #EXTVLCOPT:http-user-agent=vietngatv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Kinosemya_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.ibb.co/Phw189V/image.png",КИНОСЕРИЯ
+#EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.ibb.co/Phw189V/image.png",КИНОСЕРИЯ | Kinoserija
 #EXTVLCOPT:http-user-agent=vietngatv
 http://37.99.5.234/btv/SWM/Kinoserija/Kinoserija_576p_2000kbps.m3u8
-#EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.ibb.co/q9WVTbx/73-Kinohit.png",КИНОХИТ
+#EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.ibb.co/q9WVTbx/73-Kinohit.png",КИНОХИТ | Kinohit
 #EXTVLCOPT:http-user-agent=vietngatv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Kinohit_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.ibb.co/Sw8Q1sF/image.png",Кино ТВ
+#EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.ibb.co/Sw8Q1sF/image.png",Кино ТВ | Kino TV
 #EXTVLCOPT:http-user-agent=vietngatv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Kino_TV_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.imgur.com/PqJ5zzi.jpg",Кинокомедия SD
+#EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.imgur.com/PqJ5zzi.jpg",Кинокомедия | Kinokomediya SD
 #EXTVLCOPT:http-user-agent=vietngatv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Kinokomediya_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.imgur.com/PqJ5zzi.jpg",Кинокомедия HD
+#EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.imgur.com/PqJ5zzi.jpg",Кинокомедия | Kinokomediya HD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://37.99.5.234/btv/SWM/Kinokomedija/Kinokomedija_1080p_5000kbps.m3u8
-#EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.ibb.co/x2mM69H/42-Lubimoe-kino.png",Любимое Кино
+#EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.ibb.co/x2mM69H/42-Lubimoe-kino.png",Любимое Кино | Lubimoe Kino
 #EXTVLCOPT:http-user-agent=vietngatv
 http://37.99.5.234/btv/SWM/Nashe_Lubimoe_Kino/Nashe_Lubimoe_Kino_576p_2000kbps.m3u8
-#EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.ibb.co/6BFNjRL/72-Nashe-novoe-kino.png",НАШЕ НОВОЕ КИНО
+#EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.ibb.co/6BFNjRL/72-Nashe-novoe-kino.png",НАШЕ НОВОЕ КИНО | Nashe novoe kino HD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://37.99.5.234/btv/SWM/Nashe_novoe_kino/Nashe_novoe_kino_1080p_5000kbps.m3u8
-#EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.ibb.co/TtT1gmy/58-Rodnoje-kino.png",РОДНОЕ КИНО
+#EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.ibb.co/TtT1gmy/58-Rodnoje-kino.png",РОДНОЕ КИНО | Rodnoe Kino
 #EXTVLCOPT:http-user-agent=vietngatv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Rodnoe_Kino_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.ibb.co/CJqkz4j/image.png",Русский Детектив
+#EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.ibb.co/CJqkz4j/image.png",Русский Детектив | Ruskiy Detektiv
 #EXTVLCOPT:http-user-agent=vietngatv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Ruskiy_Detektiv_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.ibb.co/nr9GxG6/Russkiy-Roman.png",Русский Роман
+#EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.ibb.co/nr9GxG6/Russkiy-Roman.png",Русский Роман | Ruskiy Roman
 #EXTVLCOPT:http-user-agent=vietngatv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1608,7 +1599,7 @@ http://37.99.5.234/btv/SWM/TV1000Action/TV1000Action_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.imgur.com/3214pp9.png",TV1000 Action | 480P
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s91/04.m3u8
-#EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.imgur.com/BDER6fc.png",TV1000 Русское кино
+#EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.imgur.com/BDER6fc.png",TV1000 Русское кино | Russian Kino
 #EXTVLCOPT:http-user-agent=vietngatv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1641,16 +1632,16 @@ http://ott-cdn.ucom.am/s64/index.m3u8
 #EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.ibb.co/PQfdxXT/Hollywood.png",Hollywood
 #EXTVLCOPT:http-user-agent=vietngatv
 http://37.99.5.234/btv/SWM/Hollywood/Hollywood_576p_2000kbps.m3u8
-#EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.ibb.co/TtHB3bS/mirser.png",Мир Сериала
+#EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.ibb.co/TtHB3bS/mirser.png",Мир Сериала | Mir seriala
 #EXTVLCOPT:http-user-agent=vietngatv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/Mir_seriala_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.imgur.com/DOtCK9V.png",Победа
+#EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.imgur.com/DOtCK9V.png",Победа | Pobeda
 #EXTVLCOPT:http-user-agent=vietngatv
-http://87.247.44.26/btv/SWM/Pobeda/Pobeda.m3u8
-#EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.ibb.co/L0Qz6cL/HCT.png",НСТ
+http://37.99.5.234/btv/SWM/Pobeda/Pobeda_576p_2000kbps.m3u8
+#EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.ibb.co/L0Qz6cL/HCT.png",НСТ | NST
 #EXTVLCOPT:http-user-agent=vietngatv
 http://37.99.5.234/btv/SWM/HCT/HCT_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.ibb.co/jJCTwR5/Cinema.png",Cinema
@@ -1663,46 +1654,46 @@ http://37.99.5.234/btv/SWM/Bollywood_HD/Bollywood_HD_1080p_5000kbps.m3u8
 #EXTINF:-1 group-title="Giải Trí" tvg-logo="https://i.ibb.co/kcg5w3p/Paramount-Comedy.png",PARAMOUNT COMEDY
 #EXTVLCOPT:http-user-agent=vietngatv
 http://37.99.5.234/btv/SWM/Paramount_Comedy/Paramount_Comedy_576p_2000kbps.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XA3CBj9.png" group-title="РОССИЯ/NGA",Ратник HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XA3CBj9.png" group-title="РОССИЯ/NGA",Ратник | Rathink HD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://online-video.rbc.ru/online/rbctv.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/6UpTmJa.jpg",Мама
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/6UpTmJa.jpg",Мама | Mama
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s77/04.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/RAfV5p7.png",Загородный 
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/RAfV5p7.png",Загородный | Suburban
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s31/04.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.ibb.co/48cmJCx/image.png",Телепутешествия 
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.ibb.co/48cmJCx/image.png",Телепутешествия | TV trips
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s71/04.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.ibb.co/br0nvpr/HD.png",Приключения HD
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.ibb.co/br0nvpr/HD.png",Приключения | Adventures HD 
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s99/04.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/7fZXK7y.png",История 
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/7fZXK7y.png",История | History Russian
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s40/04.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.ibb.co/Qkxn4Z4/24.png",Техно 24 
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.ibb.co/Qkxn4Z4/24.png",Техно 24  | Techno
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s68/04.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.ibb.co/djp19BL/image.png",Наука 
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.ibb.co/djp19BL/image.png",Наука | The science
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s98/04.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/k1Gt1Rc.png",Охотник и Рыболов 
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/k1Gt1Rc.png",Охотник и Рыболов | Hunter and Fisherman
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s55/04.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/k1Gt1Rc.png",Охотник и Рыболов HD 
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/k1Gt1Rc.png",Охотник и Рыболов | Hunter and Fisherman HD 
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s62/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0acD6tO.png" group-title="РОССИЯ/NGA",Министерство идей
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0acD6tO.png" group-title="РОССИЯ/NGA",Министерство идей | Ministry of Ideas
 #EXTVLCOPT:http-user-agent=vietngatv
 http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WInGwXw.png" group-title="РОССИЯ/NGA",Московский образовательный
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WInGwXw.png" group-title="РОССИЯ/NGA",Московский образовательный | Mosobir TV
 #EXTVLCOPT:http-user-agent=vietngatv
 http://retc.educom.ru/mosobrtv/tv1/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.ibb.co/vxZCXdC/image.png",Родной канал
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.ibb.co/vxZCXdC/image.png",Родной канал | Native Channel
 #EXTVLCOPT:http-user-agent=vietngatv
 https://n1.slavmir.tv/live/slavmir/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.ibb.co/MBFj22w/tv-ekstra.jpg",ТВ Экстра
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.ibb.co/MBFj22w/tv-ekstra.jpg",ТВ Экстра | TV Extra
 #EXTVLCOPT:http-user-agent=vietngatv
 http://live-1.otcnet.ru/tvextra720b/index.m3u8
 #EXTINF:-1 group-title="Các Kênh Khác" tvg-logo="https://i.ibb.co/0hD8hDF/Travel-Channel.png",Travel Channel
@@ -1750,92 +1741,89 @@ http://mfe.cliptv.az/dash/Investigation_Discovery_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/NzRkbxN.png",БелРос
 #EXTVLCOPT:http-user-agent=vietngatv
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2Ydfgw4.png" group-title="РОССИЯ/NGA",Центральное телевидение
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Ydfgw4.png" group-title="РОССИЯ/NGA",Центральное телевидение | Central Television
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s20/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lHn6OlM.png" group-title="РОССИЯ/NGA",Дорама HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lHn6OlM.png" group-title="РОССИЯ/NGA",Дорама | Dorama HD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://37.99.5.234/btv/SWM/Dorama/Dorama_1080p_5000kbps.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lHn6OlM.png" group-title="РОССИЯ/NGA",Дорама SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lHn6OlM.png" group-title="РОССИЯ/NGA",Дорама | Dorama SD
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s95/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F73sS4y/image.jpg" group-title="РОССИЯ/NGA",Арсенал | 480P
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F73sS4y/image.jpg" group-title="РОССИЯ/NGA",Арсенал | Arsenal | 480P
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s68/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="",Телепутешествия (480p)
-#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://ott-cdn.ucom.am/s71/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="",Сиеста
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="",Сиеста | Siesta
 #EXTVLCOPT:http-user-agent=vietngatv
 https://1hdru-hls-otcnet.cdnvideo.ru/siesta/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="",Рыболов (480p)
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="",Рыболов | The Fisherman
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s55/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="РОССИЯ/NGA",ТБН HD
+#EXTINF:-1 tvg-logo="" group-title="РОССИЯ/NGA",ТБН | TBN HD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://62.32.67.187:1935/WEB_TBN/TBN.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="РОССИЯ/NGA",Мужской 
+#EXTINF:-1 tvg-logo="" group-title="РОССИЯ/NGA",Мужской | Male
 #EXTVLCOPT:http-user-agent=vietngatv
 http://37.99.5.234/btv/SWM/Muzhskoy/Muzhskoy_576p_2000kbps.m3u8
-#EXTINF:-1 tvg-logo="" group-title="РОССИЯ/NGA",Бобёр 
+#EXTINF:-1 tvg-logo="" group-title="РОССИЯ/NGA",Бобёр | Bober
 #EXTVLCOPT:http-user-agent=vietngatv
 http://37.99.5.234/btv/SWM/Bober/Bober_576p_2000kbps.m3u8
-#EXTINF:-1 tvg-logo="" group-title="РОССИЯ/NGA",В гостях у сказки 
+#EXTINF:-1 tvg-logo="" group-title="РОССИЯ/NGA",В гостях у сказки | U Skazki
 #EXTVLCOPT:http-user-agent=vietngatv
 http://37.99.5.234/btv/SWM/U_Skazki/U_Skazki_576p_2000kbps.m3u8
-#EXTINF:-1 tvg-logo="" group-title="РОССИЯ/NGA",Поехали! 
+#EXTINF:-1 tvg-logo="" group-title="РОССИЯ/NGA",Поехали! | Let's go!
 #EXTVLCOPT:http-user-agent=vietngatv
 http://37.99.5.234/btv/SWM/Poehali/Poehali_576p_2000kbps.m3u8
-#EXTINF:-1 tvg-logo="" group-title="РОССИЯ/NGA",О! 
+#EXTINF:-1 tvg-logo="" group-title="РОССИЯ/NGA",О! | O!
 #EXTVLCOPT:http-user-agent=vietngatv
 http://37.99.5.234/btv/SWM/O/O_576p_2000kbps.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yy0YpWT.png" group-title="РОССИЯ/NGA",Зоо ТВ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yy0YpWT.png" group-title="РОССИЯ/NGA",Зоо ТВ | Zoo TV
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s92/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="РОССИЯ/NGA",НТВ Стиль
+#EXTINF:-1 tvg-logo="" group-title="РОССИЯ/NGA",НТВ Стиль | NTV Style
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s77/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/mVhchwI.png" group-title="РОССИЯ/NGA",Здоровье
+#EXTINF:0 tvg-logo="https://i.imgur.com/mVhchwI.png" group-title="РОССИЯ/NGA",Здоровье | Health
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s90/04.m3u8
 
-#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/px8nPZK/FM.png",Радио Вести FM | Video
+#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/px8nPZK/FM.png",Радио Вести FM | Vesti | Video
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/rtmp_vestifm_480/playlist.m3u8
-#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/px8nPZK/FM.png",Радио Вести FM | Audio
+#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/px8nPZK/FM.png",Радио Вести FM | Vesti | Audio
 #EXTVLCOPT:http-user-agent=vietngatv
 http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_64kbps
-#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/cgxDLfx/Mayk.png",Радио Маяк | Video
+#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/cgxDLfx/Mayk.png",Радио Маяк | Mayak | Video
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mayak.smil/playlist.m3u8
-#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/cgxDLfx/Mayk.png",Радио Маяк | Audio
+#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/cgxDLfx/Mayk.png",Радио Маяк | Mayak | Audio
 #EXTVLCOPT:http-user-agent=vietngatv
 http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_64kbps
-#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/bQbggX9/Radio-Russia.jpg",Радио России
+#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/bQbggX9/Radio-Russia.jpg",Радио России | Radio Russian
 #EXTVLCOPT:http-user-agent=vietngatv
 http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_64kbps
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wG8KyeG.png" group-title="RADIO NGA",Страна FM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wG8KyeG.png" group-title="RADIO NGA",Страна FM | Strana FM HD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NBWyJJQ.png" group-title="RADIO NGA",Радио Шансон
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NBWyJJQ.png" group-title="RADIO NGA",Радио Шансон | Radio Chanson | Video
 #EXTVLCOPT:http-user-agent=vietngatv
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NBWyJJQ.png" group-title="RADIO NGA",Радио Шансон | Audio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NBWyJJQ.png" group-title="RADIO NGA",Радио Шансон | Radio Chanson | Audio
 #EXTVLCOPT:http-user-agent=vietngatv
 http://chanson.hostingradio.ru:8041/chanson128.mp3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2qx7gT2/nr.png" group-title="RADIO NGA",Новое Радио
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2qx7gT2/nr.png" group-title="RADIO NGA",Новое Радио | New Radio | Video
 #EXTVLCOPT:http-user-agent=vietngatv
 https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2qx7gT2/nr.png" group-title="RADIO NGA",Новое Радио | Audio
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2qx7gT2/nr.png" group-title="RADIO NGA",Новое Радио | New Radio | Audio
 #EXTVLCOPT:http-user-agent=vietngatv
 http://icecast.newradio.cdnvideo.ru/newradio3
-#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/XzrPkFm/nashe-radio.jpg",Наше радио FM
+#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/XzrPkFm/nashe-radio.jpg",Наше радио | Nashe Radio
 #EXTVLCOPT:http-user-agent=vietngatv
 http://nashe3.hostingradio.ru/nashe-128.mp3
-#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/b34XSLp/RetroFM.png",Ретро FM
+#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/b34XSLp/RetroFM.png",Ретро FM | Retro
 #EXTVLCOPT:http-user-agent=vietngatv
 http://retroserver.streamr.ru:8043/retro128
-#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/ZHNZmzJ/yuniton.jpg",Юнитон
+#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/ZHNZmzJ/yuniton.jpg",Юнитон | Uniton
 #EXTVLCOPT:http-user-agent=vietngatv
 http://online.uniton.ru:8300/RadioUniton128
 #EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/3T9GTGZ/Europa-Plus.png",Europa Plus Radio
@@ -1844,107 +1832,107 @@ http://ep128.hostingradio.ru:8030/ep128
 #EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/TKDzNDw/businessfm.jpg",Business FM
 #EXTVLCOPT:http-user-agent=vietngatv
 http://bfm.hostingradio.ru:8004/fm
-#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/MBsHRfr/gorodskaya-volna.jpg",Городская волна
+#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/MBsHRfr/gorodskaya-volna.jpg",Городская волна | Urban Wave
 #EXTVLCOPT:http-user-agent=vietngatv
 http://online.gorvolna.ru:8000/gorvolna
-#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/3vCZkpK/Dorozhnoe.jpg",Дорожное радио
+#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/3vCZkpK/Dorozhnoe.jpg",Дорожное радио | Dorognoe
 #EXTVLCOPT:http-user-agent=vietngatv
 http://dorognoe.hostingradio.ru:8000/dorognoe_acc
-#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/BtxTgj4/54-novosibirsk.jpg",Радио-54
+#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/BtxTgj4/54-novosibirsk.jpg",Радио-54 | Radio-54
 #EXTVLCOPT:http-user-agent=vietngatv
 http://91.202.68.50:8000/;stream.mp3
-#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/rbb9py1/1280px.png",Комсомольская Правда
+#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/rbb9py1/1280px.png",Комсомольская Правда | Komsomolskaya Pravda
 #EXTVLCOPT:http-user-agent=vietngatv
 http://kpradio.hostingradio.ru:8000/novosibirsk.radiokp128.mp3
-#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/mFYq4FG/7-na-semi-holmah.png",7 на семи холмах
+#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/mFYq4FG/7-na-semi-holmah.png",7 на семи холмах | 7 on seven hills
 #EXTVLCOPT:http-user-agent=vietngatv
 http://radio7server.streamr.ru:8040/radio7128.mp3
-#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/TvHTGGm/kniga-russia.jpg",Книга
+#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/TvHTGGm/kniga-russia.jpg",Книга | Book
 #EXTVLCOPT:http-user-agent=vietngatv
 http://bookradio.hostingradio.ru:8069/fm
-#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/WP7YgWs/vera-russia.jpg",Вера
+#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/WP7YgWs/vera-russia.jpg",Вера | Vera
 #EXTVLCOPT:http-user-agent=vietngatv
 http://radiovera.hostingradio.ru:8007/radiovera_128
-#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/fHnK9Dk/sibir-russia.jpg",Радио Сибирь
+#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/fHnK9Dk/sibir-russia.jpg",Радио Сибирь | Radio Siberia
 #EXTVLCOPT:http-user-agent=vietngatv
 http://stream.radiosibir.ru:8090/HQ
-#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/sqh26hm/krasnoyarsk-glavnuy.png",Красноярск главный
+#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/sqh26hm/krasnoyarsk-glavnuy.png",Красноярск главный | Krasnoyarsk main
 #EXTVLCOPT:http-user-agent=vietngatv
 http://84.22.142.130:8000/arstream
-#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/47rty2G/dacha-russia.png",Радио Дача
+#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/47rty2G/dacha-russia.png",Радио Дача | Dacha
 #EXTVLCOPT:http-user-agent=vietngatv
 http://listen.vdfm.ru:8000/dacha
-#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/XXPFcJV/zvezda-russia.png",Радио Звезда
+#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/XXPFcJV/zvezda-russia.png",Радио Звезда | Radio Zvezda
 #EXTVLCOPT:http-user-agent=vietngatv
 http://89.208.99.16:8088/zvezda_128
-#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/X2hhP01/detskoe-radio.jpg",Детское радио
+#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/X2hhP01/detskoe-radio.jpg",Детское радио | Kids Radio
 #EXTVLCOPT:http-user-agent=vietngatv
 https://ic6.101.ru:8000/stream/air/aac/64/199
-#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/b3bYMH8/serebryannuy-doghd.png",Серебряный дождь
+#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/b3bYMH8/serebryannuy-doghd.png",Серебряный дождь | Silver Rain
 #EXTVLCOPT:http-user-agent=vietngatv
 http://213.59.4.27:8000/silver128.mp3
-#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/KNNGxjN/energy-russia.jpg",Радио Energy
+#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/KNNGxjN/energy-russia.jpg",Energy Russia
 #EXTVLCOPT:http-user-agent=vietngatv
 https://pub0201.101.ru:8000/stream/air/aac/64/99
-#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/N1K6c44/avtoradio.png",Авторадио
+#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/N1K6c44/avtoradio.png",Авторадио | Autoradio
 #EXTVLCOPT:http-user-agent=vietngatv
 https://ic7.101.ru:8000/a100
 #EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/jVQth7Y/dfm.jpg",DANCE FM
 #EXTVLCOPT:http-user-agent=vietngatv
 https://dfm.hostingradio.ru/dfm96.aacp
-#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/BfRHwh0/record-russia.jpg",Радио Record
+#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/BfRHwh0/record-russia.jpg",Record Russia
 #EXTVLCOPT:http-user-agent=vietngatv
 http://air.radiorecord.ru:8101/rr_128
-#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/w45bRF9/kuzbassfm.jpg",Кузбасс FM
+#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/w45bRF9/kuzbassfm.jpg",Кузбасс радио | Kuzbass Radio
 #EXTVLCOPT:http-user-agent=vietngatv
 http://212.75.194.94:8000/KuzbassFM
-#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/0cpHydN/pravilnoe-radio.jpg",Правильное Радио
+#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/0cpHydN/pravilnoe-radio.jpg",Правильное Радио | The Right Radio
 #EXTVLCOPT:http-user-agent=vietngatv
 http://78.41.94.37:8332
-#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/8bWX7tf/radio-vanya.jpg",Ваня
+#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/8bWX7tf/radio-vanya.jpg",Ваня | Vanya
 #EXTVLCOPT:http-user-agent=vietngatv
 http://51.68.141.106:8081/radio/vanya256/icecast.audio
-#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/0tvh20F/iskatel.png",Искатель
+#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/0tvh20F/iskatel.png",Искатель | The Seeker
 #EXTVLCOPT:http-user-agent=vietngatv
 http://iskatel.hostingradio.ru:8015/iskatel-128.mp3
 #EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/p3R1S3s/maximum.jpg",Maximum
 #EXTVLCOPT:http-user-agent=vietngatv
 https://maximum.hostingradio.ru/maximum128.mp3
-#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/jDxnNDt/echo-moscow.jpg",Эхо Москвы
+#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/jDxnNDt/echo-moscow.jpg",Эхо Москвы | Echo of Moscow
 #EXTVLCOPT:http-user-agent=vietngatv
 https://icecast-echomsksni.cdnvideo.ru/stream
-#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/McZfdd7/apeks-radio.jpg",Апекс
+#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/McZfdd7/apeks-radio.jpg",Апекс | Apex
 #EXTVLCOPT:http-user-agent=vietngatv
 http://webcast.apexradio.ru:8000/NvkzMp3
-#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/TW0mMzb/hitfm-russia.jpg",Хит FM
+#EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/TW0mMzb/hitfm-russia.jpg",Хит FM | HIT FM
 #EXTVLCOPT:http-user-agent=vietngatv
 https://hitfm.hostingradio.ru/hitfm96.aacp
 #EXTINF:-1 group-title="RADIO NGA" tvg-logo="https://i.ibb.co/NSpHgYP/relaxfm.jpg",Relax FM
 #EXTVLCOPT:http-user-agent=vietngatv
 http://ic7.101.ru:8000/v13_1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gMVxd34/HIT.png" group-title="RADIO NGA",радио Хит ТВ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gMVxd34/HIT.png" group-title="RADIO NGA",радио Хит | Radio Hit
 #EXTVLCOPT:http-user-agent=vietngatv
 http://lova.me/hls/hit.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6YCw4hR/Govoritmsk-radio.jpg" group-title="RADIO NGA",Радио Говорит Москва
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6YCw4hR/Govoritmsk-radio.jpg" group-title="RADIO NGA",Радио Говорит Москва | Radio Says Moscow
 #EXTVLCOPT:http-user-agent=vietngatv
 https://video.govoritmoskva.ru/rufm/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f1WjQg3/82px-101-1992.png" group-title="RADIO NGA",Радио 101.8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f1WjQg3/82px-101-1992.png" group-title="RADIO NGA",101.8
 #EXTVLCOPT:http-user-agent=vietngatv
 https://video.penzainform.ru/e/r1018.m3u8
 
-#EXTINF:-1 group-title="THỂ THAO TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://i.ibb.co/0tjXfkT/SETANTA1-BEARTV.png",Setanta Sports 1
+#EXTINF:-1 group-title="THỂ THAO TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://i.ibb.co/0tjXfkT/SETANTA1-BEARTV.png",Setanta Sports 1 Eurasia
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s81/04.m3u8
-#EXTINF:-1 group-title="THỂ THAO TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://i.ibb.co/vVwVcHw/SETANTA2-BEARTV.png",Setanta Sports 2
+#EXTINF:-1 group-title="THỂ THAO TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://i.ibb.co/vVwVcHw/SETANTA2-BEARTV.png",Setanta Sports 2 Eurasia
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s82/04.m3u8
-#EXTINF:-1 group-title="THỂ THAO TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://i.ibb.co/jWD3jGM/image.png",Матч! Арена HD
+#EXTINF:-1 group-title="THỂ THAO TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://i.ibb.co/jWD3jGM/image.png",Матч! Арена HD | Arena
 #EXTVLCOPT:http-user-agent=vietngatv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Match_Arena_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="THỂ THAO TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://i.imgur.com/Xz4HJRP.png",Матч! Боец
+#EXTINF:-1 group-title="THỂ THAO TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://i.imgur.com/Xz4HJRP.png",Матч! Боец | Boxing
 #EXTVLCOPT:http-user-agent=vietngatv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1956,16 +1944,16 @@ http://37.99.5.234/btv/SWM/Eurosport/Eurosport_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="THỂ THAO TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://i.imgur.com/TxipcCK.png",EUROSPORT 2
 #EXTVLCOPT:http-user-agent=vietngatv
 http://37.99.5.234/btv/SWM/Eurosport2/Eurosport2_576p_2000kbps.m3u8
-#EXTINF:-1 group-title="THỂ THAO TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://i.ibb.co/8YJYhpX/football.png",Футбол
+#EXTINF:-1 group-title="THỂ THAO TRONG NƯỚC VÀ QUỐC TẾ" tvg-logo="https://i.ibb.co/8YJYhpX/football.png",Футбол | Football
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s41/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ys5fpb6/68-KHL.png" group-title="THỂ THAO TRONG NƯỚC VÀ QUỐC TẾ",КХЛ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ys5fpb6/68-KHL.png" group-title="THỂ THAO TRONG NƯỚC VÀ QUỐC TẾ",КХЛ | KHL
 #EXTVLCOPT:http-user-agent=vietngatv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/KHL_TV_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="THỂ THAO TRONG NƯỚC VÀ QUỐC TẾ",Матч! Премьер HD
+#EXTINF:-1 group-title="THỂ THAO TRONG NƯỚC VÀ QUỐC TẾ",Матч! Премьер HD | Premier
 #EXTVLCOPT:http-user-agent=vietngatv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
