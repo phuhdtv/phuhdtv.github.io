@@ -159,6 +159,9 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/TTXVN-SD-ABR/HTV-ABR/TTXVN-SD-720
 #EXTINF:-1 tvg-id="sctv2_hd" group-title="Các Kênh Khác" tvg-logo="https://i.imgur.com/dpZNiQu.png",SCTV2 - NetStars
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net:443/sda/sctv2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="sctv6hd" group-title="Các Kênh Khác" tvg-logo="https://i.ibb.co/rZTRD44/FIM360-BEARTV.png",SCTV6 - Fim 360
+#EXTVLCOPT:http-user-agent=vietngatv
+https://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="anvien" group-title="Các Kênh Khác" tvg-logo="https://i.imgur.com/yD2WAzy.png",Bình Dương 10 - NCM
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/sda/ncm_hls.smil/chunklist_b2500000.m3u8
@@ -837,15 +840,9 @@ https://rtmp.api.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 group-title="Phim TÀI LIỆU" tvg-logo="https://i.imgur.com/C6fylkt.png",Russia Today Documentary HD [RUS] (Server 2)
 #EXTVLCOPT:http-user-agent=vietngatv
 https://uiptv.do.am/1ufc/300663722/playlist.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/E1hnM1s.png",TRT World HD | 1080P
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/E1hnM1s.png",TRT World HD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/E1hnM1s.png",TRT World HD | 720P
-#EXTVLCOPT:http-user-agent=vietngatv
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.is_realtime_stream=true
-http://mfe.cliptv.az/dash/TRT_World_HD.ism/playlist.mpd
 #EXTINF:-1 tvg-id="warner_tv_hd" group-title="Phim truyện" tvg-logo="https://i.imgur.com/9qJI1Mg.png",Warner TV HD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
