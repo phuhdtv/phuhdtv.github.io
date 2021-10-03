@@ -6,6 +6,9 @@ https://livecdn.fptplay.net/hda4/f-channel.stream/chunklist.m3u8
 #EXTINF:-1 group-title="FPT Play" tvg-logo="https://i.ibb.co/Y3nkDK7/FPT-Play.png",FPT Play SỰ KIỆN
 #EXTVLCOPT:http-user-agent=vietngatv
 http://livecdn.fptplay.net/tvc/f-event_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="FPT Play" tvg-logo="",Điểm hẹn HanoiTV HD
+#EXTVLCOPT:http-user-agent=vietngatv
+http://gg.gg/Diem_hen_HanoiTV_HD
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/EHjW7mC.png",VTV1 HD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
@@ -121,7 +124,7 @@ https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
 http://103.90.220.236/vovlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="vovtv" group-title="Quốc Gia" tvg-logo="https://i.imgur.com/133s2Sc.png",VOV TV SD
 #EXTVLCOPT:http-user-agent=vietngatv
-https://livecdn.fptplay.net/sdc/vovtvsd_2000.stream/chunklist.m3u8
+https://livecdn.fptplay.net/sdc/vovtvsd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="antvhd" group-title="Quốc Gia" tvg-logo="https://i.ibb.co/FBJKgSG/89.png",An Ninh TV HD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
@@ -238,9 +241,6 @@ https://vips-livecdn.fptplay.net/hda2/htvcmoviehd_vhls.smil/chunklist_b5000000.m
 #EXTINF:-1 tvg-id="htvc_plus_hd" group-title="HTVC" tvg-logo="https://i.imgur.com/Tkjs3C5.png",HTVC PLUS HD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="htvc_ca_nhac" group-title="CA NHẠC - THỜI TRANG" tvg-logo="https://i.imgur.com/PgOD7m8.png",HTVC Ca Nhạc SD
-#EXTVLCOPT:http-user-agent=vietngatv
-http://livecdn.fptplay.net/sdb/htvcmusic_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="htvc_ca_nhac" group-title="CA NHẠC - THỜI TRANG" tvg-logo="https://i.imgur.com/PgOD7m8.png",HTVC Ca Nhạc HD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8
@@ -332,7 +332,7 @@ https://livecdn.fptplay.net/sdc/bacgiang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/KKFvQt8/112.png",Bắc Kạn SD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/sdb/backan_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/pJf7bLK/bacninhhd.png",Bắc Ninh HD
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/t2s5M6k.png",Bắc Ninh HD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/sdc/bacninh_hls.smil/chunklist_b2800000.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/Xs0nf0N/125.png",Cà Mau HD
@@ -343,7 +343,7 @@ https://livecdn.fptplay.net/sdc/camau_hls.smil/chunklist_b2500000.m3u8
 http://118.107.85.4:1935/live/smil:CRTV.smil/chunklist_b1384000.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/ILVDaWL.jpg",Cao Bằng SD
 #EXTVLCOPT:http-user-agent=vietngatv
-https://livecdn.fptplay.net/sda/caobang_2000.stream/chunklist.m3u8
+https://livecdn.fptplay.net/sda/caobang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/6stS2Qx/126.png",TP Cần Thơ HD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://mekongpassion.com/live/tv/chunklist_w453327460.m3u8
@@ -433,7 +433,7 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HAIPHONG-SD-ABR/HTV-ABR/HAIPHONG-
 https://live.thhp.vn/hls/thpplus/index.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/foh5NTi.png",Hậu Giang HD
 #EXTVLCOPT:http-user-agent=vietngatv
-https://livecdn.fptplay.net/sda/haugiang_2000.stream/chunklist.m3u8
+https://livecdn.fptplay.net/sda/haugiang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/foh5NTi.png",Hậu Giang SD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HAUGIANG-SD-ABR/HTV-ABR/HAUGIANG-SD-720p/playlist.m3u8
@@ -445,10 +445,10 @@ https://livecdn.fptplay.net/sda/hoabinh_hls.smil/chunklist_b2500000.m3u8
 http://103.90.220.236/hytvlive/tv1live.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/eGfpF9j.png",Hưng Yên SD
 #EXTVLCOPT:http-user-agent=vietngatv
-https://livecdn.fptplay.net/sdc/hungyen_2000.stream/chunklist.m3u8
+https://livecdn.fptplay.net/sdc/hungyen_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/N2gUYoh.png",Khánh Hoà HD
 #EXTVLCOPT:http-user-agent=vietngatv
-https://livecdn.fptplay.net/sda/khanhhoa_2000.stream/chunklist.m3u8
+https://livecdn.fptplay.net/sda/khanhhoa_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/HqYi1Dw.png",Kiên Giang HD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
@@ -671,7 +671,7 @@ http://37.99.5.234/btv/SWM/BBC_World/BBC_World_1080p_5000kbps.m3u8
 https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="bbc_lifestyle" group-title="Khoa Học Và Khám Phá" tvg-logo="https://i.ibb.co/F6N3vk3/BBC-Lifestyle-BEARTV.jpg",BBC Lifestyle
 #EXTVLCOPT:http-user-agent=vietngatv
-https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
+https://livecdn.fptplay.net/sdb/bbclifestyle_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/iCCuGAJ.png",Baby First HD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
@@ -791,7 +791,7 @@ https://livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="kbs_world" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/SefEfRO.png",KBS World HD
 #EXTVLCOPT:http-user-agent=vietngatv
-https://vips-livecdn.fptplay.net/hda3/kbs_4000.stream/chunklist.m3u8
+https://vips-livecdn.fptplay.net/hda3/kbs_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="discovery" group-title="Khoa Học Và Khám Phá" tvg-logo="https://i.ibb.co/PYRgmQB/Discovery-BEARTV.png",Discovery HD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
