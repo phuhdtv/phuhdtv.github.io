@@ -6,9 +6,6 @@ https://livecdn.fptplay.net/hda4/f-channel.stream/chunklist.m3u8
 #EXTINF:-1 group-title="FPT Play" tvg-logo="https://i.ibb.co/Y3nkDK7/FPT-Play.png",FPT Play SỰ KIỆN
 #EXTVLCOPT:http-user-agent=vietngatv
 http://livecdn.fptplay.net/tvc/f-event_2000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="FPT Play" tvg-logo="",Điểm hẹn HanoiTV HD
-#EXTVLCOPT:http-user-agent=vietngatv
-http://gg.gg/Diem_hen_HanoiTV_HD
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/EHjW7mC.png",VTV1 HD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
@@ -244,6 +241,9 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="htvc_ca_nhac" group-title="CA NHẠC - THỜI TRANG" tvg-logo="https://i.imgur.com/PgOD7m8.png",HTVC Ca Nhạc HD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="htvc_ca_nhac" group-title="CA NHẠC - THỜI TRANG" tvg-logo="https://i.imgur.com/PgOD7m8.png",HTVC Ca Nhạc SD
+#EXTVLCOPT:http-user-agent=vietngatv
+http://livecdn.fptplay.net/sdb/htvcmusic_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="htvc_fbnc" group-title="TIN TỨC" tvg-logo="https://i.imgur.com/lKdRTx0.png",HTVC FBNC HD | 1080P
 #EXTVLCOPT:http-user-agent=vietngatv
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FBNC-HD-1080p/playlist.m3u8
@@ -671,7 +671,7 @@ http://37.99.5.234/btv/SWM/BBC_World/BBC_World_1080p_5000kbps.m3u8
 https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="bbc_lifestyle" group-title="Khoa Học Và Khám Phá" tvg-logo="https://i.ibb.co/F6N3vk3/BBC-Lifestyle-BEARTV.jpg",BBC Lifestyle
 #EXTVLCOPT:http-user-agent=vietngatv
-https://livecdn.fptplay.net/sdb/bbclifestyle_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/iCCuGAJ.png",Baby First HD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
