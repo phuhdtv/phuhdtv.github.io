@@ -1051,9 +1051,6 @@ http://tnv.bonus-tv.ru/cdn/tnvplanet/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Ce_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.ibb.co/z7tVWVc/image.png",Ю ТВ | U TV
-#EXTVLCOPT:http-user-agent=vietngatv
-http://gg.gg/UTV-Russia
 #EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/QALjwaY.png",Перец | Perec TV
 #EXTVLCOPT:http-user-agent=vietngatv
 http://37.99.5.234/btv/SWM/Perec/Perec_576p_2000kbps.m3u8
@@ -1081,6 +1078,9 @@ http://mfe.cliptv.az/dash/2x2_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.ibb.co/qrLb5kL/image.png",Суббота HD | Saturday TV
 #EXTVLCOPT:http-user-agent=vietngatv
 https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.ibb.co/z7tVWVc/image.png",Ю ТВ | U TV
+#EXTVLCOPT:http-user-agent=vietngatv
+http://gg.gg/UTV-Russia
 #EXTINF:-1 group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/38VPB1Z.jpg",Disney Channel | Russian Free To Air
 #EXTVLCOPT:http-user-agent=vietngatv
 #KODIPROP:inputstream=inputstream.adaptive
