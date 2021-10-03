@@ -33,9 +33,6 @@ https://livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.ibb.co/xm0zJPL/vtv9.png",VTV9 HD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.ibb.co/xm0zJPL/vtv9.png",VTV9 SD
-#EXTVLCOPT:http-user-agent=vietngatv
-https://ott.avg.vn/live/vtv9/chunklist_1.m3u8
 #EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.ibb.co/vjHg75w/VTV5-TNB.png",VTV5 Tây Nam Bộ
 #EXTVLCOPT:http-user-agent=vietngatv
 https://mutixx5hq1liv.akamaized.net/vtv5tnb/vtv5tnb@720p.m3u8
@@ -238,6 +235,9 @@ https://vips-livecdn.fptplay.net/hda2/htvcmoviehd_vhls.smil/chunklist_b5000000.m
 #EXTINF:-1 tvg-id="htvc_plus_hd" group-title="HTVC" tvg-logo="https://i.imgur.com/Tkjs3C5.png",HTVC PLUS HD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="htvc_plus_hd" group-title="HTVC" tvg-logo="https://i.imgur.com/Tkjs3C5.png",HTVC PLUS HD | 720P
+#EXTVLCOPT:http-user-agent=vietngatv
+https://livecdn.fptplay.net/hda3/htvcplus_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htvc_ca_nhac" group-title="CA NHẠC - THỜI TRANG" tvg-logo="https://i.imgur.com/PgOD7m8.png",HTVC Ca Nhạc HD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8
