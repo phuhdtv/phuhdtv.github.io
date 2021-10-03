@@ -855,9 +855,6 @@ http://ott-cdn.ucom.am/s93/index.m3u8
 #EXTINF:-1 group-title="Phim TÀI LIỆU" tvg-logo="https://i.imgur.com/C6fylkt.png",Russia Today Documentary HD [RUS]
 #EXTVLCOPT:http-user-agent=vietngatv
 https://rtmp.api.rt.com/hls/rtdru.m3u8
-#EXTINF:-1 group-title="Phim TÀI LIỆU" tvg-logo="https://i.imgur.com/C6fylkt.png",Russia Today Documentary HD [RUS] (Server 2)
-#EXTVLCOPT:http-user-agent=vietngatv
-https://uiptv.do.am/1ufc/300663722/playlist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/E1hnM1s.png",TRT World HD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
@@ -876,6 +873,9 @@ http://mfe.cliptv.az/dash/Nick_JR_SD.ism/playlist.mpd
 #EXTINF:0 group-title="Thiếu nhi" tvg-logo="https://i.ibb.co/ZBgDSh6/Dream-Works-BEARTV.png",DreamWorks HD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="Unknown" tvg-logo="",Dừng phát sóng
+#EXTVLCOPT:http-user-agent=vietngatv
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/1IqCGe9.png",Первый Канал HD | Channel One HD
 #EXTVLCOPT:http-user-agent=vietngatv
@@ -1051,9 +1051,9 @@ http://tnv.bonus-tv.ru/cdn/tnvplanet/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Ce_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.ibb.co/z7tVWVc/image.png",Ю ТВ HD | No Signal
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.ibb.co/z7tVWVc/image.png",Ю ТВ | U TV
 #EXTVLCOPT:http-user-agent=vietngatv
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
+http://gg.gg/UTV-Russia
 #EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/QALjwaY.png",Перец | Perec TV
 #EXTVLCOPT:http-user-agent=vietngatv
 http://37.99.5.234/btv/SWM/Perec/Perec_576p_2000kbps.m3u8
