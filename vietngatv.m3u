@@ -605,9 +605,12 @@ https://livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/w7nxAjc.jpg",Vĩnh Long 3 HD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vinhlong4hd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/iuYepMv.jpg",Vĩnh Long 4 HD
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/iuYepMv.jpg",Vĩnh Long 4 HD | 1080P
 #EXTVLCOPT:http-user-agent=vietngatv
 https://live-vthcm.vieon.vn/htv_drm/live/thvl4/TV_HD/thvl4_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/iuYepMv.jpg",Vĩnh Long 4 HD | 720P
+#EXTVLCOPT:http-user-agent=vietngatv
+https://livecdn.fptplay.net/hda3/vinhlong4hd_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/F7PxqCs/183.png",Vĩnh Phúc HD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://vinhphuctv.vn:8090/vinhphuclive/web.stream_720p/chunklist.m3u8
@@ -969,13 +972,10 @@ http://37.99.5.234/btv/SWM/Pyatnica/Pyatnica_576p_2000kbps.m3u8
 http://ott-cdn.ucom.am/s50/04.m3u8
 #EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/n9zLVyR.png",Звезда HD | Zevezda HD
 #EXTVLCOPT:http-user-agent=vietngatv
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/n9zLVyR.png",Звезда | Zevezda | 576P
-#EXTVLCOPT:http-user-agent=vietngatv
-http://46.34.209.243/btv/SWM/zvezda_int/zvezda_int_576p_2000kbps.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/n9zLVyR.png",Звезда | Zevezda | 480P
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/n9zLVyR.png",Звезда SD | Zevezda SD
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://ott-cdn.ucom.am/s85/index.m3u8
+http://ott-cdn.ucom.am/s85/04.m3u8
 #EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/yqXhUto.png",МИР HD | MIR HD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
@@ -1275,7 +1275,7 @@ http://mfe.cliptv.az/dash/Bridge_TV_SD.ism/playlist.mpd
 http://ott-cdn.ucom.am/s34/04.m3u8
 #EXTINF:-1 group-title="CA NHẠC - THỜI TRANG" tvg-logo="https://i.imgur.com/L71iY9t.png",Bridge TV | 480P | Dự phòng
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://ott-cdn.ucom.am/s78/index.m3u8
+http://ott-cdn.ucom.am/s78/04.m3u8
 #EXTINF:-1 group-title="CA NHẠC - THỜI TRANG" tvg-logo="https://i.ibb.co/hmV06YR/bridge-tv-hits-BEARTV.png",BRIDGE TV Hits
 #EXTVLCOPT:http-user-agent=vietngatv
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1530,7 +1530,7 @@ http://ott-cdn.ucom.am/s45/index.m3u8
 http://37.99.5.234/btv/SWM/A2/A2_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.imgur.com/GwQgT6X.png",Amedia 2 SD
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://ott-cdn.ucom.am/s33/index.m3u8
+http://ott-cdn.ucom.am/s33/04.m3u8
 #EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.imgur.com/EVjRJ5U.png",Amedia Hit SD
 #EXTVLCOPT:http-user-agent=vietngatv
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1542,7 +1542,7 @@ http://mfe.cliptv.az/dash/A_Media_Hit_SD.ism/playlist.mpd
 http://37.99.5.234/btv/SWM/AmediaHitHD/AmediaHitHD_1080p_5000kbps.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UHo6cwX.png" group-title="Phim truyện",Amedia Premium
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://ott-cdn.ucom.am/s64/index.m3u8
+http://ott-cdn.ucom.am/s64/04.m3u8
 #EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.ibb.co/PQfdxXT/Hollywood.png",Hollywood
 #EXTVLCOPT:http-user-agent=vietngatv
 http://37.99.5.234/btv/SWM/Hollywood/Hollywood_576p_2000kbps.m3u8
@@ -1636,7 +1636,7 @@ http://mfe.cliptv.az/dash/VIP_Comedy_HD.ism/playlist.mpd
 http://mfe.cliptv.az/dash/VIP_Premium_HD.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x3IE7sE.png" group-title="Du Lịch",RTG | 480P
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://ott-cdn.ucom.am/s80/index.m3u8
+http://ott-cdn.ucom.am/s80/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x3IE7sE.png" group-title="Du Lịch",RTG HD | 720P
 #EXTVLCOPT:http-user-agent=vietngatv
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1645,7 +1645,7 @@ http://ott-cdn.ucom.am/s80/index.m3u8
 http://mfe.cliptv.az/dash/RTG_HD.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NymtU1E.png" group-title="Du Lịch",RTG HD | 480P
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://ott-cdn.ucom.am/s63/index.m3u8
+http://ott-cdn.ucom.am/s63/04.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/kysKYv6/ID-Investigation-Discovery.png" group-title="Khoa Học Và Khám Phá",Investigation Discovery
 #EXTVLCOPT:http-user-agent=vietngatv
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1657,22 +1657,22 @@ http://mfe.cliptv.az/dash/Investigation_Discovery_SD.ism/playlist.mpd
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2Ydfgw4.png" group-title="РОССИЯ/NGA",Центральное телевидение | Central Television
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://ott-cdn.ucom.am/s20/index.m3u8
+http://ott-cdn.ucom.am/s20/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lHn6OlM.png" group-title="РОССИЯ/NGA",Дорама | Dorama HD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://37.99.5.234/btv/SWM/Dorama/Dorama_1080p_5000kbps.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lHn6OlM.png" group-title="РОССИЯ/NGA",Дорама | Dorama SD
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://ott-cdn.ucom.am/s95/index.m3u8
+http://ott-cdn.ucom.am/s95/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F73sS4y/image.jpg" group-title="РОССИЯ/NGA",Арсенал | Arsenal | 480P
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://ott-cdn.ucom.am/s68/index.m3u8
+http://ott-cdn.ucom.am/s68/04.m3u8
 #EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="",Сиеста | Siesta
 #EXTVLCOPT:http-user-agent=vietngatv
 https://1hdru-hls-otcnet.cdnvideo.ru/siesta/index.m3u8
 #EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="",Рыболов | The Fisherman
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://ott-cdn.ucom.am/s55/index.m3u8
+http://ott-cdn.ucom.am/s55/04.m3u8
 #EXTINF:-1 tvg-logo="" group-title="РОССИЯ/NGA",ТБН | TBN HD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://62.32.67.187:1935/WEB_TBN/TBN.stream/playlist.m3u8
@@ -1693,10 +1693,10 @@ http://37.99.5.234/btv/SWM/Poehali/Poehali_576p_2000kbps.m3u8
 http://37.99.5.234/btv/SWM/O/O_576p_2000kbps.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yy0YpWT.png" group-title="Khoa Học Và Khám Phá",Зоо ТВ | Zoo TV
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://ott-cdn.ucom.am/s92/index.m3u8
+http://ott-cdn.ucom.am/s92/04.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Giải Trí",НТВ Стиль | NTV Style
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
-http://ott-cdn.ucom.am/s77/index.m3u8
+http://ott-cdn.ucom.am/s77/04.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/mVhchwI.png" group-title="Khoa Học Và Khám Phá",Тонус | Tonus
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s90/04.m3u8
