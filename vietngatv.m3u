@@ -140,7 +140,10 @@ https://livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="quoc_phong_tv" group-title="Quốc Gia" tvg-logo="https://i.imgur.com/xtA4AlV.png",Quốc Phòng Việt Nam SD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/QPTV-SD-ABR/HTV-ABR/QPTV-SD-720p/playlist.m3u8
-#EXTINF:-1 tvg-id="nhan_dan_tv" group-title="Quốc Gia" tvg-logo="https://i.imgur.com/IBwNP1p.jpg",Nhân Dân TV HD
+#EXTINF:-1 tvg-id="nhan_dan_tv" group-title="Quốc Gia" tvg-logo="https://i.imgur.com/IBwNP1p.jpg",Nhân Dân TV HD | 1080P
+#EXTVLCOPT:http-user-agent=vietngatv
+https://live-vthcm.vieon.vn/htv_drm/live/nhan_dan/TV_HD/nhan_dan_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="nhan_dan_tv" group-title="Quốc Gia" tvg-logo="https://i.imgur.com/IBwNP1p.jpg",Nhân Dân TV HD | 720P
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="nhan_dan_tv" group-title="Quốc Gia" tvg-logo="https://i.imgur.com/IBwNP1p.jpg",Nhân Dân TV SD
@@ -602,7 +605,10 @@ https://livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/w7nxAjc.jpg",Vĩnh Long 3 HD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vinhlong4hd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/iuYepMv.jpg",Vĩnh Long 4 HD
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/iuYepMv.jpg",Vĩnh Long 4 HD | 1080P
+#EXTVLCOPT:http-user-agent=vietngatv
+https://live-vthcm.vieon.vn/htv_drm/live/thvl4/TV_HD/thvl4_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/iuYepMv.jpg",Vĩnh Long 4 HD | 720P
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/hda/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/F7PxqCs/183.png",Vĩnh Phúc HD
@@ -870,9 +876,6 @@ http://mfe.cliptv.az/dash/Nick_JR_SD.ism/playlist.mpd
 #EXTINF:0 group-title="Thiếu nhi" tvg-logo="https://i.ibb.co/ZBgDSh6/Dream-Works-BEARTV.png",DreamWorks HD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="CA NHẠC - THỜI TRANG" tvg-logo="https://imgur.com/p7w1FbM.png",Channel [V] HD | Dừng phát sóng
-#EXTVLCOPT:http-user-agent=vietngatv
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
 #EXTINF:0 group-title="Khoa Học Và Khám Phá" tvg-logo="https://i.ibb.co/WVdSPsM/Love-Nature-TV-BEARTV.png",Love Nature HD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
@@ -919,9 +922,6 @@ http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k_dubl2/playlist_3.m3u8
 #EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/wu7O85f.png",Россия 24 | Russia 24
 #EXTVLCOPT:http-user-agent=vietngatv
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/wu7O85f.png",Россия 24 | Russia 24 | Dự phòng
-#EXTVLCOPT:http-user-agent=vietngatv
-http://uiptv.do.am/1ufc/000000006/playlist.m3u8
 #EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/wu7O85f.png",Россия 24 | Russia 24 | 480P
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s21/04.m3u8
@@ -997,7 +997,7 @@ http://37.99.5.234/btv/SWM/TNT/TNT_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/LqmmkNs.png",ТНТ | TNT | 480P
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s19/04.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/n7bGFXj.png",МУЗ | MUZ | 576P
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/n7bGFXj.png",МУЗ | MUZ | 4:3
 #EXTVLCOPT:http-user-agent=vietngatv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1008,7 +1008,7 @@ http://mfe.cliptv.az/dash/Muz_SD.ism/playlist.mpd
 http://ott-cdn.ucom.am/s28/04.m3u8
 #EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/Wk3Q8sT.png",Москва 24 | Moscow 24
 #EXTVLCOPT:http-user-agent=vietngatv
-https://radio-live-mg.rtr-vesti.ru/hls/moscow_24/playlist.m3u8
+http://radio-live-mg.rtr-vesti.ru/hls/moscow_24/playlist_3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hLD874K.jpg" group-title="РОССИЯ/NGA",Вечерняя Москва | Evening Moscow
 #EXTVLCOPT:http-user-agent=vietngatv
 https://vmvideo.gcdn.co/streams/1503_161/playlist.m3u8
