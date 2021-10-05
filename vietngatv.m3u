@@ -753,12 +753,6 @@ http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/D3Dmjxv.jpg",EURONEWS | Евроновости | Dự Phòng
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s89/04.m3u8
-#EXTINF:-1 tvg-id="foxhd" group-title="Giải Trí" tvg-logo="https://i.imgur.com/CiwKvEl.png",FOX HD
-#EXTVLCOPT:http-user-agent=vietngatv
-http://37.99.5.234/btv/SWM/FOX/FOX_1080p_5000kbps.m3u8
-#EXTINF:-1 tvg-id="foxlifehd" group-title="Giải Trí" tvg-logo="https://i.imgur.com/LsOkH5s.png",FOX LIFE HD
-#EXTVLCOPT:http-user-agent=vietngatv
-http://37.99.5.234/btv/SWM/FoxLife/FoxLife_1080p_5000kbps.m3u8
 #EXTINF:-1 tvg-id="france_24" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/zdze6Iq.png",FRANCE 24 English SD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/world/france24_hls.smil/chunklist_b2500000.m3u8
@@ -810,6 +804,7 @@ https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="kbs_world" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/SefEfRO.png",KBS World HD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/hda3/kbs_vhls.smil/chunklist_b5000000.m3u8
+
 #EXTINF:-1 tvg-id="discovery" group-title="Khoa Học Và Khám Phá" tvg-logo="https://i.imgur.com/8GG7Ny9.png",Discovery HD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
@@ -886,7 +881,10 @@ http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Perviy_Kanal_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/1IqCGe9.png",Первый Канал | Channel One
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/1IqCGe9.png",Первый Канал | Channel One | 576P
+#EXTVLCOPT:http-user-agent=vietngatv
+http://gg.gg/OPT1_Channel_One_Russia
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/1IqCGe9.png",Первый Канал | Channel One | 480P
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s14/04.m3u8
 #EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/BzsskXA.png",Россия 1 HD | Russia 1 HD
@@ -907,7 +905,10 @@ http://mfe.cliptv.az/dash/Match_HD.ism/playlist.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/HTB_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/eMwBuf0.png",НТВ МИР | NTV International
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/eMwBuf0.png",НТВ МИР | NTV Int. | 576P
+#EXTVLCOPT:http-user-agent=vietngatv
+http://92.46.127.146:8080/ntv/index.m3u8
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/eMwBuf0.png",НТВ МИР | NTV Int. | 480P
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s17/04.m3u8
 #EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/qswopzO.png",Пятый канал | Channel Five
