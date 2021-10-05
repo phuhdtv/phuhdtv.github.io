@@ -744,6 +744,30 @@ http://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/dmEmRX7.png" group-title="Khoa Học Và Khám Phá",DMAX HD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORT2-SD-720p/playlist.m3u8
+#EXTINF:-1 tvg-id="discovery" group-title="Khoa Học Và Khám Phá" tvg-logo="https://i.imgur.com/8GG7Ny9.png",Discovery HD
+#EXTVLCOPT:http-user-agent=vietngatv
+https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="discovery_asia" group-title="Khoa Học Và Khám Phá" tvg-logo="https://i.imgur.com/rv4dtJo.png",Discovery Asia HD
+#EXTVLCOPT:http-user-agent=vietngatv
+http://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="dw" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/NaJrOIz.png",Deutsche Welle English | 1080P
+#EXTVLCOPT:http-user-agent=vietngatv
+https://livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="dw" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/NaJrOIz.png",Deutsche Welle English | 720P
+#EXTVLCOPT:http-user-agent=vietngatv
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/NaJrOIz.png",Deutsche Welle Arabic
+#EXTVLCOPT:http-user-agent=vietngatv
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/NaJrOIz.png",Deutsche Welle Deutsch
+#EXTVLCOPT:http-user-agent=vietngatv
+https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/NaJrOIz.png",Deutsche Welle Deutsch+
+#EXTVLCOPT:http-user-agent=vietngatv
+https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/index.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/NaJrOIz.png",Deutsche Welle Espanol
+#EXTVLCOPT:http-user-agent=vietngatv
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:0 group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/utTX02q.png",DreamWorks HD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
@@ -753,9 +777,12 @@ http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/D3Dmjxv.jpg",EURONEWS | Евроновости | Dự Phòng
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s89/04.m3u8
+#EXTINF:-1 tvg-id="fashion_tv" group-title="CA NHẠC - THỜI TRANG" tvg-logo="https://i.imgur.com/5KrE9kR.png",Fashion TV HD
+#EXTVLCOPT:http-user-agent=vietngatv
+https://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="france_24" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/zdze6Iq.png",FRANCE 24 English SD
 #EXTVLCOPT:http-user-agent=vietngatv
-https://livecdn.fptplay.net/world/france24_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/sdb/france24_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/zdze6Iq.png",FRANCE 24 English HD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://static.france24.com/live/F24_EN_HI_HLS/live_tv.m3u8
@@ -804,49 +831,15 @@ https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="kbs_world" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/SefEfRO.png",KBS World HD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/hda3/kbs_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 tvg-id="discovery" group-title="Khoa Học Và Khám Phá" tvg-logo="https://i.imgur.com/8GG7Ny9.png",Discovery HD
-#EXTVLCOPT:http-user-agent=vietngatv
-https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="discovery_asia" group-title="Khoa Học Và Khám Phá" tvg-logo="https://i.imgur.com/rv4dtJo.png",Discovery Asia HD
-#EXTVLCOPT:http-user-agent=vietngatv
-http://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="dw" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/NaJrOIz.png",Deutsche Welle English | 1080P
-#EXTVLCOPT:http-user-agent=vietngatv
-https://livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="dw" group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/NaJrOIz.png",Deutsche Welle English | 720P
-#EXTVLCOPT:http-user-agent=vietngatv
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/NaJrOIz.png",Deutsche Welle Arabic
-#EXTVLCOPT:http-user-agent=vietngatv
-https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/NaJrOIz.png",Deutsche Welle Deutsch
-#EXTVLCOPT:http-user-agent=vietngatv
-https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/NaJrOIz.png",Deutsche Welle Deutsch+
-#EXTVLCOPT:http-user-agent=vietngatv
-https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/index.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="https://i.imgur.com/NaJrOIz.png",Deutsche Welle Espanol
-#EXTVLCOPT:http-user-agent=vietngatv
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="outdoor_channel" group-title="Khoa Học Và Khám Phá" tvg-logo="https://i.imgur.com/RJwaiHH.png",Outdoor Channel HD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="fashion_tv" group-title="CA NHẠC - THỜI TRANG" tvg-logo="https://i.imgur.com/5KrE9kR.png",Fashion TV HD
-#EXTVLCOPT:http-user-agent=vietngatv
-https://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.imgur.com/CDe0W1b.png",Paramount Channel
 #EXTVLCOPT:http-user-agent=vietngatv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Paramount_Channel_SD.ism/playlist.mpd
-#EXTINF:-1 tvg-id="tv5monde_asie" group-title="TIN TỨC" tvg-logo="https://i.imgur.com/FE0h0Cq.png",TV5 Monde SD
-#EXTVLCOPT:http-user-agent=vietngatv
-https://livecdn.fptplay.net/world/tv5_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="tlc" group-title="Khoa Học Và Khám Phá" tvg-logo="https://i.imgur.com/ELjuMyU.png",TLC HD
-#EXTVLCOPT:http-user-agent=vietngatv
-https://livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="TIN TỨC" tvg-logo="https://i.imgur.com/uIeaOAx.png",Russia Today News HD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8
@@ -871,6 +864,12 @@ http://ott-cdn.ucom.am/s93/04.m3u8
 #EXTINF:-1 group-title="Phim TÀI LIỆU" tvg-logo="https://i.imgur.com/C6fylkt.png",Russia Today Documentary HD [RUS]
 #EXTVLCOPT:http-user-agent=vietngatv
 https://rtmp.api.rt.com/hls/rtdru.m3u8
+#EXTINF:-1 tvg-id="tv5monde_asie" group-title="TIN TỨC" tvg-logo="https://i.imgur.com/FE0h0Cq.png",TV5 Monde SD
+#EXTVLCOPT:http-user-agent=vietngatv
+https://vips-livecdn.fptplay.net/hda2/tv5_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="tlc" group-title="Khoa Học Và Khám Phá" tvg-logo="https://i.imgur.com/ELjuMyU.png",TLC HD
+#EXTVLCOPT:http-user-agent=vietngatv
+https://livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="warner_tv_hd" group-title="Phim truyện" tvg-logo="https://i.imgur.com/9qJI1Mg.png",Warner TV HD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
