@@ -1048,6 +1048,9 @@ https://live.katun24.ru:8082/katun/katun/index.m3u8
 #EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="http://gg.gg/Logo-Tolk",ТОЛК HD | Tolk HD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://gg.gg/Tolk-HD
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://iptvxpix.ml/49kanal.png",НСК 49 КАНАЛ | NSK Channel 49
+#EXTVLCOPT:http-user-agent=vietngatv
+http://gg.gg/NSK-49-TV
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZKGC5i0.png" group-title="РОССИЯ/NGA",ТНВ-Планета | TNV Planeta
 #EXTVLCOPT:http-user-agent=vietngatv
 http://tnv.bonus-tv.ru/cdn/tnvplanet/playlist.m3u8
@@ -1114,12 +1117,6 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.ibb.co/tcBDJxp/24.png",МИР 24 HD | MIR 24 HD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.ibb.co/tcBDJxp/24.png",МИР 24 SD | MIR 24 SD
-#EXTVLCOPT:http-user-agent=vietngatv
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.is_realtime_stream=true
-http://mfe.cliptv.az/dash/MIR24_SD.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xfgtSCn/1rnk.png" group-title="РОССИЯ/NGA",ПРНК | The first Russian National Channel
 #EXTVLCOPT:http-user-agent=vietngatv
 http://serv25.vintera.tv:8081/1pnk/1pnk/playlist.m3u8
@@ -1145,7 +1142,7 @@ http://serv30.vintera.tv:8081/kazahtv/stream_kg/playlist.m3u8
 #EXTINF:-1 group-title="TIN TỨC" tvg-logo="https://i.imgur.com/Dh1pUNW.png",Беларусь 24 | Belarus 24
 #EXTVLCOPT:http-user-agent=vietngatv
 http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
-#EXTINF:0 tvg-logo="https://iptvx.one/icn/nastoiaschee-vremia.png" group-title="TIN TỨC",Настоящее время | Present time
+#EXTINF:0 tvg-logo="https://iptvxpix.ml/nastoiaschee-vremia.png" group-title="TIN TỨC",Настоящее время | Present time
 #EXTVLCOPT:http-user-agent=vietngatv
 http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
 
