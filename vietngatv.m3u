@@ -1,8 +1,5 @@
 #EXTM3U url-tvg="http://gg.gg/epgbearlivetv" tvg-shift=0 m3uautoload=1 http://gg.gg/simple-tv
 
-#EXTINF:-1 group-title="FPT Play" tvg-logo="https://i.ibb.co/Y3nkDK7/FPT-Play.png",FPT Play GIỚI THIỆU
-#EXTVLCOPT:http-user-agent=vietngatv
-http://livecdn.fptplay.net/hda4/f-channel.stream/playlist.m3u8
 #EXTINF:-1 group-title="FPT Play" tvg-logo="https://i.ibb.co/Y3nkDK7/FPT-Play.png",FPT Play SỰ KIỆN
 #EXTVLCOPT:http-user-agent=vietngatv
 http://livecdn.fptplay.net/tvc/f-event_2000.stream/chunklist.m3u8
@@ -287,12 +284,9 @@ https://livecdn.fptplay.net/sdc/binhphuoc2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/WGH0L62/124.png",Bình Thuận HD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://202.43.109.142:1935/thbttv/bttv/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/7PFJksI.png",Bình Thuận SD | FPT
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/7PFJksI.png",Bình Thuận SD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/sdc/binhthuan_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/7PFJksI.png",Bình Thuận SD | VieON
-#EXTVLCOPT:http-user-agent=vietngatv
-https://live-vthcm.vieon.vn/htv_drm/live/binh_thuan/TV_HD/binh_thuan_480p/chunks.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/5Ys78oI.png",Bắc Giang HD | 1080P
 #EXTVLCOPT:http-user-agent=vietngatv
 http://103.90.220.236/bgtvlive/tv1live.m3u8
@@ -681,7 +675,7 @@ https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="blue_ant_extreme" group-title="Giải Trí" tvg-logo="https://i.imgur.com/chLWFqA.png",Blue Ant Extreme HD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 group-title="Phim truyện Việt - Nga" tvg-id="max_by_hbo" tvg-logo="https://i.imgur.com/F0N0TmU.jpg",Cinemax HD
+#EXTINF:0 group-title="Phim truyện Việt - Nga" tvg-id="max_by_hbo" tvg-logo="https://i.imgur.com/4vYV1PK.png",Cinemax HD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Phim truyện Việt - Nga" tvg-logo="https://i.imgur.com/gHCOcuF.png",Cinema World HD
@@ -1057,7 +1051,7 @@ http://mfe.cliptv.az/dash/2x2_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.ibb.co/qrLb5kL/image.png",Суббота HD | Saturday TV
 #EXTVLCOPT:http-user-agent=vietngatv
 https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
-#EXTINF:-1 group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/u7VDHRz.png",Disney Channel | Russian Free To Air
+#EXTINF:-1 group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/38VPB1Z.jpg",Disney Channel | Russian Free To Air
 #EXTVLCOPT:http-user-agent=vietngatv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1081,10 +1075,10 @@ http://ott-cdn.ucom.am/s36/04.m3u8
 #EXTINF:-1 group-title="TIN TỨC" tvg-logo="https://i.imgur.com/o4Julue.jpg",IZ.RU | Izvestia HD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.ibb.co/tcBDJxp/24.png",МИР 24 HD | MIR 24 HD
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/8rrhjYc.jpg",МИР 24 HD | MIR 24 HD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.ibb.co/tcBDJxp/24.png",МИР 24 SD | MIR 24 SD
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/8rrhjYc.jpg",МИР 24 SD | MIR 24 SD
 #EXTVLCOPT:http-user-agent=vietngatv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1115,7 +1109,7 @@ http://serv30.vintera.tv:8081/kazahtv/stream_kg/playlist.m3u8
 #EXTINF:-1 group-title="TIN TỨC" tvg-logo="https://i.imgur.com/Dh1pUNW.png",Беларусь 24 | Belarus 24
 #EXTVLCOPT:http-user-agent=vietngatv
 http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
-#EXTINF:0 tvg-logo="https://iptvxpix.ml/nastoiaschee-vremia.png" group-title="TIN TỨC",Настоящее время | Present time
+#EXTINF:0 tvg-logo="https://i.imgur.com/XBoXDi0.png" group-title="TIN TỨC",Настоящее время | Present time
 #EXTVLCOPT:http-user-agent=vietngatv
 http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
 
@@ -1325,7 +1319,7 @@ https://tvshops.bonus-tv.ru/cdn/discount/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="BÁN HÀNG" tvg-logo="https://i.ibb.co/L9dK2dq/image.png",Ювелирочка ТВ HD | Jeweler
 #EXTVLCOPT:http-user-agent=vietngatv
 http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
-#EXTINF:-1 group-title="BÁN HÀNG" tvg-logo="https://i.ibb.co/g63P02s/Luxury-HD.png",Luxury HD
+#EXTINF:-1 group-title="BÁN HÀNG" tvg-logo="https://i.imgur.com/MWXrusu.png",Luxury HD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://nano.teleservice.su:8080/hls/luxury.m3u8
 #EXTINF:-1 group-title="BÁN HÀNG" tvg-logo="https://i.imgur.com/or5MRcL.png",Top Shop TV
@@ -1555,13 +1549,19 @@ http://185.161.224.216/dash/Mir_seriala_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Phim truyện Việt - Nga" tvg-logo="https://i.imgur.com/DOtCK9V.png",Победа | Pobeda
 #EXTVLCOPT:http-user-agent=vietngatv
 http://37.99.5.234/btv/SWM/Pobeda/Pobeda_576p_2000kbps.m3u8
-#EXTINF:-1 group-title="Phim truyện Việt - Nga" tvg-logo="https://i.imgur.com/a6Yocw3.png",НСТ | NST
+#EXTINF:-1 group-title="Phim truyện Việt - Nga" tvg-logo="https://i.imgur.com/a6Yocw3.png",НСТ | NST | 576P
 #EXTVLCOPT:http-user-agent=vietngatv
 http://37.99.5.234/btv/SWM/HCT/HCT_576p_2000kbps.m3u8
-#EXTINF:-1 group-title="Phim truyện Việt - Nga" tvg-logo="https://i.ibb.co/jJCTwR5/Cinema.png",Cinema
+#EXTINF:-1 group-title="Phim truyện Việt - Nga" tvg-logo="https://i.imgur.com/a6Yocw3.png",НСТ | NST | 360P
+#EXTVLCOPT:http-user-agent=vietngatv
+http://mfe.cliptv.az/dash/NSTV_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="Phim truyện Việt - Nga" tvg-logo="https://i.ibb.co/jJCTwR5/Cinema.png",Cinema | 576P
 #EXTVLCOPT:http-user-agent=vietngatv
 http://37.99.5.234/btv/SWM/CINEMA/CINEMA_576p_2000kbps.m3u8
-#EXTINF:-1 group-title="Phim truyện Việt - Nga",Bollywood HD 
+#EXTINF:-1 group-title="Phim truyện Việt - Nga" tvg-logo="https://i.ibb.co/jJCTwR5/Cinema.png",Cinema | 360P
+#EXTVLCOPT:http-user-agent=vietngatv
+http://mfe.cliptv.az/dash/Cinema_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="Phim truyện Việt - Nga",Bollywood HD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://37.99.5.234/btv/SWM/Bollywood_HD/Bollywood_HD_1080p_5000kbps.m3u8
 
@@ -1655,7 +1655,7 @@ http://ott-cdn.ucom.am/s63/04.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Investigation_Discovery_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/NzRkbxN.png",БелРос
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://i.imgur.com/HWqxjGl.png",БелРос
 #EXTVLCOPT:http-user-agent=vietngatv
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2Ydfgw4.png" group-title="РОССИЯ/NGA",Центральное телевидение | Central Television
