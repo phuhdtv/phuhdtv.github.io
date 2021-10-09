@@ -119,10 +119,7 @@ https://livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="quoc_phong_tv" group-title="Quốc Gia" tvg-logo="https://i.imgur.com/xtA4AlV.png",Quốc Phòng Việt Nam SD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/QPTV-SD-ABR/HTV-ABR/QPTV-SD-720p/playlist.m3u8
-#EXTINF:-1 tvg-id="nhan_dan_tv" group-title="Quốc Gia" tvg-logo="https://i.ibb.co/7JJ3WQP/ndtv.png",Nhân Dân TV HD | 1080P
-#EXTVLCOPT:http-user-agent=vietngatv
-https://live-vthcm.vieon.vn/htv_drm/live/nhan_dan/TV_HD/nhan_dan_1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="nhan_dan_tv" group-title="Quốc Gia" tvg-logo="https://i.ibb.co/7JJ3WQP/ndtv.png",Nhân Dân TV HD | 720P
+#EXTINF:-1 tvg-id="nhan_dan_tv" group-title="Quốc Gia" tvg-logo="https://i.ibb.co/7JJ3WQP/ndtv.png",Nhân Dân TV HD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="nhan_dan_tv" group-title="Quốc Gia" tvg-logo="https://i.ibb.co/7JJ3WQP/ndtv.png",Nhân Dân TV SD
@@ -1326,9 +1323,12 @@ http://ott-cdn.ucom.am/s58/04.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Multimaniya_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/uuUGNT0.png",Детский Мир | Children's World
+#EXTINF:-1 group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/uuUGNT0.png",Детский Мир | Children's World | 576P
 #EXTVLCOPT:http-user-agent=vietngatv
 http://37.99.5.234/btv/SWM/DetskyMir/DetskyMir_576p_2000kbps.m3u8
+#EXTINF:-1 group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/uuUGNT0.png",Детский Мир | Children's World | 360P
+#EXTVLCOPT:http-user-agent=vietngatv
+http://mfe.cliptv.az/dash/Detskiy_Mir_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/tDjQD6x.png",Tiji | 576P
 #EXTVLCOPT:http-user-agent=vietngatv
 http://live-1.otcnet.ru/TiJi_OT/index.m3u8
