@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://gg.gg/epgbearlivetv" tvg-shift=0 m3uautoload=1 http://gg.gg/simple-tv
 
-#EXTINF:-1 group-title="Vietngatv" tvg-logo="https://i.imgur.com/C5G4qCb.png",Kênh Sự Kiện
+#EXTINF:-1 group-title="Vietngatv" tvg-logo="https://i.ibb.co/Y3nkDK7/FPT-Play.png",Kênh Sự Kiện
 #EXTVLCOPT:http-user-agent=vietngatv
 http://livecdn.fptplay.net/tvc/f-event_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/C5G4qCb.png",VTV1 HD
@@ -142,13 +142,12 @@ http://livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=vietngatv
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/TTXVN-SD-ABR/HTV-ABR/TTXVN-SD-720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="sctv2_hd" group-title="Giải Trí" tvg-logo="https://i.imgur.com/sURj0j4.png",SCTV2
+#EXTINF:-1 tvg-id="sctv2_hd" group-title="Khác" tvg-logo="https://i.imgur.com/sURj0j4.png",SCTV2
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/sda/sctv2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="sctv6hd" group-title="Giải Trí" tvg-logo="https://i.imgur.com/x5G9UnO.png",Fim 360 HD
+#EXTINF:-1 tvg-id="sctv6hd" group-title="Khác" tvg-logo="https://i.imgur.com/x5G9UnO.png",Fim 360 HD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
-
 #EXTINF:-1 group-title="Khác" tvg-logo="https://i.imgur.com/BQIrc6A.png",VITV
 #EXTVLCOPT:http-user-agent=vietngatv
 http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
@@ -169,18 +168,24 @@ https://livecdn.fptplay.net/sdb/vtvhyundai_hls.smil/chunklist_b2500000.m3u8
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/sdb/quehuongshop_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://i.ibb.co/0qMK4cP/HTV1-BEARTV.png",HTV1
+#EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://i.ibb.co/0qMK4cP/HTV1-BEARTV.png",HTV1 | 576P
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://i.ibb.co/0qMK4cP/HTV1-BEARTV.png",HTV1 | 480P
+#EXTVLCOPT:http-user-agent=vietngatv
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV1-SD-480p/playlist.m3u8
 #EXTINF:-1 tvg-id="htv2" group-title="HTV" tvg-logo="https://i.imgur.com/s7x0UhN.png",HTV2 HD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/hda1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="https://i.imgur.com/sOMT5Vf.png",HTV3
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/sdb/htv3_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="htvkey" group-title="HTV" tvg-logo="https://i.ibb.co/nL6Lg9X/HTVKEY-BEARTV.png",HTV Key
+#EXTINF:-1 tvg-id="htvkey" group-title="HTV" tvg-logo="https://i.ibb.co/nL6Lg9X/HTVKEY-BEARTV.png",HTV Key | 576P
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="htvkey" group-title="HTV" tvg-logo="https://i.ibb.co/nL6Lg9X/HTVKEY-BEARTV.png",HTV Key | 480P
+#EXTVLCOPT:http-user-agent=vietngatv
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV4-SD-480p/playlist.m3u8
 #EXTINF:-1 tvg-id="htv7hd" group-title="HTV" tvg-logo="https://i.imgur.com/L8fXB1M.png",HTV7 HD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
@@ -615,10 +620,7 @@ http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="Giải Trí" tvg-logo="https://i.imgur.com/69pCK1u.png",AXN HD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="arirang" group-title="Nước Ngoài" tvg-logo="https://i.imgur.com/rDkxPUU.png",ARIRANG Korea HD
-#EXTVLCOPT:http-user-agent=vietngatv
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-#EXTINF:-1 tvg-id="arirang" group-title="Nước Ngoài" tvg-logo="https://i.imgur.com/rDkxPUU.png",ARIRANG Korea SD
+#EXTINF:-1 tvg-id="arirang" group-title="Nước Ngoài" tvg-logo="https://i.imgur.com/rDkxPUU.png",ARIRANG Korea
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/sdb/arirang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/4MNpDTQ.png",ANIMAX HD
@@ -681,16 +683,10 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CINEWORLD-SD-720p/playlist.m3u8
 #EXTINF:-1 group-title="Âm nhạc Việt - Nga" tvg-logo="https://i.imgur.com/p7w1FbM.png",CHANNEL [V] HD | Dừng phát sóng
 #EXTVLCOPT:http-user-agent=vietngatv
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="cna_channel_news_asia" group-title="TIN TỨC" tvg-logo="https://i.imgur.com/AsLYbdw.png",Channel News Asia HD
-#EXTVLCOPT:http-user-agent=vietngatv
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="cna_channel_news_asia" group-title="TIN TỨC" tvg-logo="https://i.imgur.com/AsLYbdw.png",Channel News Asia SD
+#EXTINF:-1 tvg-id="cna_channel_news_asia" group-title="TIN TỨC" tvg-logo="https://i.imgur.com/AsLYbdw.png",Channel News Asia
 #EXTVLCOPT:http-user-agent=vietngatv
 http://livecdn.fptplay.net/sdb/newsasia_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="cnn" group-title="Nước Ngoài" tvg-logo="https://i.imgur.com/Jy3Vr9F.png",Cable News Network HD
-#EXTVLCOPT:http-user-agent=vietngatv
-https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
-#EXTINF:-1 tvg-id="cnn" group-title="Nước Ngoài" tvg-logo="https://i.imgur.com/Jy3Vr9F.png",Cable News Network SD
+#EXTINF:-1 tvg-id="cnn" group-title="Nước Ngoài" tvg-logo="https://i.imgur.com/Jy3Vr9F.png",Cable News Network
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/sdb/cnn_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="cartoonhd" group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/dpGiaH5.png",Cartoon Network HD
@@ -1021,7 +1017,7 @@ http://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
 #EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/AGj8EJF.png",РБК | RBC | 576P
 #EXTVLCOPT:http-user-agent=vietngatv
 http://uiptv.do.am/1ufc/701293058/playlist.m3u8
-#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/AGj8EJF.png",РБК | RBC | 480P
+#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/AGj8EJF.png",РБК | RBC | 480P
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s36/04.m3u8
 #EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/o4Julue.jpg",IZ.RU | Izvestia HD
@@ -1092,7 +1088,10 @@ http://37.99.5.234/btv/SWM/PlanetaHD/PlanetaHD_720p_3500kbps.m3u8
 #EXTINF:-1 group-title="Khoa Học - Giáo dục Và Khám Phá" tvg-logo="https://i.imgur.com/8PrbyBz.jpg",Ocean TV
 #EXTVLCOPT:http-user-agent=vietngatv
 http://91.192.168.242:9091
-#EXTINF:-1 group-title="TƯ LIỆU" tvg-logo="https://i.ibb.co/XkYnRKD/12-Nostalgija.png",Ностальгия | Nostalgia
+#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.ibb.co/XkYnRKD/12-Nostalgija.png",Ностальгия | Nostalgia
+#EXTVLCOPT:http-user-agent=vietngatv
+http://37.99.5.234/btv/SWM/NOSTALGIYA/NOSTALGIYA_576p_2000kbps.m3u8
+#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.ibb.co/XkYnRKD/12-Nostalgija.png",Ностальгия | Nostalgia | Dự phòng
 #EXTVLCOPT:http-user-agent=vietngatv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1305,7 +1304,7 @@ http://mfe.cliptv.az/dash/Detskiy_Mir_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/tDjQD6x.png",Tiji | 576P
 #EXTVLCOPT:http-user-agent=vietngatv
 http://live-1.otcnet.ru/TiJi_OT/index.m3u8
-#EXTINF:-1 group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/tDjQD6x.png",Tiji | 360P
+#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/tDjQD6x.png",Tiji | 360P
 #EXTVLCOPT:http-user-agent=vietngatv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
