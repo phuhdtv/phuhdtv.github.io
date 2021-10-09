@@ -220,7 +220,7 @@ https://livecdn.fptplay.net/sda/angiang_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sdc/bariavungtau_hls.smil/chunklist_b2800000.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/ZMVBv8X/BRT-BEARTV.png",BRT SD | Truyền hình Bà Rịa Vũng Tàu
 #EXTVLCOPT:http-user-agent=vietngatv
-https://live-vthcm.vieon.vn/htv_drm/live/ba_ria_vung_tau/TV_HD/ba_ria_vung_tau_480p/chunks.m3u8
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BRVT-SD-ABR/HTV-ABR/BRVT-SD-720p/playlist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/g3pX8Jf/BLTV-HD.webp",BLTV HD | Truyền hình Bạc Liêu HD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/sdc/baclieu_hls.smil/chunklist_b2800000.m3u8
@@ -530,10 +530,7 @@ http://118.107.85.4:1935/live/smil:STV.smil/chunklist_b1384000.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/pCTJQMX.png",STV | Truyền hình Sơn La
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/sdc/sonla_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/8rGiYuk.png",Tây Ninh TV11 HD | 1080P
-#EXTVLCOPT:http-user-agent=vietngatv
-https://live-vthcm.vieon.vn/htv_drm/live/tay_ninh/TV_HD/tay_ninh_1080p/chunks.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/8rGiYuk.png",Tây Ninh TV11 HD | 720P
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/8rGiYuk.png",Tây Ninh TV11 HD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/sda/tayninhhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/8rGiYuk.png",Tây Ninh TV11 SD
@@ -1051,7 +1048,10 @@ http://37.99.5.234/btv/SWM/RTVi/RTVi_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="Âm nhạc Việt - Nga" tvg-logo="https://i.imgur.com/Y6ZQyc7.png",РУТВ HD | RUTV HD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
-#EXTINF:-1 group-title="TIN TỨC" tvg-logo="https://i.imgur.com/AGj8EJF.png",РБК | RBC
+#EXTINF:-1 group-title="TIN TỨC" tvg-logo="https://i.imgur.com/AGj8EJF.png",РБК | RBC | 576P
+#EXTVLCOPT:http-user-agent=vietngatv
+http://uiptv.do.am/1ufc/701293058/playlist.m3u8
+#EXTINF:-1 group-title="TIN TỨC" tvg-logo="https://i.imgur.com/AGj8EJF.png",РБК | RBC | 480P
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s36/04.m3u8
 #EXTINF:-1 group-title="TIN TỨC" tvg-logo="https://i.imgur.com/o4Julue.jpg",IZ.RU | Izvestia HD
