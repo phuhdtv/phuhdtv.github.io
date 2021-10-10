@@ -743,9 +743,6 @@ https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Khoa Học - Giáo dục Và Khám Phá" tvg-logo="https://i.imgur.com/nZvEpKg.png",History HD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title="Khoa Học - Giáo dục Và Khám Phá" tvg-logo="https://i.imgur.com/XIpsgye.png",History 2 HD
-#EXTVLCOPT:http-user-agent=vietngatv
-http://37.99.5.234/btv/SWM/History2HD/History2HD_1080p_5000kbps.m3u8
 #EXTINF:-1 tvg-id="kix_hd" group-title="Giải Trí" tvg-logo="https://i.imgur.com/Lod13YD.png",KIX HD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
@@ -1522,9 +1519,12 @@ http://mfe.cliptv.az/dash/Cinema_SD.ism/playlist.mpd
 #EXTVLCOPT:http-user-agent=vietngatv
 http://37.99.5.234/btv/SWM/Bollywood_HD/Bollywood_HD_1080p_5000kbps.m3u8
 
-#EXTINF:-1 group-title="Giải Trí" tvg-logo="https://i.ibb.co/kcg5w3p/Paramount-Comedy.png",PARAMOUNT COMEDY
+#EXTINF:-1 group-title="Giải Trí" tvg-logo="https://i.ibb.co/kcg5w3p/Paramount-Comedy.png",PARAMOUNT COMEDY | 576P
 #EXTVLCOPT:http-user-agent=vietngatv
 http://37.99.5.234/btv/SWM/Paramount_Comedy/Paramount_Comedy_576p_2000kbps.m3u8
+#EXTINF:-1 group-title="Giải Trí" tvg-logo="https://i.ibb.co/kcg5w3p/Paramount-Comedy.png",PARAMOUNT COMEDY | 360P
+#EXTVLCOPT:http-user-agent=vietngatv
+http://mfe.cliptv.az/dash/Paramount_Comedy_SD.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XA3CBj9.png" group-title="Tiếng Nga",Ратник | Rathink HD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://online-video.rbc.ru/online/rbctv.m3u8
