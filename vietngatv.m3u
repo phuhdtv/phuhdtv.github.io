@@ -40,9 +40,6 @@ https://mutixx5hq1liv.akamaized.net/vtv5tnb/vtv5tnb@720p.m3u8
 #EXTVLCOPT:http-user-agent=vietngatv
 https://mutixx5hq1liv.akamaized.net/vtv5tn/vtv5tn@720p.m3u8
 
-#EXTINF:-1 tvg-id="vtv6hd" group-title="Dự phòng" tvg-logo="https://i.imgur.com/5FxLblm.png",VTV6 HD | Dự phòng
-#EXTVLCOPT:http-user-agent=vietngatv
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV6-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="Dự phòng" tvg-logo="https://i.imgur.com/cx1fx0b.png",VTV9 HD | Dự phòng
 #EXTVLCOPT:http-user-agent=vietngatv
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV9-HD-1080p/playlist.m3u8
@@ -358,6 +355,9 @@ https://htv-drm-live-cdn.fptplay.net/htvonline/dn2.480p.fpt.tms/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OniDxoh.png" group-title="ĐỊA PHƯƠNG",ĐN3 | Truyền hình Đồng Nai
 #EXTVLCOPT:http-user-agent=vietngatv
 https://live-vthcm.vieon.vn/htv_drm/live/dong_nai_3/TV_HD/dong_nai_3_480p/playlist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/BMug1gS.png",THĐT HD | Truyền hình Đồng Tháp
+#EXTVLCOPT:http-user-agent=vietngatv
+http://202.43.109.142:1935/THDT/thdttv/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/BMug1gS.png",THĐT | Truyền hình Đồng Tháp
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/sdc/dongthap_hls.smil/chunklist_b2500000.m3u8
