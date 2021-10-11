@@ -713,12 +713,9 @@ https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="discovery_asia" group-title="Khoa Học - Giáo dục Và Khám Phá" tvg-logo="https://i.imgur.com/XbHJgrx.png",Discovery Asia HD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="dw" group-title="Nước Ngoài" tvg-logo="https://i.imgur.com/NaJrOIz.png",Deutsche Welle HD English | 1080P
+#EXTINF:-1 tvg-id="dw" group-title="Nước Ngoài" tvg-logo="https://i.imgur.com/NaJrOIz.png",Deutsche Welle HD English
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="dw" group-title="Dự phòng" tvg-logo="https://i.imgur.com/NaJrOIz.png",Deutsche Welle HD English | 720P
-#EXTVLCOPT:http-user-agent=vietngatv
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 group-title="Nước Ngoài" tvg-logo="https://i.imgur.com/NaJrOIz.png",Deutsche Welle Deutsch+
 #EXTVLCOPT:http-user-agent=vietngatv
 https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/index.m3u8
@@ -797,6 +794,9 @@ https://livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="tlc" group-title="Khoa Học - Giáo dục Và Khám Phá" tvg-logo="https://i.imgur.com/ELjuMyU.png",TLC HD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="tlc" group-title="Khoa Học - Giáo dục Và Khám Phá" tvg-logo="https://i.imgur.com/P7JRmze.png",TLC SD
+#EXTVLCOPT:http-user-agent=vietngatv
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXLIFE-SD-720p/playlist.m3u8
 #EXTINF:-1 tvg-id="warner_tv_hd" group-title="Phim truyện Việt - Nga" tvg-logo="https://i.imgur.com/04naoBg.jpg",Warner TV HD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
