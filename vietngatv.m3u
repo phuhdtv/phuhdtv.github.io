@@ -1,8 +1,5 @@
 #EXTM3U url-tvg="http://gg.gg/epgbearlivetv" tvg-shift=0 m3uautoload=1 http://gg.gg/simple-tv
 
-#EXTINF:-1 group-title="Vietngatv" tvg-logo="https://i.ibb.co/Y3nkDK7/FPT-Play.png",Kênh Sự Kiện
-#EXTVLCOPT:http-user-agent=vietngatv
-http://livecdn.fptplay.net/tvc/f-event_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/C5G4qCb.png",VTV1 HD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
@@ -825,7 +822,7 @@ http://cdnmg.secure.live.rtr-vesti.ru/hls/russia1_plus4/playlist_3.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Match_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/9DzTyqZ.png",НТВ HD | NTV Russia HD
+#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/DtQX5P2.png",НТВ HD | NTV Russia HD
 #EXTVLCOPT:http-user-agent=vietngatv
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -852,6 +849,9 @@ http://ott-cdn.ucom.am/s21/04.m3u8
 #EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/n9IHUCD.png",Карусель | Karusel
 #EXTVLCOPT:http-user-agent=vietngatv
 http://37.99.5.234/btv/SWM/Karusel/Karusel_576p_2000kbps.m3u8
+#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/QyZvT3e.png",ОТР | OTR
+#EXTVLCOPT:http-user-agent=vietngatv
+http://gg.gg/OTR-Russia
 #EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВ Центр | TV Center | 576P
 #EXTVLCOPT:http-user-agent=vietngatv
 http://37.99.5.234/btv/SWM/TVCentr/TVCentr_576p_2000kbps.m3u8
@@ -927,6 +927,9 @@ http://mfe.cliptv.az/dash/Muz_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/n7bGFXj.png",МУЗ | MUZ | 480P
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s28/04.m3u8
+#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/lDQcphu.jpg",49 Канал | 49 Channel
+#EXTVLCOPT:http-user-agent=vietngatv
+http://gg.gg/49_Kanal
 #EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/lDQcphu.jpg",8 Канал | 8 Channel
 #EXTVLCOPT:http-user-agent=vietngatv
 http://84.22.141.170/8kanal-krsk.m3u8
@@ -939,10 +942,7 @@ https://vmvideo.gcdn.co/streams/1503_161/playlist.m3u8
 #EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.ibb.co/7pStSYH/10.png",Телестанция Мир HD | TV station Mir HD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://serv30.vintera.tv:8081/stanciya_mir/mir/playlist.m3u8
-#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/ARh6WSf.png",Кузбасс 1 HD | Kuzbass 1 HD | 1080P
-#EXTVLCOPT:http-user-agent=vietngatv
-https://www.10kanal.ru:1443/10kanal/k24/playlist.m3u8
-#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/ARh6WSf.png",Кузбасс 1 HD | Kuzbass 1 HD | 720P
+#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/ARh6WSf.png",Кузбасс 1 HD | Kuzbass 1 HD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://kuzbass1.ru:8082/10kanal/k24_720/playlist.m3u8
 #EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/ARh6WSf.png",Кузбасс 1 SD | Kuzbass 1 SD
@@ -996,9 +996,12 @@ https://bl.uma.media/live/317805/HLS/4614144_3,2883584_2,1153024_1/1613019214/37
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/2x2_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.ibb.co/qrLb5kL/image.png",Суббота HD | Saturday TV
+#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.ibb.co/qrLb5kL/image.png",Суббота HD | Saturday TV HD
 #EXTVLCOPT:http-user-agent=vietngatv
 https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
+#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/i9Ol1gP.png",Ю | U
+#EXTVLCOPT:http-user-agent=vietngatv
+http://gg.gg/UTV-Ru
 #EXTINF:-1 group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/38VPB1Z.jpg",Disney Channel | Russian Free To Air
 #EXTVLCOPT:http-user-agent=vietngatv
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1038,9 +1041,6 @@ http://mfe.cliptv.az/dash/MIR24_SD.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xfgtSCn/1rnk.png" group-title="Tiếng Nga",ПРНК | The first Russian National Channel
 #EXTVLCOPT:http-user-agent=vietngatv
 http://serv25.vintera.tv:8081/1pnk/1pnk/playlist.m3u8
-#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/DaYMzz8.jpg",Atameken Business HD
-#EXTVLCOPT:http-user-agent=vietngatv
-http://live.atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/L2yv24j.png",CGTN Русский | CGTN Russian
 #EXTVLCOPT:http-user-agent=vietngatv
 http://liveru.cgtn.com/1000r/prog_index.m3u8
@@ -1178,7 +1178,7 @@ http://hls.tv.3angels.ru/stream/HQ.m3u8
 #EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/BJJN5Zp.jpg",Global Star TV
 #EXTVLCOPT:http-user-agent=vietngatv
 http://stream2.hardlife.tv:8134/hls-live/hlsGS/_definst_/liveevent/gs.m3u8
-#EXTINF:-1 group-title="Tiếng Nga",Вера 24 HD | Vera 24 HD
+#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.ibb.co/zbhdTwV/Vera24TV.png",Вера 24 HD | Vera 24 HD
 #EXTVLCOPT:http-user-agent=vietngatv
 http://62.32.67.187:1935/WEB_Vera24/Vera24.stream/playlist.m3u8
 
