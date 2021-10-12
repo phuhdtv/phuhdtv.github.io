@@ -604,10 +604,7 @@ http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="Giải Trí" tvg-logo="https://i.imgur.com/69pCK1u.png",AXN HD
 #EXTVLCOPT:http-user-agent=(_._)
 http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="arirang" group-title="Quốc tế" tvg-logo="https://i.imgur.com/rDkxPUU.png",ARIRANG Korea HD
-#EXTVLCOPT:http-user-agent=(_._)
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="arirang" group-title="Quốc tế" tvg-logo="https://i.imgur.com/rDkxPUU.png",ARIRANG Korea SD
+#EXTINF:-1 tvg-id="arirang" group-title="Quốc tế" tvg-logo="https://i.imgur.com/rDkxPUU.png",ARIRANG Korea
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sdb/arirang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/4MNpDTQ.png",ANIMAX HD
@@ -667,10 +664,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CINEWORLD-SD-720p/playlist.m3u8
 #EXTINF:-1 group-title="Âm nhạc Việt - Nga" tvg-logo="https://i.imgur.com/p7w1FbM.png",CHANNEL [V] HD | Dừng phát sóng
 #EXTVLCOPT:http-user-agent=(_._)
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="cna_channel_news_asia" group-title="Quốc tế" tvg-logo="https://i.imgur.com/AsLYbdw.png",Channel News Asia HD
-#EXTVLCOPT:http-user-agent=(_._)
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="cna_channel_news_asia" group-title="Quốc tế" tvg-logo="https://i.imgur.com/AsLYbdw.png",Channel News Asia SD
+#EXTINF:-1 tvg-id="cna_channel_news_asia" group-title="Quốc tế" tvg-logo="https://i.imgur.com/AsLYbdw.png",Channel News Asia
 #EXTVLCOPT:http-user-agent=(_._)
 http://livecdn.fptplay.net/sdb/newsasia_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="cnn" group-title="Quốc tế" tvg-logo="https://i.imgur.com/Jy3Vr9F.png",Cable News Network HD
@@ -715,9 +709,6 @@ https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/index.m3u8
 #EXTINF:0 group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/utTX02q.png",DreamWorks HD
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/D3Dmjxv.jpg",EURONEWS in English HD
-#EXTVLCOPT:http-user-agent=(_._)
-https://euronews-euronews-world-1.roku.wurl.com/manifest/71bf778598cc9ce36952bb8a3331551a.m3u8
 #EXTINF:-1 tvg-id="fashion_tv" group-title="Giải Trí" tvg-logo="https://i.imgur.com/5KrE9kR.png",Fashion TV HD
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
@@ -781,7 +772,7 @@ https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/3E4KGqG.png",Russia Today English SD
 #EXTVLCOPT:http-user-agent=(_._)
 http://ott-cdn.ucom.am/s96/04.m3u8
-#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/C6fylkt.png",Russia Today Documentary HD [ENGLISH]
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/C6fylkt.png",Russia Today Documentary ENGLISH HD
 #EXTVLCOPT:http-user-agent=(_._)
 https://rt-rtd.gcdn.co/live/rtdoc/playlist.m3u8
 #EXTINF:-1 tvg-id="tv5monde_asie" group-title="Quốc tế" tvg-logo="https://i.imgur.com/73HWkNH.png",TV5 Monde ASIA
@@ -842,6 +833,9 @@ http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k_dubl2/playlist_3.m3u8
 #EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/wu7O85f.png",Россия 24 | Russia 24 | 576P
 #EXTVLCOPT:http-user-agent=(_._)
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/wu7O85f.png",Россия 24 | Russia 24 | Filmon
+#EXTVLCOPT:http-user-agent=(_._)
+http://www.filmon.com/vr-streams/1744.high/playlist.m3u8
 #EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/wu7O85f.png",Россия 24 | Russia 24 | 480P
 #EXTVLCOPT:http-user-agent=(_._)
 http://ott-cdn.ucom.am/s21/04.m3u8
@@ -1013,16 +1007,19 @@ http://serv25.vintera.tv:8081/1pnk/1pnk/playlist.m3u8
 #EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/L2yv24j.png",CGTN Русский | CGTN Russian
 #EXTVLCOPT:http-user-agent=(_._)
 http://liveru.cgtn.com/1000r/prog_index.m3u8
-#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/D3Dmjxv.jpg",EURONEWS по-русски | 540P
+#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/D3Dmjxv.jpg",EURONEWS | 540P
 #EXTVLCOPT:http-user-agent=(_._)
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8
-#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/D3Dmjxv.jpg",EURONEWS по-русски | 480P
+#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/D3Dmjxv.jpg",EURONEWS | 480P
 #EXTVLCOPT:http-user-agent=(_._)
 http://ott-cdn.ucom.am/s89/04.m3u8
-#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/C6fylkt.png",Russia Today Documentary HD [RUSSIAN]
+#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/C6fylkt.png",Russia Today Documentary RUSSIAN FHD
+#EXTVLCOPT:http-user-agent=(_._)
+http://uiptv.do.am/1ufc/300663722/playlist.m3u8
+#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/C6fylkt.png",Russia Today Documentary RUSSIAN HD
 #EXTVLCOPT:http-user-agent=(_._)
 https://rtmp.api.rt.com/hls/rtdru.m3u8
-#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/C6fylkt.png",Russia Today Documentary SD [RUSSIAN]
+#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/C6fylkt.png",Russia Today Documentary RUSSIAN SD
 #EXTVLCOPT:http-user-agent=(_._)
 http://ott-cdn.ucom.am/s93/04.m3u8
 
