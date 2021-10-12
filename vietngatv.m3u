@@ -812,6 +812,9 @@ http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist.m3u8
 #EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/9Z0ivs4.png",Россия 1 SD | Russia 1 SD
 #EXTVLCOPT:http-user-agent=(_._)
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia1_plus4/playlist_3.m3u8
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/5D1gwiv.png",Россия РТР | RTR Planeta
+#EXTVLCOPT:http-user-agent=(_._)
+http://a3569458063-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="THỂ THAO Việt - Nga" tvg-logo="https://i.imgur.com/kFdooR4.png",Матч! ТВ HD | Match TV HD
 #EXTVLCOPT:http-user-agent=(_._)
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1023,12 +1026,9 @@ https://rtmp.api.rt.com/hls/rtdru.m3u8
 #EXTVLCOPT:http-user-agent=(_._)
 http://ott-cdn.ucom.am/s93/04.m3u8
 
-#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/tEH4vmX.png",Хабар 24 FHD | Khabar 24 FHD
-#EXTVLCOPT:http-user-agent=(_._)
-http://serv30.vintera.tv:8081/habar/habar24/chunks.m3u8
-#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/tEH4vmX.png",Хабар 24 HD | Khabar 24 HD
-#EXTVLCOPT:http-user-agent=(_._)
-https://live-24kz.cdnvideo.ru/24kz/24kz.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/DaYMzz8.jpg",Atameken Business HD
+#EXTVLCOPT:http-user-agent=vietngatv
+http://live.atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/048jWpk.jpg",Qazaq TV | English
 #EXTVLCOPT:http-user-agent=(_._)
 http://serv30.vintera.tv:8081/kazahtv/stream_en/playlist.m3u8
@@ -1038,6 +1038,12 @@ http://serv30.vintera.tv:8081/kazahtv/stream_kz/playlist.m3u8
 #EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/Dh1pUNW.png",Беларусь 24 | Belarus 24
 #EXTVLCOPT:http-user-agent=(_._)
 http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
+#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/tEH4vmX.png",Хабар 24 FHD | Khabar 24 FHD
+#EXTVLCOPT:http-user-agent=(_._)
+http://serv30.vintera.tv:8081/habar/habar24/chunks.m3u8
+#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/tEH4vmX.png",Хабар 24 HD | Khabar 24 HD
+#EXTVLCOPT:http-user-agent=(_._)
+https://live-24kz.cdnvideo.ru/24kz/24kz.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/EMwsDdd.png",Красная линия | Red line
 #EXTVLCOPT:http-user-agent=(_._)
@@ -1603,12 +1609,6 @@ http://ott-cdn.ucom.am/s90/04.m3u8
 #EXTVLCOPT:http-user-agent=(_._)
 http://live-1.otcnet.ru/edapremium/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0tjXfkT/SETANTA1-BEARTV.png" group-title="THỂ THAO Việt - Nga",SETANTA SPORTS 1
-#EXTVLCOPT:http-user-agent=(_._)
-https://185-106-121-77.livesports24.online/rusetantaeurasia.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vVwVcHw/SETANTA2-BEARTV.png" group-title="THỂ THAO Việt - Nga",SETANTA SPORTS 2
-#EXTVLCOPT:http-user-agent=(_._)
-https://95-213-224-181.livesports24.online/setantaplusru.m3u8
 #EXTINF:-1 group-title="THỂ THAO Việt - Nga" tvg-logo="https://i.ibb.co/jWD3jGM/image.png",Матч! Арена HD | Arena
 #EXTVLCOPT:http-user-agent=(_._)
 #KODIPROP:inputstream=inputstream.adaptive
