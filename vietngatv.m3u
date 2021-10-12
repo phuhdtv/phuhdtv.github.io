@@ -375,12 +375,15 @@ http://103.90.220.236/thhnlive/tv1live.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/0q2BVky.png",THHN | Truyền hình Hà Nam
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sda/hanam_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="hanoitv1" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/BUsJR8d.png",Truyền hình Hà Nội 1 HD
+#EXTINF:-1 tvg-id="hanoitv1" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/BUsJR8d.png",Truyền hình Hà Nội 1 FHD
 #EXTVLCOPT:http-user-agent=(_._)
 https://live.hanoitv.vn/hntvlive/tv1live.m3u8
-#EXTINF:-1 tvg-id="hanoitv1" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/BUsJR8d.png",Truyền hình Hà Nội 1 SD | 576P
+#EXTINF:-1 tvg-id="hanoitv1" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/BUsJR8d.png",Truyền hình Hà Nội 1 HD
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sdc/hanoitv1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="hanoitv2" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/XfkC7BY.png",Truyền hình Hà Nội 2 FHD
+#EXTVLCOPT:http-user-agent=(_._)
+https://live.hanoitv.vn/hntvlive/tv2live.m3u8
 #EXTINF:-1 tvg-id="hanoitv2" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/XfkC7BY.png",Truyền hình Hà Nội 2 HD
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sdc/hanoitv2_hls.smil/chunklist_b2500000.m3u8
@@ -781,7 +784,7 @@ https://rt-rtd.gcdn.co/live/rtdoc/playlist.m3u8
 #EXTINF:-1 tvg-id="tv5monde_asie" group-title="Quốc tế" tvg-logo="https://i.imgur.com/73HWkNH.png",TV5 Monde ASIA
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/AKp8QKR.png",TRT World
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/AKp8QKR.png",TRT World HD
 #EXTVLCOPT:http-user-agent=(_._)
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-id="tlc" group-title="Khoa Học - Giáo dục Và Khám Phá" tvg-logo="https://i.imgur.com/ELjuMyU.png",TLC HD
@@ -1022,9 +1025,6 @@ http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8
 #EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/D3Dmjxv.jpg",EURONEWS | 480P
 #EXTVLCOPT:http-user-agent=(_._)
 http://ott-cdn.ucom.am/s89/04.m3u8
-#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/C6fylkt.png",Russia Today Documentary RUSSIAN FHD
-#EXTVLCOPT:http-user-agent=(_._)
-http://uiptv.do.am/1ufc/300663722/playlist.m3u8
 #EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/C6fylkt.png",Russia Today Documentary RUSSIAN HD
 #EXTVLCOPT:http-user-agent=(_._)
 https://rtmp.api.rt.com/hls/rtdru.m3u8
