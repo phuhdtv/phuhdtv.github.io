@@ -592,7 +592,10 @@ https://yenbaitv.org.vn/hls/livestream.m3u8
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sdc/yenbai_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 group-title="Nước Ngoài" tvg-logo="https://i.imgur.com/dQrdh2F.png",Aljazeera
+#EXTINF:-1 group-title="Nước Ngoài" tvg-logo="https://i.imgur.com/dQrdh2F.png",Aljazeera Arabic
+#EXTVLCOPT:http-user-agent=(_._)
+http://live-hls-web-aja.getaj.net/AJA/04.m3u8
+#EXTINF:-1 group-title="Nước Ngoài" tvg-logo="https://i.imgur.com/dQrdh2F.png",Aljazeera English
 #EXTVLCOPT:http-user-agent=(_._)
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="Giải Trí" tvg-logo="https://i.imgur.com/69pCK1u.png",AXN HD
@@ -628,9 +631,6 @@ https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="bbc_world_news" group-title="Nước Ngoài" tvg-logo="https://i.imgur.com/hwhTjpi.png",BBC World News SD
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sdb/bbcnew_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="bbc_world_news" group-title="Nước Ngoài" tvg-logo="https://i.imgur.com/hwhTjpi.png",BBC World News HD
-#EXTVLCOPT:http-user-agent=(_._)
-http://37.99.5.234/btv/SWM/BBC_World/BBC_World_1080p_5000kbps.m3u8
 #EXTINF:-1 tvg-id="bbc_earth" group-title="BBC" tvg-logo="https://i.imgur.com/T1vgYzE.png",BBC Earth HD
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
@@ -718,6 +718,12 @@ https://euronews-euronews-world-1.roku.wurl.com/manifest/71bf778598cc9ce36952bb8
 #EXTINF:-1 tvg-id="fashion_tv" group-title="Nước Ngoài" tvg-logo="https://i.imgur.com/5KrE9kR.png",Fashion TV HD
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="fashion_tv" group-title="Nước Ngoài" tvg-logo="https://i.imgur.com/5KrE9kR.png",Fashion TV SD
+#EXTVLCOPT:http-user-agent=(_._)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://mfe.cliptv.az/dash/Fashion_TV_HD.ism/playlist.mpd
 #EXTINF:-1 tvg-id="france_24" group-title="Nước Ngoài" tvg-logo="https://i.imgur.com/zdze6Iq.png",FRANCE 24 English SD
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sdb/france24_hls.smil/chunklist_b2500000.m3u8
@@ -753,7 +759,10 @@ https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/rm7OMLk.png",Nick
 #EXTVLCOPT:http-user-agent=(_._)
-http://37.99.5.234/btv/SWM/Nikelodeon/Nikelodeon_576p_2000kbps.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://mfe.cliptv.az/dash/Nickelodeon_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/chT8xP5.png",Nick JR
 #EXTVLCOPT:http-user-agent=(_._)
 #KODIPROP:inputstream=inputstream.adaptive
@@ -838,17 +847,14 @@ http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 http://ott-cdn.ucom.am/s21/04.m3u8
 #EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/n9IHUCD.png",Карусель | Karusel
 #EXTVLCOPT:http-user-agent=(_._)
-http://37.99.5.234/btv/SWM/Karusel/Karusel_576p_2000kbps.m3u8
-#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВ Центр | TV Center | 576P
-#EXTVLCOPT:http-user-agent=(_._)
-http://37.99.5.234/btv/SWM/TVCentr/TVCentr_576p_2000kbps.m3u8
-#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВ Центр | TV Center | 480P
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://mfe.cliptv.az/dash/Karusel_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВ Центр | TV Center
 #EXTVLCOPT:http-user-agent=(_._)
 http://ott-cdn.ucom.am/s54/04.m3u8
-#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/18TAzYV.png",РЕН ТВ | REN TV | 576P
-#EXTVLCOPT:http-user-agent=(_._)
-http://37.99.5.234/btv/SWM/RenTV/RenTV_576p_2000kbps.m3u8
-#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/18TAzYV.png",РЕН ТВ | REN TV | 480P
+#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/18TAzYV.png",РЕН ТВ | REN TV
 #EXTVLCOPT:http-user-agent=(_._)
 http://ott-cdn.ucom.am/s85/04.m3u8
 #EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/cZhBFZP.png",СПАС | SPAS
@@ -869,10 +875,7 @@ http://mfe.cliptv.az/dash/TV_3_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/CNOYAUN.png",Пятница! HD | Friday HD
 #EXTVLCOPT:http-user-agent=(_._)
 https://bl.uma.media/live/410336/HLS_R/6307840_7/1613010957/e2cf94524a064ecb46389bb54a359d9a/playlist.m3u8
-#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/CNOYAUN.png",Пятница! | Friday International | 576P
-#EXTVLCOPT:http-user-agent=(_._)
-http://37.99.5.234/btv/SWM/Pyatnica/Pyatnica_576p_2000kbps.m3u8
-#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/CNOYAUN.png",Пятница! | Friday International | 480P
+#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/CNOYAUN.png",Пятница! | Friday International
 #EXTVLCOPT:http-user-agent=(_._)
 http://ott-cdn.ucom.am/s50/04.m3u8
 #EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/n9zLVyR.png",Звезда HD | Zevezda HD
@@ -893,24 +896,18 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/TNT_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/LqmmkNs.png",ТНТ | TNT | 576P
-#EXTVLCOPT:http-user-agent=(_._)
-http://37.99.5.234/btv/SWM/TNT/TNT_576p_2000kbps.m3u8
-#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/LqmmkNs.png",ТНТ | TNT | 480P
+#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/LqmmkNs.png",ТНТ | TNT
 #EXTVLCOPT:http-user-agent=(_._)
 http://ott-cdn.ucom.am/s19/04.m3u8
-#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/n7bGFXj.png",МУЗ | MUZ | 576P
+#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/n7bGFXj.png",МУЗ | MUZ | 480P
 #EXTVLCOPT:http-user-agent=(_._)
-http://37.99.5.234/btv/SWM/Muz_Tv/Muz_Tv_576p_2000kbps.m3u8
+http://ott-cdn.ucom.am/s28/04.m3u8
 #EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/n7bGFXj.png",МУЗ | MUZ | 360P
 #EXTVLCOPT:http-user-agent=(_._)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Muz_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/n7bGFXj.png",МУЗ | MUZ | 480P
-#EXTVLCOPT:http-user-agent=(_._)
-http://ott-cdn.ucom.am/s28/04.m3u8
 #EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/lDQcphu.jpg",8 Канал | 8 Channel
 #EXTVLCOPT:http-user-agent=(_._)
 http://84.22.141.170/8kanal-krsk.m3u8
@@ -956,9 +953,6 @@ http://tnv.bonus-tv.ru/cdn/tnvplanet/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Ce_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/FUYQxWb.png",Перец | Peretz TV
-#EXTVLCOPT:http-user-agent=(_._)
-http://37.99.5.234/btv/SWM/Perec/Perec_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/neisaju.png",СТС Love | STS Love
 #EXTVLCOPT:http-user-agent=(_._)
 #KODIPROP:inputstream=inputstream.adaptive
@@ -968,9 +962,6 @@ http://mfe.cliptv.az/dash/STS_Love_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/rdLzrpr.png",ТНТ4 HD | TNT4 HD
 #EXTVLCOPT:http-user-agent=(_._)
 https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d161f37174905bc712e81b60d3411fc1/playlist.m3u8
-#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/rdLzrpr.png",ТНТ4 | TNT4
-#EXTVLCOPT:http-user-agent=(_._)
-http://37.99.5.234/btv/SWM/TNT4/TNT4_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/XqPS7VR.jpg",2x2 HD
 #EXTVLCOPT:http-user-agent=(_._)
 https://bl.uma.media/live/317805/HLS/4614144_3,2883584_2,1153024_1/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8
@@ -995,9 +986,6 @@ http://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
 #EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.ibb.co/RcwTh3c/360-News-HD.jpg",360 Новости HD | 360 News
 #EXTVLCOPT:http-user-agent=(_._)
 http://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
-#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/qpGrvHl.jpg",RTVi 
-#EXTVLCOPT:http-user-agent=(_._)
-http://37.99.5.234/btv/SWM/RTVi/RTVi_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="Âm nhạc Việt - Nga" tvg-logo="https://i.imgur.com/Y6ZQyc7.png",РУТВ HD | RUTV HD
 #EXTVLCOPT:http-user-agent=(_._)
 http://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
@@ -1063,9 +1051,6 @@ http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 group-title="Khoa Học - Giáo dục Và Khám Phá" tvg-logo="https://i.imgur.com/KUfXhKC.png",Моя планета | My Planeta
 #EXTVLCOPT:http-user-agent=(_._)
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="Khoa Học - Giáo dục Và Khám Phá" tvg-logo="https://i.imgur.com/KUfXhKC.png",Моя планета | My Planeta HD
-#EXTVLCOPT:http-user-agent=(_._)
-http://37.99.5.234/btv/SWM/PlanetaHD/PlanetaHD_720p_3500kbps.m3u8
 #EXTINF:-1 group-title="Khoa Học - Giáo dục Và Khám Phá" tvg-logo="https://i.imgur.com/8PrbyBz.jpg",Ocean TV | 576P
 #EXTVLCOPT:http-user-agent=(_._)
 http://91.192.168.242:9091
@@ -1075,10 +1060,7 @@ http://91.192.168.242:9091
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/OceanTV_SD.ism/playlist.mpd?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.ibb.co/XkYnRKD/12-Nostalgija.png",Ностальгия | Nostalgia
-#EXTVLCOPT:http-user-agent=(_._)
-http://37.99.5.234/btv/SWM/NOSTALGIYA/NOSTALGIYA_576p_2000kbps.m3u8
-#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.ibb.co/XkYnRKD/12-Nostalgija.png",Ностальгия | Nostalgia | Dự phòng
+#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.ibb.co/XkYnRKD/12-Nostalgija.png",Ностальгия | Nostalgia
 #EXTVLCOPT:http-user-agent=(_._)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1117,15 +1099,12 @@ http://mfe.cliptv.az/dash/Avto_24_SD.ism/playlist.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Avto_Plus_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="Khoa Học - Giáo dục Và Khám Phá" tvg-logo="https://i.ibb.co/p0tCHQg/image.png",Загородная жизнь | Country life SD
+#EXTINF:-1 group-title="Khoa Học - Giáo dục Và Khám Phá" tvg-logo="https://i.ibb.co/p0tCHQg/image.png",Загородная жизнь | Country life
 #EXTVLCOPT:http-user-agent=(_._)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Zagorodnaya_Jizn_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="Khoa Học - Giáo dục Và Khám Phá" tvg-logo="https://i.ibb.co/p0tCHQg/image.png",Загородная жизнь | Country life HD
-#EXTVLCOPT:http-user-agent=(_._)
-http://37.99.5.234/btv/SWM/Zagorodnaya_Zhizn/Zagorodnaya_Zhizn_1080p_5000kbps.m3u8
 #EXTINF:-1 group-title="Ẩm thực" tvg-logo="https://i.ibb.co/Tb2mJyq/Kukhnya-TV.png",Кухня ТВ | Kitchen TV
 #EXTVLCOPT:http-user-agent=(_._)
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1155,7 +1134,10 @@ http://mfe.cliptv.az/dash/Viasat_History_SD.ism/playlist.mpd
 http://mfe.cliptv.az/dash/Viasat_Nature_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Khoa Học - Giáo dục Và Khám Phá" tvg-logo="https://i.imgur.com/ZGNvRAr.png",HDL | HD Life
 #EXTVLCOPT:http-user-agent=(_._)
-http://37.99.5.234/btv/SWM/HDLife/HDLife_1080p_5000kbps.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://mfe.cliptv.az/dash/HD_life.ism/playlist.mpd
 #EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.ibb.co/WKSjS2J/3angels-1.png",Три Ангела | Three Angels
 #EXTVLCOPT:http-user-agent=(_._)
 http://hls.tv.3angels.ru/stream/HQ.m3u8
@@ -1193,10 +1175,7 @@ http://ott-cdn.ucom.am/s78/04.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Bridge_TV_Dance_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="Âm nhạc Việt - Nga" tvg-logo="https://i.imgur.com/NBWyJJQ.png",Шансон ТВ | Chanson TV | 576P
-#EXTVLCOPT:http-user-agent=(_._)
-http://37.99.5.234/btv/SWM/Shanson_TV/Shanson_TV_576p_2000kbps.m3u8
-#EXTINF:-1 group-title="Âm nhạc Việt - Nga" tvg-logo="https://i.imgur.com/NBWyJJQ.png",Шансон ТВ | Chanson TV | 360P
+#EXTINF:-1 group-title="Âm nhạc Việt - Nga" tvg-logo="https://i.imgur.com/NBWyJJQ.png",Шансон ТВ | Chanson TV
 #EXTVLCOPT:http-user-agent=(_._)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1223,9 +1202,6 @@ http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Âm nhạc Việt - Nga" tvg-logo="https://i.ibb.co/XJ3cy2d/MCM-Top.png",MCM TOP
 #EXTVLCOPT:http-user-agent=(_._)
 http://live-1.otcnet.ru/mcm/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.ibb.co/XJ3cy2d/MCM-Top.png",MCM TOP | Dự phòng
-#EXTVLCOPT:http-user-agent=(_._)
-http://37.99.5.234/btv/SWM/MCM/MCM_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="Âm nhạc Việt - Nga" tvg-logo="https://i.ibb.co/71ByzDn/Mezzo-live-HD.png",Mezzo Live HD
 #EXTVLCOPT:http-user-agent=(_._)
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1238,12 +1214,6 @@ http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HdPsSKn/AIVA.png" group-title="Âm nhạc Việt - Nga",AIVA HD
 #EXTVLCOPT:http-user-agent=(_._)
 http://live-1.otcnet.ru/aivaya/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7WFQnkR/Music-3.png" group-title="Âm nhạc Việt - Nga",ТНТ Музыка | TNT Music
-#EXTVLCOPT:http-user-agent=(_._)
-http://37.99.5.234/btv/SWM/Tnt_music/Tnt_music_576p_2000kbps.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/94gvcA4.jpg" group-title="Âm nhạc Việt - Nga",Музыка Первого | Music One
-#EXTVLCOPT:http-user-agent=(_._)
-http://37.99.5.234/btv/SWM/Muzyka_Pervogo/Muzyka_Pervogo_576p_2000kbps.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wG8KyeG.png" group-title="Âm nhạc Việt - Nga",Страна FM | Strana FM HD
 #EXTVLCOPT:http-user-agent=(_._)
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
@@ -1288,10 +1258,7 @@ http://ott-cdn.ucom.am/s58/04.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Multimaniya_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/uuUGNT0.png",Детский Мир | Children's World | 576P
-#EXTVLCOPT:http-user-agent=(_._)
-http://37.99.5.234/btv/SWM/DetskyMir/DetskyMir_576p_2000kbps.m3u8
-#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/uuUGNT0.png",Детский Мир | Children's World | 360P
+#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/uuUGNT0.png",Детский Мир | Children's World
 #EXTVLCOPT:http-user-agent=(_._)
 http://mfe.cliptv.az/dash/Detskiy_Mir_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/tDjQD6x.png",Tiji | 576P
@@ -1327,17 +1294,8 @@ http://62.32.67.187:1935/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1 group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/QlncxbD.png",Рыжий | Ryzhiy
 #EXTVLCOPT:http-user-agent=(_._)
 http://ott-cdn.ucom.am/s57/04.m3u8
-#EXTINF:-1 tvg-logo="https://iptvxpix.ml/englishclub.png" group-title="Thiếu nhi",English Club TV 
-#EXTVLCOPT:http-user-agent=(_._)
-http://37.99.5.234/btv/SWM/English_Club_TV/English_Club_TV_576p_2000kbps.m3u8
 
-#EXTINF:-1 group-title="Phim truyện Việt - Nga" tvg-logo="https://i.imgur.com/zbkhImD.png",Дом Кино | Dom Kino
-#EXTVLCOPT:http-user-agent=(_._)
-http://37.99.5.234/btv/SWM/Dom_Kino/Dom_Kino_576p_2000kbps.m3u8
-#EXTINF:-1 group-title="Phim truyện Việt - Nga" tvg-logo="https://i.imgur.com/XyiksXK.jpg",Дом Кино Премиум HD | Dom Kino Premium HD | 1080P
-#EXTVLCOPT:http-user-agent=(_._)
-http://37.99.5.234/btv/SWM/Dom_kino_Prem/Dom_kino_Prem_1080p_5000kbps.m3u8
-#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/XyiksXK.jpg",Дом Кино Премиум HD | Dom Kino Premium HD | 720P
+#EXTINF:-1 group-title="Phim truyện Việt - Nga" tvg-logo="https://i.imgur.com/zbkhImD.png",Дом Кино HD | Dom Kino HD
 #EXTVLCOPT:http-user-agent=(_._)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1345,7 +1303,10 @@ http://37.99.5.234/btv/SWM/Dom_kino_Prem/Dom_kino_Prem_1080p_5000kbps.m3u8
 http://mfe.cliptv.az/dash/Dom_Kino_Premium_HD.ism/playlist.mpd
 #EXTINF:-1 group-title="Phim truyện Việt - Nga" tvg-logo="https://i.ibb.co/263PbNg/40-Evrokino.png",Еврокино | Eurokino | 576P
 #EXTVLCOPT:http-user-agent=(_._)
-http://37.99.5.234/btv/SWM/Eurokino/Eurokino_576p_2000kbps.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://mfe.cliptv.az/dash/Evrokino_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.ibb.co/263PbNg/40-Evrokino.png",Еврокино | Eurokino | 360P
 #EXTVLCOPT:http-user-agent=(_._)
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1370,25 +1331,19 @@ http://mfe.cliptv.az/dash/Kinomix_SD.ism/playlist.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Kinopremiera_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="Phim truyện Việt - Nga" tvg-logo="https://i.imgur.com/Wd0UKTn.png",КИНОСВИДАНИЕ SD | Kinosvidaniye SD
+#EXTINF:-1 group-title="Phim truyện Việt - Nga" tvg-logo="https://i.imgur.com/Wd0UKTn.png",КИНОСВИДАНИЕ | Kinosvidaniye
 #EXTVLCOPT:http-user-agent=(_._)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Kinosvidaniye_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="Phim truyện Việt - Nga" tvg-logo="https://i.imgur.com/Wd0UKTn.png",КИНОСВИДАНИЕ HD | Kinosvidaniye HD
-#EXTVLCOPT:http-user-agent=(_._)
-http://37.99.5.234/btv/SWM/Kinosvidanie/Kinosvidanie_1080p_5000kbps.m3u8
 #EXTINF:-1 group-title="Phim truyện Việt - Nga" tvg-logo="https://i.ibb.co/DQXpBZy/63-Kinosemja.png",КИНОСЕМЬЯ | Kinosemya
 #EXTVLCOPT:http-user-agent=(_._)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Kinosemya_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="Phim truyện Việt - Nga" tvg-logo="https://i.ibb.co/Phw189V/image.png",КИНОСЕРИЯ | Kinoserija | 576P
-#EXTVLCOPT:http-user-agent=(_._)
-http://37.99.5.234/btv/SWM/Kinoserija/Kinoserija_576p_2000kbps.m3u8
-#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.ibb.co/Phw189V/image.png",КИНОСЕРИЯ | Kinoserija | 360P
+#EXTINF:-1 group-title="Phim truyện Việt - Nga" tvg-logo="https://i.ibb.co/Phw189V/image.png",КИНОСЕРИЯ | Kinoserija
 #EXTVLCOPT:http-user-agent=(_._)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1406,21 +1361,18 @@ http://mfe.cliptv.az/dash/Kinohit_SD.ism/playlist.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Kino_TV_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="Phim truyện Việt - Nga" tvg-logo="https://i.imgur.com/PqJ5zzi.jpg",Кинокомедия | Kinokomediya SD
+#EXTINF:-1 group-title="Phim truyện Việt - Nga" tvg-logo="https://i.imgur.com/PqJ5zzi.jpg",Кинокомедия | Kinokomediya
 #EXTVLCOPT:http-user-agent=(_._)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Kinokomediya_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="Phim truyện Việt - Nga" tvg-logo="https://i.imgur.com/PqJ5zzi.jpg",Кинокомедия | Kinokomediya HD
-#EXTVLCOPT:http-user-agent=(_._)
-http://37.99.5.234/btv/SWM/Kinokomedija/Kinokomedija_1080p_5000kbps.m3u8
 #EXTINF:-1 group-title="Phim truyện Việt - Nga" tvg-logo="https://i.ibb.co/x2mM69H/42-Lubimoe-kino.png",Любимое Кино | Lubimoe Kino
 #EXTVLCOPT:http-user-agent=(_._)
-http://37.99.5.234/btv/SWM/Nashe_Lubimoe_Kino/Nashe_Lubimoe_Kino_576p_2000kbps.m3u8
-#EXTINF:-1 group-title="Phim truyện Việt - Nga" tvg-logo="https://i.ibb.co/6BFNjRL/72-Nashe-novoe-kino.png",НАШЕ НОВОЕ КИНО HD | Nashe novoe kino HD
-#EXTVLCOPT:http-user-agent=(_._)
-http://37.99.5.234/btv/SWM/Nashe_novoe_kino/Nashe_novoe_kino_1080p_5000kbps.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://mfe.cliptv.az/dash/Lyubimoe_Kino_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Phim truyện Việt - Nga" tvg-logo="https://i.ibb.co/6BFNjRL/72-Nashe-novoe-kino.png",НАШЕ НОВОЕ КИНО SD | Nashe novoe kino SD
 #EXTVLCOPT:http-user-agent=(_._)
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1457,10 +1409,7 @@ http://mfe.cliptv.az/dash/TV_XXI_SD.ism/playlist.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/TV1000_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="Phim truyện Việt - Nga" tvg-logo="https://i.imgur.com/3214pp9.png",TV1000 Action | 576P
-#EXTVLCOPT:http-user-agent=(_._)
-http://37.99.5.234/btv/SWM/TV1000Action/TV1000Action_576p_2000kbps.m3u8
-#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/3214pp9.png",TV1000 Action | 480P
+#EXTINF:-1 group-title="Phim truyện Việt - Nga" tvg-logo="https://i.imgur.com/3214pp9.png",TV1000 Action
 #EXTVLCOPT:http-user-agent=(_._)
 http://ott-cdn.ucom.am/s91/04.m3u8
 #EXTINF:-1 group-title="Phim truyện Việt - Nga" tvg-logo="https://i.imgur.com/BDER6fc.png",TV1000 Русское кино | Russian Kino
@@ -1469,9 +1418,6 @@ http://ott-cdn.ucom.am/s91/04.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/TV1000_Russkoe_Kino_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="Phim truyện Việt - Nga" tvg-logo="https://i.imgur.com/lXlwfyw.png",Amedia 1 HD
-#EXTVLCOPT:http-user-agent=(_._)
-http://37.99.5.234/btv/SWM/A1/A1_1080p_5000kbps.m3u8
 #EXTINF:-1 group-title="Phim truyện Việt - Nga" tvg-logo="https://i.imgur.com/lXlwfyw.png",Amedia 1 SD | 480P
 #EXTVLCOPT:http-user-agent=(_._)
 http://ott-cdn.ucom.am/s45/04.m3u8
@@ -1481,62 +1427,56 @@ http://ott-cdn.ucom.am/s45/04.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/A1_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="Phim truyện Việt - Nga" tvg-logo="https://i.imgur.com/GwQgT6X.png",Amedia 2 HD
-#EXTVLCOPT:http-user-agent=(_._)
-http://37.99.5.234/btv/SWM/A2/A2_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="Phim truyện Việt - Nga" tvg-logo="https://i.imgur.com/GwQgT6X.png",Amedia 2 SD
 #EXTVLCOPT:http-user-agent=(_._)
 http://ott-cdn.ucom.am/s33/04.m3u8
-#EXTINF:-1 group-title="Phim truyện Việt - Nga" tvg-logo="https://i.imgur.com/EVjRJ5U.png",Amedia Hit SD
+#EXTINF:-1 group-title="Phim truyện Việt - Nga" tvg-logo="https://i.imgur.com/EVjRJ5U.png",Amedia Hit
 #EXTVLCOPT:http-user-agent=(_._)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/A_Media_Hit_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="Phim truyện Việt - Nga" tvg-logo="https://i.imgur.com/EVjRJ5U.png",Amedia Hit HD 
-#EXTVLCOPT:http-user-agent=(_._)
-http://37.99.5.234/btv/SWM/AmediaHitHD/AmediaHitHD_1080p_5000kbps.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UHo6cwX.png" group-title="Phim truyện Việt - Nga",Amedia Premium
 #EXTVLCOPT:http-user-agent=(_._)
 http://ott-cdn.ucom.am/s64/04.m3u8
 #EXTINF:-1 group-title="Phim truyện Việt - Nga" tvg-logo="https://i.ibb.co/PQfdxXT/Hollywood.png",Hollywood
 #EXTVLCOPT:http-user-agent=(_._)
-http://37.99.5.234/btv/SWM/Hollywood/Hollywood_576p_2000kbps.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://mfe.cliptv.az/dash/AMC_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Phim truyện Việt - Nga" tvg-logo="https://i.ibb.co/TtHB3bS/mirser.png",Мир Сериала | Mir seriala
 #EXTVLCOPT:http-user-agent=(_._)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/Mir_seriala_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="Phim truyện Việt - Nga" tvg-logo="https://i.imgur.com/DOtCK9V.png",Победа | Pobeda
-#EXTVLCOPT:http-user-agent=(_._)
-http://37.99.5.234/btv/SWM/Pobeda/Pobeda_576p_2000kbps.m3u8
-#EXTINF:-1 group-title="Phim truyện Việt - Nga" tvg-logo="https://i.imgur.com/a6Yocw3.png",НСТ | NST | 576P
-#EXTVLCOPT:http-user-agent=(_._)
-http://37.99.5.234/btv/SWM/HCT/HCT_576p_2000kbps.m3u8
-#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/a6Yocw3.png",НСТ | NST | 360P
+#EXTINF:-1 group-title="Phim truyện Việt - Nga" tvg-logo="https://i.imgur.com/a6Yocw3.png",НСТ | NST
 #EXTVLCOPT:http-user-agent=(_._)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/NSTV_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="Phim truyện Việt - Nga" tvg-logo="https://i.ibb.co/jJCTwR5/Cinema.png",Cinema | 576P
-#EXTVLCOPT:http-user-agent=(_._)
-http://37.99.5.234/btv/SWM/CINEMA/CINEMA_576p_2000kbps.m3u8
-#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.ibb.co/jJCTwR5/Cinema.png",Cinema | 360P
+#EXTINF:-1 group-title="Phim truyện Việt - Nga" tvg-logo="https://i.ibb.co/jJCTwR5/Cinema.png",Cinema
 #EXTVLCOPT:http-user-agent=(_._)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Cinema_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="Phim truyện Việt - Nga" tvg-logo="http://gg.gg/Bollywood-HD",Bollywood HD | Phim Ấn Độ HD
+#EXTINF:0 tvg-logo="http://gg.gg/SCI-FITV" group-title="Phim truyện Việt - Nga",SONY Sci-Fi
 #EXTVLCOPT:http-user-agent=(_._)
-http://37.99.5.234/btv/SWM/Bollywood_HD/Bollywood_HD_1080p_5000kbps.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://mfe.cliptv.az/dash/Sony_Sci_Fi_SD.ism/playlist.mpd
+#EXTINF:0 tvg-logo="http://gg.gg/BlackTV" group-title="Phim truyện Việt - Nga",SONY black
+#EXTVLCOPT:http-user-agent=(_._)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://mfe.cliptv.az/dash/Sony_Turbo_SD.ism/playlist.mpd
 
-#EXTINF:-1 group-title="Giải Trí" tvg-logo="https://i.ibb.co/kcg5w3p/Paramount-Comedy.png",PARAMOUNT COMEDY | 576P
-#EXTVLCOPT:http-user-agent=(_._)
-http://37.99.5.234/btv/SWM/Paramount_Comedy/Paramount_Comedy_576p_2000kbps.m3u8
-#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.ibb.co/kcg5w3p/Paramount-Comedy.png",PARAMOUNT COMEDY | 360P
+#EXTINF:-1 group-title="Phim truyện Việt - Nga" tvg-logo="https://i.ibb.co/kcg5w3p/Paramount-Comedy.png",PARAMOUNT COMEDY
 #EXTVLCOPT:http-user-agent=(_._)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1635,13 +1575,10 @@ http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2Ydfgw4.png" group-title="Tiếng Nga",Центральное телевидение | Central Television
 #EXTVLCOPT:http-user-agent=(_._)
 http://ott-cdn.ucom.am/s20/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lHn6OlM.png" group-title="Tiếng Nga",Дорама | Dorama HD
-#EXTVLCOPT:http-user-agent=(_._)
-http://37.99.5.234/btv/SWM/Dorama/Dorama_1080p_5000kbps.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lHn6OlM.png" group-title="Tiếng Nga",Дорама | Dorama SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lHn6OlM.png" group-title="Tiếng Nga",Дорама | Dorama
 #EXTVLCOPT:http-user-agent=(_._)
 http://ott-cdn.ucom.am/s95/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F73sS4y/image.jpg" group-title="Tiếng Nga",Арсенал | Arsenal | 480P
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F73sS4y/image.jpg" group-title="Tiếng Nga",Арсенал | Arsenal
 #EXTVLCOPT:http-user-agent=(_._)
 http://ott-cdn.ucom.am/s68/04.m3u8
 #EXTINF:-1 group-title="Tiếng Nga" tvg-logo="http://gg.gg/siesta",Сиеста | Siesta
@@ -1653,21 +1590,6 @@ http://ott-cdn.ucom.am/s55/04.m3u8
 #EXTINF:-1 tvg-logo="http://gg.gg/TBNINT" group-title="Tiếng Nga",ТБН HD | TBN HD
 #EXTVLCOPT:http-user-agent=(_._)
 http://62.32.67.187:1935/WEB_TBN/TBN.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://gg.gg/Maletv" group-title="Khoa Học - Giáo dục Và Khám Phá",Мужской | Male
-#EXTVLCOPT:http-user-agent=(_._)
-http://37.99.5.234/btv/SWM/Muzhskoy/Muzhskoy_576p_2000kbps.m3u8
-#EXTINF:-1 tvg-logo="http://gg.gg/Bobyor" group-title="Khoa Học - Giáo dục Và Khám Phá",Бобёр | Bober
-#EXTVLCOPT:http-user-agent=(_._)
-http://37.99.5.234/btv/SWM/Bober/Bober_576p_2000kbps.m3u8
-#EXTINF:-1 tvg-logo="http://gg.gg/w5uwf" group-title="Thiếu nhi",В гостях у сказки | U Skazki
-#EXTVLCOPT:http-user-agent=(_._)
-http://37.99.5.234/btv/SWM/U_Skazki/U_Skazki_576p_2000kbps.m3u8
-#EXTINF:-1 tvg-logo="http://gg.gg/PoehaliTV" group-title="Khoa Học - Giáo dục Và Khám Phá",Поехали! | Let's go!
-#EXTVLCOPT:http-user-agent=(_._)
-http://37.99.5.234/btv/SWM/Poehali/Poehali_576p_2000kbps.m3u8
-#EXTINF:-1 tvg-logo="http://gg.gg/otvru" group-title="Thiếu nhi",О! | O!
-#EXTVLCOPT:http-user-agent=(_._)
-http://37.99.5.234/btv/SWM/O/O_576p_2000kbps.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yy0YpWT.png" group-title="Khoa Học - Giáo dục Và Khám Phá",Зоо ТВ | Zoo TV
 #EXTVLCOPT:http-user-agent=(_._)
 http://ott-cdn.ucom.am/s92/04.m3u8
@@ -1701,10 +1623,16 @@ http://mfe.cliptv.az/dash/Match_Arena_HD.ism/playlist.mpd
 http://mfe.cliptv.az/dash/Matc_Boec_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="THỂ THAO Việt - Nga" tvg-logo="https://i.imgur.com/K6KvFk6.png",EUROSPORT 1
 #EXTVLCOPT:http-user-agent=(_._)
-http://37.99.5.234/btv/SWM/Eurosport/Eurosport_576p_2000kbps.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://mfe.cliptv.az/dash/EuroSport1_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="THỂ THAO Việt - Nga" tvg-logo="https://i.imgur.com/klqWiwb.png",EUROSPORT 2
 #EXTVLCOPT:http-user-agent=(_._)
-http://37.99.5.234/btv/SWM/Eurosport2/Eurosport2_576p_2000kbps.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://mfe.cliptv.az/dash/Eurosport2_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="THỂ THAO Việt - Nga" tvg-logo="https://i.ibb.co/8YJYhpX/football.png",Футбол | Football
 #EXTVLCOPT:http-user-agent=(_._)
 http://ott-cdn.ucom.am/s41/04.m3u8
@@ -1714,9 +1642,6 @@ http://ott-cdn.ucom.am/s41/04.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Match_Premyer_HD.ism/playlist.mpd
-#EXTINF:-1 tvg-logo="https://iptvxpix.ml/m1global.png" group-title="THỂ THAO Việt - Nga",M-1 Global HD 
-#EXTVLCOPT:http-user-agent=(_._)
-http://37.99.5.234/btv/SWM/M1/M1_1080p_5000kbps.m3u8
 #EXTINF:-1 tvg-logo="http://gg.gg/nashsport" group-title="THỂ THAO Việt - Nga",Матч! Страна SD | Match Country SD
 #EXTVLCOPT:http-user-agent=(_._)
 #KODIPROP:inputstream=inputstream.adaptive
