@@ -144,6 +144,9 @@ http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 tvg-id="anvien" group-title="Khác" tvg-logo="https://i.imgur.com/yD2WAzy.png",NCM
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sda/ncm_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Âm nhạc Việt - Nga" tvg-logo="https://i.imgur.com/dPbRtRS.jpg",MTV
+#EXTVLCOPT:http-user-agent=(_._)
+https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hljdH2o.jpg" group-title="Khác",HiTV
 #EXTVLCOPT:http-user-agent=(_._)
 https://live2cdn.todayplus.com.vn/sdb/smil:hitv.smil/chunklist_b1596000.m3u8
@@ -974,10 +977,16 @@ https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2f
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Disney_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.ibb.co/VW42dzH/360-2021.webp",360 HD
+#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/m52Nolz.png",360 HD
 #EXTVLCOPT:http-user-agent=(_._)
 http://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
-#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.ibb.co/RcwTh3c/360-News-HD.jpg",360 Новости HD | 360 News
+#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/m52Nolz.png",360 International
+#EXTVLCOPT:http-user-agent=(_._)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://mfe.cliptv.az/dash/360_TV_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/TyZGzva.png",360 Новости HD | 360 News
 #EXTVLCOPT:http-user-agent=(_._)
 http://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
 #EXTINF:-1 group-title="Âm nhạc Việt - Nga" tvg-logo="https://i.imgur.com/Y6ZQyc7.png",РУТВ HD | RUTV HD
@@ -1151,9 +1160,6 @@ http://stream2.hardlife.tv:8134/hls-live/hlsGS/_definst_/liveevent/gs.m3u8
 #EXTVLCOPT:http-user-agent=(_._)
 http://62.32.67.187:1935/WEB_Vera24/Vera24.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Âm nhạc Việt - Nga" tvg-logo="https://i.imgur.com/dPbRtRS.jpg",MTV
-#EXTVLCOPT:http-user-agent=(_._)
-https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Âm nhạc Việt - Nga" tvg-logo="https://i.ibb.co/CK00h8T/27-Zhara.png",Жара | Zhara
 #EXTVLCOPT:http-user-agent=(_._)
 #KODIPROP:inputstream=inputstream.adaptive
