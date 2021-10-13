@@ -869,7 +869,7 @@ http://92.43.140.200/s88/04.m3u8
 #EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/zvhT8JO.png",ТВ3 HD | TV3 Russia HD
 #EXTVLCOPT:http-user-agent=(_._)
 https://bl.uma.media/live/407373/HLS/6307840_7/1613013859/5fdc4b8080160a4e56933b0402133da4/playlist.m3u8
-#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/zvhT8JO.png",ТВ3 Россия | TV3 Russia
+#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/zvhT8JO.png",ТВ3 | TV3
 #EXTVLCOPT:http-user-agent=(_._)
 http://185.161.224.216/dash/TV_3_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/CNOYAUN.png",Пятница! HD | Friday HD
@@ -962,6 +962,9 @@ http://185.161.224.216/dash/STS_Love_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/rdLzrpr.png",ТНТ4 HD | TNT4 HD
 #EXTVLCOPT:http-user-agent=(_._)
 https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d161f37174905bc712e81b60d3411fc1/playlist.m3u8
+#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/rdLzrpr.png",ТНТ4 | TNT4
+#EXTVLCOPT:http-user-agent=(_._)
+http://212.76.29.26/btv/SWM/TNT4/TNT4.m3u8
 #EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/XqPS7VR.jpg",2x2 HD
 #EXTVLCOPT:http-user-agent=(_._)
 https://bl.uma.media/live/317805/HLS/4614144_3,2883584_2,1153024_1/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8
@@ -983,12 +986,6 @@ http://185.161.224.216/dash/Disney_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/m52Nolz.png",360 TV HD | 360 TV HD
 #EXTVLCOPT:http-user-agent=(_._)
 http://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
-#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/m52Nolz.png",360 TV | 360 TV
-#EXTVLCOPT:http-user-agent=(_._)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.is_realtime_stream=true
-http://185.161.224.216/dash/360_TV_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/TyZGzva.png",360 Новости HD | 360 News
 #EXTVLCOPT:http-user-agent=(_._)
 http://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
@@ -1013,6 +1010,9 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/MIR24_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/qpGrvHl.jpg",RTVi
+#EXTVLCOPT:http-user-agent=(_._)
+http://212.76.29.26/btv/SWM/RTVi_576p_2000kbps.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xfgtSCn/1rnk.png" group-title="Tiếng Nga",ПРНК | The first Russian National Channel
 #EXTVLCOPT:http-user-agent=(_._)
 http://serv25.vintera.tv:8081/1pnk/1pnk/playlist.m3u8
@@ -1223,6 +1223,9 @@ http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HdPsSKn/AIVA.png" group-title="Âm nhạc Việt - Nga",AIVA HD
 #EXTVLCOPT:http-user-agent=(_._)
 http://live-1.otcnet.ru/aivaya/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7WFQnkR/Music-3.png" group-title="Âm nhạc Việt - Nga",ТНТ Music | TNT Music
+#EXTVLCOPT:http-user-agent=(_._)
+http://212.76.29.26/btv/SWM/Tnt_music/Tnt_music.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wG8KyeG.png" group-title="Âm nhạc Việt - Nga",Страна FM | Strana FM HD
 #EXTVLCOPT:http-user-agent=(_._)
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
@@ -1337,18 +1340,6 @@ http://185.161.224.216/dash/Cinema_SD.ism/playlist.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/MGM_HD.ism/playlist.mpd
-#EXTINF:0 tvg-logo="http://gg.gg/SCI-FITV" group-title="Phim truyện Việt - Nga",SONY Sci-Fi
-#EXTVLCOPT:http-user-agent=(_._)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.is_realtime_stream=true
-http://185.161.224.216/dash/Sony_Sci_Fi_SD.ism/playlist.mpd
-#EXTINF:0 tvg-logo="http://gg.gg/BlackTV" group-title="Phim truyện Việt - Nga",SONY black
-#EXTVLCOPT:http-user-agent=(_._)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.is_realtime_stream=true
-http://185.161.224.216/dash/Sony_Turbo_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Phim truyện Việt - Nga" tvg-logo="https://i.ibb.co/dKL7Tmx/TV-XXI.png",TV XXI
 #EXTVLCOPT:http-user-agent=(_._)
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1647,4 +1638,4 @@ http://185.161.224.216/dash/Match_Premyer_HD.ism/playlist.mpd
 http://185.161.224.216/dash/MATCH_NASH_SPORT_SD.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="http://gg.gg/UFC-HD" group-title="THỂ THAO Việt - Nga",UFC HD
 #EXTVLCOPT:http-user-agent=(_._)
-http://gg.gg/UFC-TB-HD
+https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
