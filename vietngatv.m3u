@@ -908,18 +908,24 @@ http://92.43.140.200/s28/04.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/Muz_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/X5QA7tA.png",7 Канал | 7 Channel
+#EXTVLCOPT:http-user-agent=(_._)
+https://sc.id-tv.kz/7_kanal_38_39.m3u8
 #EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/lDQcphu.jpg",8 Канал | 8 Channel
 #EXTVLCOPT:http-user-agent=(_._)
 http://84.22.141.170/8kanal-krsk.m3u8
-#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/Wk3Q8sT.png",Москва 24 | Moscow 24
+#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/EPTBLSP.png",10 Канал | Channel 10
 #EXTVLCOPT:http-user-agent=(_._)
-http://radio-live-mg.rtr-vesti.ru/hls/moscow_24/playlist_3.m3u8
+http://kuzbass1.ru:8082/10kanal/10kanal_720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hLD874K.jpg" group-title="Tiếng Nga",Вечерняя Москва | Evening Moscow
 #EXTVLCOPT:http-user-agent=(_._)
 https://vmvideo.gcdn.co/streams/1503_161/playlist.m3u8
-#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.ibb.co/7pStSYH/10.png",Телестанция Мир HD | TV station Mir HD
+#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.ibb.co/0cYdNc3/image.png",Енисей HD | Enisey TV HD
 #EXTVLCOPT:http-user-agent=(_._)
-http://serv30.vintera.tv:8081/stanciya_mir/mir/playlist.m3u8
+http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
+#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.ibb.co/ZH5YGZb/k-24.png",Катунь 24 | Katun 24
+#EXTVLCOPT:http-user-agent=(_._)
+https://live.katun24.ru:8082/katun/katun/index.m3u8
 #EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/ARh6WSf.png",Кузбасс 1 FHD | Kuzbass 1 FHD
 #EXTVLCOPT:http-user-agent=(_._)
 https://www.10kanal.ru:1443/10kanal/k24/playlist.m3u8
@@ -929,21 +935,18 @@ http://kuzbass1.ru:8082/10kanal/k24_720/playlist.m3u8
 #EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/ARh6WSf.png",Кузбасс 1 SD | Kuzbass 1 SD
 #EXTVLCOPT:http-user-agent=(_._)
 http://kuzbass1.ru:8082/10kanal/k24_576/playlist.m3u8
+#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/Wk3Q8sT.png",Москва 24 | Moscow 24
+#EXTVLCOPT:http-user-agent=(_._)
+http://radio-live-mg.rtr-vesti.ru/hls/moscow_24/playlist_3.m3u8
 #EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/xQc3UoJ.png",Между.Net HD | Mezhdu.net HD
 #EXTVLCOPT:http-user-agent=(_._)
 http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8
-#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/EPTBLSP.png",Десятка | Channel 10
+#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.ibb.co/7pStSYH/10.png",Телестанция Мир HD | TV station Mir HD
 #EXTVLCOPT:http-user-agent=(_._)
-http://kuzbass1.ru:8082/10kanal/10kanal_720/playlist.m3u8
-#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.ibb.co/0cYdNc3/image.png",Енисей HD | Enisey TV HD
-#EXTVLCOPT:http-user-agent=(_._)
-http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
+http://serv30.vintera.tv:8081/stanciya_mir/mir/playlist.m3u8
 #EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/Gbof1a7.png",ТВК6 | TVK6
 #EXTVLCOPT:http-user-agent=(_._)
 http://air.tvk6.ru/tvk24/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.ibb.co/ZH5YGZb/k-24.png",Катунь 24 | Katun 24
-#EXTVLCOPT:http-user-agent=(_._)
-https://live.katun24.ru:8082/katun/katun/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZKGC5i0.png" group-title="Tiếng Nga",ТНВ-Планета | TNV Planeta
 #EXTVLCOPT:http-user-agent=(_._)
 http://tnv.bonus-tv.ru/cdn/tnvplanet/playlist.m3u8
@@ -1636,6 +1639,3 @@ http://185.161.224.216/dash/Match_Premyer_HD.ism/playlist.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/MATCH_NASH_SPORT_SD.ism/playlist.mpd
-#EXTINF:-1 tvg-logo="http://gg.gg/UFC-HD" group-title="THỂ THAO Việt - Nga",UFC HD
-#EXTVLCOPT:http-user-agent=(_._)
-https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
