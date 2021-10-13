@@ -908,9 +908,6 @@ http://92.43.140.200/s28/04.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/Muz_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/X5QA7tA.png",7 Канал | 7 Channel
-#EXTVLCOPT:http-user-agent=(_._)
-https://sc.id-tv.kz/7_kanal_38_39.m3u8
 #EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/lDQcphu.jpg",8 Канал | 8 Channel
 #EXTVLCOPT:http-user-agent=(_._)
 http://84.22.141.170/8kanal-krsk.m3u8
@@ -989,6 +986,12 @@ http://185.161.224.216/dash/Disney_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/m52Nolz.png",360 TV HD | 360 TV HD
 #EXTVLCOPT:http-user-agent=(_._)
 http://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
+#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/m52Nolz.png",360 TV | 360 TV
+#EXTVLCOPT:http-user-agent=(_._)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://185.161.224.216/dash/360_TV_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/TyZGzva.png",360 Новости HD | 360 News
 #EXTVLCOPT:http-user-agent=(_._)
 http://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
