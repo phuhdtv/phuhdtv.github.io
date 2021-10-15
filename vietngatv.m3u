@@ -132,21 +132,28 @@ http://livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=(_._)
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/TTXVN-SD-ABR/HTV-ABR/TTXVN-SD-720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="sctv2_hd" group-title="Truyền hình cáp SCTV - HCATV" tvg-logo="https://i.imgur.com/sURj0j4.png",SCTV2
+#EXTINF:-1 tvg-id="sctv2_hd" group-title="Giải Trí Việt - Nga" tvg-logo="https://i.imgur.com/sURj0j4.png",SCTV2
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sda/sctv2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="sctv6hd" group-title="Truyền hình cáp SCTV - HCATV" tvg-logo="https://i.imgur.com/x5G9UnO.png",SCTV6 HD | Fim 360
+#EXTINF:-1 tvg-id="sctv6hd" group-title="Phim truyện Việt - Nga" tvg-logo="https://i.imgur.com/x5G9UnO.png",SCTV6 HD
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="Truyền hình cáp SCTV - HCATV" tvg-logo="https://i.imgur.com/BQIrc6A.png",SCTV8 HD | VITV
+#EXTINF:-1 group-title="Trong nước và quốc tế" tvg-logo="https://i.imgur.com/BQIrc6A.png",SCTV8
 #EXTVLCOPT:http-user-agent=(_._)
 http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hljdH2o.jpg" group-title="Truyền hình cáp SCTV - HCATV",HiTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hljdH2o.jpg" group-title="Giải Trí Việt - Nga",HiTV
 #EXTVLCOPT:http-user-agent=(_._)
 https://live2cdn.todayplus.com.vn/sdb/smil:hitv.smil/chunklist_b1596000.m3u8
-#EXTINF:-1 group-title="Truyền hình cáp SCTV - HCATV" tvg-logo="https://i.imgur.com/SCUtit3.png",YouTV
+#EXTINF:-1 group-title="Giải Trí Việt - Nga" tvg-logo="https://i.imgur.com/SCUtit3.png",YouTV
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="vtvcab1hd" group-title="Giải Trí Việt - Nga" tvg-logo="https://i.imgur.com/fVDS1c7.jpg",Vie Giải trí HD
+#EXTVLCOPT:http-user-agent=(_._)
+http://vthanh.xyz/vieon.m3u8?kenh=vie-giai-tri-hd
+#EXTINF:-1 tvg-id="vtvcab19hd" group-title="Phim truyện Việt - Nga" tvg-logo="https://i.imgur.com/mIeWnYi.jpg",Vie Dramas HD
+#EXTVLCOPT:http-user-agent=(_._)
+http://vthanh.xyz/vieon.m3u8?kenh=vie-dramas-hd
 
 #EXTINF:-1 group-title="Mua sắm Việt - Nga" tvg-logo="https://i.imgur.com/HwMUDwy.png",VTV Hyundai Home Shopping
 #EXTVLCOPT:http-user-agent=(_._)
@@ -228,9 +235,6 @@ https://livecdn.fptplay.net/sdc/baclieu_hls.smil/chunklist_b2800000.m3u8
 #EXTINF:-1 group-title="Địa phương Việt - Nga" tvg-logo="https://i.imgur.com/fh49EY8.png",BLTV | Truyền hình Bạc Liêu
 #EXTVLCOPT:http-user-agent=(_._)
 https://tv.thbl.vn/live/tv/tv.m3u8
-#EXTINF:-1 group-title="Địa phương Việt - Nga" tvg-logo="https://i.ibb.co/F5md4sb/THBT-HD.png",THBT HD | Truyền hình Bến Tre
-#EXTVLCOPT:http-user-agent=(_._)
-http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/thbt.m3u8
 #EXTINF:-1 group-title="Địa phương Việt - Nga" tvg-logo="https://i.ibb.co/RHYQMXd/114.png",THBT | Truyền hình Bến Tre
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sdc/bentre_hls.smil/chunklist_b2500000.m3u8
@@ -294,9 +298,12 @@ http://103.90.220.236/bgtvlive/tv1live.m3u8
 #EXTINF:-1 group-title="Địa phương Việt - Nga" tvg-logo="https://i.imgur.com/5Ys78oI.png",Bắc Giang TV HD
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sdc/bacgiang_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Địa phương Việt - Nga" tvg-logo="https://i.ibb.co/KKFvQt8/112.png",TBK HD | Truyền hình Bắc Kạn HD
+#EXTINF:-1 group-title="Địa phương Việt - Nga" tvg-logo="https://i.ibb.co/KKFvQt8/112.png",TBK HD | Truyền hình Bắc Kạn
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sdb/backan_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa phương Việt - Nga" tvg-logo="https://i.ibb.co/KKFvQt8/112.png",TBK | Truyền hình Bắc Kạn
+#EXTVLCOPT:http-user-agent=(_._)
+http://113.160.162.131:8080/tv/bk.m3u8
 #EXTINF:-1 group-title="Địa phương Việt - Nga" tvg-logo="https://i.imgur.com/pP5Y2My.png",BTV HD | Truyền hình Bắc Ninh
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sdc/bacninh_hls.smil/chunklist_b2800000.m3u8
@@ -360,9 +367,6 @@ https://livecdn.fptplay.net/sdc/daklak_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J5sWWVp.png" group-title="Địa phương Việt - Nga",PTD HD | Truyền hình Đắk Nông
 #EXTVLCOPT:http-user-agent=(_._)
 https://htv-drm-live-cdn.fptplay.net/htvonline/daknong.480p.nimble.tms/chunks.m3u8
-#EXTINF:-1 group-title="Địa phương Việt - Nga" tvg-logo="https://i.ibb.co/RD1SpQy/THGL-HD.png",THGL HD | Truyền hình Gia Lai
-#EXTVLCOPT:http-user-agent=(_._)
-http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
 #EXTINF:-1 group-title="Địa phương Việt - Nga" tvg-logo="https://i.imgur.com/vNgKLRe.png",THGL | Truyền hình Gia Lai
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sda/gialai_hls.smil/chunklist_b2500000.m3u8
@@ -492,7 +496,7 @@ https://livecdn.fptplay.net/sda/ninhthuan_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Địa phương Việt - Nga" tvg-logo="https://i.imgur.com/LXuRwJY.png",PTV HD | Truyền hình Phú Thọ
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sda/phutho_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Địa phương Việt - Nga" tvg-logo="https://i.imgur.com/v0zTLT9.png",PTP | Truyền hình Phú Yên HD
+#EXTINF:-1 group-title="Địa phương Việt - Nga" tvg-logo="https://i.imgur.com/v0zTLT9.png",PTP HD | Truyền hình Phú Yên
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sda/phuyen_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Địa phương Việt - Nga" tvg-logo="https://i.imgur.com/xxHfJue.png",QBTV | Truyền hình Quảng Bình
@@ -555,9 +559,6 @@ https://livecdn.fptplay.net/sdc/thainguyen_hls.smil/chunklist_b2800000.m3u8
 #EXTINF:-1 group-title="Địa phương Việt - Nga" tvg-logo="https://i.imgur.com/s08I14p.png",TTV HD | Truyền hình Thanh Hóa
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sda/thanhhoa_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Địa phương Việt - Nga" tvg-logo="https://i.ibb.co/GR1z6zL/HUE-HD.png",TRT HD | Truyền hình Thừa Thiên Huế
-#EXTVLCOPT:http-user-agent=(_._)
-http://trtlive.f77de468.cdnviet.com/TRT-Online/playlist.m3u8
 #EXTINF:-1 group-title="Địa phương Việt - Nga" tvg-logo="https://i.imgur.com/UYVIFLM.png",TRT | Truyền hình Thừa Thiên Huế
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sdc/hue_hls.smil/chunklist_b2500000.m3u8
@@ -875,7 +876,7 @@ http://92.43.140.200/s50/04.m3u8
 #EXTINF:-1 group-title="Truyền hình quốc gia Nga" tvg-logo="https://i.imgur.com/n9zLVyR.png",Звезда HD | Zevezda HD
 #EXTVLCOPT:http-user-agent=(_._)
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
-#EXTINF:-1 group-title="Truyền hình quốc gia Nga" tvg-logo="https://i.imgur.com/n9zLVyR.png",Звезда SD | Zevezda SD
+#EXTINF:-1 group-title="Truyền hình quốc gia Nga" tvg-logo="https://i.imgur.com/n9zLVyR.png",Звезда | Zevezda
 #EXTVLCOPT:http-user-agent=(_._)
 http://92.43.140.200/s85/04.m3u8
 #EXTINF:-1 group-title="Truyền hình quốc gia Nga" tvg-logo="https://i.imgur.com/yqXhUto.png",МИР HD | MIR HD
@@ -917,13 +918,10 @@ http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 group-title="Địa phương Việt - Nga" tvg-logo="https://i.ibb.co/ZH5YGZb/k-24.png",Катунь 24 HD | Katun 24 HD
 #EXTVLCOPT:http-user-agent=(_._)
 https://live.katun24.ru:8082/katun/katun/index.m3u8
-#EXTINF:-1 group-title="Địa phương Việt - Nga" tvg-logo="https://i.imgur.com/ARh6WSf.png",Кузбасс 1 FHD | Kuzbass 1 FHD
-#EXTVLCOPT:http-user-agent=(_._)
-https://www.10kanal.ru:1443/10kanal/k24/playlist.m3u8
-#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/ARh6WSf.png",Кузбасс 1 HD | Kuzbass 1 HD
+#EXTINF:-1 group-title="Địa phương Việt - Nga" tvg-logo="https://i.imgur.com/ARh6WSf.png",Кузбасс 1 HD | Kuzbass 1 HD
 #EXTVLCOPT:http-user-agent=(_._)
 http://kuzbass1.ru:8082/10kanal/k24_720/playlist.m3u8
-#EXTINF:-1 group-title="Địa phương Việt - Nga" tvg-logo="https://i.imgur.com/ARh6WSf.png",Кузбасс 1 SD | Kuzbass 1 SD
+#EXTINF:-1 group-title="Địa phương Việt - Nga" tvg-logo="https://i.imgur.com/ARh6WSf.png",Кузбасс 1 | Kuzbass 1
 #EXTVLCOPT:http-user-agent=(_._)
 http://kuzbass1.ru:8082/10kanal/k24_576/playlist.m3u8
 #EXTINF:-1 group-title="Địa phương Việt - Nga" tvg-logo="https://i.imgur.com/Wk3Q8sT.png",Москва 24 | Moscow 24
@@ -962,7 +960,7 @@ https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d1
 #EXTINF:-1 group-title="Truyền hình quốc gia Nga" tvg-logo="https://i.imgur.com/XqPS7VR.jpg",2x2 HD
 #EXTVLCOPT:http-user-agent=(_._)
 https://bl.uma.media/live/317805/HLS/4614144_3,2883584_2,1153024_1/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8
-#EXTINF:-1 group-title="Truyền hình quốc gia Nga" tvg-logo="https://i.imgur.com/XqPS7VR.jpg",2x2 SD
+#EXTINF:-1 group-title="Truyền hình quốc gia Nga" tvg-logo="https://i.imgur.com/XqPS7VR.jpg",2x2
 #EXTVLCOPT:http-user-agent=(_._)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1004,7 +1002,7 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 group-title="Truyền hình quốc gia Nga" tvg-logo="https://i.imgur.com/aMOLqMW.png",МИР 24 HD | MIR 24 HD
 #EXTVLCOPT:http-user-agent=(_._)
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 group-title="Truyền hình quốc gia Nga" tvg-logo="https://i.imgur.com/aMOLqMW.png",МИР 24 SD | MIR 24 SD
+#EXTINF:-1 group-title="Truyền hình quốc gia Nga" tvg-logo="https://i.imgur.com/aMOLqMW.png",МИР 24 | MIR 24
 #EXTVLCOPT:http-user-agent=(_._)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1016,10 +1014,13 @@ http://serv25.vintera.tv:8081/1pnk/1pnk/playlist.m3u8
 #EXTINF:-1 group-title="Truyền hình quốc gia Nga" tvg-logo="https://i.imgur.com/L2yv24j.png",CGTN Русский | CGTN Russian
 #EXTVLCOPT:http-user-agent=(_._)
 http://liveru.cgtn.com/1000r/prog_index.m3u8
-#EXTINF:-1 group-title="Trong nước và quốc tế" tvg-logo="https://i.imgur.com/8MsbPCU.png",Евроновости | EURONEWS | 540P
+#EXTINF:-1 group-title="Trong nước và quốc tế" tvg-logo="https://i.imgur.com/8MsbPCU.png",EURONEWS In English HD
+#EXTVLCOPT:http-user-agent=(_._)
+https://euronews-euronews-world-1.roku.wurl.com/manifest/71bf778598cc9ce36952bb8a3331551a.m3u8
+#EXTINF:-1 group-title="Trong nước và quốc tế" tvg-logo="https://i.imgur.com/8MsbPCU.png",EURONEWS In Russian | 540P
 #EXTVLCOPT:http-user-agent=(_._)
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8
-#EXTINF:-1 group-title="Trong nước và quốc tế" tvg-logo="https://i.imgur.com/8MsbPCU.png",Евроновости | EURONEWS | 480P
+#EXTINF:-1 group-title="Trong nước và quốc tế" tvg-logo="https://i.imgur.com/8MsbPCU.png",EURONEWS In Russian | 480P
 #EXTVLCOPT:http-user-agent=(_._)
 http://92.43.140.200/s89/04.m3u8
 #EXTINF:-1 group-title="Truyền hình quốc gia Nga" tvg-logo="https://i.imgur.com/C6fylkt.png",Russia Today Documentary RUSSIAN HD
