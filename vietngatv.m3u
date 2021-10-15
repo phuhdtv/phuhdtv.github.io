@@ -719,6 +719,12 @@ https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/index.m3u8
 #EXTINF:0 group-title="Thiếu nhi Việt - Nga" tvg-logo="https://i.imgur.com/utTX02q.png",DreamWorks HD
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="Trong nước và quốc tế" tvg-logo="https://i.imgur.com/8MsbPCU.png",EURONEWS | 540P
+#EXTVLCOPT:http-user-agent=(_._)
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8
+#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/8MsbPCU.png",EURONEWS | 480P
+#EXTVLCOPT:http-user-agent=(_._)
+http://92.43.140.200/s89/04.m3u8
 #EXTINF:-1 tvg-id="fashion_tv" group-title="Giải Trí Việt - Nga" tvg-logo="https://i.imgur.com/5KrE9kR.png",Fashion TV HD
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
@@ -918,6 +924,9 @@ http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 group-title="Địa phương Việt - Nga" tvg-logo="https://i.ibb.co/ZH5YGZb/k-24.png",Катунь 24 HD | Katun 24 HD
 #EXTVLCOPT:http-user-agent=(_._)
 https://live.katun24.ru:8082/katun/katun/index.m3u8
+#EXTINF:-1 group-title="Địa phương Việt - Nga" tvg-logo="https://i.imgur.com/ARh6WSf.png",Кузбасс 1 FHD | Kuzbass 1 FHD
+#EXTVLCOPT:http-user-agent=(_._)
+https://www.10kanal.ru:1443/10kanal/k24/playlist.m3u8
 #EXTINF:-1 group-title="Địa phương Việt - Nga" tvg-logo="https://i.imgur.com/ARh6WSf.png",Кузбасс 1 HD | Kuzbass 1 HD
 #EXTVLCOPT:http-user-agent=(_._)
 http://kuzbass1.ru:8082/10kanal/k24_720/playlist.m3u8
@@ -1014,15 +1023,6 @@ http://serv25.vintera.tv:8081/1pnk/1pnk/playlist.m3u8
 #EXTINF:-1 group-title="Truyền hình quốc gia Nga" tvg-logo="https://i.imgur.com/L2yv24j.png",CGTN Русский | CGTN Russian
 #EXTVLCOPT:http-user-agent=(_._)
 http://liveru.cgtn.com/1000r/prog_index.m3u8
-#EXTINF:-1 group-title="Trong nước và quốc tế" tvg-logo="https://i.imgur.com/8MsbPCU.png",EURONEWS In English HD
-#EXTVLCOPT:http-user-agent=(_._)
-https://euronews-euronews-world-1.roku.wurl.com/manifest/71bf778598cc9ce36952bb8a3331551a.m3u8
-#EXTINF:-1 group-title="Trong nước và quốc tế" tvg-logo="https://i.imgur.com/8MsbPCU.png",EURONEWS In Russian | 540P
-#EXTVLCOPT:http-user-agent=(_._)
-http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8
-#EXTINF:-1 group-title="Trong nước và quốc tế" tvg-logo="https://i.imgur.com/8MsbPCU.png",EURONEWS In Russian | 480P
-#EXTVLCOPT:http-user-agent=(_._)
-http://92.43.140.200/s89/04.m3u8
 #EXTINF:-1 group-title="Truyền hình quốc gia Nga" tvg-logo="https://i.imgur.com/C6fylkt.png",Russia Today Documentary RUSSIAN HD
 #EXTVLCOPT:http-user-agent=(_._)
 https://rtmp.api.rt.com/hls/rtdru.m3u8
