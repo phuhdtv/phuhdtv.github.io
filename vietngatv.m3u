@@ -715,9 +715,6 @@ https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/index.m3u8
 #EXTINF:0 group-title="Thiếu nhi Việt - Nga" tvg-logo="https://i.imgur.com/utTX02q.png",DreamWorks HD
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/8MsbPCU.png",EURONEWS HD
-#EXTVLCOPT:http-user-agent=(_._)
-https://euronews-euronews-world-1.roku.wurl.com/manifest/71bf778598cc9ce36952bb8a3331551a.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/8MsbPCU.png",EURONEWS | 540P
 #EXTVLCOPT:http-user-agent=(_._)
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8
@@ -1184,6 +1181,9 @@ http://185.161.224.216/dash/Bridge_TV_Dance_SD.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wG8KyeG.png" group-title="Ca nhạc Việt - Nga",Страна FM | Strana FM HD
 #EXTVLCOPT:http-user-agent=(_._)
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aWFlyoK.png" group-title="Ca nhạc Việt - Nga",Жар Птица | Firebird
+#EXTVLCOPT:http-user-agent=(_._)
+http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
 #EXTINF:-1 group-title="Ca nhạc Việt - Nga" tvg-logo="https://i.ibb.co/6HbhRDw/image.png",МузСоюз | Music Union
 #EXTVLCOPT:http-user-agent=(_._)
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
