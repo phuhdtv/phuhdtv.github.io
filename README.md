@@ -19,6 +19,6 @@ Download SimpleTV: http://gg.gg/simple-tv
 
 Link HaNoi IPTV: http://gg.gg/hanoiiptv
 
-Link Textuploader: http://gg.gg/iptv-2021
+Link kupjtv: http://gg.gg/kupjtv
 
 Link Vthanh IPTV: http://lienket.vn/vthanhtivi
