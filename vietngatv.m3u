@@ -203,9 +203,6 @@ https://livecdn.fptplay.net/hda3/htvcmusic_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htvc_fbnc" group-title="Truyền hình TPHCM (HTV - HTVC)" tvg-logo="https://i.imgur.com/lKdRTx0.png",HTVC FBNC HD
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sdc/fbnchd_hls.smil/chunklist_b2800000.m3u8
-#EXTINF:-1 tvg-id="htvc_fbnc" group-title="Truyền hình TPHCM (HTV - HTVC)" tvg-logo="https://i.imgur.com/lKdRTx0.png",HTVC FBNC FHD
-#EXTVLCOPT:http-user-agent=(_._)
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FBNC-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="Mua sắm Việt - Nga" tvg-logo="https://i.ibb.co/BVFHzxd/HTVC-Mua-Sam.png",HTVC Mua Sắm
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sdb/htvcshopping_hls.smil/chunklist_b2500000.m3u8
@@ -664,7 +661,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CINEWORLD-SD-720p/playlist.m3u8
 #EXTINF:-1 group-title="Ca nhạc Việt - Nga" tvg-logo="https://i.imgur.com/p7w1FbM.png",CHANNEL [V] HD | Dừng phát sóng
 #EXTVLCOPT:http-user-agent=(_._)
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="cna_channel_news_asia" group-title="Quốc tế" tvg-logo="https://i.imgur.com/LaEZFTJ.png",Channel News Asia
+#EXTINF:-1 tvg-id="cna_channel_news_asia" group-title="Quốc tế" tvg-logo="https://i.imgur.com/LaEZFTJ.png",Channel News Asia | CNA
 #EXTVLCOPT:http-user-agent=(_._)
 http://livecdn.fptplay.net/sdb/newsasia_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="cnn" group-title="Quốc tế" tvg-logo="https://i.imgur.com/MX0dYQ9.png",Cable News Network SD
@@ -806,13 +803,13 @@ http://cdnmg.secure.live.rtr-vesti.ru/hls/russia1_plus4/playlist_3.m3u8
 #EXTINF:-1 group-title="Thể thao Việt - Nga" tvg-logo="https://i.imgur.com/kFdooR4.png",Матч! ТВ | Match TV
 #EXTVLCOPT:http-user-agent=(_._)
 http://iptv.ktkru.ru:8003/index.m3u8
-#EXTINF:-1 group-title="Thể thao Việt - Nga" tvg-logo="https://i.imgur.com/kFdooR4.png",Матч! ТВ HD | Match TV HD
+#EXTINF:-1 group-title="Thể thao Việt - Nga" tvg-logo="https://i.imgur.com/G6TzC4i.png",Матч! ТВ HD | Match TV HD
 #EXTVLCOPT:http-user-agent=(_._)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/Match_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="Thể thao Việt - Nga" tvg-logo="https://i.imgur.com/kFdooR4.png",Матч! ТВ HD | Acestream
+#EXTINF:-1 group-title="Acestream" tvg-logo="https://i.imgur.com/G6TzC4i.png",Матч! ТВ FHD | Match TV FHD
 http://127.0.0.1:6878/ace/getstream?id=c7f93329f3790d54491fe2c4146b59d0514d38b8
 #EXTINF:-1 group-title="Truyền hình quốc gia Nga" tvg-logo="https://i.imgur.com/DtQX5P2.png",НТВ HD | NTV Russia HD
 #EXTVLCOPT:http-user-agent=(_._)
@@ -933,7 +930,7 @@ http://kuzbass1.ru:8082/10kanal/k24_576/playlist.m3u8
 http://radio-live-mg.rtr-vesti.ru/hls/moscow_24/playlist_3.m3u8
 #EXTINF:-1 group-title="KÊNH LÂN CẬN" tvg-logo="https://iptvxpix.ml/doverie.png",Москва Доверие | Moscow Doverie
 #EXTVLCOPT:http-user-agent=(_._)
-http://cdnmg.secure.live.rtr-vesti.ru/hls/doverie/playlist_2.m3u8
+http://radio-live-mg.rtr-vesti.ru/hls/doverie/playlist_3.m3u8
 #EXTINF:-1 group-title="KÊNH LÂN CẬN" tvg-logo="https://i.imgur.com/xQc3UoJ.png",Между.Net HD | Mezhdu.net HD
 #EXTVLCOPT:http-user-agent=(_._)
 http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8
@@ -1053,10 +1050,10 @@ https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
 #EXTINF:-1 group-title="Truyền hình quốc gia Nga" tvg-logo="https://i.imgur.com/EMwsDdd.png",Красная линия | Red line
 #EXTVLCOPT:http-user-agent=(_._)
 http://kprf-htlive.cdn.ngenix.net/live/stream_high/playlist.m3u8
-#EXTINF:-1 group-title="Truyền hình quốc gia Nga" tvg-logo="https://i.imgur.com/0StosQm.png",ЛДПР ТВ HD | LDPR HD
+#EXTINF:-1 group-title="Thông tin và chính trị" tvg-logo="https://i.imgur.com/0StosQm.png",ЛДПР ТВ HD | LDPR HD
 #EXTVLCOPT:http-user-agent=(_._)
 http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
-#EXTINF:-1 group-title="KÊNH LÂN CẬN" tvg-logo="https://i.ibb.co/LSHq0Tr/image.png",Союз | Soyz
+#EXTINF:-1 group-title="Tôn giáo Việt - Nga" tvg-logo="https://i.ibb.co/LSHq0Tr/image.png",Союз | Soyz
 #EXTVLCOPT:http-user-agent=(_._)
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 group-title="Khoa giáo Việt - Nga" tvg-logo="https://i.imgur.com/KUfXhKC.png",Моя планета | My Planeta
@@ -1071,7 +1068,7 @@ http://91.192.168.242:9091
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/OceanTV_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.ibb.co/XkYnRKD/12-Nostalgija.png",Ностальгия | Nostalgia
+#EXTINF:-1 group-title="Khoa giáo Việt - Nga" tvg-logo="https://i.ibb.co/XkYnRKD/12-Nostalgija.png",Ностальгия | Nostalgia
 #EXTVLCOPT:http-user-agent=(_._)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1083,12 +1080,12 @@ http://185.161.224.216/dash/Nostalgiya_SD.ism/playlist.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/Oxota_i_Ribalka_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/vLpm8tN.png",TV BRICS Chinese
+#EXTVLCOPT:http-user-agent=(_._)
+https://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/vLpm8tN.png",TV BRICS English
 #EXTVLCOPT:http-user-agent=(_._)
 http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Truyền hình quốc gia Nga" tvg-logo="https://i.imgur.com/vLpm8tN.png",TV BRICS Russian
-#EXTVLCOPT:http-user-agent=(_._)
-http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Khoa giáo Việt - Nga" tvg-logo="https://i.imgur.com/IgFmj3L.png",NANO TV
 #EXTVLCOPT:http-user-agent=(_._)
 http://nano.teleservice.su:8080/hls/nano.m3u8
@@ -1149,13 +1146,13 @@ http://185.161.224.216/dash/Viasat_Nature_SD.ism/playlist.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/HD_life.ism/playlist.mpd
-#EXTINF:-1 group-title="Truyền hình quốc gia Nga" tvg-logo="https://i.ibb.co/WKSjS2J/3angels-1.png",Три Ангела | Three Angels
+#EXTINF:-1 group-title="Tôn giáo Việt - Nga" tvg-logo="https://i.ibb.co/WKSjS2J/3angels-1.png",Три Ангела | Three Angels
 #EXTVLCOPT:http-user-agent=(_._)
 http://hls.tv.3angels.ru/stream/HQ.m3u8
-#EXTINF:-1 group-title="Truyền hình quốc gia Nga" tvg-logo="https://i.imgur.com/BJJN5Zp.jpg",Global Star TV
+#EXTINF:-1 group-title="KÊNH LÂN CẬN" tvg-logo="https://i.imgur.com/BJJN5Zp.jpg",Global Star TV
 #EXTVLCOPT:http-user-agent=(_._)
 http://stream2.hardlife.tv:8134/hls-live/hlsGS/_definst_/liveevent/gs.m3u8
-#EXTINF:-1 group-title="Truyền hình quốc gia Nga" tvg-logo="https://i.ibb.co/zbhdTwV/Vera24TV.png",Вера 24 HD | Vera 24 HD
+#EXTINF:-1 group-title="KÊNH LÂN CẬN" tvg-logo="https://i.ibb.co/zbhdTwV/Vera24TV.png",Вера 24 HD | Vera 24 HD
 #EXTVLCOPT:http-user-agent=(_._)
 http://62.32.67.187:1935/WEB_Vera24/Vera24.stream/playlist.m3u8
 
@@ -1499,6 +1496,12 @@ http://185.161.224.216/dash/Mir_seriala_SD.ism/playlist.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/NSTV_SD.ism/playlist.mpd
+#EXTINF:0 tvg-logo="http://gg.gg/MKinoTV" group-title="Phim truyện Việt - Nga",Мужское кино | Dành cho Nam giới
+#EXTVLCOPT:http-user-agent=(_._)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://185.161.224.216/dash/Mujskoye_Kino_SD.ism/playlist.mpd
 
 #EXTINF:-1 group-title="Thiếu nhi Việt - Nga" tvg-logo="https://i.imgur.com/6UpTmJa.jpg",Мама | Mama
 #EXTVLCOPT:http-user-agent=(_._)
@@ -1527,7 +1530,7 @@ http://92.43.140.200/s55/04.m3u8
 #EXTINF:-1 group-title="Khoa giáo Việt - Nga" tvg-logo="https://i.imgur.com/k1Gt1Rc.png",Охотник и Рыболов | Hunter and Fisherman HD 
 #EXTVLCOPT:http-user-agent=(_._)
 http://92.43.140.200/s62/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0acD6tO.png" group-title="Truyền hình quốc gia Nga",Министерство идей | Ministry of Ideas
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0acD6tO.png" group-title="Khoa giáo Việt - Nga",Министерство идей | Ministry of Ideas
 #EXTVLCOPT:http-user-agent=(_._)
 http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WInGwXw.png" group-title="Khoa giáo Việt - Nga",Московский образовательный | Mosobir TV
@@ -1587,22 +1590,22 @@ http://185.161.224.216/dash/Investigation_Discovery_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Truyền hình quốc gia Nga" tvg-logo="https://i.imgur.com/HWqxjGl.png",БелРос
 #EXTVLCOPT:http-user-agent=(_._)
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2Ydfgw4.png" group-title="Truyền hình quốc gia Nga",Центральное телевидение | Central Television
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Ydfgw4.png" group-title="Khoa giáo Việt - Nga",Центральное телевидение | Central Television
 #EXTVLCOPT:http-user-agent=(_._)
 http://92.43.140.200/s20/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lHn6OlM.png" group-title="Truyền hình quốc gia Nga",Дорама | Dorama
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lHn6OlM.png" group-title="Khoa giáo Việt - Nga",Дорама | Dorama
 #EXTVLCOPT:http-user-agent=(_._)
 http://92.43.140.200/s95/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F73sS4y/image.jpg" group-title="Truyền hình quốc gia Nga",Арсенал | Arsenal
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F73sS4y/image.jpg" group-title="Khoa giáo Việt - Nga",Арсенал | Arsenal
 #EXTVLCOPT:http-user-agent=(_._)
 http://92.43.140.200/s68/04.m3u8
-#EXTINF:-1 group-title="Truyền hình quốc gia Nga" tvg-logo="http://gg.gg/siesta",Сиеста | Siesta
+#EXTINF:-1 group-title="Khoa giáo Việt - Nga" tvg-logo="http://gg.gg/siesta",Сиеста | Siesta
 #EXTVLCOPT:http-user-agent=(_._)
 http://1hdru-hls-otcnet.cdnvideo.ru/siesta/index.m3u8
-#EXTINF:-1 group-title="Truyền hình quốc gia Nga" tvg-logo="http://gg.gg/The-Fisherman",Рыболов | The Fisherman
+#EXTINF:-1 group-title="Khoa giáo Việt - Nga" tvg-logo="http://gg.gg/The-Fisherman",Рыболов | The Fisherman
 #EXTVLCOPT:http-user-agent=(_._)
 http://92.43.140.200/s55/04.m3u8
-#EXTINF:-1 tvg-logo="http://gg.gg/TBNINT" group-title="Truyền hình quốc gia Nga",ТБН HD | TBN HD
+#EXTINF:-1 tvg-logo="http://gg.gg/TBNINT" group-title="Tôn giáo Việt - Nga",ТБН HD | TBN HD
 #EXTVLCOPT:http-user-agent=(_._)
 http://62.32.67.187:1935/WEB_TBN/TBN.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yy0YpWT.png" group-title="Khoa giáo Việt - Nga",Зоо ТВ | Zoo TV
@@ -1657,7 +1660,7 @@ http://92.43.140.200/s41/04.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/Match_Premyer_HD.ism/playlist.mpd
-#EXTINF:-1 tvg-logo="http://gg.gg/mpremier" group-title="Thể thao Việt - Nga",Матч! Премьер HD | Ace Stream
+#EXTINF:-1 tvg-logo="http://gg.gg/mpremier" group-title="Acestream",Матч! Премьер FHD | Russian Premier League
 #EXTVLCOPT:http-user-agent=(_._)
 http://127.0.0.1:6878/ace/getstream?id=513dabafb21429d6eff9813022b2d41f49dc5bdb
 #EXTINF:-1 tvg-logo="http://gg.gg/nashsport" group-title="Thể thao Việt - Nga",Матч! Страна SD | Match Country SD
@@ -1666,19 +1669,19 @@ http://127.0.0.1:6878/ace/getstream?id=513dabafb21429d6eff9813022b2d41f49dc5bdb
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/MATCH_NASH_SPORT_SD.ism/playlist.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CJPGHKw.png" group-title="Thể thao Việt - Nga",Матч! Футбол 1 FHD | Ace Stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJPGHKw.png" group-title="Acestream",Матч! Футбол 1 FHD | Football 1
 http://127.0.0.1:6878/ace/getstream?id=dd2c44a9723af914d02b31bc7bb9e5e3d3ad9743
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Lw5Gd3b.png" group-title="Thể thao Việt - Nga",Матч! Футбол 2 FHD | Ace Stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lw5Gd3b.png" group-title="Acestream",Матч! Футбол 2 FHD | Football 2
 http://127.0.0.1:6878/ace/getstream?id=cfc79383b29505fe88c4875e4997cbfce1a5196f
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LKOT5jE.png" group-title="Thể thao Việt - Nga",Матч! Футбол 3 FHD | Ace Stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LKOT5jE.png" group-title="Acestream",Матч! Футбол 3 FHD | Football 3
 http://127.0.0.1:6878/ace/getstream?id=b120fc00572b516163aaa624f0d1ba095af58f9a
-#EXTINF:-1 tvg-logo="https://betonmobile.ru/wp-content/uploads/2020/09/asdasdasd.jpg" group-title="Thể thao Việt - Nga",PIMPLETV 1 HD | Ace Stream
+#EXTINF:-1 tvg-logo="https://betonmobile.ru/wp-content/uploads/2020/09/asdasdasd.jpg" group-title="Acestream",PIMPLETV 1 HD | Football
 http://127.0.0.1:6878/ace/getstream?id=11b6aa16e978a409504b9e3e9c3b29c56f392bdf
-#EXTINF:-1 tvg-logo="https://betonmobile.ru/wp-content/uploads/2020/09/asdasdasd.jpg" group-title="Thể thao Việt - Nga",PIMPLETV 2 HD | Ace Stream
+#EXTINF:-1 tvg-logo="https://betonmobile.ru/wp-content/uploads/2020/09/asdasdasd.jpg" group-title="Acestream",PIMPLETV 2 HD | Football
 http://127.0.0.1:6878/ace/getstream?id=955bc653f090c238b8d933b41d8a66fee1bf7893
-#EXTINF:-1 tvg-logo="https://betonmobile.ru/wp-content/uploads/2020/09/asdasdasd.jpg" group-title="Thể thao Việt - Nga",PIMPLETV 3 HD | Ace Stream
+#EXTINF:-1 tvg-logo="https://betonmobile.ru/wp-content/uploads/2020/09/asdasdasd.jpg" group-title="Acestream",PIMPLETV 3 HD | Football
 http://127.0.0.1:6878/ace/getstream?id=d2a36e305458e200c2a4952317fc33e38bd80187
-#EXTINF:-1 tvg-logo="https://betonmobile.ru/wp-content/uploads/2020/09/asdasdasd.jpg" group-title="Thể thao Việt - Nga",PIMPLETV 4 HD | Ace Stream
+#EXTINF:-1 tvg-logo="https://betonmobile.ru/wp-content/uploads/2020/09/asdasdasd.jpg" group-title="Acestream",PIMPLETV 4 HD | Football
 http://127.0.0.1:6878/ace/getstream?id=722f34a71cedbeb96bda429dc0f4d0e015995ea4
-#EXTINF:-1 tvg-logo="https://betonmobile.ru/wp-content/uploads/2020/09/asdasdasd.jpg" group-title="Thể thao Việt - Nga",PIMPLETV 5 HD | Ace Stream
+#EXTINF:-1 tvg-logo="https://betonmobile.ru/wp-content/uploads/2020/09/asdasdasd.jpg" group-title="Acestream",PIMPLETV 5 HD | Football
 http://127.0.0.1:6878/ace/getstream?id=ceaa2553d401c294166b8e498f5aaa1ef1aee8e4
