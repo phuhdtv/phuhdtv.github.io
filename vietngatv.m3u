@@ -809,8 +809,6 @@ http://iptv.ktkru.ru:8003/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/Match_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="Acestream" tvg-logo="https://i.imgur.com/G6TzC4i.png",Матч! ТВ FHD | Match TV FHD
-http://127.0.0.1:6878/ace/getstream?id=c7f93329f3790d54491fe2c4146b59d0514d38b8
 #EXTINF:-1 group-title="Truyền hình quốc gia Nga" tvg-logo="https://i.imgur.com/DtQX5P2.png",НТВ HD | NTV Russia HD
 #EXTVLCOPT:http-user-agent=(_._)
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1210,9 +1208,15 @@ http://92.43.140.200/s35/04.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/Mezzo_Live_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="Ca nhạc Việt - Nga" tvg-logo="https://i.imgur.com/dPbRtRS.jpg",MTV
+#EXTINF:-1 group-title="Ca nhạc Việt - Nga" tvg-logo="https://i.imgur.com/dPbRtRS.jpg",MTV | Ca nhạc Việt Nam và quốc tế 
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Ca nhạc Việt - Nga" tvg-logo="https://i.imgur.com/qjuzgec.png",MTV HD | Ca nhạc Nga
+#EXTVLCOPT:http-user-agent=(_._)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://185.161.224.216/dash/MTV_Russian_SD.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2qx7gT2/nr.png" group-title="Ca nhạc Việt - Nga",Новое Радио | New Radio
 #EXTVLCOPT:http-user-agent=(_._)
 https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
@@ -1669,6 +1673,9 @@ http://127.0.0.1:6878/ace/getstream?id=513dabafb21429d6eff9813022b2d41f49dc5bdb
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/MATCH_NASH_SPORT_SD.ism/playlist.mpd
+
+#EXTINF:-1 group-title="Acestream" tvg-logo="https://i.imgur.com/G6TzC4i.png",Матч! ТВ FHD | Match TV FHD
+http://127.0.0.1:6878/ace/getstream?id=c7f93329f3790d54491fe2c4146b59d0514d38b8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CJPGHKw.png" group-title="Acestream",Матч! Футбол 1 FHD | Football 1
 http://127.0.0.1:6878/ace/getstream?id=dd2c44a9723af914d02b31bc7bb9e5e3d3ad9743
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Lw5Gd3b.png" group-title="Acestream",Матч! Футбол 2 FHD | Football 2
