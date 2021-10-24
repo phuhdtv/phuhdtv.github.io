@@ -1208,15 +1208,9 @@ http://92.43.140.200/s35/04.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/Mezzo_Live_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="Ca nhạc Việt - Nga" tvg-logo="https://i.imgur.com/dPbRtRS.jpg",MTV | Ca nhạc Việt Nam và quốc tế 
+#EXTINF:-1 group-title="Ca nhạc Việt - Nga" tvg-logo="https://i.imgur.com/dPbRtRS.jpg",MTV Việt Nam
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Ca nhạc Việt - Nga" tvg-logo="https://i.imgur.com/qjuzgec.png",MTV HD | Ca nhạc Nga
-#EXTVLCOPT:http-user-agent=(_._)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.is_realtime_stream=true
-http://185.161.224.216/dash/MTV_Russian_SD.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2qx7gT2/nr.png" group-title="Ca nhạc Việt - Nga",Новое Радио | New Radio
 #EXTVLCOPT:http-user-agent=(_._)
 https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
