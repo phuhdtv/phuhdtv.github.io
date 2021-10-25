@@ -1530,6 +1530,9 @@ http://185.161.224.216/dash/NSTV_SD.ism/playlist.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/Mujskoye_Kino_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="Phim truyện Việt - Nga" tvg-logo="http://gg.gg/siesta",Сиеста | Siesta
+#EXTVLCOPT:http-user-agent=(_._)
+http://1hdru-hls-otcnet.cdnvideo.ru/siesta/index.m3u8
 
 #EXTINF:-1 group-title="Thiếu nhi Việt - Nga" tvg-logo="https://i.imgur.com/6UpTmJa.jpg",Мама | Mama
 #EXTVLCOPT:http-user-agent=(_._)
@@ -1627,9 +1630,6 @@ http://92.43.140.200/s95/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F73sS4y/image.jpg" group-title="Khoa giáo Việt - Nga",Арсенал | Arsenal
 #EXTVLCOPT:http-user-agent=(_._)
 http://92.43.140.200/s68/04.m3u8
-#EXTINF:-1 group-title="Khoa giáo Việt - Nga" tvg-logo="http://gg.gg/siesta",Сиеста | Siesta
-#EXTVLCOPT:http-user-agent=(_._)
-http://1hdru-hls-otcnet.cdnvideo.ru/siesta/index.m3u8
 #EXTINF:-1 group-title="Khoa giáo Việt - Nga" tvg-logo="http://gg.gg/The-Fisherman",Рыболов | The Fisherman
 #EXTVLCOPT:http-user-agent=(_._)
 http://92.43.140.200/s55/04.m3u8
