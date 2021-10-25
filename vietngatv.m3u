@@ -33,8 +33,20 @@ https://livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="Truyền hình Việt Nam (VTV)" tvg-logo="https://i.imgur.com/cx1fx0b.png",VTV9 HD
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtv9hd" group-title="Truyền hình Việt Nam (VTV)" tvg-logo="https://i.imgur.com/AtNjigl.png",VTV9
+#EXTVLCOPT:http-user-agent=(_._)
+https://ott.avg.vn/live/vtv9/chunklist_1.m3u8
+#EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTV" tvg-logo="https://i.ibb.co/NYSr7Kn/VTVCAB1-BEARTV.png",Vie Giải trí HD
+#EXTVLCOPT:http-user-agent=(_._)
+http://vthanh.xyz/vieon.m3u8?type=tivi&kenh=vie-giai-tri-hd
+#EXTINF:-1 tvg-id="vtvcab19hd" group-title="VTV" tvg-logo="https://i.ibb.co/T84Wq4j/VTVCAB10-BEARTV.png",Vie Dramas HD
+#EXTVLCOPT:http-user-agent=(_._)
+http://vthanh.xyz/vieon.m3u8?type=tivi&kenh=vie-dramas-hd
 
-#EXTINF:-1 tvg-id="vtc1" group-title="Truyền hình KTS Việt Nam (VTC)" tvg-logo="https://i.imgur.com/DnK6kzz.png",VTC1 HD
+#EXTINF:-1 tvg-id="vtc1" group-title="Truyền hình KTS Việt Nam (VTC)" tvg-logo="https://i.imgur.com/DnK6kzz.png",VTC1
+#EXTVLCOPT:http-user-agent=(_._)
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTC1-SD-720p/playlist.m3u8
+#EXTINF:-1 tvg-id="vtc1" group-title="Truyền hình KTS Việt Nam (VTC)" tvg-logo="https://i.imgur.com/8jgYSbN.png",VTC1 HD
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtc2" group-title="Truyền hình KTS Việt Nam (VTC)" tvg-logo="https://i.imgur.com/8Y2vdek.png",VTC2
@@ -43,6 +55,9 @@ https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc3" group-title="Truyền hình KTS Việt Nam (VTC)" tvg-logo="https://i.imgur.com/kwujTlD.png",VTC3 HD
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtc4hd" group-title="Truyền hình KTS Việt Nam (VTC)" tvg-logo="https://i.imgur.com/v9DNS85.png",VTC4
+#EXTVLCOPT:http-user-agent=(_._)
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTC4-SD-ABR/HTV-ABR/VTC4-SD-480p/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc4hd" group-title="Truyền hình KTS Việt Nam (VTC)" tvg-logo="https://i.imgur.com/v9DNS85.png",VTC4 HD
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/hda2/vtc4_vhls.smil/chunklist_b5000000.m3u8
@@ -194,6 +209,9 @@ https://livecdn.fptplay.net/hda3/htvcplus_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htvc_ca_nhac" group-title="Ca nhạc Việt - Nga" tvg-logo="https://i.imgur.com/PgOD7m8.png",HTVC Ca Nhạc HD | Việt Nam và Quốc tế
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/hda3/htvcmusic_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="htvc_fbnc" group-title="Truyền hình TPHCM (HTV - HTVC)" tvg-logo="https://i.imgur.com/lKdRTx0.png",HTVC FBNC FHD
+#EXTVLCOPT:http-user-agent=(_._)
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FBNC-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htvc_fbnc" group-title="Truyền hình TPHCM (HTV - HTVC)" tvg-logo="https://i.imgur.com/lKdRTx0.png",HTVC FBNC HD
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sdc/fbnchd_hls.smil/chunklist_b2800000.m3u8
@@ -288,7 +306,7 @@ http://113.160.162.131:8080/tv/bk.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.imgur.com/pP5Y2My.png",BTV HD | Truyền hình Bắc Ninh
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sdc/bacninh_hls.smil/chunklist_b2800000.m3u8
-#EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.ibb.co/Xs0nf0N/125.png",CTV HD | Truyền hình Cà Mau
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.imgur.com/gWc8xVD.jpg",CTV HD | Truyền hình Cà Mau
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sdc/camau_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.imgur.com/ILVDaWL.jpg",CRTV HD | Truyền hình Cao Bằng
@@ -315,6 +333,9 @@ http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 #EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/qLxtQIc.png",Đà Nẵng TV2 FHD
 #EXTVLCOPT:http-user-agent=(_._)
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
+#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/9I4gX5Y.png",Đà Nẵng TV1
+#EXTVLCOPT:http-user-agent=(_._)
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DANANG1-SD-ABR/HTV-ABR/DANANG1-SD-720p/playlist.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.ibb.co/PWwnzFX/133.png",ĐN1 HD | Truyền hình Đồng Nai
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sda/dongnai1_hls.smil/chunklist_b2500000.m3u8
@@ -875,12 +896,12 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1 group-title="Truyền hình quốc gia Nga" tvg-logo="https://i.imgur.com/n9zLVyR.png",Звезда | Zevezda
 #EXTVLCOPT:http-user-agent=(_._)
 http://92.43.140.200/s85/04.m3u8
-#EXTINF:-1 group-title="Truyền hình quốc gia Nga" tvg-logo="https://i.imgur.com/yqXhUto.png",МИР HD | MIR HD
-#EXTVLCOPT:http-user-agent=(_._)
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 group-title="Truyền hình quốc gia Nga" tvg-logo="https://i.imgur.com/yqXhUto.png",МИР | MIR
 #EXTVLCOPT:http-user-agent=(_._)
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+#EXTINF:-1 group-title="Truyền hình quốc gia Nga" tvg-logo="https://i.imgur.com/H4gO4jN.png",МИР HD | MIR HD
+#EXTVLCOPT:http-user-agent=(_._)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 group-title="Truyền hình quốc gia Nga" tvg-logo="https://i.imgur.com/LqmmkNs.png",ТНТ HD | TNT HD
 #EXTVLCOPT:http-user-agent=(_._)
 #KODIPROP:inputstream=inputstream.adaptive
@@ -902,7 +923,7 @@ http://92.43.140.200/s28/04.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/Muz_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="KÊNH LÂN CẬN" tvg-logo="https://i.imgur.com/lDQcphu.jpg",8 Канал | 8 Channel
+#EXTINF:-1 group-title="KÊNH LÂN CẬN" tvg-logo="https://i.imgur.com/EK4qnwx.jpg",8 Канал | 8 Channel
 #EXTVLCOPT:http-user-agent=(_._)
 http://84.22.141.170/8kanal-krsk.m3u8
 #EXTINF:-1 group-title="KÊNH LÂN CẬN" tvg-logo="https://i.imgur.com/EPTBLSP.png",10 Канал | Channel 10
@@ -911,6 +932,9 @@ http://kuzbass1.ru:8082/10kanal/10kanal_720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hLD874K.jpg" group-title="KÊNH LÂN CẬN",Вечерняя Москва | Evening Moscow
 #EXTVLCOPT:http-user-agent=(_._)
 https://vmvideo.gcdn.co/streams/1503_161/playlist.m3u8
+#EXTINF:-1 group-title="KÊNH LÂN CẬN" tvg-logo="https://i.imgur.com/23pGKj3.png",СТС Прима | Prima TV
+#EXTVLCOPT:http-user-agent=(_._)
+http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1024x576@2024/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH LÂN CẬN" tvg-logo="https://i.ibb.co/0cYdNc3/image.png",Енисей HD | Enisey TV HD
 #EXTVLCOPT:http-user-agent=(_._)
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
@@ -926,16 +950,22 @@ http://kuzbass1.ru:8082/10kanal/k24_576/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH LÂN CẬN" tvg-logo="https://i.imgur.com/Wk3Q8sT.png",Москва 24 | Moscow 24
 #EXTVLCOPT:http-user-agent=(_._)
 http://radio-live-mg.rtr-vesti.ru/hls/moscow_24/playlist_3.m3u8
-#EXTINF:-1 group-title="KÊNH LÂN CẬN" tvg-logo="https://iptvxpix.ml/doverie.png",Москва Доверие | Moscow Doverie
+#EXTINF:-1 group-title="KÊNH LÂN CẬN" tvg-logo="https://i.imgur.com/ZSHgdyN.jpg",Москва Доверие | Moscow Doverie
 #EXTVLCOPT:http-user-agent=(_._)
 http://radio-live-mg.rtr-vesti.ru/hls/doverie/playlist_3.m3u8
 #EXTINF:-1 group-title="KÊNH LÂN CẬN" tvg-logo="https://i.imgur.com/xQc3UoJ.png",Между.Net HD | Mezhdu.net HD
 #EXTVLCOPT:http-user-agent=(_._)
 http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8
+#EXTINF:-1 group-title="KÊNH LÂN CẬN" tvg-logo="https://iptvxpix.ml/ots.png",ОТС HD | OTS HD
+#EXTVLCOPT:http-user-agent=(_._)
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_OTC_ww2c28d5412dd75bf975fb951c740a30/hls/1920x1080@4504/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH LÂN CẬN" tvg-logo="https://i.imgur.com/ai5G3dp.png",Телестанция Мир HD | TV station Mir HD
 #EXTVLCOPT:http-user-agent=(_._)
 http://serv30.vintera.tv:8081/stanciya_mir/mir/playlist.m3u8
-#EXTINF:-1 group-title="KÊNH LÂN CẬN" tvg-logo="https://i.imgur.com/Gbof1a7.png",ТВК6 | TVK6
+#EXTINF:-1 group-title="KÊNH LÂN CẬN" tvg-logo="https://i.imgur.com/Gbof1a7.png",ТВК HD | TVK HD
+#EXTVLCOPT:http-user-agent=(_._)
+http://air.tvk6.ru/tvk/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KÊNH LÂN CẬN" tvg-logo="https://i.imgur.com/Gbof1a7.png",ТВК 24 | TVK 24
 #EXTVLCOPT:http-user-agent=(_._)
 http://air.tvk6.ru/tvk24/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZKGC5i0.png" group-title="KÊNH LÂN CẬN",ТНВ-Планета | TNV Planeta
@@ -1045,7 +1075,7 @@ http://serv30.vintera.tv:8081/habar/habar24/chunks.m3u8
 #EXTVLCOPT:http-user-agent=(_._)
 https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
 
-#EXTINF:-1 group-title="Truyền hình quốc gia Nga" tvg-logo="https://i.imgur.com/EMwsDdd.png",Красная линия | Red line
+#EXTINF:-1 group-title="Truyền hình quốc gia Nga" tvg-logo="https://i.imgur.com/kU0z0v7.png",Красная линия | Red line
 #EXTVLCOPT:http-user-agent=(_._)
 http://kprf-htlive.cdn.ngenix.net/live/stream_high/playlist.m3u8
 #EXTINF:-1 group-title="Thông tin và chính trị" tvg-logo="https://i.imgur.com/0StosQm.png",ЛДПР ТВ HD | LDPR HD
@@ -1664,24 +1694,3 @@ http://185.161.224.216/dash/Match_Premyer_HD.ism/playlist.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/MATCH_NASH_SPORT_SD.ism/playlist.mpd
-
-#EXTINF:-1 group-title="Acestream" tvg-logo="https://i.imgur.com/G6TzC4i.png",Матч! ТВ FHD | Match TV FHD
-http://127.0.0.1:6878/ace/getstream?id=c7f93329f3790d54491fe2c4146b59d0514d38b8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CJPGHKw.png" group-title="Acestream",Матч! Футбол 1 FHD | Football 1
-http://127.0.0.1:6878/ace/getstream?id=dd2c44a9723af914d02b31bc7bb9e5e3d3ad9743
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Lw5Gd3b.png" group-title="Acestream",Матч! Футбол 2 FHD | Football 2
-http://127.0.0.1:6878/ace/getstream?id=cfc79383b29505fe88c4875e4997cbfce1a5196f
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LKOT5jE.png" group-title="Acestream",Матч! Футбол 3 FHD | Football 3
-http://127.0.0.1:6878/ace/getstream?id=b120fc00572b516163aaa624f0d1ba095af58f9a
-#EXTINF:-1 tvg-logo="http://gg.gg/mpremier" group-title="Acestream",Матч! Премьер FHD | Russian Premier League
-http://127.0.0.1:6878/ace/getstream?id=513dabafb21429d6eff9813022b2d41f49dc5bdb
-#EXTINF:-1 tvg-logo="https://betonmobile.ru/wp-content/uploads/2020/09/asdasdasd.jpg" group-title="Acestream",PIMPLETV 1 HD | Football
-http://127.0.0.1:6878/ace/getstream?id=11b6aa16e978a409504b9e3e9c3b29c56f392bdf
-#EXTINF:-1 tvg-logo="https://betonmobile.ru/wp-content/uploads/2020/09/asdasdasd.jpg" group-title="Acestream",PIMPLETV 2 HD | Football
-http://127.0.0.1:6878/ace/getstream?id=955bc653f090c238b8d933b41d8a66fee1bf7893
-#EXTINF:-1 tvg-logo="https://betonmobile.ru/wp-content/uploads/2020/09/asdasdasd.jpg" group-title="Acestream",PIMPLETV 3 HD | Football
-http://127.0.0.1:6878/ace/getstream?id=d2a36e305458e200c2a4952317fc33e38bd80187
-#EXTINF:-1 tvg-logo="https://betonmobile.ru/wp-content/uploads/2020/09/asdasdasd.jpg" group-title="Acestream",PIMPLETV 4 HD | Football
-http://127.0.0.1:6878/ace/getstream?id=722f34a71cedbeb96bda429dc0f4d0e015995ea4
-#EXTINF:-1 tvg-logo="https://betonmobile.ru/wp-content/uploads/2020/09/asdasdasd.jpg" group-title="Acestream",PIMPLETV 5 HD | Football
-http://127.0.0.1:6878/ace/getstream?id=ceaa2553d401c294166b8e498f5aaa1ef1aee8e4
