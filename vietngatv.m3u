@@ -33,9 +33,6 @@ https://livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="Truyền hình Việt Nam (VTV)" tvg-logo="https://i.imgur.com/cx1fx0b.png",VTV9 HD
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv9hd" group-title="Truyền hình Việt Nam (VTV)" tvg-logo="https://i.imgur.com/AtNjigl.png",VTV9
-#EXTVLCOPT:http-user-agent=(_._)
-https://ott.avg.vn/live/vtv9/chunklist_1.m3u8
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTV" tvg-logo="https://i.ibb.co/NYSr7Kn/VTVCAB1-BEARTV.png",Vie Giải trí HD
 #EXTVLCOPT:http-user-agent=(_._)
 http://vthanh.xyz/vieon.m3u8?type=tivi&kenh=vie-giai-tri-hd
@@ -643,9 +640,6 @@ https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="bbc_world_news" group-title="Quốc tế" tvg-logo="https://i.imgur.com/hwhTjpi.png",BBC World News
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sdb/bbcnew_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="bbc_world_news" group-title="Quốc tế" tvg-logo="https://i.imgur.com/hwhTjpi.png",BBC World News HD
-#EXTVLCOPT:http-user-agent=(_._)
-http://212.76.29.26:80/btv/SWM/BBC_World/BBC_World.m3u8
 #EXTINF:-1 tvg-id="bbc_earth" group-title="British Broadcasting Corporation" tvg-logo="https://i.imgur.com/T1vgYzE.png",BBC Earth HD
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
@@ -661,9 +655,6 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BABYFIRST-SD-720p/chunks.m3u8
 #EXTINF:-1 group-title="Thiếu nhi Việt - Nga" tvg-logo="https://i.imgur.com/LBU2zCq.png",Baby TV HD
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="boxhits" group-title="Phim truyện Việt - Nga" tvg-logo="https://vthanh.xyz/ic/242.png",Box Hits HD
-#EXTVLCOPT:http-user-agent=(_._)
-http://103.195.238.226/boxhits/mpegts
 #EXTINF:0 group-title="Phim truyện Việt - Nga" tvg-id="max_by_hbo" tvg-logo="https://i.imgur.com/4vYV1PK.png",Cinemax HD
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
@@ -751,9 +742,6 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="hbo" group-title="Phim truyện Việt - Nga" tvg-logo="https://imgur.com/UmfhBQU.png",HBO HD
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="hits" group-title="Giải trí Việt - Nga" tvg-logo="https://vthanh.xyz/ic/249.png",HITS HD
-#EXTVLCOPT:http-user-agent=(_._)
-http://103.195.238.226/hits/mpegts
 #EXTINF:-1 tvg-id="kix_hd" group-title="Giải Trí Việt - Nga" tvg-logo="https://i.imgur.com/Lod13YD.png",KIX HD
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
@@ -814,6 +802,22 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXLIFE-SD-720p/playlist.m3u8
 #EXTINF:-1 tvg-id="warner_tv_hd" group-title="Phim truyện Việt - Nga" tvg-logo="https://i.imgur.com/04naoBg.jpg",Warner TV HD
 #EXTVLCOPT:http-user-agent=(_._)
 http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="Thể thao Việt - Nga" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/80/FPT_New_Logo.png",AFC 1
+#EXTVLCOPT:http-user-agent=(_._)
+https://livecdn.fptplay.net/afcchampion/afc01_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Thể thao Việt - Nga" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/80/FPT_New_Logo.png",AFC 2
+#EXTVLCOPT:http-user-agent=(_._)
+https://livecdn.fptplay.net/afcchampion/afc02_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Thể thao Việt - Nga" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/80/FPT_New_Logo.png",AFC 3
+#EXTVLCOPT:http-user-agent=(_._)
+https://livecdn.fptplay.net/afcchampion/afc03_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Thể thao Việt - Nga" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/80/FPT_New_Logo.png",AFC 4
+#EXTVLCOPT:http-user-agent=(_._)
+https://livecdn.fptplay.net/afcchampion/afc04_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Thể thao Việt - Nga" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/80/FPT_New_Logo.png",AFC 5
+#EXTVLCOPT:http-user-agent=(_._)
+https://livecdn.fptplay.net/afcchampion/afc05_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="Truyền hình quốc gia Nga" tvg-logo="https://i.imgur.com/fXPbX1z.png",Первый Канал HD | Channel One HD
 #EXTVLCOPT:http-user-agent=(_._)
@@ -1043,9 +1047,6 @@ http://185.161.224.216/dash/MIR24_SD.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xfgtSCn/1rnk.png" group-title="Truyền hình quốc gia Nga",ПРНК | The first Russian National Channel
 #EXTVLCOPT:http-user-agent=(_._)
 http://serv25.vintera.tv:8081/1pnk/1pnk/playlist.m3u8
-#EXTINF:-1 group-title="KÊNH LÂN CẬN" tvg-logo="https://i.imgur.com/qpGrvHl.jpg",RTVi
-#EXTVLCOPT:http-user-agent=(_._)
-http://212.76.29.26:80/btv/SWM/RTVi/RTVi.m3u8
 #EXTINF:-1 group-title="Truyền hình quốc gia Nga" tvg-logo="https://i.imgur.com/L2yv24j.png",CGTN Русский | CGTN Russian
 #EXTVLCOPT:http-user-agent=(_._)
 http://liveru.cgtn.com/1000r/prog_index.m3u8
