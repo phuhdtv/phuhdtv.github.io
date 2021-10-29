@@ -540,9 +540,6 @@ https://livecdn.fptplay.net/sda/thaibinh_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/02DXBmD.png",TN1 HD | Truyền hình Thái Nguyên
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sdc/thainguyen_hls.smil/chunklist_b2800000.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://imgur.com/v45geuK.png",TN2 HD | TH Thái Nguyên
-#EXTVLCOPT:http-user-agent=(_._)
-http://thanhfpt.duckdns.org:8888/rtp/232.84.3.123:9168
 #EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/s08I14p.png",TTV HD | Truyền hình Thanh Hóa
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sda/thanhhoa_hls.smil/chunklist_b2500000.m3u8
@@ -965,6 +962,9 @@ http://84.22.141.170/8kanal-krsk.m3u8
 #EXTINF:-1 group-title="KÊNH LÂN CẬN" tvg-logo="https://i.imgur.com/EPTBLSP.png",10 Канал | Channel 10
 #EXTVLCOPT:http-user-agent=(_._)
 http://kuzbass1.ru:8082/10kanal/10kanal_720/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/GXlYCXz.jpg" group-title="KÊNH LÂN CẬN",Almaty TV | Алматы ТВ
+#EXTVLCOPT:http-user-agent=(_._)
+https://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hLD874K.jpg" group-title="KÊNH LÂN CẬN",Вечерняя Москва | Evening Moscow
 #EXTVLCOPT:http-user-agent=(_._)
 https://vmvideo.gcdn.co/streams/1503_161/playlist.m3u8
@@ -1280,7 +1280,7 @@ http://92.43.140.200/s35/04.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/Mezzo_Live_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="Ca nhạc Việt - Nga" tvg-logo="https://i.imgur.com/dPbRtRS.jpg",MTV Việt Nam
+#EXTINF:-1 group-title="Ca nhạc Việt - Nga" tvg-logo="https://i.imgur.com/dPbRtRS.jpg",MTV | ÂM NHẠC VIỆT NAM VÀ QUỐC TẾ
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2qx7gT2/nr.png" group-title="Ca nhạc Việt - Nga",Новое Радио | New Radio
