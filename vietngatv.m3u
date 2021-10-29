@@ -1232,18 +1232,18 @@ http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HdPsSKn/AIVA.png" group-title="Ca nhạc Việt - Nga",AIVA HD
 #EXTVLCOPT:http-user-agent=(_._)
 http://live-1.otcnet.ru/aivaya/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/L71iY9t.png",Bridge TV | 576P
+#EXTVLCOPT:http-user-agent=(_._)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://185.161.224.216/dash/Bridge_TV_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Ca nhạc Việt - Nga" tvg-logo="https://i.imgur.com/L71iY9t.png",Bridge TV | 480P
 #EXTVLCOPT:http-user-agent=(_._)
 http://92.43.140.200/s34/04.m3u8
 #EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/L71iY9t.png",Bridge TV | 480P | Dự phòng
 #EXTVLCOPT:http-user-agent=(_._)
 http://92.43.140.200/s78/04.m3u8
-#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/L71iY9t.png",Bridge TV | 360P
-#EXTVLCOPT:http-user-agent=(_._)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.is_realtime_stream=true
-http://185.161.224.216/dash/Bridge_TV_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Ca nhạc Việt - Nga" tvg-logo="https://i.ibb.co/hmV06YR/bridge-tv-hits-BEARTV.png",BRIDGE TV Hits
 #EXTVLCOPT:http-user-agent=(_._)
 #KODIPROP:inputstream=inputstream.adaptive
