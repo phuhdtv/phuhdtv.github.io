@@ -308,9 +308,6 @@ https://livecdn.fptplay.net/sdc/bacninh_hls.smil/chunklist_b2800000.m3u8
 https://livecdn.fptplay.net/sdc/camau_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/ILVDaWL.jpg",CRTV HD | Truyền hình Cao Bằng
 #EXTVLCOPT:http-user-agent=(_._)
-http://118.107.85.4:1935/live/smil:CRTV.smil/chunklist_b1384000.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/ILVDaWL.jpg",CRTV | Truyền hình Cao Bằng
-#EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sda/caobang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.ibb.co/6stS2Qx/126.png",Truyền hình Thành phố Cần Thơ HD
 #EXTVLCOPT:http-user-agent=(_._)
@@ -459,12 +456,9 @@ https://livecdn.fptplay.net/sdc/langson_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.ibb.co/M2n7wz0/156.png",LSTV HD | Truyền hình Lạng Sơn
 #EXTVLCOPT:http-user-agent=(_._)
 http://103.90.220.236/lstvlive/tv1live.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/STKsRbJ.png",LTV | Truyền hình Lâm Đồng
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/STKsRbJ.png",LTV HD | Truyền hình Lâm Đồng
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sdc/lamdong_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/IzEI1Vx.png",LTV HD | Truyền hình Lâm Đồng
-#EXTVLCOPT:http-user-agent=(_._)
-http://118.107.85.5:1935/live/smil:LTV.smil/chunklist_b1384000.m3u8
 #EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/OfbPgIg.png",LA34 | Truyền hình Long An
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sdc/longan_hls.smil/chunklist_b2500000.m3u8
@@ -649,9 +643,6 @@ https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="bbc_lifestyle" group-title="British Broadcasting Corporation" tvg-logo="https://i.imgur.com/LIZyi7p.png",BBC Lifestyle SD
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sdb/bbclifestyle_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="bbc_lifestyle" group-title="British Broadcasting Corporation" tvg-logo="https://i.imgur.com/LIZyi7p.png",BBC Lifestyle HD
-#EXTVLCOPT:http-user-agent=(_._)
-http://thanhfpt.duckdns.org:8888/rtp/232.84.3.225:11272
 #EXTINF:-1 group-title="Thiếu nhi Việt - Nga" tvg-logo="https://i.imgur.com/lhPcW1d.png",Baby First HD
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
@@ -815,18 +806,15 @@ https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 #EXTVLCOPT:http-user-agent=(_._)
 http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
 
+#EXTINF:-1 group-title="Truyền hình quốc gia Nga" tvg-logo="https://i.imgur.com/fXPbX1z.png",Первый Канал HD | Channel One HD
+#EXTVLCOPT:http-user-agent=(_._)
+http://91.192.168.251:5050
 #EXTINF:-1 group-title="Truyền hình quốc gia Nga" tvg-logo="https://i.imgur.com/fXPbX1z.png",Первый Канал | Channel One | 576P
 #EXTVLCOPT:http-user-agent=(_._)
 http://91.185.3.218:4000/play/603
 #EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/fXPbX1z.png",Первый Канал | Channel One | 480P
 #EXTVLCOPT:http-user-agent=(_._)
 http://92.43.140.200/s14/04.m3u8
-#EXTINF:-1 group-title="Truyền hình quốc gia Nga" tvg-logo="https://i.imgur.com/WI6hKez.png",Россия 1 HD | Russia 1 HD
-#EXTVLCOPT:http-user-agent=(_._)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.is_realtime_stream=true
-http://185.161.224.216/dash/Rossiya_1_HD.ism/playlist.mpd
 #EXTINF:-1 group-title="Truyền hình quốc gia Nga" tvg-logo="https://i.imgur.com/WI6hKez.png",Россия 1 HD | Russia 1 HD
 #EXTVLCOPT:http-user-agent=(_._)
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist.m3u8
@@ -842,6 +830,9 @@ http://iptv.ktkru.ru:8003/index.m3u8
 #EXTINF:-1 group-title="Thể thao Việt - Nga" tvg-logo="https://i.imgur.com/G6TzC4i.png",Матч! ТВ HD | Match TV HD
 #EXTVLCOPT:http-user-agent=(_._)
 https://bl.uma.media/live/133529/HLS/4614144_3/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
+#EXTINF:-1 group-title="Truyền hình quốc gia Nga" tvg-logo="https://i.imgur.com/DtQX5P2.png",НТВ HD | NTV HD
+#EXTVLCOPT:http-user-agent=(_._)
+http://185.228.135.48:8080/tv_ntv_hd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Truyền hình quốc gia Nga" tvg-logo="https://i.imgur.com/DtQX5P2.png",НТВ МИР | NTV International | 576P
 #EXTVLCOPT:http-user-agent=(_._)
 http://91.185.3.218:4000/play/626
@@ -875,6 +866,9 @@ http://46.34.209.243/btv/SWM/TVCentr/TVCentr_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВ Центр | TV Center | 480P
 #EXTVLCOPT:http-user-agent=(_._)
 http://92.43.140.200/s54/04.m3u8
+#EXTINF:-1 group-title="Truyền hình quốc gia Nga" tvg-logo="https://i.imgur.com/18TAzYV.png",РЕН HD | REN HD
+#EXTVLCOPT:http-user-agent=(_._)
+http://185.228.135.48:8080/tv_rentv_hd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Truyền hình quốc gia Nga" tvg-logo="https://i.imgur.com/qJ8xpD4.png",РЕН Международный | REN International | 576P
 #EXTVLCOPT:http-user-agent=(_._)
 http://46.34.209.243/btv/SWM/RenTV/RenTV_576p_2000kbps.m3u8
@@ -884,6 +878,9 @@ http://92.43.140.200/s85/04.m3u8
 #EXTINF:-1 group-title="Truyền hình quốc gia Nga" tvg-logo="https://i.imgur.com/cZhBFZP.png",СПАС | SPAS
 #EXTVLCOPT:http-user-agent=(_._)
 http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Truyền hình quốc gia Nga" tvg-logo="https://i.imgur.com/pJNWVAz.png",СТС HD | STS HD
+#EXTVLCOPT:http-user-agent=(_._)
+http://185.228.135.48:8080/tv_sts_hd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Truyền hình quốc gia Nga" tvg-logo="https://i.imgur.com/F6j6xWc.jpg",СТС Международный | STS International | 576P
 #EXTVLCOPT:http-user-agent=(_._)
 http://91.185.3.218:4000/play/625
@@ -1013,6 +1010,9 @@ http://185.161.224.216/dash/Ce_SD.ism/playlist.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/STS_Love_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="Truyền hình quốc gia Nga" tvg-logo="https://i.imgur.com/BtBkzC9.png",СТС Kids | STS KIDS HD
+#EXTVLCOPT:http-user-agent=(_._)
+http://185.228.135.48:8080/tv_sts_kids_hd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Truyền hình quốc gia Nga" tvg-logo="https://i.imgur.com/rdLzrpr.png",ТНТ4 HD | TNT4 HD
 #EXTVLCOPT:http-user-agent=(_._)
 https://bl.uma.media/live/317849/HLS/4614144_3/1613027671/d161f37174905bc712e81b60d3411fc1/playlist.m3u8
@@ -1253,12 +1253,6 @@ https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NBWyJJQ.png" group-title="Ca nhạc Việt - Nga",Радио Шансон | Radio Chanson
 #EXTVLCOPT:http-user-agent=(_._)
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
-#EXTINF:-1 group-title="Ca nhạc Việt - Nga" tvg-logo="https://i.ibb.co/CK00h8T/27-Zhara.png",Жара | Zhara
-#EXTVLCOPT:http-user-agent=(_._)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.is_realtime_stream=true
-http://185.161.224.216/dash/JaraTv_SD.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qCLICfC.jpg" group-title="Ca nhạc Việt - Nga",VIVA
 #EXTVLCOPT:http-user-agent=(_._)
 http://195.9.195.19:8001/hls2/vivarussia/index.m3u8
@@ -1308,10 +1302,7 @@ http://185.161.224.216/dash/Mult_SD.ism/playlist.mpd
 http://92.43.140.200/s58/04.m3u8
 #EXTINF:-1 group-title="Thiếu nhi Việt - Nga" tvg-logo="https://i.imgur.com/stmzkhA.png",Мультимания | Multimania
 #EXTVLCOPT:http-user-agent=(_._)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.is_realtime_stream=true
-http://185.161.224.216/dash/Multimaniya_SD.ism/playlist.mpd
+http://85.192.10.131/hls/MultimaniaRu/playlist.m3u8
 #EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/uuUGNT0.png",Детский Мир | Children's World
 #EXTVLCOPT:http-user-agent=(_._)
 http://185.161.224.216/dash/Detskiy_Mir_SD.ism/playlist.mpd
@@ -1330,7 +1321,7 @@ http://92.43.140.200/s59/04.m3u8
 #EXTINF:-1 group-title="Thiếu nhi Việt - Nga" tvg-logo="https://i.imgur.com/W4wWt9J.jpg",Gulli Girl
 #EXTVLCOPT:http-user-agent=(_._)
 http://live-1.otcnet.ru/Gulli_OT/index.m3u8
-#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/W4wWt9J.jpg",Gulli Girl | Dự phòng
+#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/W4wWt9J.jpg",Gulli Girl
 #EXTVLCOPT:http-user-agent=(_._)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
