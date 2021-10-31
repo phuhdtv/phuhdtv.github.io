@@ -1159,12 +1159,9 @@ http://185.161.224.216/dash/Avto_Plus_SD.ism/playlist.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/Zagorodnaya_Jizn_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="Ẩm thực Việt - Nga" tvg-logo="https://i.ibb.co/Tb2mJyq/Kukhnya-TV.png",Кухня ТВ | Kitchen TV
+#EXTINF:-1 group-title="Giải Trí Việt - Nga" tvg-logo="http://gg.gg/kaleidoskopTV",Калейдоскоп ТВ | Kaleidoskop
 #EXTVLCOPT:http-user-agent=(_._)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.is_realtime_stream=true
-http://185.161.224.216/dash/Kuxnya_TV_SD.ism/playlist.mpd
+http://live-1.otcnet.ru/kaleidoskop/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Giải Trí Việt - Nga" tvg-logo="https://i.imgur.com/MnlcTkp.png",ТЕЛЕКАФЕ | TELECAFE
 #EXTVLCOPT:http-user-agent=(_._)
 http://92.43.140.200/s56/04.m3u8
@@ -1658,7 +1655,7 @@ http://185.228.135.48:8080/tv_match_arena_hd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Thể thao Việt - Nga" tvg-logo="https://i.imgur.com/Xz4HJRP.png",Матч! Боец | Boxing
 #EXTVLCOPT:http-user-agent=(_._)
 http://185.228.135.48:8080/tv_match_boets_sd/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Thể thao Việt - Nga" tvg-logo="http://gg.gg/Logo-Match-Planeta",Матч! Planeta
+#EXTINF:-1 group-title="Thể thao Việt - Nga" tvg-logo="http://gg.gg/Logo-Match-Planeta",Матч! Планета | Match Planeta
 #EXTVLCOPT:http-user-agent=(_._)
 http://91.185.3.218:4000/play/617
 #EXTINF:-1 group-title="Thể thao Việt - Nga" tvg-logo="https://i.imgur.com/K6KvFk6.png",EUROSPORT 1
@@ -1676,6 +1673,6 @@ http://185.161.224.216/dash/Eurosport2_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Thể thao Việt - Nga" tvg-logo="https://i.ibb.co/8YJYhpX/football.png",Футбол | Football
 #EXTVLCOPT:http-user-agent=(_._)
 http://92.43.140.200/s41/04.m3u8
-#EXTINF:-1 group-title="Thể thao Việt - Nga" tvg-logo="http://gg.gg/match_igra_HD",Матч! IGRA HD
+#EXTINF:-1 group-title="Thể thao Việt - Nga" tvg-logo="http://gg.gg/match_igra_HD",Матч! Игра HD | Match Game
 #EXTVLCOPT:http-user-agent=(_._)
 http://185.228.135.48:8080/tv_match_igra_hd/tracks-v1a1/index.m3u8
