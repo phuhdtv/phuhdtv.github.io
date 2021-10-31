@@ -1262,12 +1262,18 @@ http://195.9.195.19:8001/hls2/vivarussia/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/Shanson_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/NBWyJJQ.png",Шансон ТВ | Chanson TV | 480P
+#EXTINF:-1 group-title="Ca nhạc Việt - Nga" tvg-logo="https://i.imgur.com/NBWyJJQ.png",Шансон ТВ | Chanson TV | 480P
 #EXTVLCOPT:http-user-agent=(_._)
 http://92.43.140.200/s43/04.m3u8
-#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/94gvcA4.jpg",Музыка Первого | Music One
+#EXTINF:-1 group-title="Ca nhạc Việt - Nga" tvg-logo="https://i.imgur.com/94gvcA4.jpg",Музыка Первого | Music One
 #EXTVLCOPT:http-user-agent=(_._)
 http://46.34.209.243/btv/SWM/Muzyka_Pervogo/Muzyka_Pervogo_576p_2000kbps.m3u8
+#EXTINF:-1 group-title="Ca nhạc Việt - Nga" tvg-logo="https://i.ibb.co/CK00h8T/27-Zhara.png",Жара | Zhara
+#EXTVLCOPT:http-user-agent=(_._)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://185.161.224.216/dash/JaraTv_SD.ism/playlist.mpd
 
 #EXTINF:-1 group-title="Mua sắm Việt - Nga" tvg-logo="https://i.ibb.co/Vp2SfcT/Leomax24.png",Leomax 24
 #EXTVLCOPT:http-user-agent=(_._)
@@ -1631,9 +1637,6 @@ http://188.40.68.167/russia/oruzhie/playlist.m3u8
 #EXTINF:-1 group-title="Thể thao Việt - Nga" tvg-logo="http://gg.gg/fightboxhd",FightBox HD
 #EXTVLCOPT:http-user-agent=(_._)
 http://92.43.140.200/s86/04.m3u8
-#EXTINF:0 group-title="Thể thao Việt - Nga" tvg-logo="https://i.ibb.co/ZK58vtR/golfnews.jpg",Golf News TV
-#EXTVLCOPT:http-user-agent=(_._)
-https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
 #EXTINF:-1 group-title="Thể thao Việt - Nga" tvg-logo="https://i.ibb.co/zs1CxVj/VTC3-SPORTS-BEARTV.png",VTVCab3 | On Sports
 #EXTVLCOPT:http-user-agent=(_._)
 http://203.162.123.188:21585/vtvcab3/index.m3u8
