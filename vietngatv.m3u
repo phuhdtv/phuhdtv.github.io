@@ -1643,24 +1643,21 @@ http://46.34.209.243/btv/SWM/Pobeda/Pobeda_576p_2000kbps.m3u8
 #EXTVLCOPT:http-user-agent=(_._)
 http://188.40.68.167/russia/oruzhie/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0hkCNs2/btv5.jpg" group-title="Thể thao Việt - Nga",BTV5 | Truyền hình Bình Dương
-#EXTVLCOPT:http-user-agent=(_._)
-http://vthanh.xyz/sctv.m3u8?id=btv5|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="Thể thao Việt - Nga" tvg-logo="http://gg.gg/fightboxhd",FightBox HD
 #EXTVLCOPT:http-user-agent=(_._)
 http://92.43.140.200/s86/04.m3u8
+#EXTINF:0 group-title="Thể thao Việt - Nga" tvg-logo="https://i.ibb.co/ZK58vtR/golfnews.jpg",Golf News TV
+#EXTVLCOPT:http-user-agent=(_._)
+https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
 #EXTINF:-1 group-title="Thể thao Việt - Nga" tvg-logo="https://i.ibb.co/zs1CxVj/VTC3-SPORTS-BEARTV.png",VTVCab3 | On Sports
 #EXTVLCOPT:http-user-agent=(_._)
 http://203.162.123.188:21585/vtvcab3/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xjQCdtY/onsport-BEARTV.png" group-title="Thể thao Việt - Nga",VTVCab6 | On Sports Plus
+#EXTINF:-1 group-title="Thể thao Việt - Nga" tvg-logo="https://i.ibb.co/jWD3jGM/image.png",Матч! Арена HD | Arena
 #EXTVLCOPT:http-user-agent=(_._)
-http://vthanh.xyz/sctv.m3u8?id=vtvcab6|Referer=http://sctvonline.vn
-#EXTINF:-1 group-title="Thể thao Việt - Nga" tvg-logo="https://i.ibb.co/kxDJTDY/BDTV-BEARTV.png",VTVCab16 | On Football
+http://185.228.135.48:8080/tv_match_arena_hd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Thể thao Việt - Nga" tvg-logo="https://i.imgur.com/Xz4HJRP.png",Матч! Боец | Boxing
 #EXTVLCOPT:http-user-agent=(_._)
-http://vthanh.xyz/sctv.m3u8?id=vtvcab16|Referer=http://sctvonline.vn
-#EXTINF:0 group-title="Thể thao Việt - Nga" tvg-logo="https://i.imgur.com/AtTWTPE.png",VTVCab23 | ON Golf
-#EXTVLCOPT:http-user-agent=(_._)
-https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
+http://185.228.135.48:8080/tv_match_boets_sd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Thể thao Việt - Nga" tvg-logo="http://gg.gg/Logo-Match-Planeta",Матч! Planeta
 #EXTVLCOPT:http-user-agent=(_._)
 http://91.185.3.218:4000/play/617
@@ -1679,3 +1676,6 @@ http://185.161.224.216/dash/Eurosport2_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Thể thao Việt - Nga" tvg-logo="https://i.ibb.co/8YJYhpX/football.png",Футбол | Football
 #EXTVLCOPT:http-user-agent=(_._)
 http://92.43.140.200/s41/04.m3u8
+#EXTINF:-1 group-title="Thể thao Việt - Nga" tvg-logo="http://gg.gg/match_igra_HD",Матч! IGRA HD
+#EXTVLCOPT:http-user-agent=(_._)
+http://185.228.135.48:8080/tv_match_igra_hd/tracks-v1a1/index.m3u8
