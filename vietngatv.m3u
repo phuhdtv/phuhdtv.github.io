@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://gg.gg/lichphatsongiptv" tvg-shift=0 m3uautoload=1 http://gg.gg/simple-tv
+#EXTM3U url-tvg="http://onetv.click/schedule/epg.xml" tvg-shift=0 m3uautoload=1 http://gg.gg/simple-tv
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="Đài Truyền hình Việt Nam" tvg-logo="https://i.imgur.com/QcInYpW.png",VTV1 HD
 #EXTVLCOPT:http-user-agent=(_._)
@@ -85,7 +85,7 @@ https://livecdn.fptplay.net/sdb/vtc10_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc10" group-title="Truyền hình kỹ thuật số Việt Nam" tvg-logo="https://i.imgur.com/HitkMj3.png",VTC10 HD
 #EXTVLCOPT:http-user-agent=(_._)
 https://vtc130121.cdn.vnns.io/VTC10/playlist.m3u8
-#EXTINF:-1 tvg-id="vtc10" group-title="Truyền hình kỹ thuật số Việt Nam" tvg-logo="https://i.imgur.com/1U7CKCF.png",NETVIET
+#EXTINF:-1 group-title="Truyền hình kỹ thuật số Việt Nam" tvg-logo="https://i.imgur.com/1U7CKCF.png",NETVIET
 #EXTVLCOPT:http-user-agent=(_._)
 http://serv25.vintera.tv:8081/viet/netviet/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc11hd" group-title="Truyền hình kỹ thuật số Việt Nam" tvg-logo="https://i.imgur.com/JARfwUf.png",VTC11
