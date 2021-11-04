@@ -36,9 +36,6 @@ https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="Dự phòng" tvg-logo="https://i.imgur.com/cx1fx0b.png",VTV9 HD | Dự phòng
 #EXTVLCOPT:http-user-agent=(_._)
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV9-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="vtv9hd" group-title="Đài Truyền hình Việt Nam" tvg-logo="https://i.imgur.com/AtNjigl.png",VTV9
-#EXTVLCOPT:http-user-agent=(_._)
-https://ott.avg.vn/live/vtv9/chunklist_1.m3u8
 
 #EXTINF:-1 tvg-id="vtc1" group-title="Truyền hình kỹ thuật số Việt Nam" tvg-logo="https://i.imgur.com/DnK6kzz.png",VTC1
 #EXTVLCOPT:http-user-agent=(_._)
@@ -1389,12 +1386,6 @@ http://46.34.209.243/btv/SWM/U_Skazki/U_Skazki.m3u8
 #EXTINF:-1 group-title="Giải Trí Việt - Nga" tvg-logo="https://i.imgur.com/u50d1gv.jpg",Paramount Comedy | Phim hài Tiếng Nga
 #EXTVLCOPT:http-user-agent=(_._)
 http://46.34.209.243/btv/SWM/Paramount_Comedy/Paramount_Comedy.m3u8
-#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/u50d1gv.jpg",Paramount Comedy | Phim hài Tiếng Nga | Dự phòng
-#EXTVLCOPT:http-user-agent=(_._)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.is_realtime_stream=true
-http://185.161.224.216/dash/Paramount_Comedy_SD.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9bH6PBu.png" group-title="Giải Trí Việt - Nga",Fast&Fun Box | Giải Trí Tiếng Nga
 #EXTVLCOPT:http-user-agent=(_._)
 http://92.43.140.200/s79/04.m3u8
@@ -1506,7 +1497,7 @@ http://185.161.224.216/dash/Evrokino_SD.ism/playlist.mpd
 http://185.161.224.216/dash/Indiyskoe_Kino_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Phim truyện Việt - Nga" tvg-logo="https://i.ibb.co/FqDtrrW/Kinougas-prozrachniy.png",Киноужас | Phim truyện Tiếng Nga
 #EXTVLCOPT:http-user-agent=(_._)
-http://37.99.5.235:80/btv/SWM/KinoUzhas/KinoUzhas_576p_2000kbps.m3u8
+http://46.34.209.243:80/btv/SWM/KinoUzhas/KinoUzhas_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="Phim truyện Việt - Nga" tvg-logo="https://i.ibb.co/h2V4NXy/38-Kinomix.png",КИНОМИКС | Phim truyện Tiếng Nga
 #EXTVLCOPT:http-user-agent=(_._)
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1609,7 +1600,7 @@ http://185.161.224.216/dash/NSTV_SD.ism/playlist.mpd
 http://1hdru-hls-otcnet.cdnvideo.ru/siesta/index.m3u8
 #EXTINF:-1 group-title="Phim truyện Việt - Nga" tvg-logo="https://iptvxpix.ml/nashe-lubimoe-kino.png",Наше любимое кино | Phim truyện Tiếng Nga
 #EXTVLCOPT:http-user-agent=(_._)
-http://37.99.5.235/btv/SWM/Nashe_Lubimoe_Kino/Nashe_Lubimoe_Kino_576p_2000kbps.m3u8
+http://46.34.209.243/btv/SWM/Nashe_Lubimoe_Kino/Nashe_Lubimoe_Kino_576p_2000kbps.m3u8
 
 #EXTINF:-1 group-title="Thiếu nhi Việt - Nga" tvg-logo="https://i.imgur.com/6UpTmJa.jpg",Мама | Thiếu nhi Tiếng Nga
 #EXTVLCOPT:http-user-agent=(_._)
