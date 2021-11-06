@@ -1014,9 +1014,6 @@ http://46.34.209.243/btv/SWM/RTVi/RTVi.m3u8
 #EXTINF:-1 group-title="NHÌN RA Việt - Nga TV" tvg-logo="https://iptvxpix.ml/prima.png",Прима HD | Truyền hình Krasnoyarsk
 #EXTVLCOPT:http-user-agent=(_._)
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
-#EXTINF:-1 group-title="NHÌN RA Việt - Nga TV" tvg-logo="https://iptvxpix.ml/sts-mir.png",Телестанция Мир HD | TV station Mir HD
-#EXTVLCOPT:http-user-agent=(_._)
-http://serv30.vintera.tv:8081/stanciya_mir/mir/playlist.m3u8
 #EXTINF:-1 group-title="NHÌN RA Việt - Nga TV" tvg-logo="https://iptvxpix.ml/tvk-krasnoyarsk.png",ТВК HD | Truyền hình Vùng Krasnoyarsk
 #EXTVLCOPT:http-user-agent=(_._)
 http://air.tvk6.ru/tvk/tracks-v1a1/mono.m3u8
@@ -1139,6 +1136,9 @@ http://kprf-htlive.cdn.ngenix.net/live/stream_high/playlist.m3u8
 #EXTINF:-1 group-title="CHUYÊN BIỆT" tvg-logo="https://i.imgur.com/0StosQm.png",ЛДПР ТВ HD | Thông tin và chính trị
 #EXTVLCOPT:http-user-agent=(_._)
 http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xfgtSCn/1rnk.png" group-title="CHUYÊN BIỆT",Первый российский национальный канал | Thông tin và chính trị
+#EXTVLCOPT:http-user-agent=(_._)
+http://serv25.vintera.tv:8081/1pnk/1pnk/playlist.m3u8
 #EXTINF:-1 group-title="Tôn giáo Việt - Nga" tvg-logo="https://i.ibb.co/LSHq0Tr/image.png",Союз | Tôn giáo Tiếng Nga
 #EXTVLCOPT:http-user-agent=(_._)
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
