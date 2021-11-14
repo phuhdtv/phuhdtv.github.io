@@ -1088,7 +1088,7 @@ http://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
 http://mfe.cliptv.az/dash/360_TV_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="ÂM NHẠC - Thời trang Việt - Nga" tvg-logo="https://i.imgur.com/Y6ZQyc7.png",RUTV HD | ÂM NHẠC CHUYÊN BIỆT
 #EXTVLCOPT:http-user-agent=(_._)
-http://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
+http://109.239.128.126:8080/ru_tv/index.m3u8
 #EXTINF:-1 group-title="TIN TỨC Việt - Nga" tvg-logo="https://i.imgur.com/AGj8EJF.png",РБК | TH Kinh tế Tiếng Nga | 576P
 #EXTVLCOPT:http-user-agent=(_._)
 http://online-video.rbc.ru/online/rbctv.m3u8
@@ -1138,6 +1138,9 @@ http://serv30.vintera.tv:8081/habar/habar24/chunks.m3u8
 #EXTINF:-1 group-title="Kiều bào Việt Nam" tvg-logo="https://i.imgur.com/exdDHml.png",Надежда HD | Truyền Hình Nga Tại Ukraine
 #EXTVLCOPT:http-user-agent=(_._)
 https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+#EXTINF:-1 group-title="Kiều bào Việt Nam" tvg-logo="https://i.imgur.com/HWqxjGl.png",БелРос | Kênh Truyền hình Nga Tại Belarus
+#EXTVLCOPT:http-user-agent=(_._)
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 
 #EXTINF:-1 group-title="TIN TỨC Việt - Nga" tvg-logo="https://i.imgur.com/kU0z0v7.png",Красная линия | Thông tin và chính trị
 #EXTVLCOPT:http-user-agent=(_._)
@@ -1680,9 +1683,6 @@ http://92.43.140.200/s63/04.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/Investigation_Discovery_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="Tổng hợp Việt - Nga" tvg-logo="https://i.imgur.com/HWqxjGl.png",БелРос | Kênh Truyền hình Belarus
-#EXTVLCOPT:http-user-agent=(_._)
-http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2Ydfgw4.png" group-title="Khoa giáo Việt - Nga",Центральное телевидение | Khoa giáo Tiếng Nga
 #EXTVLCOPT:http-user-agent=(_._)
 http://92.43.140.200/s20/04.m3u8
