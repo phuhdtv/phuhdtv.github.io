@@ -355,12 +355,9 @@ https://htv-drm-live-cdn.fptplay.net/htvonline/dn2.480p.fpt.tms/playlist.m3u8
 #EXTINF:-1 group-title="KÊNH HD" tvg-logo="https://i.ibb.co/z7ZSfbG/134.png",ĐN2 HD | Truyền hình Đồng Nai
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/R3Dq01b/DONGNAI-BEARTV.png",ĐN9 | Skymart
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/R3Dq01b/DONGNAI-BEARTV.png",ĐN9 Sky Shop | Truyền hình Đồng Nai
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sda/skymart_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="KÊNH HD" tvg-logo="https://i.ibb.co/Ntn8JNR/THDTHD.png",THĐT HD | Truyền hình Đồng Tháp
-#EXTVLCOPT:http-user-agent=(_._)
-http://202.43.109.142:1935/THDT/thdttv/chunklist.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/BMug1gS.png",THĐT | Truyền hình Đồng Tháp
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sdc/dongthap_hls.smil/chunklist_b2500000.m3u8
@@ -734,18 +731,21 @@ http://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="dw" group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/NaJrOIz.png",Deutsche Welle English
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/NaJrOIz.png",Deutsche Welle Deutsch
+#EXTINF:-1 group-title="KÊNH QUỐC TẾ" tvg-logo="https://i.imgur.com/NaJrOIz.png",Deutsche Welle Deutsch | 576P
 #EXTVLCOPT:http-user-agent=(_._)
 http://live-1.otcnet.ru/DW/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/NaJrOIz.png",Deutsche Welle Deutsch | 480P
+#EXTVLCOPT:http-user-agent=(_._)
+http://92.43.140.200/s26/index.m3u8
 #EXTINF:0 tvg-id="dreamworks" group-title="Thiếu nhi Việt - Nga" tvg-logo="https://i.imgur.com/utTX02q.png",DreamWorks HD
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="TIN TỨC Việt - Nga" tvg-logo="https://i.imgur.com/8MsbPCU.png",EURONEWS | KÊNH TIN TỨC
+#EXTINF:-1 group-title="TIN TỨC Việt - Nga" tvg-logo="https://i.imgur.com/8MsbPCU.png",EURONEWS | KÊNH TIN TỨC | 576P
 #EXTVLCOPT:http-user-agent=(_._)
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8
-#EXTINF:-1 group-title="KÊNH HD" tvg-logo="https://i.imgur.com/8MsbPCU.png",EURONEWS | KÊNH TIN TỨC HD
+#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/8MsbPCU.png",EURONEWS | KÊNH TIN TỨC | 480P
 #EXTVLCOPT:http-user-agent=(_._)
-https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
+http://92.43.140.200/s89/04.m3u8
 #EXTINF:-1 tvg-id="fashionhd" group-title="ÂM NHẠC - Thời trang Việt - Nga" tvg-logo="https://i.imgur.com/5KrE9kR.png",Fashion TV
 #EXTVLCOPT:http-user-agent=(_._)
 http://92.43.140.200/s30/04.m3u8
