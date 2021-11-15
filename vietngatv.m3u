@@ -839,9 +839,6 @@ https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 group-title="Thể thao Việt - Nga" tvg-logo="https://i.ibb.co/Fwxvqnz/UFC-TB.jpg",UFC ТВ HD
 #EXTVLCOPT:http-user-agent=(_._)
 http://91.185.3.218:4000/play/401
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9A6LZ7z.jpg" group-title="Quốc Tế (HD)",Voice of America HD
-#EXTVLCOPT:http-user-agent=(_._)
-https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
 #EXTINF:-1 tvg-id="warnertvhd" group-title="Giải Trí Việt - Nga" tvg-logo="https://i.imgur.com/04naoBg.jpg",Warner TV HD
 #EXTVLCOPT:http-user-agent=(_._)
 http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
@@ -1065,7 +1062,7 @@ http://185.161.224.216/dash/2x2_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="KÊNH NGA (HD)" tvg-logo="https://i.ibb.co/qrLb5kL/image.png",Суббота HD | GIẢI TRÍ ĐỈNH CAO
 #EXTVLCOPT:http-user-agent=(_._)
 https://bl.uma.media/live/317845/HLS/4614144_3/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
-#EXTINF:-1 group-title="Thiếu nhi Việt - Nga" tvg-logo="https://i.imgur.com/38VPB1Z.jpg",Disney Channel | Kênh Thiếu nhi quảng bá
+#EXTINF:-1 group-title="Thiếu nhi Việt - Nga" tvg-logo="https://i.imgur.com/qYEVDbP.png",Disney Channel | Kênh Thiếu nhi quảng bá
 #EXTVLCOPT:http-user-agent=(_._)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1123,9 +1120,9 @@ http://92.43.140.200/s61/04.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/z9E3DBW.png" group-title="Kiều bào Việt Nam",Настоящее время HD | Truyền Hình Nga Tại Cộng Hoà Séc HD
 #EXTVLCOPT:http-user-agent=(_._)
 http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
-#EXTINF:-1 group-title="Kiều bào Việt Nam" tvg-logo="https://i.imgur.com/048jWpk.jpg",Qazaq TV | Truyền Hình Nga Tại Kazakhstan
+#EXTINF:-1 group-title="Kiều bào Việt Nam" tvg-logo="https://i.imgur.com/oUbjl18.png",Qazaq TV HD | Truyền Hình Nga Tại Kazakhstan
 #EXTVLCOPT:http-user-agent=(_._)
-http://serv30.vintera.tv:8081/kazahtv/stream_kz/playlist.m3u8
+http://kazakhtv.ultraiptv.com/kazakhtv/playlist.m3u8
 #EXTINF:-1 group-title="TIN TỨC Việt - Nga" tvg-logo="https://i.imgur.com/Dh1pUNW.png",Беларусь 24 | Truyền Hình Nga Tại Belarus
 #EXTVLCOPT:http-user-agent=(_._)
 http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
@@ -1607,6 +1604,9 @@ http://46.34.209.243/btv/SWM/Nashe_Lubimoe_Kino/Nashe_Lubimoe_Kino_576p_2000kbps
 #EXTINF:-1 group-title="Phim truyện Việt - Nga" tvg-logo="http://gg.gg/logo-mosflim",Мосфильм | ĐIỆN ẢNH NĂM XƯA
 #EXTVLCOPT:http-user-agent=(_._)
 http://91.185.3.218:4000/play/420
+#EXTINF:-1 group-title="Phim truyện Việt - Nga" tvg-logo="http://gg.gg/logo-mosflim",Мосфильм | ĐIỆN ẢNH NĂM XƯA HD
+#EXTVLCOPT:http-user-agent=(_._)
+http://109.239.128.126:8080/mosfilm/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="Thiếu nhi Việt - Nga" tvg-logo="https://i.imgur.com/6UpTmJa.jpg",Мама | THIẾU NHI BỔ ÍCH
 #EXTVLCOPT:http-user-agent=(_._)
