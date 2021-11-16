@@ -310,9 +310,12 @@ https://livecdn.fptplay.net/sdb/backan_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/pP5Y2My.png",BTV HD | Truyền hình Bắc Ninh
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sdc/bacninh_hls.smil/chunklist_b2800000.m3u8
-#EXTINF:-1 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/gWc8xVD.jpg",CTV HD | Truyền hình Cà Mau
+#EXTINF:-1 group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/gWc8xVD.jpg",CTV | Truyền hình Cà Mau
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sdc/camau_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/gWc8xVD.jpg",CTV HD | Truyền hình Cà Mau
+#EXTVLCOPT:http-user-agent=(_._)
+http://tv.ctvcamau.vn/live/tv/tv.m3u8
 #EXTINF:-1 group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/ILVDaWL.jpg",CRTV | Truyền hình Cao Bằng
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sda/caobang_hls.smil/chunklist_b2500000.m3u8
@@ -1080,12 +1083,6 @@ https://video1.in-news.ru/360/index.m3u8
 #EXTINF:-1 group-title="Khu vực - nội địa Nga" tvg-logo="https://i.imgur.com/TyZGzva.png",360 Новости HD | TIN TỨC Thành phố Moscow
 #EXTVLCOPT:http-user-agent=(_._)
 http://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
-#EXTINF:-1 group-title="Khu vực - nội địa Nga" tvg-logo="https://i.imgur.com/m52Nolz.png",360 TV | Truyền hình Thành phố Moscow
-#EXTVLCOPT:http-user-agent=(_._)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.is_realtime_stream=true
-http://mfe.cliptv.az/dash/360_TV_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="ÂM NHẠC Việt Nam - Xô viết" tvg-logo="https://i.imgur.com/Y6ZQyc7.png",RUTV HD | ÂM NHẠC CHUYÊN BIỆT
 #EXTVLCOPT:http-user-agent=(_._)
 http://109.239.128.126:8080/ru_tv/index.m3u8
