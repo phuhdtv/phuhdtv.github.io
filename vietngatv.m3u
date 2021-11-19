@@ -310,12 +310,9 @@ https://livecdn.fptplay.net/sdb/backan_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/pP5Y2My.png",BTV HD | Truyền hình Bắc Ninh
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sdc/bacninh_hls.smil/chunklist_b2800000.m3u8
-#EXTINF:-1 group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/gWc8xVD.jpg",CTV | Truyền hình Cà Mau
-#EXTVLCOPT:http-user-agent=(_._)
-https://livecdn.fptplay.net/sdc/camau_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/gWc8xVD.jpg",CTV HD | Truyền hình Cà Mau
 #EXTVLCOPT:http-user-agent=(_._)
-http://tv.ctvcamau.vn/live/tv/tv.m3u8
+https://livecdn.fptplay.net/sdc/camau_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/ILVDaWL.jpg",CRTV | Truyền hình Cao Bằng
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sda/caobang_hls.smil/chunklist_b2500000.m3u8
@@ -818,6 +815,9 @@ https://rt-rtd.gcdn.co/live/rtdoc/playlist.m3u8
 #EXTINF:-1 group-title="TIN TỨC Việt Nam - Xô viết" tvg-logo="https://i.imgur.com/IcELbBE.png",Russian America TV
 #EXTVLCOPT:http-user-agent=(_._)
 https://stream.russianamerica.tv/ratv/index.m3u8
+#EXTINF:-1 group-title="Thể thao Việt Nam - Xô viết" tvg-logo="https://i.imgur.com/D3Pt9UL.png",Qazaq Sport HD | THỂ THAO ĐỈNH CAO
+#EXTVLCOPT:http-user-agent=(_._)
+http://92.46.127.146:8080/qazsport-L3-TRANS/index.m3u8
 #EXTINF:-1 group-title="Thể thao Việt Nam - Xô viết" tvg-logo="https://i.ibb.co/cNS410J/Q-Sport.png",Q Sport HD | THỂ THAO ĐỈNH CAO
 #EXTVLCOPT:http-user-agent=(_._)
 http://46.34.209.243/btv/SWM/Q/Q.m3u8
