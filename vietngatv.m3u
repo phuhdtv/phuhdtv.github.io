@@ -872,7 +872,7 @@ http://radio-live-mg.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8
 http://iptv.ktkru.ru:8003/index.m3u8
 #EXTINF:-1 group-title="Thể thao Việt Nam - Xô viết" tvg-logo="https://i.imgur.com/G6TzC4i.png",Матч! ТВ HD | THỂ THAO THỦ ĐÔ
 #EXTVLCOPT:http-user-agent=(_._)
-http://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
+http://109.239.128.126:8080/match_hd/index.m3u8
 #EXTINF:-1 group-title="KÊNH NGA (SD)" tvg-logo="https://i.imgur.com/DtQX5P2.png",НТВ МИР | THỜI SỰ TỔNG HỢP | 576P
 #EXTVLCOPT:http-user-agent=(_._)
 http://92.46.127.146:8080/ntv/index.m3u8
@@ -1311,6 +1311,9 @@ http://46.34.209.243/btv/SWM/Muzyka_Pervogo/Muzyka_Pervogo_576p_2000kbps.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/JaraTv_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="ÂM NHẠC Việt Nam - Xô viết" tvg-logo="https://i.ibb.co/XJ3cy2d/MCM-Top.png",ТНТ Music | ÂM NHẠC QUỐC TẾ | 576P
+#EXTVLCOPT:http-user-agent=(_._)
+http://46.34.209.243/btv/SWM/Tnt_music/Tnt_music.m3u8
 
 #EXTINF:-1 group-title="Mua sắm Việt Nam - Xô viết" tvg-logo="https://i.ibb.co/Vp2SfcT/Leomax24.png",Leomax 24 | Mua sắm cùng Việt Nga TV
 #EXTVLCOPT:http-user-agent=(_._)
@@ -1378,7 +1381,7 @@ http://185.161.224.216/dash/Gulli_Girl_SD.ism/playlist.mpd
 http://185.161.224.216/dash/ANITV_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Thiếu nhi Việt Nam - Xô viết" tvg-logo="https://i.imgur.com/QJSYclH.png",Смайлик ТВ | THIẾU NHI BỔ ÍCH
 #EXTVLCOPT:http-user-agent=(_._)
-http://62.32.67.187:1935/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
+http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
 #EXTINF:-1 group-title="Thiếu nhi Việt Nam - Xô viết" tvg-logo="https://i.imgur.com/QlncxbD.png",Рыжий | THIẾU NHI BỔ ÍCH
 #EXTVLCOPT:http-user-agent=(_._)
 http://92.43.140.200/s57/04.m3u8
