@@ -1,6 +1,5 @@
 #EXTM3U url-tvg="http://onetv.click/schedule/epg.xml" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}"
 
-
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV HD" tvg-logo="https://i.imgur.com/QcInYpW.png",VTV1 HD
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
@@ -1923,7 +1922,7 @@ http://185.161.224.216/dash/Match_Arena_HD.ism/playlist.mpd
 #EXTINF:-1 group-title="Thể thao Việt Nam - Xô viết" tvg-logo="https://i.imgur.com/Xz4HJRP.png",Матч! Боец | THỂ THAO ĐỈNH CAO
 #EXTVLCOPT:http-user-agent=(_._)
 http://109.239.128.126:8080/match_boets/index.m3u8
-#EXTINF:-1 group-title="NOT 24/24" tvg-logo="https://i.imgur.com/Xz4HJRP.png",Матч! Боец | THỂ THAO ĐỈNH CAO
+#EXTINF:-1 group-title="NOT 24/24" tvg-logo="https://i.imgur.com/Xz4HJRP.png",Матч! Боец | THỂ THAO ĐỈNH CAO | NOT 24/24
 #EXTVLCOPT:http-user-agent=(_._)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
