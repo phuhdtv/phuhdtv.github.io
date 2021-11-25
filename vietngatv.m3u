@@ -55,9 +55,6 @@ http://mutixx5hq1liv.akamaized.net/vtv9/vtv9@720p.m3u8
 #EXTINF:-1 group-title="Kiều bào Việt Nam" tvg-logo="https://i.imgur.com/1U7CKCF.png",NETVIET
 #EXTVLCOPT:http-user-agent=(_._)
 http://serv25.vintera.tv:8081/viet/netviet/playlist.m3u8
-#EXTINF:-1 group-title="Kiều bào Việt Nam" tvg-logo="https://i.imgur.com/G154n6j.png",Truyền hình Quốc Hội
-#EXTVLCOPT:http-user-agent=(_._)
-http://113.164.225.140:1935/live/quochoitvlive.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtc1hd" group-title="VTC HD (VTC Now)" tvg-logo="https://i.imgur.com/8jgYSbN.png",VTC1 HD
 #EXTVLCOPT:http-user-agent=(_._)
@@ -153,6 +150,9 @@ https://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc13hd" group-title="VTC HD (FPT Play - HTVC)" tvg-logo="https://i.imgur.com/lNji7l0.png",VTC13 HD
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/hda1/vtc13_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtc13hd" group-title="KÊNH 4K" tvg-logo="https://i.imgur.com/xsCQpOz.png",VTC13 4K
+#EXTVLCOPT:http-user-agent=(_._)
+http://vcdn1.vtc.gov.vn:1935/m_4K/smil:4k.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc14hd" group-title="VTC HD (FPT Play - HTVC)" tvg-logo="https://i.imgur.com/Kqt7Myy.png",VTC14 HD
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8
@@ -219,13 +219,18 @@ https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="Giải Trí Việt Nam - Xô viết" tvg-logo="https://i.imgur.com/TRFgLus.jpg",VTVCab1 | Vie Giải Trí HD
 #EXTVLCOPT:http-user-agent="vanhtv"
 http://vietanhiptv.cf/vieon.php?type=tivi&kenh=vie-giai-tri-hd
+#EXTINF:-1 group-title="Mua sắm Việt Nam - Xô viết" tvg-logo="https://i.imgur.com/HwMUDwy.png",VTVCab13 | VTV Hyundai Home Shopping
+#EXTVLCOPT:http-user-agent=(_._)
+https://livecdn.fptplay.net/sdb/vtvhyundai_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="Phim truyện Việt Nam - Xô viết" tvg-logo="http://i.imgur.com/zhctbtP.jpg",VTVCab19 | Vie DRAMAS HD
 #EXTVLCOPT:http-user-agent="vanhtv"
 http://vietanhiptv.cf/vieon.php?type=tivi&kenh=vie-dramas-hd
-
-#EXTINF:-1 group-title="Mua sắm Việt Nam - Xô viết" tvg-logo="https://i.imgur.com/HwMUDwy.png",VTV Hyundai Home Shopping
-#EXTVLCOPT:http-user-agent=(_._)
-https://livecdn.fptplay.net/sdb/vtvhyundai_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Khoa giáo Việt Nam - Xô viết" tvg-logo="https://i.imgur.com/muVwF90.jpg",VTVCab22 | LOVE NATURE HD
+#EXTVLCOPT:http-user-agent="vanhtv"
+https://bamus-spa-roku.amagi.tv/playlist1080-p.m3u8
+#EXTINF:-1 group-title="KÊNH 4K" tvg-logo="https://i.imgur.com/muVwF90.jpg",VTVCab22 | LOVE NATURE 4K
+#EXTVLCOPT:http-user-agent="vanhtv"
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="Mua sắm Việt Nam - Xô viết" tvg-logo="https://i.imgur.com/3bKWKPm.png",Quê Hương Homeshopping
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sdb/quehuongshop_hls.smil/chunklist_b2500000.m3u8
@@ -958,7 +963,7 @@ https://okkotv-live.cdnvideo.ru/channel/Russia24.m3u8
 http://46.34.209.243/btv/SWM/Karusel/Karusel_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="SD (Theo giờ khác nhau)" tvg-logo="https://i.imgur.com/6ot2Nlh.png",ОТР | THỜI SỰ TỔNG HỢP
 #EXTVLCOPT:http-user-agent=(_._)
-http://nmikmby0.russtv.net/iptv/6KTYAXB9D3APZ7/6026/index.m3u8
+http://gg.gg/OTR-Russia
 #EXTINF:-1 group-title="SD (Theo giờ khác nhau)" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВ Центр | THỜI SỰ TỔNG HỢP
 #EXTVLCOPT:http-user-agent=(_._)
 http://46.34.209.243/btv/SWM/TVCentr/TVCentr_576p_2000kbps.m3u8
@@ -1815,15 +1820,6 @@ https://livecdn.fptplay.net/hdevent/uefa01_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Thể thao Việt Nam - Xô viết" tvg-logo="https://dl.dropboxusercontent.com/s/372xzuxgh5892wp/fpt.png?dl=0",UEFA 2
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hdevent/uefa02_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="Thể thao Việt Nam - Xô viết" tvg-logo="https://dl.dropboxusercontent.com/s/372xzuxgh5892wp/fpt.png?dl=0",UEFA 3
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/hdevent/uefa03_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="Thể thao Việt Nam - Xô viết" tvg-logo="https://dl.dropboxusercontent.com/s/372xzuxgh5892wp/fpt.png?dl=0",UEFA 4
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/hdevent/uefa04_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="Thể thao Việt Nam - Xô viết" tvg-logo="https://dl.dropboxusercontent.com/s/372xzuxgh5892wp/fpt.png?dl=0",UEFA 5
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/hdevent/uefa05_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Thể thao Việt Nam - Xô viết" tvg-logo="https://dl.dropboxusercontent.com/s/372xzuxgh5892wp/fpt.png?dl=0",UEFA 6
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hdevent/uefa06_vhls.smil/chunklist_b5000000.m3u8
@@ -1833,9 +1829,6 @@ https://livecdn.fptplay.net/hdevent/uefa07_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Thể thao Việt Nam - Xô viết" tvg-logo="https://dl.dropboxusercontent.com/s/372xzuxgh5892wp/fpt.png?dl=0",UEFA 8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hdevent/uefa08_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="Thể thao Việt Nam - Xô viết" tvg-logo="https://dl.dropboxusercontent.com/s/372xzuxgh5892wp/fpt.png?dl=0",UEFA 9
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/hdevent/uefa09_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Thể thao Việt Nam - Xô viết" tvg-logo="https://dl.dropboxusercontent.com/s/372xzuxgh5892wp/fpt.png?dl=0",UEFA 10
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hdevent/uefa10_vhls.smil/chunklist_b5000000.m3u8
@@ -1856,6 +1849,12 @@ https://livecdn.fptplay.net/hdevent/worldcup04_vhls.smil/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hdevent/worldcup05_vhls.smil/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="Thể thao Việt Nam - Xô viết" tvg-logo="https://i.imgur.com/OwTghhI.jpg",On Sports HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+http://203.162.123.188:21585/vtvcab3/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab23hd" group-title="Thể thao Việt Nam - Xô viết" tvg-logo="https://i.imgur.com/AtTWTPE.png",ON Golf HD
+#EXTVLCOPT:http-user-agent="vanhtv"
+https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
 #EXTINF:-1 group-title="Thể thao Việt Nam - Xô viết" tvg-logo="https://i.imgur.com/K6KvFk6.png",EUROSPORT 1 | THỂ THAO ĐỈNH CAO
 #EXTVLCOPT:http-user-agent=(_._)
 #KODIPROP:inputstream=inputstream.adaptive
