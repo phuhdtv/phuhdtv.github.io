@@ -360,6 +360,9 @@ https://8387e1fb5a.vws.vegacdn.vn/live/binhphuoc3/chunklist_1.m3u8
 #EXTINF:-1 group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/DIgUtMQ.png",BTV HD | Truyền hình Bình Thuận
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sdc/binhthuan_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/5Ys78oI.png",Bắc Giang TV FHD
+#EXTVLCOPT:http-user-agent=(_._)
+http://103.90.220.236/bgtvlive/tv1live.m3u8
 #EXTINF:-1 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/5Ys78oI.png",Bắc Giang TV HD
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sdc/bacgiang_hls.smil/chunklist_b2500000.m3u8
@@ -450,6 +453,9 @@ https://livecdn.fptplay.net/sdc/hanoitv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="hanoitv2" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/XfkC7BY.png",H2 HD | Truyền hình Hà Nội
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sdc/hanoitv2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương (HD)" tvg-logo="https://i.ibb.co/brrvwcG/143.png",HTTV FHD | Truyền hình Hà Tĩnh
+#EXTVLCOPT:http-user-agent=(_._)
+https://wse.hatinhtv.net/live/httv1/playlist.m3u8
 #EXTINF:-1 group-title="Địa Phương (HD)" tvg-logo="https://i.ibb.co/brrvwcG/143.png",HTTV HD | Truyền hình Hà Tĩnh
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sdc/hatinh_hls.smil/chunklist_b2500000.m3u8
@@ -546,6 +552,9 @@ http://103.90.220.236/nbtvlive/tv1live.m3u8
 #EXTINF:-1 group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/9bFk5Lj.png",NTV HD | Truyền hình Ninh Thuận
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sda/ninhthuan_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/LXuRwJY.png",PTV FHD | Truyền hình Phú Thọ
+#EXTVLCOPT:http-user-agent=(_._)
+http://cdn.3ssoft.vn/livetv/phuthotv/phuthotv/index.m3u8
 #EXTINF:-1 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/LXuRwJY.png",PTV HD | Truyền hình Phú Thọ
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sda/phutho_hls.smil/chunklist_b2500000.m3u8
@@ -1778,12 +1787,6 @@ http://46.34.209.243/btv/SWM/Pobeda/Pobeda_576p_2000kbps.m3u8
 #EXTVLCOPT:http-user-agent=(_._)
 http://91.185.3.218:4000/play/622
 
-#EXTINF:-1 group-title="Thể thao Việt Nam - Xô viết" tvg-logo="https://dl.dropboxusercontent.com/s/372xzuxgh5892wp/fpt.png?dl=0",WBC01
-#EXTVLCOPT:http-user-agent=(_._)
-https://livecdn.fptplay.net/schedule/wbc01_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Thể thao Việt Nam - Xô viết" tvg-logo="https://dl.dropboxusercontent.com/s/372xzuxgh5892wp/fpt.png?dl=0",WBC02
-#EXTVLCOPT:http-user-agent=(_._)
-https://livecdn.fptplay.net/schedule/wbc02_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Thể thao Việt Nam - Xô viết" tvg-logo="https://dl.dropboxusercontent.com/s/372xzuxgh5892wp/fpt.png?dl=0",AFC 02
 #EXTVLCOPT:http-user-agent=(_._)
 https://vips-livecdn.fptplay.net/afcchampion/afc02_2000.stream/chunklist.m3u8
@@ -1853,15 +1856,15 @@ https://livecdn.fptplay.net/hdevent/worldcup04_vhls.smil/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hdevent/worldcup05_vhls.smil/chunklist.m3u8
 
+#EXTINF:-1 group-title="Thể thao Việt Nam - Xô viết" tvg-logo="https://i.imgur.com/K6KvFk6.png",EUROSPORT 1 | THỂ THAO ĐỈNH CAO
+#EXTVLCOPT:http-user-agent=(_._)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://185.161.224.216/dash/EuroSport1_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Thể thao Việt Nam - Xô viết" tvg-logo="https://i.ibb.co/tL4Rytq/fightbox-hd.png",FightBox HD | THỂ THAO ĐỈNH CAO
 #EXTVLCOPT:http-user-agent=(_._)
 http://92.43.140.200/s86/04.m3u8
-#EXTINF:-1 group-title="Thể thao Việt Nam - Xô viết" tvg-logo="https://vthanh.xyz/ic/14.png",On Sports
-#EXTVLCOPT:http-user-agent=(_._)
-http://203.162.123.188:21585/vtvcab3/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D3Pt9UL.png" group-title="Thể thao Việt Nam - Xô viết",Qazsport HD
-#EXTVLCOPT:http-user-agent=(_._)
-http://92.46.127.146:8080/qazsport/index.m3u8
 #EXTINF:-1 group-title="Thể thao Việt Nam - Xô viết" tvg-logo="https://i.ibb.co/8YJYhpX/football.png",Футбол | THỂ THAO ĐỈNH CAO
 #EXTVLCOPT:http-user-agent=(_._)
 http://92.43.140.200/s41/04.m3u8
