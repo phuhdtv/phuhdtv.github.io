@@ -55,6 +55,9 @@ http://mutixx5hq1liv.akamaized.net/vtv9/vtv9@720p.m3u8
 #EXTINF:-1 group-title="Kiều bào Việt Nam" tvg-logo="https://i.imgur.com/1U7CKCF.png",NETVIET
 #EXTVLCOPT:http-user-agent=(_._)
 http://serv25.vintera.tv:8081/viet/netviet/playlist.m3u8
+#EXTINF:-1 group-title="Kiều bào Việt Nam" tvg-logo="https://i.imgur.com/G154n6j.png",Truyền hình Quốc Hội
+#EXTVLCOPT:http-user-agent=(_._)
+http://113.164.225.140:1935/live/quochoitvlive.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtc1hd" group-title="VTC HD (VTC Now)" tvg-logo="https://i.imgur.com/8jgYSbN.png",VTC1 HD
 #EXTVLCOPT:http-user-agent=(_._)
@@ -1127,6 +1130,9 @@ http://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
 #EXTINF:-1 group-title="ÂM NHẠC Việt Nam - Xô viết" tvg-logo="https://i.imgur.com/Y6ZQyc7.png",RUTV HD | ÂM NHẠC CHUYÊN BIỆT
 #EXTVLCOPT:http-user-agent=(_._)
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
+#EXTINF:-1 group-title="TIN TỨC Việt Nam - Xô viết" tvg-logo="https://i.imgur.com/AGj8EJF.png",РБК | TH Kinh tế Liên Bang Nga
+#EXTVLCOPT:http-user-agent=(_._)
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
 #EXTINF:-1 group-title="TIN TỨC Việt Nam - Xô viết" tvg-logo="https://i.imgur.com/AGj8EJF.png",РБК | TH Kinh tế Yekaterinburg
 #EXTVLCOPT:http-user-agent=(_._)
 http://91.229.235.66:8080/online/rbc_480p/index.m3u8
@@ -1146,7 +1152,7 @@ https://rtmp.api.rt.com/hls/rtdru.m3u8
 #EXTVLCOPT:http-user-agent=(_._)
 http://92.43.140.200/s93/04.m3u8
 
-#EXTINF:-1 group-title="Kiều bào Việt Nam" tvg-logo="https://i.imgur.com/DaYMzz8.jpg",Atameken Business HD | Kinh Tế Kazakhstan
+#EXTINF:-1 group-title="Kiều bào Việt Nam" tvg-logo="https://i.imgur.com/DaYMzz8.jpg",Atameken Business HD | TH Kinh Tế Kazakhstan
 #EXTVLCOPT:http-user-agent=(_._)
 http://live.atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/z9E3DBW.png" group-title="Kiều bào Việt Nam",Настоящее время | Truyền Hình Nga Tại Cộng Hoà Séc
@@ -1850,18 +1856,6 @@ https://livecdn.fptplay.net/hdevent/worldcup05_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Thể thao Việt Nam - Xô viết" tvg-logo="https://i.ibb.co/tL4Rytq/fightbox-hd.png",FightBox HD | THỂ THAO ĐỈNH CAO
 #EXTVLCOPT:http-user-agent=(_._)
 http://92.43.140.200/s86/04.m3u8
-#EXTINF:-1 group-title="Thể thao Việt Nam - Xô viết" tvg-logo="https://i.imgur.com/K6KvFk6.png",EUROSPORT 1 | THỂ THAO ĐỈNH CAO
-#EXTVLCOPT:http-user-agent=(_._)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.is_realtime_stream=true
-http://185.161.224.216/dash/EuroSport1_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="Thể thao Việt Nam - Xô viết" tvg-logo="https://i.imgur.com/klqWiwb.png",EUROSPORT 2 | THỂ THAO ĐỈNH CAO
-#EXTVLCOPT:http-user-agent=(_._)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.is_realtime_stream=true
-http://185.161.224.216/dash/EuroSport2_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Thể thao Việt Nam - Xô viết" tvg-logo="https://vthanh.xyz/ic/14.png",On Sports
 #EXTVLCOPT:http-user-agent=(_._)
 http://203.162.123.188:21585/vtvcab3/index.m3u8
