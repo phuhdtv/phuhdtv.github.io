@@ -925,7 +925,10 @@ http://radio-live-mg.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8
 http://iptv.ktkru.ru:8003/index.m3u8
 #EXTINF:-1 group-title="Thể thao Việt Nam - Xô viết" tvg-logo="https://i.imgur.com/G6TzC4i.png",Матч! ТВ HD | THỂ THAO THỦ ĐÔ
 #EXTVLCOPT:http-user-agent=(_._)
-http://109.239.128.126:8080/match_hd/index.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://185.161.224.216/dash/Match_HD.ism/playlist.mpd
 #EXTINF:-1 group-title="SD (Theo giờ khác nhau)" tvg-logo="https://i.imgur.com/DtQX5P2.png",НТВ МИР | THỜI SỰ TỔNG HỢP | 576P
 #EXTVLCOPT:http-user-agent=(_._)
 http://92.46.127.146:8080/ntv/index.m3u8
@@ -1025,12 +1028,6 @@ http://92.43.140.200/s19/04.m3u8
 #EXTINF:-1 group-title="SD (Theo giờ khác nhau)" tvg-logo="https://i.imgur.com/n7bGFXj.png",МУЗ | ÂM NHẠC & GIẢI TRÍ | 576P
 #EXTVLCOPT:http-user-agent=(_._)
 http://46.34.209.243/btv/SWM/Muz_Tv/Muz_Tv.m3u8
-#EXTINF:-1 group-title="NOT 24/24" tvg-logo="https://i.imgur.com/n7bGFXj.png",МУЗ | ÂM NHẠC & GIẢI TRÍ | Dự phòng
-#EXTVLCOPT:http-user-agent=(_._)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.is_realtime_stream=true
-http://185.161.224.216/dash/Muz_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/n7bGFXj.png",МУЗ | ÂM NHẠC & GIẢI TRÍ | 480P
 #EXTVLCOPT:http-user-agent=(_._)
 http://92.43.140.200/s28/04.m3u8
@@ -1093,7 +1090,7 @@ http://tnv.bonus-tv.ru/cdn/tnvplanet/playlist.m3u8
 http://185.161.224.216/dash/Ce_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Khu vực - nội địa Nga" tvg-logo="https://i.imgur.com/FUYQxWb.png",Peretz International | GIẢI TRÍ ĐỈNH CAO
 #EXTVLCOPT:http-user-agent=(_._)
-http://46.34.209.243/btv/SWM/Perec/Perec.m3u8
+http://46.34.209.243/btv/SWM/Perec/Perec_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="SD (Theo giờ khác nhau)" tvg-logo="https://i.imgur.com/neisaju.png",СТС Love | GIẢI TRÍ DÀNH CHO NGƯỜI HÂM MỘ
 #EXTVLCOPT:http-user-agent=(_._)
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1284,10 +1281,7 @@ http://109.239.128.126:8080/viasat_nature/index.m3u8
 http://185.161.224.216/dash/Viasat_Nature_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Khoa giáo Việt Nam - Xô viết" tvg-logo="https://i.imgur.com/ZGNvRAr.png",HDL | HD Life | Khoa giáo Tiếng Nga
 #EXTVLCOPT:http-user-agent=(_._)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.is_realtime_stream=true
-http://185.161.224.216/dash/HD_life.ism/playlist.mpd
+http://46.34.209.243/btv/SWM/HDLife/HDLife_720p_3500kbps.m3u8
 #EXTINF:-1 group-title="Tôn giáo Việt Nam - Xô viết" tvg-logo="https://i.ibb.co/WKSjS2J/3angels-1.png",Три Ангела | Tôn giáo Nizhny Novgorod
 #EXTVLCOPT:http-user-agent=(_._)
 http://hls.tv.3angels.ru/stream/HQ.m3u8
@@ -1939,6 +1933,12 @@ https://livecdn.fptplay.net/hdevent/worldcup04_vhls.smil/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hdevent/worldcup05_vhls.smil/chunklist.m3u8
 
+#EXTINF:0 group-title="Thể thao Việt Nam - Xô viết" tvg-id="setanta-sports" tvg-logo="http://epg.it999.ru/img2/2812.png",Setanta Sports 1
+#EXTVLCOPT:http-user-agent=(_._)
+http://92.43.140.200/s81/index.m3u8
+#EXTINF:0 group-title="Thể thao Việt Nam - Xô viết" tvg-id="setanta-sports-plus" tvg-logo="http://epg.it999.ru/img2/2813.png",Setanta Sports 2
+#EXTVLCOPT:http-user-agent=(_._)
+http://92.43.140.200/s82/index.m3u8
 #EXTINF:-1 group-title="Thể thao Việt Nam - Xô viết" tvg-logo="https://iptvxpix.ml/viasat-sport.png",VIASAT SPORT
 #EXTVLCOPT:http-user-agent=(_._)
 http://109.239.128.126:8080/viasat_sport/index.m3u8
@@ -1954,21 +1954,18 @@ http://46.34.209.243/btv/SWM/M1/M1.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/EuroSport1_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="Thể thao Việt Nam - Xô viết" tvg-logo="https://i.imgur.com/K6KvFk6.png",EUROSPORT 1 | THỂ THAO ĐỈNH CAO
-#EXTVLCOPT:http-user-agent=(_._)
-http://109.239.128.126:8080/eurosport/index.m3u8
-#EXTINF:-1 group-title="Thể thao Việt Nam - Xô viết" tvg-logo="https://i.imgur.com/K6KvFk6.png",EUROSPORT 1 HD | THỂ THAO ĐỈNH CAO
-#EXTVLCOPT:http-user-agent=(_._)
-http://46.34.209.243/btv/SWM/Eurosport/Eurosport.m3u8
-#EXTINF:-1 group-title="Thể thao Việt Nam - Xô viết" tvg-logo="https://i.imgur.com/klqWiwb.png",EUROSPORT 2 | THỂ THAO ĐỈNH CAO
+#EXTINF:-1 group-title="NOT 24/24" tvg-logo="https://i.imgur.com/klqWiwb.png",EUROSPORT 2 | THỂ THAO ĐỈNH CAO
 #EXTVLCOPT:http-user-agent=(_._)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
-http://185.161.224.216/dash/Eurosport2_SD.ism/playlist.mpd
+http://185.161.224.216/dash/EuroSport2_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="Thể thao Việt Nam - Xô viết" tvg-logo="https://i.imgur.com/K6KvFk6.png",EUROSPORT 1 HD | THỂ THAO ĐỈNH CAO
+#EXTVLCOPT:http-user-agent=(_._)
+http://46.34.209.243/btv/SWM/Eurosport/Eurosport_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="Thể thao Việt Nam - Xô viết" tvg-logo="https://i.imgur.com/klqWiwb.png",EUROSPORT 2 HD | THỂ THAO ĐỈNH CAO
 #EXTVLCOPT:http-user-agent=(_._)
-http://46.34.209.243/btv/SWM/Eurosport2/Eurosport2.m3u8
+http://46.34.209.243/btv/SWM/Eurosport2/Eurosport2_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="Thể thao Việt Nam - Xô viết" tvg-logo="https://i.ibb.co/8YJYhpX/football.png",Футбол | THỂ THAO ĐỈNH CAO
 #EXTVLCOPT:http-user-agent=(_._)
 http://92.43.140.200/s41/04.m3u8
@@ -1990,12 +1987,9 @@ http://109.239.128.126:8080/match_boets/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/Matc_Boec_SD.ism/playlist.mpd
-#EXTINF:-1 tvg-logo="http://gg.gg/mpremier" group-title="Thể thao Việt Nam - Xô viết",Матч! Премьер HD | Russian Premier League
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D3Pt9UL.png" group-title="Thể thao Việt Nam - Xô viết",Qazsport HD
 #EXTVLCOPT:http-user-agent=(_._)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.is_realtime_stream=true
-http://185.161.224.216/dash/Match_Premyer_HD.ism/playlist.mpd
+http://92.46.127.146:8080/qazsport/index.m3u8
 #EXTINF:-1 tvg-logo="http://gg.gg/nashsport" group-title="Thể thao Việt Nam - Xô viết",Матч! Страна | THỂ THAO ĐỈNH CAO
 #EXTVLCOPT:http-user-agent=(_._)
 #KODIPROP:inputstream=inputstream.adaptive
