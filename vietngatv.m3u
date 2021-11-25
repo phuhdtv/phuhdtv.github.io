@@ -892,9 +892,6 @@ https://livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="tlchd" group-title="Du Lịch Việt Nam - Xô viết" tvg-logo="https://i.imgur.com/P7JRmze.png",TLC SD
 #EXTVLCOPT:http-user-agent=(_._)
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXLIFE-SD-720p/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/JEA2xpv.png",TRT World HD
-#EXTVLCOPT:http-user-agent=(_._)
-https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 group-title="Thể thao Việt Nam - Xô viết" tvg-logo="https://i.ibb.co/Fwxvqnz/UFC-TB.jpg",UFC ТВ HD
 #EXTVLCOPT:http-user-agent=(_._)
 http://91.185.3.218:4000/play/401
@@ -1139,12 +1136,9 @@ http://109.239.128.126:8080/ru_tv/index.m3u8
 #EXTINF:-1 group-title="ÂM NHẠC Việt Nam - Xô viết" tvg-logo="https://i.imgur.com/Y6ZQyc7.png",RUTV HD | ÂM NHẠC CHUYÊN BIỆT
 #EXTVLCOPT:http-user-agent=(_._)
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
-#EXTINF:-1 group-title="TIN TỨC Việt Nam - Xô viết" tvg-logo="https://i.imgur.com/AGj8EJF.png",РБК | TH Kinh tế Tiếng Nga | 576P
+#EXTINF:-1 group-title="TIN TỨC Việt Nam - Xô viết" tvg-logo="https://i.imgur.com/AGj8EJF.png",РБК | TH Kinh tế Yekaterinburg
 #EXTVLCOPT:http-user-agent=(_._)
-http://online-video.rbc.ru/online/rbctv.m3u8
-#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/AGj8EJF.png",РБК | TH Kinh tế Tiếng Nga | 480P
-#EXTVLCOPT:http-user-agent=(_._)
-http://92.43.140.200/s36/04.m3u8
+http://91.229.235.66:8080/online/rbc_480p/index.m3u8
 #EXTINF:-1 group-title="TIN TỨC Việt Nam - Xô viết" tvg-logo="https://i.imgur.com/o4Julue.jpg",IZ.RU HD | TIN TỨC HÀNG ĐẦU
 #EXTVLCOPT:http-user-agent=(_._)
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
@@ -1185,6 +1179,12 @@ https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
 #EXTINF:-1 group-title="Kiều bào Việt Nam" tvg-logo="https://i.imgur.com/HWqxjGl.png",БелРос | Kênh Truyền hình Nga Tại Belarus
 #EXTVLCOPT:http-user-agent=(_._)
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:-1 group-title="Kiều bào Việt Nam" tvg-logo="https://i.ibb.co/DDjQTKc/Kino-24.png",KINO 24 | Kiều bào Việt Nam ở Các nước Baltic
+#EXTVLCOPT:http-user-agent=(_._)
+http://85.192.10.131/hls/Kino24Ru/playlist.m3u8
+#EXTINF:-1 group-title="Kiều bào Việt Nam",Pro 100 TV | Kênh Truyền hình Nga Tại Các nước Baltic
+#EXTVLCOPT:http-user-agent=(_._)
+http://85.192.10.131/hls/Pro100tvRu/playlist.m3u8
 
 #EXTINF:-1 group-title="TIN TỨC Việt Nam - Xô viết" tvg-logo="https://i.imgur.com/kU0z0v7.png",Красная линия | Thông tin và chính trị
 #EXTVLCOPT:http-user-agent=(_._)
@@ -1960,7 +1960,7 @@ http://109.239.128.126:8080/eurosport/index.m3u8
 #EXTINF:-1 group-title="Thể thao Việt Nam - Xô viết" tvg-logo="https://i.imgur.com/K6KvFk6.png",EUROSPORT 1 HD | THỂ THAO ĐỈNH CAO
 #EXTVLCOPT:http-user-agent=(_._)
 http://46.34.209.243/btv/SWM/Eurosport/Eurosport.m3u8
-#EXTINF:-1 group-title="NOT 24/24" tvg-logo="https://i.imgur.com/klqWiwb.png",EUROSPORT 2 | THỂ THAO ĐỈNH CAO
+#EXTINF:-1 group-title="Thể thao Việt Nam - Xô viết" tvg-logo="https://i.imgur.com/klqWiwb.png",EUROSPORT 2 | THỂ THAO ĐỈNH CAO
 #EXTVLCOPT:http-user-agent=(_._)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
