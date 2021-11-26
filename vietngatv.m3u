@@ -1146,10 +1146,7 @@ http://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 #EXTINF:-1 group-title="TIN TỨC Việt Nam - Xô viết" tvg-logo="https://i.imgur.com/AGj8EJF.png",РБК | TH Kinh tế Liên Bang Nga
 #EXTVLCOPT:http-user-agent=(_._)
-http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
-#EXTINF:-1 group-title="TIN TỨC Việt Nam - Xô viết" tvg-logo="https://i.imgur.com/AGj8EJF.png",РБК | TH Kinh tế Yekaterinburg
-#EXTVLCOPT:http-user-agent=(_._)
-http://91.229.235.66:8080/online/rbc_480p/index.m3u8
+https://online-video.rbc.ru/online/rbctv.m3u8
 #EXTINF:-1 group-title="TIN TỨC Việt Nam - Xô viết" tvg-logo="https://i.imgur.com/o4Julue.jpg",IZ.RU HD | TIN TỨC HÀNG ĐẦU
 #EXTVLCOPT:http-user-agent=(_._)
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
@@ -1318,6 +1315,9 @@ http://92.43.140.200/s78/04.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/Bridge_TV_Dance_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wG8KyeG.png" group-title="ÂM NHẠC Việt Nam - Xô viết",Страна FM | ÂM NHẠC Nước Nga
+#EXTVLCOPT:http-user-agent=(_._)
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Pmzcgn1.png" group-title="ÂM NHẠC Việt Nam - Xô viết",Хит ТВ | ÂM NHẠC Nước Nga
 #EXTVLCOPT:http-user-agent=(_._)
 http://hithd.camsh.orsk.ru/hls/hit.m3u8
