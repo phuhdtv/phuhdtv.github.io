@@ -964,9 +964,6 @@ https://okkotv-live.cdnvideo.ru/channel/Russia24.m3u8
 #EXTINF:-1 group-title="SD (Theo giờ khác nhau)" tvg-logo="https://i.imgur.com/n9IHUCD.png",Карусель International | THIẾU NHI BỔ ÍCH
 #EXTVLCOPT:http-user-agent=(_._)
 http://46.34.209.243/btv/SWM/Karusel/Karusel_576p_2000kbps.m3u8
-#EXTINF:-1 group-title="SD (Theo giờ khác nhau)" tvg-logo="https://i.imgur.com/6ot2Nlh.png",ОТР | THỜI SỰ TỔNG HỢP
-#EXTVLCOPT:http-user-agent=(_._)
-http://gg.gg/OTR-Russia
 #EXTINF:-1 group-title="SD (Theo giờ khác nhau)" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВ Центр | THỜI SỰ TỔNG HỢP
 #EXTVLCOPT:http-user-agent=(_._)
 http://46.34.209.243/btv/SWM/TVCentr/TVCentr_576p_2000kbps.m3u8
@@ -1080,6 +1077,9 @@ http://radio-live-mg.rtr-vesti.ru/hls/doverie/playlist_3.m3u8
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_OTC_ww2c28d5412dd75bf975fb951c740a30/hls/1920x1080@4504/playlist.m3u8
 #EXTINF:-1 group-title="Kiều bào Việt Nam" tvg-logo="https://i.imgur.com/qpGrvHl.jpg",RTVI | Truyền Hình Nga Tại Israel
 #EXTVLCOPT:http-user-agent=(_._)
+http://91.185.3.218:4000/play/365
+#EXTINF:-1 group-title="Kiều bào Việt Nam" tvg-logo="https://i.imgur.com/qpGrvHl.jpg",RTVI | Truyền Hình Nga Tại Israel | Dự phòng
+#EXTVLCOPT:http-user-agent=(_._)
 http://46.34.209.243/btv/SWM/RTVi/RTVi.m3u8
 #EXTINF:-1 group-title="Khu vực - nội địa Nga" tvg-logo="https://iptvxpix.ml/prima.png",Прима HD | Truyền hình Krasnoyarsk
 #EXTVLCOPT:http-user-agent=(_._)
@@ -1175,9 +1175,12 @@ http://92.43.140.200/s61/04.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/z9E3DBW.png" group-title="Kiều bào Việt Nam",Настоящее время HD | Truyền Hình Nga Tại Cộng Hoà Séc HD
 #EXTVLCOPT:http-user-agent=(_._)
 http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
-#EXTINF:-1 group-title="Kiều bào Việt Nam" tvg-logo="https://i.imgur.com/oUbjl18.png",Qazaq TV HD | Truyền Hình Nga Tại Kazakhstan
+#EXTINF:-1 group-title="Kiều bào Việt Nam" tvg-logo="https://i.imgur.com/oUbjl18.png",Qazaq TV | Truyền Hình Nga Tại Kazakhstan
 #EXTVLCOPT:http-user-agent=(_._)
 http://kazakhtv.ultraiptv.com/kazakhtv/playlist.m3u8
+#EXTINF:-1 group-title="Kiều bào Việt Nam" tvg-logo="https://i.imgur.com/oUbjl18.png",Qazaq TV HD | Truyền Hình Nga Tại Kazakhstan
+#EXTVLCOPT:http-user-agent=(_._)
+http://serv30.vintera.tv:8081/kazahtv/stream_ru/playlist.m3u8
 #EXTINF:-1 group-title="TIN TỨC Việt Nam - Xô viết" tvg-logo="https://i.imgur.com/Dh1pUNW.png",Беларусь 24 | Truyền Hình Nga Tại Belarus
 #EXTVLCOPT:http-user-agent=(_._)
 http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
@@ -1906,6 +1909,3 @@ http://91.185.3.218:4000/play/617
 #EXTINF:-1 tvg-logo="https://iptvxpix.ml/khl-hd.png" group-title="Thể thao Việt Nam - Xô viết",KHL HD
 #EXTVLCOPT:http-user-agent=(_._)
 http://91.185.3.218:4000/play/404
-#EXTINF:0 tvg-logo="https://iptvxpix.ml/match-igra.png" group-title="Thể thao Việt Nam - Xô viết",Матч! Игра HD
-#EXTVLCOPT:http-user-agent=(_._)
-http://83.97.111.172:4022/udp/224.0.45.158:1234
