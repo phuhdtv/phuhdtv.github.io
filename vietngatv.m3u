@@ -1132,6 +1132,9 @@ http://46.34.209.243/btv/SWM/Perec/Perec_576p_2000kbps.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/STS_Love_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="HD (Chỉ có Giờ Moscow)" tvg-logo="https://i.imgur.com/BtBkzC9.png",CTC Kids HD | THIẾU NHI BỔ ÍCH
+#EXTVLCOPT:http-user-agent=(_._)
+https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD.m3u8
 #EXTINF:-1 group-title="HD (Chỉ có Giờ Moscow)" tvg-logo="https://i.imgur.com/rdLzrpr.png",ТНТ4 HD | Kênh Hài Tiếng Nga
 #EXTVLCOPT:http-user-agent=(_._)
 http://bl.uma.media/live/317849/HLS/4614144_3,2883584/2/1/playlist.m3u8
@@ -1196,9 +1199,6 @@ http://92.43.140.200/s61/04.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/z9E3DBW.png" group-title="Kiều bào Việt Nam",Настоящее время HD | Truyền Hình Nga Tại Cộng Hoà Séc HD
 #EXTVLCOPT:http-user-agent=(_._)
 http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
-#EXTINF:-1 group-title="Kiều bào Việt Nam" tvg-logo="https://i.imgur.com/oUbjl18.png",Qazaq TV | Truyền Hình Nga Tại Kazakhstan
-#EXTVLCOPT:http-user-agent=(_._)
-http://kazakhtv.ultraiptv.com/kazakhtv/playlist.m3u8
 #EXTINF:-1 group-title="Kiều bào Việt Nam" tvg-logo="https://i.imgur.com/oUbjl18.png",Qazaq TV HD | Truyền Hình Nga Tại Kazakhstan
 #EXTVLCOPT:http-user-agent=(_._)
 http://serv30.vintera.tv:8081/kazahtv/stream_ru/playlist.m3u8
@@ -1387,7 +1387,7 @@ http://195.9.195.19:8001/hls2/vivarussia/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/Shanson_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="ÂM NHẠC Việt Nam - Xô viết" tvg-logo="https://i.imgur.com/NBWyJJQ.png",Шансон ТВ | ÂM NHẠC nghệ thuật | 480P
+#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/NBWyJJQ.png",Шансон ТВ | ÂM NHẠC nghệ thuật | 480P
 #EXTVLCOPT:http-user-agent=(_._)
 http://92.43.140.200/s43/04.m3u8
 #EXTINF:-1 group-title="ÂM NHẠC Việt Nam - Xô viết" tvg-logo="https://i.imgur.com/94gvcA4.jpg",Музыка Первого | ÂM NHẠC Nước Nga
