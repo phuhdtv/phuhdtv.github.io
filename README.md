@@ -21,7 +21,3 @@ Link HaNoi IPTV: http://gg.gg/hanoiiptv
 
 Link kupjtv: http://gg.gg/kupjtv
 
-Link Vthanh IPTV: http://lienket.vn/vthanhtivi
-
-
-Link Bear: http://lienket.vn/beartv
