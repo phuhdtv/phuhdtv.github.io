@@ -1183,9 +1183,6 @@ http://radio-live-mg.rtr-vesti.ru/hls/doverie/playlist_3.m3u8
 #EXTINF:-1 group-title="Kiều bào Việt Nam" tvg-logo="https://i.imgur.com/qpGrvHl.jpg",RTVI | Truyền Hình Nga Tại Israel
 #EXTVLCOPT:http-user-agent=(_._)
 http://46.34.209.243/btv/SWM/RTVi/RTVi.m3u8
-#EXTINF:-1 group-title="Khu vực - nội địa Nga" tvg-logo="https://iptvxpix.ml/prima.png",Прима HD | Truyền hình Krasnoyarsk
-#EXTVLCOPT:http-user-agent=(_._)
-http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
 #EXTINF:-1 group-title="Khu vực - nội địa Nga" tvg-logo="https://iptvxpix.ml/sts-mir.png",Телестанция МИР | Truyền hình Tỉnh Novosibirsk
 #EXTVLCOPT:http-user-agent=(_._)
 http://serv30.vintera.tv:8081/stanciya_mir/mir/playlist.m3u8
@@ -1879,6 +1876,9 @@ http://185.161.224.216/dash/VIP_Comedy_HD.ism/playlist.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/VIP_Premium_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://itv.svc.iptv.rt.ru/sdp/mos/nclogo1593514331524.png" group-title="Phim truyện Việt Nam - Xô viết",VIP Serial HD | ĐẶC SẮC ẤN TƯỢNG
+#EXTVLCOPT:http-user-agent=(_._)
+https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x3IE7sE.png" group-title="Giải Trí Việt Nam - Xô viết",RTG | GIẢI TRÍ ĐỈNH CAO | 480P
 #EXTVLCOPT:http-user-agent=(_._)
 http://92.43.140.200/s80/04.m3u8
