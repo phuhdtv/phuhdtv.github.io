@@ -1,7 +1,7 @@
 # IPTV
-EN: Collection publicly available IPTV channels from Vietnamese over the Russian/Kazakh
+EN: Collection publicly available IPTV channels from Vietnamese over the Russian/Kazakh/Belarusian/Ukrainian
 
-RU: Коллекция общедоступных IPTV каналов с вьетнамского по российскому/Казахстанский
+RU: Коллекция общедоступных IPTV каналов с вьетнамского по российскому/Казахстанский/Белорусский/Украинский
 
 Адрес 1: http://bom.to/vietNgaTV
 
