@@ -1180,6 +1180,9 @@ http://radio-live-mg.rtr-vesti.ru/hls/moscow_24/playlist_3.m3u8
 #EXTINF:-1 group-title="Khu vực - nội địa Nga" tvg-logo="https://i.imgur.com/ZSHgdyN.jpg",Москва Доверие | TRUYỀN HÌNH THỦ ĐÔ Moscow
 #EXTVLCOPT:http-user-agent=(_._)
 http://radio-live-mg.rtr-vesti.ru/hls/doverie/playlist_3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xQc3UoJ.png" group-title="Khu vực - nội địa Nga",Между.Net | Truyền hình Vùng Kemerovo
+#EXTVLCOPT:http-user-agent=(_._)
+http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8
 #EXTINF:-1 group-title="Kiều bào Việt Nam" tvg-logo="https://i.imgur.com/qpGrvHl.jpg",RTVI | Truyền Hình Nga Tại Israel
 #EXTVLCOPT:http-user-agent=(_._)
 http://46.34.209.243/btv/SWM/RTVi/RTVi.m3u8
@@ -1943,9 +1946,6 @@ http://vthanh.me/vtvgo.m3u8?pass=vienthi&id=196
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="Thể thao Việt Nam - Xô viết" tvg-logo="https://vthanh.xyz/ic/26.png",On Football HD
 #EXTVLCOPT:http-user-agent=(_._)
 http://vthanh.me/sctv.m3u8?pass=vienthi&id=vtvcab16|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="vtvcab23hd" group-title="Thể thao Việt Nam - Xô viết" tvg-logo="https://i.imgur.com/AtTWTPE.png",ON Golf HD
-#EXTVLCOPT:http-user-agent=(_._)
-https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
 #EXTINF:-1 group-title="Thể thao Việt Nam - Xô viết" tvg-logo="https://i.imgur.com/K6KvFk6.png",EUROSPORT 1 | THỂ THAO ĐỈNH CAO
 #EXTVLCOPT:http-user-agent=(_._)
 http://46.34.209.243:80/btv/SWM/Eurosport/Eurosport.m3u8
