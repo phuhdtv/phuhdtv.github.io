@@ -1215,12 +1215,9 @@ http://92.43.140.200/s28/04.m3u8
 #EXTINF:-1 group-title="Khu vực - nội địa Nga" tvg-logo="https://i.imgur.com/EK4qnwx.jpg",8 Канал | Truyền hình Krasnoyarsk Krai
 #EXTVLCOPT:http-user-agent=(_._)
 http://84.22.141.170/8kanal-krsk.m3u8
-#EXTINF:-1 group-title="Khu vực - nội địa Nga" tvg-logo="https://i.imgur.com/jzHlR3w.jpg",10 Канал | Truyền hình Novokuznetsk
+#EXTINF:-1 group-title="Khu vực - nội địa Nga" tvg-logo="https://i.imgur.com/jzHlR3w.jpg",10 Канал Десятка | Truyền hình Novokuznetsk
 #EXTVLCOPT:http-user-agent=(_._)
 http://kuzbass1.ru:8082/10kanal/10kanal_720/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GXlYCXz.jpg" group-title="Khu vực - nội địa Nga",Almaty TV | Truyền hình Kazakhstan
-#EXTVLCOPT:http-user-agent=(_._)
-http://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hLD874K.jpg" group-title="Khu vực - nội địa Nga",Вечерняя Москва | Truyền hình Thủ Đô Moscow
 #EXTVLCOPT:http-user-agent=(_._)
 https://vmvideo.gcdn.co/streams/1503_161/playlist.m3u8
@@ -1233,6 +1230,9 @@ https://live.katun24.ru:8082/katun/katun/index.m3u8
 #EXTINF:-1 group-title="Khu vực - nội địa Nga" tvg-logo="https://i.imgur.com/ARh6WSf.png",Кузбасс 1 HD | Truyền hình Kemerovo
 #EXTVLCOPT:http-user-agent=(_._)
 https://www.10kanal.ru:1443/10kanal/k24/playlist.m3u8
+#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/ARh6WSf.png",Кузбасс 1 HD | Truyền hình Kemerovo
+#EXTVLCOPT:http-user-agent=(_._)
+http://kuzbass1.ru:8082/10kanal/k24/playlist.m3u8
 #EXTINF:-1 group-title="Khu vực - nội địa Nga" tvg-logo="https://i.imgur.com/ARh6WSf.png",Кузбасс 1 | Truyền hình Kemerovo
 #EXTVLCOPT:http-user-agent=(_._)
 http://kuzbass1.ru:8082/10kanal/k24_576/playlist.m3u8
