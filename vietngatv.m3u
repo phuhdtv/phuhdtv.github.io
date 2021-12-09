@@ -198,24 +198,16 @@ http://vthanh.me/sctv.m3u8?pass=vienthi&id=sctv4
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
 #EXTVLCOPT:http-user-agent=(_._)
 http://vthanh.me/sctv.m3u8?pass=vienthi&id=sctv5
-#EXTINF:-1 tvg-id="sctv6hd" group-title="Phim truyện Việt Nam - Liên Xô" tvg-logo="https://i.imgur.com/5XwO0Ql.png",SCTV6 | FIM360
-#EXTVLCOPT:http-referrer=https://sctvonline.vn/
-#EXTVLCOPT:http-user-agent=(_._)
-https://e1.endpoint.cdn.sctvonline.vn/hls/sctv6/sd2/index.m3u8
-#EXTINF:-1 tvg-id="sctv6hd" group-title="Phim truyện Việt Nam - Liên Xô" tvg-logo="https://i.postimg.cc/W1MPcCY5/sctv6hd.png",SCTV6 HD | FIM360
+#EXTINF:-1 tvg-id="sctv6hd" group-title="Phim truyện Việt Nam - Liên Xô" tvg-logo="https://i.imgur.com/5XwO0Ql.png",SCTV6 HD | FIM360
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="https://i.imgur.com/hLPt0As.png",SCTV7 HD | SÂN KHẤU & CẢI LƯƠNG
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
 #EXTVLCOPT:http-user-agent=(_._)
 http://vthanh.me/sctv.m3u8?pass=vienthi&id=sctv7
-#EXTINF:-1 tvg-id="sctv8hd" group-title="Kênh Chuyên Biệt" tvg-logo="https://i.imgur.com/XOl62Kv.png",SCTV8 | VITV
+#EXTINF:-1 tvg-id="sctv8hd" group-title="Kênh Chuyên Biệt" tvg-logo="https://imgur.com/BQIrc6A.png",SCTV8 | VITV
 #EXTVLCOPT:http-user-agent=(_._)
 http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1 tvg-id="sctv8hd" group-title="Kênh Chuyên Biệt" tvg-logo="https://imgur.com/BQIrc6A.png",SCTV8 HD | VITV
-#EXTVLCOPT:http-referrer=https://sctvonline.vn/
-#EXTVLCOPT:http-user-agent=(_._)
-http://vthanh.me/sctv.m3u8?pass=vienthi&id=sctv8
 #EXTINF:-1 tvg-id="sctv9hd" group-title="Phim truyện Việt Nam - Liên Xô" tvg-logo="https://i.imgur.com/SMW1DEk.png",SCTV9 | Phim TVB
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
 #EXTVLCOPT:http-user-agent=(_._)
@@ -1877,6 +1869,15 @@ http://91.185.3.218:4000/play/2099
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/Mujskoye_Kino_SD.ism/playlist.mpd
+#EXTINF:0 tvg-logo="https://i.ibb.co/TtT1gmy/58-Rodnoje-kino.png" group-title="Phim truyện Việt Nam - Liên Xô",РОДНОЕ КИНО
+#EXTVLCOPT:http-user-agent=(_._)
+http://91.185.3.218:4000/play/12
+#EXTINF:0 tvg-logo="https://i.ibb.co/TtT1gmy/58-Rodnoje-kino.png" group-title="NOT 24/24",РОДНОЕ КИНО
+#EXTVLCOPT:http-user-agent=(_._)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://185.161.224.216/dash/Rodnoe_Kino_SD.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x3IE7sE.png" group-title="NOT 24/24",RTG HD | GIẢI TRÍ ĐỈNH CAO | 1080P
 #EXTVLCOPT:http-user-agent=(_._)
 #KODIPROP:inputstream=inputstream.adaptive
