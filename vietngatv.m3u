@@ -1349,7 +1349,7 @@ http://92.43.140.200/s61/04.m3u8
 http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
 #EXTINF:-1 group-title="Kiều bào Việt Nam" tvg-logo="https://i.imgur.com/oUbjl18.png",Qazaq TV HD | Truyền Hình Nga Tại Kazakhstan
 #EXTVLCOPT:http-user-agent=(_._)
-http://serv30.vintera.tv:8081/kazahtv/stream_en/playlist.m3u8
+http://serv30.vintera.tv:8081/kazahtv/stream_ru/playlist.m3u8
 #EXTINF:-1 group-title="TIN TỨC Việt Nam - Liên Xô" tvg-logo="https://i.imgur.com/Dh1pUNW.png",Беларусь 24 | Truyền Hình Nga Tại Belarus
 #EXTVLCOPT:http-user-agent=(_._)
 http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
@@ -1402,9 +1402,9 @@ http://185.161.224.216/dash/Nostalgiya_SD.ism/playlist.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/Oxota_i_Ribalka_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="Khoa giáo Việt Nam - Liên Xô" tvg-logo="https://i.imgur.com/vLpm8tN.png",TV BRICS | Khoa giáo Tiếng Anh
+#EXTINF:-1 group-title="Khoa giáo Việt Nam - Liên Xô" tvg-logo="https://i.imgur.com/vLpm8tN.png",TV BRICS | Khoa giáo Tiếng Nga
 #EXTVLCOPT:http-user-agent=(_._)
-http://engbrics.mediacdn.ru/cdn/brics/english/tracks-v1a1/index.m3u8
+http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Khoa giáo Việt Nam - Liên Xô" tvg-logo="https://i.imgur.com/IgFmj3L.png",NANO TV | Khoa giáo Tiếng Nga
 #EXTVLCOPT:http-user-agent=(_._)
 http://nano.teleservice.su:8080/hls/nano.m3u8
