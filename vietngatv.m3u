@@ -2011,6 +2011,15 @@ http://91.185.3.218:4000/play/617
 #EXTVLCOPT:http-user-agent=(_._)
 http://91.185.3.218:4000/play/404
 
-#EXTINF:-1 group-title="TEST" tvg-logo="http://vanhiptv.ga/FPTplay.png",F-Event 1
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="http://vanhiptv.ga/FPTplay.png",Sự kiện 1
+#EXTVLCOPT:http-user-agent=(_._)
+http://livecdn.fptplay.net/tvc/sukien01_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="http://vanhiptv.ga/FPTplay.png",Sự kiện 2
+#EXTVLCOPT:http-user-agent=(_._)
+http://livecdn.fptplay.net/tvc/sukien02_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="http://vanhiptv.ga/FPTplay.png",Sự kiện 3
+#EXTVLCOPT:http-user-agent=(_._)
+http://livecdn.fptplay.net/tvc/sukien03_2000.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="http://vanhiptv.ga/FPTplay.png",F-Event 1
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/tvc/f-event_2000.stream/chunklist.m3u8
