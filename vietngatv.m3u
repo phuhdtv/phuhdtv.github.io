@@ -1759,7 +1759,10 @@ http://91.185.3.218:4000/play/321
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/Kinohit_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="Phim truyện Việt Nam - Liên Xô" tvg-logo="https://i.ibb.co/Sw8Q1sF/image.png",Кино ТВ FHD | PHIM DÀNH CHO NGƯỜI HÂM MỘ
+#EXTINF:-1 group-title="Phim truyện Việt Nam - Liên Xô" tvg-logo="https://i.ibb.co/Sw8Q1sF/image.png",Кино ТВ HD | PHIM DÀNH CHO NGƯỜI HÂM MỘ
+#EXTVLCOPT:http-user-agent=(_._)
+http://1hdru-hls-otcnet.cdnvideo.ru/kinosem/index.m3u8
+#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.ibb.co/Sw8Q1sF/image.png",Кино ТВ HD | PHIM DÀNH CHO NGƯỜI HÂM MỘ | PHÁT LẬU
 #EXTVLCOPT:http-user-agent=(_._)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1810,7 +1813,7 @@ http://185.161.224.216/dash/Mir_seriala_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Phim truyện Việt Nam - Liên Xô" tvg-logo="https://i.imgur.com/a6Yocw3.png",НСТ | PHIM DÀNH CHO THỦ ĐÔ
 #EXTVLCOPT:http-user-agent=(_._)
 http://176.222.190.72:80/btv/SWM/HCT/HCT_576p_2000kbps.m3u8
-#EXTINF:-1 group-title="NOT 24/24" tvg-logo="https://i.imgur.com/a6Yocw3.png",НСТ | PHIM DÀNH CHO THỦ ĐÔ | Dự phòng
+#EXTINF:-1 group-title="NOT 24/24" tvg-logo="https://i.imgur.com/a6Yocw3.png",НСТ | PHIM DÀNH CHO THỦ ĐÔ | PHÁT LẬU
 #EXTVLCOPT:http-user-agent=(_._)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1850,9 +1853,6 @@ http://185.161.224.216/dash/Rodnoe_Kino_SD.ism/playlist.mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/RTG_HD.ism/playlist.mpd
 
-#EXTINF:-1 group-title="Thiếu nhi Việt Nam - Liên Xô" tvg-logo="https://i.imgur.com/6UpTmJa.jpg",Мама | THIẾU NHI BỔ ÍCH
-#EXTVLCOPT:http-user-agent=(_._)
-http://92.43.140.200/s77/04.m3u8
 #EXTINF:-1 group-title="Khoa giáo Việt Nam - Liên Xô" tvg-logo="https://i.imgur.com/RAfV5p7.png",Загородный | Khoa giáo Tiếng Nga
 #EXTVLCOPT:http-user-agent=(_._)
 http://92.43.140.200/s31/04.m3u8
