@@ -931,6 +931,9 @@ https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="hits" group-title="Giải Trí Việt Nam - Liên Xô" tvg-logo="https://i.imgur.com/TJ8r6Rj.png",HITS HD
 #EXTVLCOPT:http-user-agent=(_._)
 http://gg.gg/HaNoiIPTV-HITS_HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ll7z6aR.png" group-title="In The Box",HITS Movies HD
+#EXTVLCOPT:http-user-agent=(_._)
+https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 #EXTINF:-1 group-title="ÂM NHẠC Việt Nam - Liên Xô" tvg-logo="https://i.imgur.com/uZHe201.jpg",HITV Russia HD | ÂM NHẠC Nước Nga
 #EXTVLCOPT:http-user-agent=(_._)
 http://rosshow.gcdn.co/streams/1410_290/1080n/index.m3u8
@@ -952,7 +955,7 @@ https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Khoa giáo Việt Nam - Liên Xô" tvg-logo="https://i.imgur.com/bUepAp5.png",National Geographic WILD HD
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 group-title="Thiếu nhi Việt Nam - Liên Xô" tvg-logo="https://i.imgur.com/rm7OMLk.png",Nick Russian | THIẾU NHI BỔ ÍCH
+#EXTINF:-1 group-title="Thiếu nhi Việt Nam - Liên Xô" tvg-logo="https://i.imgur.com/QqLoAs7.png",Nickelodeon | THIẾU NHI BỔ ÍCH
 #EXTVLCOPT:http-user-agent=(_._)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -994,9 +997,6 @@ http://92.43.140.200/s93/04.m3u8
 #EXTINF:-1 tvg-id="tv5monde_asie" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/Odus24L.png",TV5 Monde ASIE
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/JEA2xpv.png",TRT World HD
-#EXTVLCOPT:http-user-agent=(_._)
-https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-id="tlchd" group-title="Du Lịch Việt Nam - Liên Xô" tvg-logo="https://i.imgur.com/ELjuMyU.png",TLC HD
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
@@ -1025,6 +1025,12 @@ http://92.43.140.200/s14/04.m3u8
 #EXTINF:-1 group-title="TRUNG ƯƠNG VIỆT NAM - Liên Xô" tvg-logo="https://i.imgur.com/fXPbX1z.png",Первый Канал HD | THỜI SỰ TỔNG HỢP
 #EXTVLCOPT:http-user-agent=(_._)
 https://okkotv-live.cdnvideo.ru/channel/Pervii_Kanal_OTT_HD.m3u8
+#EXTINF:-1 group-title="NOT 24/24" tvg-logo="https://i.imgur.com/fXPbX1z.png",Первый Канал HD | THỜI SỰ TỔNG HỢP | PHÁT LẬU
+#EXTVLCOPT:http-user-agent=(_._)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://185.161.224.216/dash/Perviy_Kanal_HD.ism/playlist.mpd
 #EXTINF:0 group-title="TRUNG ƯƠNG VIỆT NAM - Liên Xô" tvg-logo="https://i.imgur.com/BNd83AQ.png",Россия 1 | THỜI SỰ TỔNG HỢP
 #EXTVLCOPT:http-user-agent=(_._)
 http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus4/playlist_3.m3u8
@@ -1430,9 +1436,6 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Pmzcgn1.png" group-title="ÂM NHẠC Việt Nam - Liên Xô",Хит ТВ | ÂM NHẠC Nước Nga
 #EXTVLCOPT:http-user-agent=(_._)
 http://hithd.camsh.orsk.ru/hls/hit.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aWFlyoK.png" group-title="ÂM NHẠC Việt Nam - Liên Xô",Жар Птица | ÂM NHẠC dân gian
-#EXTVLCOPT:http-user-agent=(_._)
-http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
 #EXTINF:-1 group-title="ÂM NHẠC Việt Nam - Liên Xô" tvg-logo="https://i.imgur.com/v6KNZms.png",МузСоюз | ÂM NHẠC Tôn giáo
 #EXTVLCOPT:http-user-agent=(_._)
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
