@@ -178,12 +178,9 @@ http://livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="sctv1hd" group-title="KÊNH VIỆT NAM - Liên Xô" tvg-logo="https://i.imgur.com/92oho8u.png",SCTV1 HD | KÊNH HÀI KỊCH
 #EXTVLCOPT:http-user-agent=(_._)
 http://vthanh.me/sctv.m3u8?pass=vienthi&id=sctv1|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv2hd" group-title="Giải Trí Việt Nam - Liên Xô" tvg-logo="https://i.imgur.com/yhvwdvM.png",SCTV2 | GIẢI TRÍ TỔNG HỢP
-#EXTVLCOPT:http-user-agent=(_._)
-https://livecdn.fptplay.net/sda/sctv2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="sctv2hd" group-title="Giải Trí Việt Nam - Liên Xô" tvg-logo="https://i.imgur.com/09NA78q.png",SCTV2 HD | GIẢI TRÍ TỔNG HỢP
 #EXTVLCOPT:http-user-agent=(_._)
-http://vthanh.me/sctv.m3u8?pass=vienthi&id=sctv2|Referer=http://sctvonline.vn/
+https://livecdn.fptplay.net/sda/sctv2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="sctv3hd" group-title="Thiếu nhi Việt Nam - Liên Xô" tvg-logo="https://i.imgur.com/kOPNEO5.png",SCTV3 HD | THIẾU NHI BỔ ÍCH
 #EXTVLCOPT:http-user-agent=(_._)
 http://vthanh.me/sctv.m3u8?pass=vienthi&id=sctv3|Referer=http://sctvonline.vn/
@@ -727,7 +724,7 @@ https://livecdn.fptplay.net/sda/thaibinh_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/gwOQBas.png",TBTV HD | Truyền hình Thái Bình
 #EXTVLCOPT:http-user-agent=(_._)
 http://103.90.220.236/tbtvlive/tv1live.m3u8
-#EXTINF:-1 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/RSACylA.jpg",TN1 HD | Truyền hình Thái Nguyên
+#EXTINF:-1 group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/RSACylA.jpg",TN1 | Truyền hình Thái Nguyên
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sdc/thainguyen_hls.smil/chunklist_b2800000.m3u8
 #EXTINF:-1 group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/v45geuK.png",TN2 | Truyền hình Thái Nguyên
@@ -845,13 +842,13 @@ https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="blueantext" group-title="Giải Trí Việt Nam - Liên Xô" tvg-logo="https://i.imgur.com/chLWFqA.png",Blue Ant Extreme HD
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="boxhits" group-title="AMEDIATEKA - InTheBox" tvg-logo="https://i.imgur.com/iv85GCc.png",Box Hits HD
+#EXTINF:-1 tvg-id="boxhits" group-title="In The Box" tvg-logo="https://i.imgur.com/iv85GCc.png",Box Hits HD
 #EXTVLCOPT:http-user-agent=(_._)
 http://gg.gg/HaNoiIPTV-BOX_Hits_HD
-#EXTINF:-1 tvg-id="boxmovie1" group-title="AMEDIATEKA - InTheBox" tvg-logo="https://vthanh.xyz/ic/192.png",Box Movie 1
+#EXTINF:-1 tvg-id="boxmovie1" group-title="In The Box" tvg-logo="https://vthanh.xyz/ic/192.png",Box Movie 1
 #EXTVLCOPT:http-user-agent=(_._)
 http://vthanh.me/sctv.m3u8?pass=vienthi&id=boxmovie|Referer=http://sctvonline.vn/
-#EXTINF:0 tvg-id="cinemaxhd" group-title="Phim truyện Việt Nam - Liên Xô"tvg-logo="https://imgur.com/aP9AUpZ.png",Cinemax HD
+#EXTINF:0 tvg-id="cinemaxhd" group-title="HBO GO" tvg-logo="https://imgur.com/aP9AUpZ.png",Cinemax HD
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="Phim truyện Việt Nam - Liên Xô" tvg-logo="https://i.imgur.com/gHCOcuF.png",Cinema World HD
@@ -920,7 +917,7 @@ http://live-1.otcnet.ru/DW/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-id="dreamworks" group-title="Thiếu nhi Việt Nam - Liên Xô" tvg-logo="https://i.imgur.com/WTO8O0N.png",DreamWorks HD
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="drfithd" tvg-logo="https://i.ibb.co/d7qWHVD/251.jpg" group-title="AMEDIATEKA - InTheBox",Dr Fit HD
+#EXTINF:-1 tvg-id="drfithd" tvg-logo="https://i.ibb.co/d7qWHVD/251.jpg" group-title="In The Box",Dr Fit HD
 #EXTVLCOPT:http-user-agent=(_._)
 http://vthanh.me/sctv.m3u8?pass=vienthi&id=drfit|Referer=http://sctvonline.vn/
 #EXTINF:0 group-title="TIN TỨC Việt Nam - Liên Xô" tvg-logo="https://i.imgur.com/kObK9ob.jpg",EURONEWS | KÊNH TIN TỨC
@@ -941,16 +938,16 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/01.m3u8
 #EXTINF:-1 group-title="TIN TỨC Việt Nam - Liên Xô" tvg-logo="https://i.imgur.com/zdze6Iq.png",FRANCE 24 en Français
 #EXTVLCOPT:http-user-agent=(_._)
 http://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
-#EXTINF:-1 tvg-id="inthebox" group-title="AMEDIATEKA - InTheBox" tvg-logo="https://vthanh.xyz/ic/241.png",In The Box HD
+#EXTINF:-1 tvg-id="inthebox" group-title="In The Box" tvg-logo="https://vthanh.xyz/ic/241.png",In The Box HD
 #EXTVLCOPT:http-user-agent=(_._)
 http://gg.gg/HaNoiIPTV-In_The_Box_Channel
-#EXTINF:-1 tvg-id="happykids" group-title="AMEDIATEKA - InTheBox" tvg-logo="https://vthanh.xyz/ic/194.png",Happy Kids HD
+#EXTINF:-1 tvg-id="happykids" group-title="In The Box" tvg-logo="https://vthanh.xyz/ic/194.png",Happy Kids HD
 #EXTVLCOPT:http-user-agent=(_._)
 http://vthanh.me/sctv.m3u8?pass=vienthi&id=happykids|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="discovery" group-title="Khoa giáo Việt Nam - Liên Xô" tvg-logo="https://i.imgur.com/ejXfHa4.png",History HD
 #EXTVLCOPT:http-user-agent=(_._)
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="hbohd" group-title="Phim truyện Việt Nam - Liên Xô" tvg-logo="https://i.imgur.com/KsZx1mY.jpg",HBO HD
+#EXTINF:-1 tvg-id="hbohd" group-title="HBO GO" tvg-logo="https://i.imgur.com/KsZx1mY.jpg",HBO HD
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="hits" group-title="Giải Trí Việt Nam - Liên Xô" tvg-logo="https://i.imgur.com/TJ8r6Rj.png",HITS HD
@@ -959,7 +956,7 @@ http://gg.gg/HaNoiIPTV-HITS_HD
 #EXTINF:-1 group-title="ÂM NHẠC Việt Nam - Liên Xô" tvg-logo="https://i.imgur.com/uZHe201.jpg",HITV Russia HD | ÂM NHẠC Nước Nga
 #EXTVLCOPT:http-user-agent=(_._)
 http://rosshow.gcdn.co/streams/1410_290/1080n/index.m3u8
-#EXTINF:0 tvg-id="hollywoodclassics" group-title="AMEDIATEKA - InTheBox" tvg-logo="https://i.ibb.co/zPSHdRt/hollywood.jpg",Hollywood Classics
+#EXTINF:0 tvg-id="hollywoodclassics" group-title="In The Box" tvg-logo="https://i.ibb.co/zPSHdRt/hollywood.jpg",Hollywood Classics
 #EXTVLCOPT:http-user-agent=(_._)
 http://vthanh.me/sctv.m3u8?pass=vienthi&id=hollywood|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="kix" group-title="Giải Trí Việt Nam - Liên Xô" tvg-logo="https://i.imgur.com/SvRrcXy.png",KIX HD
@@ -989,7 +986,7 @@ http://185.161.224.216/dash/Nickelodeon_SD.ism/playlist.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/Nick_JR_SD.ism/playlist.mpd
-#EXTINF:-1 tvg-id="man" group-title="AMEDIATEKA - InTheBox" tvg-logo="https://vthanh.xyz/ic/243.png",Man HD
+#EXTINF:-1 tvg-id="man" group-title="In The Box" tvg-logo="https://vthanh.xyz/ic/243.png",Man HD
 #EXTVLCOPT:http-user-agent=(_._)
 https://e4.endpoint.cdn.sctvonline.vn/hls/man/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="musicbox" group-title="ÂM NHẠC Việt Nam - Liên Xô" tvg-logo="https://i.imgur.com/QstHUsu.jpg",Music Box HD
@@ -998,7 +995,7 @@ http://vthanh.me/sctv.m3u8?pass=vienthi&id=musicbox|Referer=http://sctvonline.vn
 #EXTINF:-1 tvg-id="outdoor_channel" group-title="Khoa giáo Việt Nam - Liên Xô" tvg-logo="https://i.imgur.com/RJwaiHH.png",Outdoor Channel HD
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="planetearthhd" group-title="AMEDIATEKA - InTheBox" tvg-logo="https://i.ibb.co/ZGBcMK2/panetearth.jpg",Planet Earth HD
+#EXTINF:0 tvg-id="planetearthhd" group-title="In The Box" tvg-logo="https://i.ibb.co/ZGBcMK2/panetearth.jpg",Planet Earth HD
 #EXTVLCOPT:http-user-agent=(_._)
 http://vthanh.me/sctv.m3u8?pass=vienthi&id=planetearth|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/uIeaOAx.png",Russia Today English HD
@@ -1025,7 +1022,7 @@ http://91.185.3.218:4000/play/401
 #EXTINF:-1 tvg-id="warnertvhd" group-title="Giải Trí Việt Nam - Liên Xô" tvg-logo="https://i.imgur.com/SBGc1t2.jpg",Warner TV HD
 #EXTVLCOPT:http-user-agent=(_._)
 http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="woman" group-title="AMEDIATEKA - InTheBox" tvg-logo="https://vthanh.xyz/ic/197.png",Woman HD
+#EXTINF:-1 tvg-id="woman" group-title="In The Box" tvg-logo="https://vthanh.xyz/ic/197.png",Woman HD
 #EXTVLCOPT:http-user-agent=(_._)
 http://vthanh.me/sctv.m3u8?pass=vienthi&id=woman|Referer=http://sctvonline.vn/
 
@@ -1113,6 +1110,9 @@ https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT.m3u8
 #EXTINF:0 group-title="KÊNH NGA SD (LUỒNG KHỐI CIS)" tvg-logo="https://i.imgur.com/jBnjxGR.png",Домашний International | GIẢI TRÍ DÀNH CHO GIA ĐÌNH | 576P
 #EXTVLCOPT:http-user-agent=(_._)
 http://91.185.3.218:4000/play/620
+#EXTINF:0 group-title="KÊNH NGA HD (LUỒNG NỘI ĐỊA)" tvg-logo="https://i.imgur.com/jBnjxGR.png",Домашний HD | GIẢI TRÍ DÀNH CHO GIA ĐÌNH | 576P
+#EXTVLCOPT:http-user-agent=(_._)
+https://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT.m3u8
 #EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/jBnjxGR.png",Домашний International | GIẢI TRÍ DÀNH CHO GIA ĐÌNH | 480P
 #EXTVLCOPT:http-user-agent=(_._)
 http://92.43.140.200/s88/04.m3u8
@@ -1532,10 +1532,13 @@ http://live-topshop.cdnvideo.ru/topshop/topshop_576p/playlist.m3u8
 #EXTVLCOPT:http-user-agent=(_._)
 http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://iptvxpix.ml/fanhd.png" group-title="Thiếu nhi Việt Nam - Liên Xô",FAN
+#EXTVLCOPT:http-user-agent=(_._)
+http://194.9.27.164:8103/play/FAN/index.m3u8
 #EXTINF:-1 group-title="Khoa giáo Việt Nam - Liên Xô" tvg-logo="https://iptvxpix.ml/englishclub.png",English Club TV | Học Tiếng Anh
 #EXTVLCOPT:http-user-agent=(_._)
 http://92.43.140.200/s37/04.m3u8
-#EXTINF:-1 group-title="Khoa giáo Việt Nam - Liên Xô" tvg-logo="https://i.imgur.com/ZgU9fin.png",Мульт | THIẾU NHI BỔ ÍCH
+#EXTINF:-1 group-title="Thiếu nhi Việt Nam - Liên Xô" tvg-logo="https://i.imgur.com/ZgU9fin.png",Мульт | THIẾU NHI BỔ ÍCH
 #EXTVLCOPT:http-user-agent=(_._)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1599,7 +1602,7 @@ http://92.43.140.200/s79/04.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/Tb2mJyq/Kukhnya-TV.png" group-title="Ẩm thực Việt Nam - Liên Xô",Кухня ТВ
 #EXTVLCOPT:http-user-agent=(_._)
 http://91.185.3.218:4000/play/29
-#EXTINF:0 tvg-logo="https://i.ibb.co/Tb2mJyq/Kukhnya-TV.png" group-title="NOT 24/24",Кухня ТВ
+#EXTINF:0 tvg-logo="https://i.ibb.co/Tb2mJyq/Kukhnya-TV.png" group-title="NOT 24/24",Кухня ТВ | PHÁT LẬU
 #EXTVLCOPT:http-user-agent=(_._)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1618,28 +1621,28 @@ https://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8
 #EXTVLCOPT:http-user-agent=(_._)
 https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi.m3u8
 
-#EXTINF:-1 group-title="AMEDIATEKA - InTheBox" tvg-logo="https://i.imgur.com/lXlwfyw.png",Amedia 1 HD | PHIM DÀNH CHO NGƯỜI HÂM MỘ
+#EXTINF:-1 group-title="HBO GO" tvg-logo="https://i.imgur.com/lXlwfyw.png",Amedia 1 HD | PHIM DÀNH CHO NGƯỜI HÂM MỘ
 #EXTVLCOPT:http-user-agent=(_._)
 https://okkotv-live.cdnvideo.ru/channel/A1_HD.m3u8
-#EXTINF:-1 group-title="AMEDIATEKA - InTheBox" tvg-logo="https://i.imgur.com/lXlwfyw.png",Amedia 1 SD | PHIM DÀNH CHO NGƯỜI HÂM MỘ
+#EXTINF:-1 group-title="HBO GO" tvg-logo="https://i.imgur.com/lXlwfyw.png",Amedia 1 SD | PHIM DÀNH CHO NGƯỜI HÂM MỘ
 #EXTVLCOPT:http-user-agent=(_._)
 http://92.43.140.200/s45/04.m3u8
-#EXTINF:-1 group-title="AMEDIATEKA - InTheBox" tvg-logo="https://i.imgur.com/GwQgT6X.png",Amedia 2 HD | PHIM DÀNH CHO NGƯỜI HÂM MỘ
+#EXTINF:-1 group-title="HBO GO" tvg-logo="https://i.imgur.com/GwQgT6X.png",Amedia 2 HD | PHIM DÀNH CHO NGƯỜI HÂM MỘ
 #EXTVLCOPT:http-user-agent=(_._)
 https://okkotv-live.cdnvideo.ru/channel/A2_HD.m3u8
-#EXTINF:-1 group-title="AMEDIATEKA - InTheBox" tvg-logo="https://i.imgur.com/GwQgT6X.png",Amedia 2 SD | PHIM DÀNH CHO NGƯỜI HÂM MỘ
+#EXTINF:-1 group-title="HBO GO" tvg-logo="https://i.imgur.com/GwQgT6X.png",Amedia 2 SD | PHIM DÀNH CHO NGƯỜI HÂM MỘ
 #EXTVLCOPT:http-user-agent=(_._)
 http://92.43.140.200/s33/04.m3u8
-#EXTINF:-1 group-title="AMEDIATEKA - InTheBox" tvg-logo="https://i.imgur.com/EVjRJ5U.png",Amedia Hit | PHIM DÀNH CHO NGƯỜI HÂM MỘ
+#EXTINF:-1 group-title="HBO GO" tvg-logo="https://i.imgur.com/EVjRJ5U.png",Amedia Hit | PHIM DÀNH CHO NGƯỜI HÂM MỘ
 #EXTVLCOPT:http-user-agent=(_._)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/A_Media_Hit_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="AMEDIATEKA - InTheBox" tvg-logo="https://i.imgur.com/EVjRJ5U.png",Amedia Hit HD | PHIM DÀNH CHO NGƯỜI HÂM MỘ
+#EXTINF:-1 group-title="HBO GO" tvg-logo="https://i.imgur.com/EVjRJ5U.png",Amedia Hit HD | PHIM DÀNH CHO NGƯỜI HÂM MỘ
 #EXTVLCOPT:http-user-agent=(_._)
 https://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UHo6cwX.png" group-title="AMEDIATEKA - InTheBox",Amedia Premium | PHIM DÀNH CHO NGƯỜI HÂM MỘ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UHo6cwX.png" group-title="HBO GO",Amedia Premium | PHIM DÀNH CHO NGƯỜI HÂM MỘ
 #EXTVLCOPT:http-user-agent=(_._)
 http://92.43.140.200/s64/04.m3u8
 #EXTINF:-1 group-title="Phim truyện Việt Nam - Liên Xô" tvg-logo="https://i.ibb.co/jJCTwR5/Cinema.png",Cinema | PHIM DÀNH CHO NGƯỜI HÂM MỘ
