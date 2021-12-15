@@ -1,18 +1,18 @@
 #EXTM3U url-tvg="http://onetv.click/schedule/epg.xml" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}"
 
-#EXTINF:-1 tvg-id="vtv1hd" group-title="TRUNG ƯƠNG VIỆT NAM - Liên Xô" tvg-logo="https://i.imgur.com/U0DbQZi.png",VTV1 | THỜI SỰ TỔNG HỢP
+#EXTINF:-1 tvg-id="vtv1hd" group-title="TRUNG ƯƠNG VIỆT NAM - Liên Xô" tvg-logo="https://i.imgur.com/QcInYpW.png",VTV1 HD | THỜI SỰ TỔNG HỢP
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="Khoa giáo Việt Nam - Liên Xô" tvg-logo="https://i.imgur.com/zZvIpNc.png",VTV2 | KHOA HỌC & GIÁO DỤC
+#EXTINF:-1 tvg-id="vtv2hd" group-title="Khoa giáo Việt Nam - Liên Xô" tvg-logo="https://i.imgur.com/Oecl699.png",VTV2 HD | KHOA HỌC & GIÁO DỤC
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv3hd" group-title="Giải Trí Việt Nam - Liên Xô" tvg-logo="https://i.imgur.com/a3uylAk.png",VTV3 | GIẢI TRÍ
+#EXTINF:-1 tvg-id="vtv3hd" group-title="Giải Trí Việt Nam - Liên Xô" tvg-logo="https://i.imgur.com/KurtRao.png",VTV3 HD | GIẢI TRÍ
 #EXTVLCOPT:http-user-agent=(_._)
 http://livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv4hd" group-title="ĐỐI NGOẠI VIỆT NAM - Liên Xô" tvg-logo="https://i.imgur.com/mHpgKhh.png",VTV4 | INTERNATIONAL
+#EXTINF:-1 tvg-id="vtv4hd" group-title="ĐỐI NGOẠI VIỆT NAM - Liên Xô" tvg-logo="https://i.imgur.com/CDdM2aJ.png",VTV4 HD | INTERNATIONAL
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv5hd" group-title="Tôn giáo Việt Nam - Liên Xô" tvg-logo="https://i.imgur.com/4RIxNia.png",VTV5 | TIẾNG DÂN TỘC
+#EXTINF:-1 tvg-id="vtv5hd" group-title="Tôn giáo Việt Nam - Liên Xô" tvg-logo="https://i.imgur.com/W0cksu1.png",VTV5 HD | TIẾNG DÂN TỘC
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="vtv5hdtnb" group-title="Tôn giáo Việt Nam - Liên Xô" tvg-logo="https://i.imgur.com/jIZ0bRu.png",VTV5 Tây Nam Bộ
@@ -21,16 +21,16 @@ https://mutixx5hq1liv.akamaized.net/vtv5tnb/vtv5tnb@720p.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="Tôn giáo Việt Nam - Liên Xô" tvg-logo="https://i.imgur.com/XCOTTDP.png",VTV5 Tây Nguyên
 #EXTVLCOPT:http-user-agent=(_._)
 https://mutixx5hq1liv.akamaized.net/vtv5tn/vtv5tn@720p.m3u8
-#EXTINF:-1 tvg-id="vtv6hd" group-title="Giải Trí Việt Nam - Liên Xô" tvg-logo="https://i.imgur.com/Qdg0kOa.png",VTV6 | THANH THIẾU NIÊN
+#EXTINF:-1 tvg-id="vtv6hd" group-title="Giải Trí Việt Nam - Liên Xô" tvg-logo="https://i.imgur.com/A9x2lzO.png",VTV6 HD | THANH THIẾU NIÊN
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv7hd" group-title="Khoa giáo Việt Nam - Liên Xô" tvg-logo="https://i.imgur.com/MLaGevL.png",VTV7 | GIÁO DỤC
+#EXTINF:-1 tvg-id="vtv7hd" group-title="Khoa giáo Việt Nam - Liên Xô" tvg-logo="https://i.imgur.com/p655IPH.png",VTV7 HD | GIÁO DỤC
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv8hd" group-title="Tôn giáo Việt Nam - Liên Xô" tvg-logo="https://i.imgur.com/GcSu6dx.png",VTV8 | MIỀN TRUNG & TÂY NGUYÊN
+#EXTINF:-1 tvg-id="vtv8hd" group-title="Tôn giáo Việt Nam - Liên Xô" tvg-logo="https://i.imgur.com/BgCVzvG.png",VTV8 HD | MIỀN TRUNG & TÂY NGUYÊN
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv9hd" group-title="Tôn giáo Việt Nam - Liên Xô" tvg-logo="https://i.imgur.com/7bQ5gid.png",VTV9 | NAM BỘ
+#EXTINF:-1 tvg-id="vtv9hd" group-title="Tôn giáo Việt Nam - Liên Xô" tvg-logo="https://i.imgur.com/cx1fx0b.png",VTV9 HD | NAM BỘ
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 
@@ -378,10 +378,7 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/BRVT-SD-ABR/HTV-ABR/BRVT-SD-720p/
 #EXTINF:-1 tvg-id="baria" group-title="Địa Phương VIỆT NAM - Liên Xô" tvg-logo="https://i.imgur.com/C9cIpYJ.png",BRT HD | Truyền hình Bà Rịa Vũng Tàu
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sdc/bariavungtau_hls.smil/chunklist_b2800000.m3u8
-#EXTINF:-1 tvg-id="baclieu" group-title="Địa Phương VIỆT NAM - Liên Xô" tvg-logo="https://i.imgur.com/ATG11ql.png",BLTV | Truyền hình Bạc Liêu
-#EXTVLCOPT:http-user-agent=(_._)
-https://tv.thbl.vn/live/tv/tv.m3u8
-#EXTINF:-1 tvg-id="baclieu" group-title="Địa Phương VIỆT NAM - Liên Xô" tvg-logo="https://i.imgur.com/ATG11ql.png",BLTV HD | Truyền hình Bạc Liêu HD
+#EXTINF:-1 tvg-id="baclieu" group-title="Địa Phương VIỆT NAM - Liên Xô" tvg-logo="https://i.imgur.com/ATG11ql.png",BLTV HD | Truyền hình Bạc Liêu
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sdc/baclieu_hls.smil/chunklist_b2800000.m3u8
 #EXTINF:-1 tvg-id="bentre" group-title="Địa Phương VIỆT NAM - Liên Xô" tvg-logo="https://i.imgur.com/tvIhmMr.png",THBT HD | Truyền hình Bến Tre
@@ -1987,3 +1984,6 @@ http://91.185.3.218:4000/play/404
 #EXTINF:-1 tvg-logo="https://iptvxpix.ml/box-tv.png" group-title="Thể thao Việt Nam - Liên Xô",Box TV | QUYỀN ANH
 #EXTVLCOPT:http-user-agent=(_._)
 http://91.185.3.218:4000/play/609
+#EXTINF:-1 group-title="Thể thao Việt Nam - Liên Xô" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f5/RedBullEnergyDrink.svg",Redbull TV 
+#EXTVLCOPT:http-user-agent=(_._)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
