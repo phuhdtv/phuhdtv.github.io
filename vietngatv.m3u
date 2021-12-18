@@ -853,6 +853,9 @@ https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m
 #EXTINF:-1 tvg-id="cartoonhd" group-title="Thiếu nhi Việt Nam - Liên Xô" tvg-logo="https://i.imgur.com/Om9inz6.png",Cartoon Network SD
 #EXTVLCOPT:http-user-agent=(_._)
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8
+#EXTINF:-1 group-title="Tôn giáo Việt Nam - Liên Xô" tvg-logo="https://i.imgur.com/lozzdS7.png",CNL
+#EXTVLCOPT:http-user-agent=(_._)
+http://live-mobile.cdn01.net/hls-live/202E1F/default/mobile/stream_10429_1.m3u8
 #EXTINF:-1 tvg-id="cnbc" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/53EgUZN.png",CNBC International
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8
@@ -987,13 +990,13 @@ http://vthanh.me/sctv.m3u8?pass=vienthi&id=planetearth|Referer=http://sctvonline
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/uIeaOAx.png",Russia Today English HD
 #EXTVLCOPT:http-user-agent=(_._)
-https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8
+https://rt-glb.gcdn.co/live/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/3E4KGqG.png",Russia Today English SD
 #EXTVLCOPT:http-user-agent=(_._)
 http://ott-cdn.ucom.am/s96/04.m3u8
 #EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/6iJiWUe.png",Russia Today Documentary ENGLISH HD
 #EXTVLCOPT:http-user-agent=(_._)
-https://rt-rtd.gcdn.co/live/rtdoc/playlist.m3u8
+https://rt-glb.gcdn.co/live/rtdoc/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/6iJiWUe.png",Russia Today Documentary RUSSIAN HD | Phim tài liệu
 #EXTVLCOPT:http-user-agent=(_._)
 https://rtmp.api.rt.com/hls/rtdru.m3u8
@@ -1142,12 +1145,12 @@ http://ott-cdn.ucom.am/s50/04.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/Zvezda_SD_12q2.ism/playlist.mpd
-#EXTINF:-1 group-title="TRUNG ƯƠNG VIỆT NAM - Liên Xô" tvg-logo="https://i.imgur.com/n9zLVyR.png",Звезда HD | THỜI SỰ TỔNG HỢP
-#EXTVLCOPT:http-user-agent=(_._)
-http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/n9zLVyR.png",Звезда | THỜI SỰ TỔNG HỢP | 480P
 #EXTVLCOPT:http-user-agent=(_._)
 https://okkotv-live.cdnvideo.ru/channel/Zvezda_SD.m3u8
+#EXTINF:-1 group-title="TRUNG ƯƠNG VIỆT NAM - Liên Xô" tvg-logo="https://i.imgur.com/n9zLVyR.png",Звезда HD | THỜI SỰ TỔNG HỢP
+#EXTVLCOPT:http-user-agent=(_._)
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:0 group-title="TRUNG ƯƠNG VIỆT NAM - Liên Xô" tvg-logo="https://i.imgur.com/yqXhUto.png",МИР | THỜI SỰ TỔNG HỢP
 #EXTVLCOPT:http-user-agent=(_._)
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
@@ -1193,9 +1196,6 @@ https://live.katun24.ru:8082/katun/katun/index.m3u8
 #EXTINF:-1 group-title="Địa Phương VIỆT NAM - Liên Xô" tvg-logo="https://i.imgur.com/ARh6WSf.png",Кузбасс 1 HD | Truyền hình Kemerovo
 #EXTVLCOPT:http-user-agent=(_._)
 http://kuzbass1.ru:8082/10kanal/k24/playlist.m3u8
-#EXTINF:-1 group-title="NOT 24/24" tvg-logo="https://i.imgur.com/ARh6WSf.png",Кузбасс 1 HD | Truyền hình Kemerovo
-#EXTVLCOPT:http-user-agent=(_._)
-http://www.10kanal.ru/live/hls/k24.m3u8
 #EXTINF:-1 group-title="Địa Phương VIỆT NAM - Liên Xô" tvg-logo="https://i.imgur.com/ARh6WSf.png",Кузбасс 1 | Truyền hình Kemerovo
 #EXTVLCOPT:http-user-agent=(_._)
 http://kuzbass1.ru:8082/10kanal/k24_576/playlist.m3u8
