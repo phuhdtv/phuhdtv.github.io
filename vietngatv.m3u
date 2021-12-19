@@ -79,7 +79,7 @@ http://vthanh.me/vieon.m3u8?pass=vienthi&type=tivi&kenh=vtc9-hd
 #EXTINF:-1 tvg-id="vtc10" group-title="ĐỐI NGOẠI VIỆT NAM - Liên Xô" tvg-logo="https://i.imgur.com/gyKnxEP.png",VTC10 | VĂN HÓA VIỆT NAM
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sdb/vtc10_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="ĐỐI NGOẠI VIỆT NAM - Liên Xô" tvg-logo="https://i.imgur.com/HitkMj3.png",VTC10 HD | VĂN HÓA VIỆT NAM
+#EXTINF:-1 tvg-name="NETVIET" group-title="ĐỐI NGOẠI VIỆT NAM - Liên Xô" tvg-logo="https://i.imgur.com/HitkMj3.png",VTC10 HD | VĂN HÓA VIỆT NAM
 #EXTVLCOPT:http-user-agent=(_._)
 http://serv25.vintera.tv:8081/viet/netviet/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc11" group-title="Thiếu nhi Việt Nam - Liên Xô" tvg-logo="https://i.imgur.com/JARfwUf.png",VTC11 | THIẾU NHI BỔ ÍCH
@@ -444,7 +444,7 @@ http://103.90.220.236/bptvlive/tv2live.m3u8
 #EXTINF:-1 tvg-id="binhthuan" group-title="Địa Phương VIỆT NAM - Liên Xô" tvg-logo="https://i.imgur.com/Eb8zguH.png",BTV | Truyền hình Bình Thuận
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sdc/binhthuan_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="binhthuan" group-title="Địa Phương VIỆT NAM - Liên Xô" tvg-logo="https://i.imgur.com/YDxtGTg.png",BTV HD | Truyền hình Bình Thuận
+#EXTINF:-1 tvg-id="binhthuan" group-title="Địa Phương VIỆT NAM - Liên Xô" tvg-logo="https://i.imgur.com/Eb8zguH.png",BTV HD | Truyền hình Bình Thuận
 #EXTVLCOPT:http-user-agent=(_._)
 http://202.43.109.144:1935/thbttv/bttv/chunklist.m3u8
 #EXTINF:-1 group-title="Mua sắm Việt Nam - Liên Xô" tvg-logo="https://i.imgur.com/AekpBkr.jpg",BTV6 Quê Hương Homeshopping
@@ -660,16 +660,16 @@ https://livecdn.fptplay.net/sdc/quangnam_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Địa Phương VIỆT NAM - Liên Xô" tvg-logo="https://i.imgur.com/Xh6cZmD.png",PTQ HD | Truyền hình Quảng Ngãi
 #EXTVLCOPT:http-user-agent=(_._)
 http://livecdn.fptplay.net/sda/quangngai_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="qtv1hd" group-title="Địa Phương VIỆT NAM - Liên Xô" tvg-logo="https://i.imgur.com/TtCZFDRr.jpg",QTV1 | Truyền hình Quảng Ninh
+#EXTINF:0 tvg-id="qtv1hd" group-title="Địa Phương VIỆT NAM - Liên Xô" tvg-logo="https://i.ibb.co/G0yCkBK/QTV.png",QTV1 | Truyền hình Quảng Ninh
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sda/quangninh1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="qtv1hd" group-title="Địa Phương VIỆT NAM - Liên Xô" tvg-logo="https://i.imgur.com/R5Kegkl.jpg",QTV1 HD | Truyền hình Quảng Ninh
+#EXTINF:-1 tvg-id="qtv1hd" group-title="Địa Phương VIỆT NAM - Liên Xô" tvg-logo="https://i.imgur.com/jOutDk2.png",QTV1 HD | Truyền hình Quảng Ninh
 #EXTVLCOPT:http-user-agent=(_._)
 http://103.90.220.236/qtvlive/tv1live.m3u8
-#EXTINF:-1 tvg-id="qtv3hd" group-title="Địa Phương VIỆT NAM - Liên Xô" tvg-logo="https://i.imgur.com/INE6aUzr.jpg",QTV3 | Truyền hình Quảng Ninh
+#EXTINF:-1 tvg-id="qtv3hd" group-title="Địa Phương VIỆT NAM - Liên Xô" tvg-logo="https://i.imgur.com/FXn4W5C.png",QTV3 | Truyền hình Quảng Ninh
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sda/quangninh3_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="qtv3hd" group-title="Địa Phương VIỆT NAM - Liên Xô" tvg-logo="https://i.imgur.com/yhwvObv.jpg",QTV3 HD | Truyền hình Quảng Ninh
+#EXTINF:-1 tvg-id="qtv3hd" group-title="Địa Phương VIỆT NAM - Liên Xô" tvg-logo="https://i.imgur.com/YmdD8Hl.png",QTV3 HD | Truyền hình Quảng Ninh
 #EXTVLCOPT:http-user-agent=(_._)
 http://103.90.220.236/qtvlive/tv3live.m3u8
 #EXTINF:-1 group-title="Địa Phương VIỆT NAM - Liên Xô" tvg-logo="https://i.imgur.com/rRWm7h3.png",STV1 | Truyền hình Sóc Trăng
@@ -696,7 +696,7 @@ https://livecdn.fptplay.net/sda/thaibinh_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Địa Phương VIỆT NAM - Liên Xô" tvg-logo="https://i.imgur.com/gwOQBas.png",TBTV HD | Truyền hình Thái Bình
 #EXTVLCOPT:http-user-agent=(_._)
 http://103.90.220.236/tbtvlive/tv1live.m3u8
-#EXTINF:-1 group-title="Địa Phương VIỆT NAM - Liên Xô" tvg-logo="https://i.imgur.com/RSACylA.jpg",TN1 | Truyền hình Thái Nguyên
+#EXTINF:-1 group-title="Địa Phương VIỆT NAM - Liên Xô" tvg-logo="https://i.imgur.com/02DXBmD.png",TN1 | Truyền hình Thái Nguyên
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sdc/thainguyen_hls.smil/chunklist_b2800000.m3u8
 #EXTINF:-1 group-title="Địa Phương VIỆT NAM - Liên Xô" tvg-logo="https://i.imgur.com/68DJk6K.png",TN2 | Truyền hình Thái Nguyên
@@ -1326,7 +1326,7 @@ http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 #EXTINF:-1 group-title="Phim truyện Việt Nam - Liên Xô" tvg-logo="https://i.ibb.co/DDjQTKc/Kino-24.png",KINO 24 | Kiều bào Việt Nam ở Các nước Baltic
 #EXTVLCOPT:http-user-agent=(_._)
 http://85.192.10.131/hls/Kino24Ru/playlist.m3u8
-#EXTINF:-1 group-title="Phim truyện Việt Nam - Liên Xô",Pro 100 TV | Kênh Truyền hình Nga Tại Các nước Baltic
+#EXTINF:-1 group-title="Phim truyện Việt Nam - Liên Xô" tvg-logo="https://i.imgur.com/zgDoV5O.jpg",Pro 100 TV | Kiều bào Việt Nam ở Các nước Baltic
 #EXTVLCOPT:http-user-agent=(_._)
 http://85.192.10.131/hls/Pro100tvRu/playlist.m3u8
 
