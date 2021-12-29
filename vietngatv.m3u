@@ -97,9 +97,6 @@ https://livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="vtc16" group-title="🇻🇳/🇷🇺| Thể loại Khác" tvg-logo="https://i.imgur.com/jHJ0Qnp.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc16_1000.stream/chunks_dvr_range-${start}-10800.m3u8",3N VTC16 HD | Cùng nông dân hội nhập
 #EXTVLCOPT:http-user-agent=iptvmedia247
 https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OW2gewnU5qI/maxresdefault.jpg" group-title="🇻🇳/🇷🇺| Thể loại Khác",Việt Mỹ TV
-#EXTVLCOPT:http-user-agent=iptvmedia247
-http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vovtv" group-title="🇻🇳/🇷🇺| Tổng hợp" tvg-logo="https://i.imgur.com/MGLFyKb.png",VOV TV | Đài Tiếng nói Việt Nam
 #EXTVLCOPT:http-user-agent=iptvmedia247
@@ -171,10 +168,13 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab9/index.m3u8|Referer=http://sctv
 #EXTINF:-1 tvg-id="vtvcab10hd" group-title="🇻🇳/🇷🇺| Phim truyện" tvg-logo="https://i.imgur.com/gzmPnLs.png",On Cine VTVCab 10 | PHIM TRUYỆN ĐẶC SẮC
 #EXTVLCOPT:http-user-agent=iptvmedia247
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab10/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="🇻🇳/🇷🇺| Mua sắm" tvg-logo="https://i.imgur.com/uYo6LAe.png",VGS SHOP VTVCab11 | MUA SẮM TẠI NHÀ
+#EXTVLCOPT:http-user-agent=iptvmedia247
+http://gg.gg/HaNoiIPTV-VTVCab11-VGS_SHOP
 #EXTINF:-1 tvg-id="vtvcab12hd" group-title="🇻🇳/🇷🇺| Giải Trí" tvg-logo="https://i.imgur.com/IfoUJdM.png",Style TV VTVCab12 HD | phong cách
 #EXTVLCOPT:http-user-agent=iptvmedia247
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab12/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="🇻🇳/🇷🇺| Mua sắm" tvg-logo="https://i.imgur.com/muVwF90.jpg",VTVCab13 TV Shopping | MUA SẮM TẠI NHÀ
+#EXTINF:-1 group-title="🇻🇳/🇷🇺| Mua sắm" tvg-logo="https://i.imgur.com/HwMUDwy.png",VTV Hyundai Home Shopping VTVCab13 | MUA SẮM TẠI NHÀ
 #EXTVLCOPT:http-user-agent=iptvmedia247
 https://livecdn.fptplay.net/sdb/vtvhyundai_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtvcab15hd" group-title="🇻🇳/🇷🇺| Âm nhạc" tvg-logo="https://i.imgur.com/4TxhRUA.png",ON Music VTVCab15 | ÂM NHẠC
@@ -232,7 +232,7 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/sctv8/sd2/index.m3u8|Referer=http://sc
 #EXTINF:-1 tvg-id="sctv9hd" group-title="🇻🇳/🇷🇺| Phim truyện" tvg-logo="https://i.imgur.com/gZ86Ft4.png",SCTV9 HD | Phim TVB
 #EXTVLCOPT:http-user-agent=iptvmedia247
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv9/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="🇻🇳/🇷🇺| Mua sắm" tvg-logo="https://i.imgur.com/HwMUDwy.png",SCTV10 VTV Hyundai Home Shopping | MUA SẮM TẠI NHÀ
+#EXTINF:-1 group-title="🇻🇳/🇷🇺| Mua sắm" tvg-logo="https://i.imgur.com/HwMUDwy.png",VTV Hyundai Home Shopping SCTV10 | MUA SẮM TẠI NHÀ
 #EXTVLCOPT:http-user-agent=iptvmedia247
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv10/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv11hd" group-title="🇻🇳/🇷🇺| Giải Trí" tvg-logo="https://i.imgur.com/J4guX0u.png",SCTV11 HD | GIẢI TRÍ TỔNG HỢP
@@ -362,10 +362,10 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FBNC-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htvcfbnchd" group-title="🇻🇳/🇷🇺| Dự phòng" tvg-logo="https://i.imgur.com/XtmbGst.png",HTVC FBNC HD | TRUYỀN HÌNH TP.HCM
 #EXTVLCOPT:http-user-agent=iptvmedia247
 https://livecdn.fptplay.net/sdc/fbnchd_hls.smil/chunklist_b2800000.m3u8
-#EXTINF:-1 group-title="🇻🇳/🇷🇺| Mua sắm" tvg-logo="https://i.imgur.com/uYo6LAe.png",HTVC VGS SHOP Home Shopping
+#EXTINF:-1 group-title="🇻🇳/🇷🇺| Mua sắm" tvg-logo="https://i.imgur.com/5vKANRg.png",HTVC Shopping VGS SHOP
 #EXTVLCOPT:http-user-agent=iptvmedia247
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESHOPPING-SD-720p/playlist.m3u8
-#EXTINF:0 group-title="🇻🇳/🇷🇺| Dự phòng" tvg-logo="https://i.imgur.com/uYo6LAe.png",HTVC VGS SHOP Home Shopping | TRUYỀN HÌNH TP.HCM
+#EXTINF:0 group-title="🇻🇳/🇷🇺| Dự phòng" tvg-logo="https://i.imgur.com/5vKANRg.png",HTVC Shopping VGS SHOP | TRUYỀN HÌNH TP.HCM
 #EXTVLCOPT:http-user-agent=iptvmedia247
 https://livecdn.fptplay.net/sdb/htvcshopping_hls.smil/chunklist_b2500000.m3u8
 
@@ -627,12 +627,12 @@ http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/tv.m3u8
 #EXTINF:-1 group-title="🇻🇳/🇷🇺| Địa Phương" tvg-logo="https://i.imgur.com/bFzFKSL.png",NTV HD | Truyền hình Nam Định
 #EXTVLCOPT:http-user-agent=iptvmedia247
 https://livecdn.fptplay.net/sdc/namdinh_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="🇻🇳/🇷🇺| Địa Phương" tvg-logo="https://i.imgur.com/FLvFSLS.png",NTV HD | Truyền hình Nghệ An
-#EXTVLCOPT:http-user-agent=iptvmedia247
-http://103.90.220.236/natvlive/tv1live.m3u8
 #EXTINF:-1 group-title="🇻🇳/🇷🇺| Địa Phương" tvg-logo="https://i.imgur.com/FLvFSLS.png",NTV | Truyền hình Nghệ An
 #EXTVLCOPT:http-user-agent=iptvmedia247
 https://livecdn.fptplay.net/sda/nghean_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="🇻🇳/🇷🇺| Địa Phương" tvg-logo="https://i.imgur.com/FLvFSLS.png",NTV HD | Truyền hình Nghệ An
+#EXTVLCOPT:http-user-agent=iptvmedia247
+http://103.90.220.236/natvlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="TH Ninh Bình" group-title="🇻🇳/🇷🇺| Địa Phương" tvg-logo="https://i.imgur.com/qHQTwJ9.png",NBTV | Truyền hình Ninh Bình
 #EXTVLCOPT:http-user-agent=iptvmedia247
 https://livecdn.fptplay.net/sda/ninhbinh_hls.smil/chunklist_b2500000.m3u8
