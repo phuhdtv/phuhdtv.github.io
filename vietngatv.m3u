@@ -73,9 +73,6 @@ https://livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc9hd" group-title="🇻🇳/🇷🇺| Giải Trí" tvg-logo="https://i.imgur.com/gtCs6Yx.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc9_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC9 | GẮN KẾT GIA ĐÌNH VIỆT
 #EXTVLCOPT:http-user-agent=iptvmedia247
 https://livecdn.fptplay.net/sdb/vtc9_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc9hd" group-title="🇻🇳/🇷🇺| Giải Trí" tvg-logo="https://i.imgur.com/gtCs6Yx.png",VTC9 HD | GẮN KẾT GIA ĐÌNH VIỆT
-#EXTVLCOPT:http-user-agent=iptvmedia247
-http://vthanh.me/vieon.m3u8?pass=vienthi&type=tivi&kenh=vtc9-hd
 #EXTINF:-1 tvg-id="vtc10" group-title="🇻🇳/🇷🇺| Thể loại Khác" tvg-logo="https://i.imgur.com/gyKnxEP.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc10_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC10 | CẦU NỐI VĂN HÓA VIỆT
 #EXTVLCOPT:http-user-agent=iptvmedia247
 https://livecdn.fptplay.net/sdb/vtc10_hls.smil/chunklist_b2500000.m3u8
@@ -1584,6 +1581,12 @@ http://ott-cdn.ucom.am/s59/04.m3u8
 #EXTINF:-1 group-title="🇻🇳/🇷🇺| Thiếu nhi" tvg-logo="https://i.imgur.com/W4wWt9J.jpg",Gulli Girl | THIẾU NHI BỔ ÍCH
 #EXTVLCOPT:http-user-agent=iptvmedia247
 http://live-1.otcnet.ru/Gulli_OT/index.m3u8
+#EXTINF:-1 group-title="🇻🇳/🇷🇺| NOT 24/24" tvg-logo="https://i.imgur.com/W4wWt9J.jpg",Gulli Girl | THIẾU NHI BỔ ÍCH | PHÁT LẬU
+#EXTVLCOPT:http-user-agent=iptvmedia247
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://185.161.224.216/dash/Gulli_Girl_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="🇻🇳/🇷🇺| Thiếu nhi" tvg-logo="https://i.ibb.co/QMFDSBm/Ani.png",Ani | THIẾU NHI BỔ ÍCH
 #EXTVLCOPT:http-user-agent=iptvmedia247
 #KODIPROP:inputstream=inputstream.adaptive
