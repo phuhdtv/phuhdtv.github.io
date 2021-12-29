@@ -131,9 +131,6 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/TTXVN-SD-ABR/HTV-ABR/TTXVN-SD-720
 #EXTINF:-1 tvg-id="ttxvnhd" group-title="🇻🇳/🇷🇺| Tin tức - Kinh tế" tvg-logo="https://i.imgur.com/nF9AjU9.png",VNews HD | Thông Tấn Xã Việt Nam
 #EXTVLCOPT:http-user-agent=iptvmedia247
 http://livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OW2gewnU5qI/maxresdefault.jpg" group-title="🇻🇳/🇷🇺| Thể loại Khác",Việt Mỹ TV
-#EXTVLCOPT:http-user-agent=iptvmedia247
-http://68.235.37.11:1935/vietmagazine/vietmagazine/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="🇻🇳/🇷🇺| Giải Trí" tvg-logo="https://i.imgur.com/JTVXOFU.png",Vie Giải Trí VTVCab1
 #EXTVLCOPT:http-user-agent=iptvmedia247
@@ -1048,7 +1045,7 @@ https://okkotv-live.cdnvideo.ru/channel/Pervii_Kanal_OTT_HD.m3u8
 http://185.161.224.216/dash/Perviy_Kanal_HD.ism/playlist.mpd
 #EXTINF:-1 group-title="🇻🇳/🇷🇺| Tổng hợp" tvg-logo="https://i.imgur.com/BNd83AQ.png",Россия 1 | THỜI SỰ TỔNG HỢP
 #EXTVLCOPT:http-user-agent=iptvmedia247
-http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus4/playlist_3.m3u8
+http://94.230.240.17:8080/rossia1/index.m3u8
 #EXTINF:-1 group-title="🇻🇳/🇷🇺| Tổng hợp" tvg-logo="https://i.imgur.com/wmwSnmg.png",Россия HD | THỜI SỰ TỔNG HỢP
 #EXTVLCOPT:http-user-agent=iptvmedia247
 https://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
@@ -1088,6 +1085,9 @@ http://91.185.3.218:4000/play/604
 #EXTINF:-1 group-title="🇻🇳/🇷🇺| Tổng hợp" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВ Центр | THỜI SỰ TỔNG HỢP
 #EXTVLCOPT:http-user-agent=iptvmedia247
 http://uiptv.do.am/1ufc/000000009/playlist.m3u8
+#EXTINF:-1 group-title="🇻🇳/🇷🇺| Tổng hợp" tvg-logo="https://i.imgur.com/QyZvT3e.png",ОТР
+#EXTVLCOPT:http-user-agent=iptvmedia247
+http://94.230.240.17:8080/otp/index.m3u8
 #EXTINF:-1 group-title="🇻🇳/🇷🇺| Tổng hợp" tvg-logo="https://i.imgur.com/qJ8xpD4.png",РЕН Int. | THỜI SỰ TỔNG HỢP
 #EXTVLCOPT:http-user-agent=iptvmedia247
 http://91.185.3.218:4000/play/623
@@ -1150,7 +1150,7 @@ https://okkotv-live.cdnvideo.ru/channel/Zvezda_SD.m3u8
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="🇻🇳/🇷🇺| Tổng hợp" tvg-logo="https://i.imgur.com/yqXhUto.png",МИР | THỜI SỰ TỔNG HỢP
 #EXTVLCOPT:http-user-agent=iptvmedia247
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+http://94.230.240.17:8080/mir/index.m3u8
 #EXTINF:-1 group-title="🇻🇳/🇷🇺| Tổng hợp" tvg-logo="https://i.ibb.co/k29tBJX/09-Mir.png",МИР HD | THỜI SỰ TỔNG HỢP
 #EXTVLCOPT:http-user-agent=iptvmedia247
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
@@ -1241,15 +1241,15 @@ http://bl.uma.media/live/317849/HLS/4614144_3,2883584/2/1/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳/🇷🇺| Giải Trí" tvg-logo="https://i.imgur.com/FZbyKH5.jpg",ТНТ4 International | HÀI HƯỚC & HẤP DẪN
 #EXTVLCOPT:http-user-agent=iptvmedia247
 http://91.185.3.218:4000/play/421
-#EXTINF:-1 group-title="🇻🇳/🇷🇺| Thiếu nhi" tvg-logo="https://i.imgur.com/XqPS7VR.jpg",2x2 HD | THIẾU NHI BỔ ÍCH
-#EXTVLCOPT:http-user-agent=iptvmedia247
-http://bl.uma.media/live/317805/HLS/4614144_3,2883584/2/1/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳/🇷🇺| Thiếu nhi" tvg-logo="https://i.imgur.com/XqPS7VR.jpg",2x2 | THIẾU NHI BỔ ÍCH
 #EXTVLCOPT:http-user-agent=iptvmedia247
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/2x2_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="🇻🇳/🇷🇺| Thiếu nhi" tvg-logo="https://i.imgur.com/XqPS7VR.jpg",2x2 HD | THIẾU NHI BỔ ÍCH
+#EXTVLCOPT:http-user-agent=iptvmedia247
+http://bl.uma.media/live/317805/HLS/4614144_3,2883584/2/1/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳/🇷🇺| Giải Trí" tvg-logo="https://i.ibb.co/qrLb5kL/image.png",Суббота | GIẢI TRÍ ĐỈNH CAO
 #EXTVLCOPT:http-user-agent=iptvmedia247
 http://46.46.127.13:8324
