@@ -22,3 +22,5 @@ Link HaNoi IPTV: http://gg.gg/hanoiiptv
 Link kupjtv: http://gg.gg/kupjtv
 
 Link Amazing Vietnam 2010 on VTC8 (Vietnam): http://gg.gg/Amazing_Vietnam_2010
+
+Link VTV1 Today program Intro (01.01.2011 - 31.12.2011): http://gg.gg/vtv1-2011
