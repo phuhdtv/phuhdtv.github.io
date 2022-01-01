@@ -196,7 +196,7 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab20/index.m3u8|Referer=http://sct
 #EXTINF:-1 tvg-id="sctv1hd" group-title="🇻🇳/🇷🇺| Giải Trí" tvg-logo="https://i.imgur.com/92oho8u.png",SCTV1 HD | KÊNH HÀI KỊCH
 #EXTVLCOPT:http-user-agent="Mozilla/5.0"
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv1/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv2hd" group-title="🇻🇳/🇷🇺| Giải Trí" tvg-logo="https://i.imgur.com/yhvwdvM.png",NET STARS | SCTV2 HD
+#EXTINF:-1 tvg-id="sctv2hd" group-title="🇻🇳/🇷🇺| Giải Trí" tvg-logo="https://i.imgur.com/09NA78q.png",SCTV2 HD | KÊNH GIẢI TRÍ TỔNG HỢP
 #EXTVLCOPT:http-user-agent="Mozilla/5.0"
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv2/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv3hd" group-title="🇻🇳/🇷🇺| Thiếu nhi" tvg-logo="https://i.imgur.com/f6tiz6T.jpg",SEE TV SCTV3 HD | THIẾU NHI BỔ ÍCH
@@ -208,9 +208,6 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/sctv4/sd2/index.m3u8|Referer=http://sc
 #EXTINF:-1 group-title="🇻🇳/🇷🇺| Mua sắm" tvg-logo="https://i.imgur.com/SadHHhe.jpg",SCJ LIFE ON SCTV5 | KÊNH MUA SẮM TẠI NHÀ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0"
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv5/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv6hd" group-title="🇻🇳/🇷🇺| Phim truyện" tvg-logo="https://i.imgur.com/Fe8omK9.png",FIM360 SCTV6
-#EXTVLCOPT:http-user-agent="Mozilla/5.0"
-https://e1.endpoint.cdn.sctvonline.vn/hls/sctv6/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv6hd" group-title="🇻🇳/🇷🇺| Phim truyện" tvg-logo="https://i.imgur.com/Fe8omK9.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-10800.m3u8",FIM360 SCTV6 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0"
 https://livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
@@ -1533,6 +1530,9 @@ http://rtmp.one.by:1499
 #EXTINF:-1 group-title="🇻🇳/🇷🇺| Âm nhạc" tvg-logo="https://iptvxpix.ml/tnt-music.png",ТНТ Music | ÂM NHẠC Nước Nga
 #EXTVLCOPT:http-user-agent="Mozilla/5.0"
 http://46.46.127.13:8311
+#EXTINF:-1 group-title="🇻🇳/🇷🇺| Âm nhạc" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_pladio_163947930147.png",Pladio FPT
+#EXTVLCOPT:http-user-agent="Mozilla/5.0"
+https://vips-livecdn.fptplay.net/hda3/pladio_4000.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="🇻🇳/🇷🇺| Mua sắm" tvg-logo="https://i.ibb.co/Vp2SfcT/Leomax24.png",Leomax 24 | Mua sắm cùng Việt Nga TV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0"
