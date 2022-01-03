@@ -23,4 +23,4 @@ Link kupjtv: http://gg.gg/kupjtv
 
 Link Amazing Vietnam 2010 on VTC8 (Vietnam): http://gg.gg/Amazing_Vietnam_2010
 
-Link VTV1 Hôm nay + Ngày mai (01.01.2011 - 31.12.2011): http://gg.gg/vtv1-2011, http://gg.gg/http-gg-gg-vtv1-2011-ngay-mai
+Link VTV1 Hôm nay + Ngày mai (01.01.2011 - 31.12.2011): http://gg.gg/vtv1-2011 + http://gg.gg/http-gg-gg-vtv1-2011-ngay-mai
