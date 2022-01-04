@@ -40,10 +40,10 @@ https://livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="vtc1hd" group-title="🇻🇳/🇷🇺| Tổng hợp" tvg-logo="https://i.imgur.com/5Iq2SpG.png",VTC1 | KÊNH TRUYỀN HÌNH THIẾT YẾU
+#EXTINF:-1 tvg-id="vtc1hd" group-title="🇻🇳/🇷🇺| Tổng hợp" tvg-logo="https://i.imgur.com/5Iq2SpG.png",VTC1 | THIẾT YẾU QUỐC GIA
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTC1-SD-720p/playlist.m3u8
-#EXTINF:-1 tvg-id="vtc1hd" group-title="🇻🇳/🇷🇺| Tổng hợp" tvg-logo="https://i.imgur.com/PKB0lgq.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTC1 HD | KÊNH TRUYỀN HÌNH THIẾT YẾU
+#EXTINF:-1 tvg-id="vtc1hd" group-title="🇻🇳/🇷🇺| Tổng hợp" tvg-logo="https://i.imgur.com/PKB0lgq.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTC1 HD | THIẾT YẾU QUỐC GIA
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtc2" group-title="🇻🇳/🇷🇺| Khoa giáo - Lối sống" tvg-logo="https://i.imgur.com/80JNlos.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc2_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC2 | CUỘC SỐNG TRONG XÃ HỘI THÔNG TIN
@@ -214,12 +214,9 @@ https://livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="sctv7hd" group-title="🇻🇳/🇷🇺| Giải Trí" tvg-logo="https://i.imgur.com/W1CMWeQ.jpg",SHOW SCTV7 HD | SÂN KHẤU văn nghệ tổng hợp
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv7/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv8hd" group-title="🇻🇳/🇷🇺| Tin tức - Kinh tế" tvg-logo="https://i.imgur.com/fFgh5wx.png",VITV SCTV8 | TH Kinh tế & Tài chính
+#EXTINF:-1 tvg-id="sctv8hd" group-title="🇻🇳/🇷🇺| Tin tức - Kinh tế" tvg-logo="https://i.imgur.com/rvslRpa.png",VITV SCTV8 | TH Kinh tế & Tài chính
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1 tvg-id="sctv8hd" group-title="🇻🇳/🇷🇺| Tin tức - Kinh tế" tvg-logo="https://i.imgur.com/rvslRpa.png",VITV SCTV8 HD | TH Kinh tế & Tài chính
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
-https://e1.endpoint.cdn.sctvonline.vn/hls/sctv8/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv9hd" group-title="🇻🇳/🇷🇺| Phim truyện" tvg-logo="https://i.imgur.com/gZ86Ft4.png",SCTV9 HD | Phim TVB
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv9/sd2/index.m3u8|Referer=http://sctvonline.vn/
@@ -1089,7 +1086,7 @@ http://ott-cdn.ucom.am/s21/04.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/Karusel_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="🇻🇳/🇷🇺| Tổng hợp" tvg-logo="https://i.imgur.com/QyZvT3e.png",ОТР
+#EXTINF:-1 group-title="🇻🇳/🇷🇺| Tổng hợp" tvg-logo="https://i.imgur.com/QyZvT3e.png",ОТР | THIẾT YẾU QUỐC GIA
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://94.230.240.17:8080/otp/index.m3u8
 #EXTINF:-1 group-title="🇻🇳/🇷🇺| Tổng hợp" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВ Центр | THIẾT YẾU QUỐC GIA
@@ -1910,6 +1907,9 @@ https://n1.slavmir.tv/live/slavmir/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳/🇷🇺| Khoa giáo - Lối sống" tvg-logo="https://i.ibb.co/MBFj22w/tv-ekstra.jpg",ТВ Экстра | Khoa giáo Tiếng Nga
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://live-1.otcnet.ru/tvextra720b/index.m3u8
+#EXTINF:-1 group-title="🇻🇳/🇷🇺| Dự phòng" tvg-logo="https://i.ibb.co/QkQFbs9/travel-adventure.png",Travel + Adventure HD 
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+http://live-1.otcnet.ru/tadtmf/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="🇻🇳/🇷🇺| Khoa giáo - Lối sống" tvg-logo="https://i.ibb.co/QkQFbs9/travel-adventure.png",Travel + Adventure HD 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://live-1.otcnet.ru/ta/tracks-v1a1/index.m3u8
