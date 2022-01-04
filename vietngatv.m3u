@@ -217,6 +217,9 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/sctv7/sd2/index.m3u8|Referer=http://sc
 #EXTINF:-1 tvg-id="sctv8hd" group-title="🇻🇳/🇷🇺| Tin tức - Kinh tế" tvg-logo="https://i.imgur.com/rvslRpa.png",VITV SCTV8 | TH Kinh tế & Tài chính
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 tvg-id="sctv8hd" group-title="🇻🇳/🇷🇺| Tin tức - Kinh tế" tvg-logo="https://i.imgur.com/fFgh5wx.png",VITV SCTV8 HD | TH Kinh tế & Tài chính
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv8/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv9hd" group-title="🇻🇳/🇷🇺| Phim truyện" tvg-logo="https://i.imgur.com/gZ86Ft4.png",SCTV9 HD | Phim Châu Á & TVB ĐẶC SẮC
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv9/sd2/index.m3u8|Referer=http://sctvonline.vn/
@@ -300,9 +303,6 @@ https://livecdn.fptplay.net/hda3/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="🇻🇳/🇷🇺| Mua sắm" tvg-logo="https://i.imgur.com/lScpuGw.png",HTV CO.OP
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVCOOP-SD-ABR/HTV-ABR/HTVCOOP-SD-720p/playlist.m3u8
-#EXTINF:-1 group-title="🇻🇳/🇷🇺| Mua sắm" tvg-logo="https://i.imgur.com/lScpuGw.png",HTV CO.OP | TRUYỀN HÌNH TP.HCM
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
-https://mziyw7t0yhliv.vcdn.cloud/live/htvc-coop/chunklist_1.m3u8
 #EXTINF:-1 tvg-id="htvcthuanviet" group-title="🇻🇳/🇷🇺| Giải Trí" tvg-logo="https://i.imgur.com/nsDEmGt.png",HTVC Thuần Việt
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8
@@ -893,7 +893,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sc
 #EXTINF:-1 group-title="🇻🇳/🇷🇺| Tin tức - Kinh tế" tvg-logo="https://i.imgur.com/cSZn7dD.png",EURONEWS | KÊNH TIN TỨC
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8
-#EXTINF:-1 tvg-id="fashionhd" group-title="🇻🇳/🇷🇺| Giải Trí" tvg-logo="https://i.imgur.com/yvNu4Rm.png",Fashion TV
+#EXTINF:-1 group-title="🇻🇳/🇷🇺| Giải Trí" tvg-logo="https://i.imgur.com/yvNu4Rm.png",Fashion TV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0) AppleWebKit/537.36 (KHTML, like Gecko) Mobile/15E148 Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://ott-cdn.ucom.am/s30/04.m3u8
 #EXTINF:-1 tvg-id="fashionhd" group-title="🇻🇳/🇷🇺| Giải Trí" tvg-logo="https://i.imgur.com/2gKHeDW.png",Fashion TV HD
@@ -1000,7 +1000,7 @@ https://livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXLIFE-SD-720p/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳/🇷🇺| Tin tức - Kinh tế" tvg-logo="https://i.imgur.com/PLpyQsV.png",TRT World HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
-https://tv-trtworld.live.trt.com.tr/master.m3u8
+http://tv-trtworld.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qCLICfC.jpg" group-title="🇻🇳/🇷🇺| Âm nhạc",VIVA | ÂM NHẠC QUỐC TẾ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
@@ -1013,15 +1013,15 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8|Referer=http://sc
 #EXTINF:-1 tvg-id="" group-title="🇻🇳/🇷🇺| Phim truyện" tvg-logo="https://i.imgur.com/oxZCMGs.png",Zee TV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://194.213.23.7:3304
-#EXTINF:-1 group-title="🇻🇳/🇷🇺| Thể loại Khác" tvg-logo="https://i.imgur.com/ZsYvvwL.png",Առաջին ալիք | Public TV Of Armenia
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
-http://serv24.vintera.tv:8081/test/h1_arm/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="🇻🇳/🇷🇺| Tin tức - Kinh tế",Русская Америка TV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://stream.russianamerica.tv/ratv/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="🇻🇳/🇷🇺| Tin tức - Kinh tế",Русская Ярмарка ТВ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://api.alpaca.t62a.com/hls/9104/stream0.m3u8
+#EXTINF:-1 group-title="🇻🇳/🇷🇺| Thể loại Khác" tvg-logo="https://i.imgur.com/ZsYvvwL.png",Առաջին ալիք | Public TV Of Armenia
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+http://serv24.vintera.tv:8081/test/h1_arm/index.m3u8
 
 #EXTINF:-1 group-title="🇻🇳/🇷🇺| Tổng hợp" tvg-logo="https://i.imgur.com/fXPbX1z.png",Первый Канал | TỔNG HỢP QUỐC GIA | 576P
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
