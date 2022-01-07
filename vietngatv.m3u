@@ -1,5 +1,8 @@
 #EXTM3U url-tvg="http://megavie.live/schedule/epg.xml" tvg-shift=0 m3uautoload=1
 
+#EXTINF:-1 group-title="GIỚI THIỆU" tvg-logo="https://i.imgur.com/bEShc7Y.jpg",IPTVMedia247 & Chanpro | GIẢI TRÍ KHÔNG GIỚI HẠN
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+http://livecdn.fptplay.net/hda4/f-channel.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="KÊNH VTV" tvg-logo="https://i.imgur.com/QcInYpW.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV1 HD | THỜI SỰ TỔNG HỢP
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
@@ -1135,9 +1138,6 @@ https://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
 #EXTINF:0 group-title="🇻🇳/🇷🇺| NOT 24/24" tvg-logo="https://i.imgur.com/lqLdvRR.png",Россия 1 HD | THIẾT YẾU QUỐC GIA
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://radio-live-mg.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8
-#EXTINF:-1 group-title="🇷🇺| Thể thao" tvg-logo="https://i.imgur.com/kFdooR4.png",Матч! ТВ | THỂ THAO QUỐC GIA
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
-https://brazzzers.varcdn1.ru/match/mpegts
 #EXTINF:-1 group-title="🇷🇺| Thể thao" tvg-logo="https://i.imgur.com/kFdooR4.png",Матч! ТВ HD | THỂ THAO QUỐC GIA
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
@@ -1461,10 +1461,10 @@ http://185.161.224.216/dash/Avto_Plus_SD.ism/playlist.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/Zagorodnaya_Jizn_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="🇷🇺| Giải Trí" tvg-logo="https://i.imgur.com/oxaWl1I.png",Калейдскоп ТВ | GIẢI TRÍ KO GIỚI HẠN
+#EXTINF:-1 group-title="🇷🇺| Giải Trí" tvg-logo="https://i.imgur.com/oxaWl1I.png",Калейдскоп ТВ | GIẢI TRÍ KHÔNG GIỚI HẠN
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://live-1.otcnet.ru/kaleidoskop/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/oxaWl1I.png",Калейдскоп ТВ | GIẢI TRÍ KO GIỚI HẠN
+#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/oxaWl1I.png",Калейдскоп ТВ | GIẢI TRÍ KHÔNG GIỚI HẠN
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://okkotv-live.cdnvideo.ru/channel/Kaleidoskop.m3u8
 #EXTINF:-1 group-title="🇷🇺| Giải Trí" tvg-logo="https://i.imgur.com/MnlcTkp.png",ТЕЛЕКАФЕ | Khoa giáo Tiếng Nga
@@ -1672,7 +1672,7 @@ http://ott-cdn.ucom.am/s57/04.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/Paramount_Comedy_SD.ism/playlist.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9bH6PBu.png" group-title="🇷🇺| Giải Trí",Fast&Fun Box | GIẢI TRÍ KO GIỚI HẠN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9bH6PBu.png" group-title="🇷🇺| Giải Trí",Fast&Fun Box | GIẢI TRÍ KHÔNG GIỚI HẠN
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0) AppleWebKit/537.36 (KHTML, like Gecko) Mobile/15E148 Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://ott-cdn.ucom.am/s79/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jeq188d.png" group-title="🇷🇺| Giải Trí",Кухня ТВ
