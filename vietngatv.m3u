@@ -1028,9 +1028,6 @@ https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="planetearthhd" group-title="Khoa giáo - Lối sống" tvg-logo="https://i.ibb.co/ZGBcMK2/panetearth.jpg",Planet Earth HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/CAx7yRm.png",Rai 1 Italia
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0) AppleWebKit/537.36 (KHTML, like Gecko) Mobile/15E148 Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
-http://ott-cdn.ucom.am/s29/04.m3u8
 #EXTINF:-1 group-title="Tin tức - Kinh tế" tvg-logo="https://i.imgur.com/uIeaOAx.png",Russia Today English HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://rt-glb.gcdn.co/live/rtnews/playlist_4500Kb.m3u8
@@ -1302,12 +1299,21 @@ https://okkotv-live.cdnvideo.ru/channel/Yu_OTT.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/Disney_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="Giải Trí" tvg-logo="https://i.imgur.com/m52Nolz.png",360 TV | Truyền hình Thành phố Moscow
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://185.161.224.216/dash/360_TV_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Giải Trí" tvg-logo="https://i.imgur.com/m52Nolz.png",360 TV HD | Truyền hình Thành phố Moscow
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
 #EXTINF:-1 group-title="Âm nhạc" tvg-logo="https://i.imgur.com/Y6ZQyc7.png",RUTV | ÂM NHẠC CHUYÊN BIỆT
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
-http://46.46.127.13:8213
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://185.161.224.216/dash/RU_TV_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Âm nhạc" tvg-logo="https://i.imgur.com/Y6ZQyc7.png",RUTV HD | ÂM NHẠC CHUYÊN BIỆT
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
@@ -1637,6 +1643,12 @@ http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
 #EXTINF:-1 group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/QlncxbD.png",Рыжий | THIẾU NHI BỔ ÍCH
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0) AppleWebKit/537.36 (KHTML, like Gecko) Mobile/15E148 Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://ott-cdn.ucom.am/s57/04.m3u8
+#EXTINF:-1 group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/NrkMIoP.png",Mama | THIẾU NHI BỔ ÍCH
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://185.161.224.216/dash/Mama_SD_542.ism/playlist.mpd
 
 #EXTINF:-1 group-title="Giải Trí" tvg-logo="https://i.imgur.com/u50d1gv.jpg",Paramount Comedy | Phim hài Tiếng Nga
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
