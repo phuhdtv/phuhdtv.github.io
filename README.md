@@ -13,7 +13,7 @@ List FPT: https://bom.to/iptv-fpt
 
 List iptvbyvietngatv: http://gg.gg/iptvbyvietngatv
 
-Link World TV: http://topplay.do.am/FreeWorldTV.m3u
+Link World TV (Can added Euronews English in vthanhtivi): http://topplay.do.am/FreeWorldTV.m3u
 
 Download SimpleTV: http://gg.gg/simple-tv
 
