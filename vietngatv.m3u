@@ -238,12 +238,9 @@ https://livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="sctv7hd" group-title="KÊNH SCTV" tvg-logo="https://i.imgur.com/W1CMWeQ.jpg",SHOW SCTV7 HD | SÂN KHẤU văn nghệ tổng hợp
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv7/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv8hd" group-title="KÊNH SCTV" tvg-logo="https://i.imgur.com/fFgh5wx.png",VITV SCTV8 | TH Kinh tế & Tài chính
+#EXTINF:-1 tvg-id="sctv8hd" group-title="KÊNH SCTV" tvg-logo="https://i.imgur.com/rvslRpa.png",VITV SCTV8 | TH Kinh tế & Tài chính
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1 tvg-id="sctv8hd" group-title="KÊNH SCTV" tvg-logo="https://i.imgur.com/rvslRpa.png",VITV SCTV8 HD | TH Kinh tế & Tài chính
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
-https://e1.endpoint.cdn.sctvonline.vn/hls/sctv8/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv9hd" group-title="KÊNH SCTV" tvg-logo="https://i.imgur.com/gZ86Ft4.png",SCTV9 HD | Phim Châu Á & TVB ĐẶC SẮC
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv9/sd2/index.m3u8|Referer=http://sctvonline.vn/
@@ -1086,7 +1083,7 @@ http://ott-cdn.ucom.am/s14/04.m3u8
 #EXTINF:-1 group-title="Tổng hợp" tvg-logo="https://i.imgur.com/fXPbX1z.png",Первый Канал HD | TỔNG HỢP QUỐC GIA
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://okkotv-live.cdnvideo.ru/channel/Pervii_Kanal_OTT_HD.m3u8
-#EXTINF:-1 group-title="NOT 24/24" tvg-logo="https://i.imgur.com/fXPbX1z.png",Первый Канал HD | TỔNG HỢP QUỐC GIA | PHÁT LẬU
+#EXTINF:0 group-title="NOT 24/24" tvg-logo="https://i.imgur.com/fXPbX1z.png",Первый Канал HD | TỔNG HỢP QUỐC GIA | PHÁT LẬU
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1143,6 +1140,9 @@ http://94.230.240.17:8080/otp/index.m3u8
 #EXTINF:-1 group-title="Tổng hợp" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВ Центр | THIẾT YẾU QUỐC GIA
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://85.192.10.131/hls/TvciRu/playlist.m3u8
+#EXTINF:-1 group-title="Tổng hợp" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВ Центр | THIẾT YẾU QUỐC GIA
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0) AppleWebKit/537.36 (KHTML, like Gecko) Mobile/15E148 Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+http://ott-cdn.ucom.am/s54/04.m3u8
 #EXTINF:-1 group-title="Tổng hợp" tvg-logo="https://i.imgur.com/DDTbDtG.png",РЕН ТВ | THIẾT YẾU QUỐC GIA
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1289,6 +1289,9 @@ http://46.46.127.13:8324
 http://bl.uma.media/live/317845/HLS/4614144_3,2883584/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Giải Trí" tvg-logo="https://i.imgur.com/1j5q5Ff.png",Ю ТВ | ĐẶC SẮC THỦ ĐÔ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+http://46.46.127.13:8260
+#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/1j5q5Ff.png",Ю ТВ | ĐẶC SẮC THỦ ĐÔ
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://okkotv-live.cdnvideo.ru/channel/Yu_OTT.m3u8
 #EXTINF:-1 group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/g0UK661.png",Disney Channel | THIẾU NHI BỔ ÍCH
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
@@ -1313,7 +1316,7 @@ http://46.46.127.13:8213
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 #EXTINF:-1 group-title="Tin tức - Kinh tế" tvg-logo="https://i.imgur.com/AGj8EJF.png",РБК | TH Kinh tế Liên Bang Nga
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
-http://91.229.235.66:8080/online/rbc_480p/index.m3u8
+http://46.46.127.13:8295
 #EXTINF:-1 group-title="Tin tức - Kinh tế" tvg-logo="https://i.imgur.com/AGj8EJF.png",РБК HD | TH Kinh tế Liên Bang Nga
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
