@@ -1078,8 +1078,8 @@ http://api.alpaca.t62a.com/hls/9104/stream0.m3u8
 http://serv24.vintera.tv:8081/test/h1_arm/index.m3u8
 
 #EXTINF:-1 group-title="Tổng hợp" tvg-logo="https://i.imgur.com/fXPbX1z.png",Первый Канал | TỔNG HỢP QUỐC GIA
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
-http://www.filmon.com/vr-streams/1735.high/playlist.m3u8
+EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0) AppleWebKit/537.36 (KHTML, like Gecko) Mobile/15E148 Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+http://ott-cdn.ucom.am/s14/04.m3u8
 #EXTINF:-1 group-title="Tổng hợp" tvg-logo="https://i.imgur.com/fXPbX1z.png",Первый Канал HD | TỔNG HỢP QUỐC GIA
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://okkotv-live.cdnvideo.ru/channel/Pervii_Kanal_OTT_HD.m3u8
@@ -1118,10 +1118,10 @@ http://ott-cdn.ucom.am/s17/04.m3u8
 http://185.161.224.216/dash/5_Kanal_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Tổng hợp" tvg-logo="https://i.imgur.com/Q5XxFQi.png",Россия K | ĐỜI SỐNG XÃ HỘI
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
-http://uiptv.do.am/1ufc/000000006/playlist.m3u8
+http://94.230.240.17:8080/kultura/index.m3u8
 #EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/Q5XxFQi.png",Россия K | ĐỜI SỐNG XÃ HỘI
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
-https://okkotv-live.cdnvideo.ru/channel/Russia_K_SD.m3u8
+http://radio-live-mg.rtr-vesti.ru/hls/russia_k_dubl2/playlist_3.m3u8
 #EXTINF:-1 group-title="Tin tức - Kinh tế" tvg-logo="https://i.imgur.com/wu7O85f.png",Россия 24 | KÊNH TIN TỨC | 576P
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
@@ -1155,7 +1155,7 @@ https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT.m3u8
 #EXTINF:-1 group-title="Tôn giáo" tvg-logo="https://i.imgur.com/6IcWl5r.png",СПАС | Tôn giáo Tiếng Nga
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/6IcWl5r.png",СПАС | Tôn giáo Tiếng Nga | 480P
+#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/6IcWl5r.png",СПАС | Tôn giáo Tiếng Nga
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://okkotv-live.cdnvideo.ru/channel/Spas.m3u8
 #EXTINF:-1 group-title="Giải Trí" tvg-logo="https://i.imgur.com/F6j6xWc.jpg",СТС | GIẢI TRÍ QUỐC GIA
@@ -1180,11 +1180,8 @@ http://185.161.224.216/dash/TV_3_SD.ism/playlist.mpd
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://bl.uma.media/live/407373/HLS/6307840_7,4280320/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Giải Trí" tvg-logo="https://i.imgur.com/CNOYAUN.png",Пятница! | GIẢI TRÍ DÀNH CHO THỦ ĐÔ
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.is_realtime_stream=true
-http://185.161.224.216/dash/Pyatnica_SD.ism/playlist.mpd
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0) AppleWebKit/537.36 (KHTML, like Gecko) Mobile/15E148 Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+http://ott-cdn.ucom.am/s50/04.m3u8
 #EXTINF:-1 group-title="Giải Trí" tvg-logo="https://i.imgur.com/CNOYAUN.png",Пятница! HD | GIẢI TRÍ DÀNH CHO THỦ ĐÔ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://bl.uma.media/live/410336/HLS/6307840_7,4280320/2/1/playlist.m3u8
