@@ -100,7 +100,7 @@ https://livecdn.fptplay.net/hda1/vtc13_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtc14hd" group-title="KÊNH VTC" tvg-logo="https://i.imgur.com/Kqt7Myy.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc14_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC14 HD | CUỘC SỐNG VẪN TƯƠI ĐẸP
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="Kênh Giới Thiệu VIỆT NAM - Liên Xô" tvg-logo="http://gg.gg/img-vtc15",VTC15 HD | Thế là người Việt Nam
+#EXTINF:-1 group-title="KÊNH VTC" tvg-logo="http://gg.gg/img-vtc15",VTC15 HD | Thế là người Việt Nam
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://103.125.191.32:8080/tvpub/mpegts
 #EXTINF:0 tvg-id="vtc16" group-title="KÊNH VTC" tvg-logo="https://i.imgur.com/jHJ0Qnp.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc16_1000.stream/chunks_dvr_range-${start}-10800.m3u8",3N VTC16 HD | Cùng nông dân hội nhập
@@ -899,6 +899,9 @@ http://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g2qz3Fh.png" group-title="Quốc tế",CGTN Français | Truyền Hình Trung Quốc
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://livefr.cgtn.com/1000f/prog_index.m3u8
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/4wbZUfh.png",CGTN Documentary | Truyền Hình Trung Quốc
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+http://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/L2yv24j.png",CGTN Русский | Truyền Hình Trung Quốc
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://liveru.cgtn.com/1000r/prog_index.m3u8
@@ -1045,7 +1048,7 @@ http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://i.imgur.com/oxZCMGs.png",Zee TV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
-http://194.213.23.7:3304
+http://91.185.3.218:4000/play/310
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bEShc7Y.jpg" group-title="Tin tức - Kinh tế",Русская Америка TV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://stream.russianamerica.tv/ratv/index.m3u8
@@ -1059,6 +1062,8 @@ http://serv24.vintera.tv:8081/test/h1_arm/index.m3u8
 #EXTINF:-1 group-title="Tổng hợp" tvg-logo="https://i.imgur.com/fXPbX1z.png",Первый Канал | TỔNG HỢP QUỐC GIA
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://195.245.97.133:8800/play/psng_HLS/index.m3u8
+#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/fXPbX1z.png",Первый Канал | TỔNG HỢP QUỐC GIA
+http://91.185.3.218:4000/play/603
 #EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/fXPbX1z.png",Первый Канал | TỔNG HỢP QUỐC GIA
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0) AppleWebKit/537.36 (KHTML, like Gecko) Mobile/15E148 Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://ott-cdn.ucom.am/s14/04.m3u8
@@ -1090,9 +1095,11 @@ http://195.245.97.133:8800/play/Match/index.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Tổng hợp" tvg-logo="https://i.imgur.com/DtQX5P2.png",НТВ МИР | THIẾT YẾU QUỐC GIA
+http://91.185.3.218:4000/play/626
+#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/DtQX5P2.png",НТВ МИР | THIẾT YẾU QUỐC GIA
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
-http://92.46.127.146:8080/ntv-L3-TRANS/index.m3u8
-#EXTINF:-1 group-title="Tổng hợp" tvg-logo="https://i.imgur.com/DtQX5P2.png",НТВ МИР | THIẾT YẾU QUỐC GIA
+http://92.46.127.146:8080/ntv/index.m3u8
+#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/DtQX5P2.png",НТВ МИР | THIẾT YẾU QUỐC GIA
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0) AppleWebKit/537.36 (KHTML, like Gecko) Mobile/15E148 Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://ott-cdn.ucom.am/s17/04.m3u8
 #EXTINF:-1 group-title="Tổng hợp" tvg-logo="https://i.imgur.com/qswopzO.png",Пятый канал | THIẾT YẾU QUỐC GIA
@@ -1144,11 +1151,15 @@ http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://okkotv-live.cdnvideo.ru/channel/Spas.m3u8
 #EXTINF:-1 group-title="Giải Trí" tvg-logo="https://i.imgur.com/F6j6xWc.jpg",СТС | GIẢI TRÍ QUỐC GIA
+http://91.185.3.218:4000/play/625
+#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/F6j6xWc.jpg",СТС | GIẢI TRÍ QUỐC GIA
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0) AppleWebKit/537.36 (KHTML, like Gecko) Mobile/15E148 Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://ott-cdn.ucom.am/s52/04.m3u8
 #EXTINF:-1 group-title="Giải Trí" tvg-logo="https://i.imgur.com/pJNWVAz.png",СТС HD | GIẢI TRÍ QUỐC GIA
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT.m3u8
+#EXTINF:-1 group-title="Giải Trí" tvg-logo="https://i.imgur.com/jBnjxGR.png",Домашний | GIẢI TRÍ DÀNH CHO GIA ĐÌNH
+http://91.185.3.218:4000/play/620
 #EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/jBnjxGR.png",Домашний | GIẢI TRÍ DÀNH CHO GIA ĐÌNH
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0) AppleWebKit/537.36 (KHTML, like Gecko) Mobile/15E148 Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://ott-cdn.ucom.am/s88/04.m3u8
@@ -1164,7 +1175,9 @@ http://185.161.224.216/dash/TV_3_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Giải Trí" tvg-logo="https://i.imgur.com/zvhT8JO.png",ТВ3 HD | GIẢI TRÍ HẤP DẪN
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://bl.uma.media/live/407373/HLS/6307840_7,4280320/2/1/playlist.m3u8
-#EXTINF:-1 group-title="Giải Trí" tvg-logo="https://i.imgur.com/CNOYAUN.png",Пятница! | GIẢI TRÍ DÀNH CHO THỦ ĐÔ
+#EXTINF:-1 group-title="Giải Trí" tvg-logo="https://i.imgur.com/CNOYAUN.png",Пятница! Int. | GIẢI TRÍ DÀNH CHO THỦ ĐÔ
+http://91.185.3.218:4000/play/330
+#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/CNOYAUN.png",Пятница! Int. | GIẢI TRÍ DÀNH CHO THỦ ĐÔ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0) AppleWebKit/537.36 (KHTML, like Gecko) Mobile/15E148 Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://ott-cdn.ucom.am/s50/04.m3u8
 #EXTINF:-1 group-title="Giải Trí" tvg-logo="https://i.imgur.com/CNOYAUN.png",Пятница! HD | GIẢI TRÍ DÀNH CHO THỦ ĐÔ
@@ -1188,6 +1201,8 @@ https://okkotv-live.cdnvideo.ru/channel/Mir_OTT.m3u8
 #EXTINF:-1 group-title="Tổng hợp" tvg-logo="https://i.ibb.co/k29tBJX/09-Mir.png",МИР HD | THIẾT YẾU QUỐC GIA
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 group-title="Giải Trí" tvg-logo="https://i.ibb.co/N6f1brQ/24-TNT-Int.png",ТНТ | GIẢI TRÍ HÀNG ĐẦU
+http://91.185.3.218:4000/play/332
 #EXTINF:-1 group-title="Giải Trí" tvg-logo="https://i.ibb.co/N6f1brQ/24-TNT-Int.png",ТНТ | GIẢI TRÍ HÀNG ĐẦU
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0) AppleWebKit/537.36 (KHTML, like Gecko) Mobile/15E148 Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://ott-cdn.ucom.am/s19/04.m3u8
@@ -1236,6 +1251,8 @@ http://air.tvk6.ru/tvk/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZKGC5i0.png" group-title="Địa Phương",ТНВ-Планета | Truyền hình Tatarstan
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://tnv.bonus-tv.ru/cdn/tnvplanet/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptvxpix.ml/rtvi.png" group-title="Địa Phương",RTVi | Truyền hình Nga Tại Israel
+http://91.185.3.218:4000/play/365
 #EXTINF:-1 group-title="Giải Trí" tvg-logo="https://i.imgur.com/nRD61Dw.png",Че! | GIẢI TRÍ ĐỈNH CAO
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1251,6 +1268,8 @@ http://185.161.224.216/dash/STS_Love_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/BtBkzC9.png",CTC Kids HD | THIẾU NHI BỔ ÍCH
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD.m3u8
+#EXTINF:-1 group-title="Giải Trí" tvg-logo="https://i.imgur.com/FZbyKH5.jpg",ТНТ4 | HÀI HƯỚC & HẤP DẪN
+http://91.185.3.218:4000/play/421
 #EXTINF:-1 group-title="Giải Trí" tvg-logo="https://i.imgur.com/FZbyKH5.jpg",ТНТ4 HD | HÀI HƯỚC & HẤP DẪN
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://bl.uma.media/live/317849/HLS/4614144_3,2883584/2/1/playlist.m3u8
@@ -1338,9 +1357,6 @@ http://serv30.vintera.tv:8081/habar/habar24/chunks.m3u8
 https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
 #EXTINF:0 group-title="Kênh khác" tvg-logo="https://i.imgur.com/gn8Gb98.png",БелРос | Kênh Truyền hình Nga Tại Belarus
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
-http://uiptv.do.am/1ufc/116316122/playlist.m3u8
-#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/gn8Gb98.png",БелРос | Kênh Truyền hình Nga Tại Belarus
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 #EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.ibb.co/DDjQTKc/Kino-24.png",KINO 24 | Kiều bào Việt Nam ở Các nước Baltic
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
@@ -1364,6 +1380,8 @@ http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 group-title="Khoa giáo - Lối sống" tvg-logo="https://i.imgur.com/KUfXhKC.png",Моя планета | My Planeta
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://radio-live-mg.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Khoa giáo - Lối sống" tvg-logo="https://i.imgur.com/KUfXhKC.png",Моя планета HD | My Planeta HD
+http://91.185.3.218:4000/play/619
 #EXTINF:-1 group-title="Khoa giáo - Lối sống" tvg-logo="https://i.imgur.com/8PrbyBz.jpg",Ocean TV | Khoa giáo Tiếng Nga
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1410,6 +1428,8 @@ http://185.161.224.216/dash/Dikiy_SD.ism/playlist.mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/Avto_24_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Thể thao" tvg-logo="https://i.imgur.com/xKy5wNW.png",Авто Плюс | THỂ THAO & PHONG CÁCH
+http://91.185.3.218:4000/play/29
+#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/xKy5wNW.png",Авто Плюс | THỂ THAO & PHONG CÁCH
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1428,6 +1448,8 @@ http://live-1.otcnet.ru/kaleidoskop/tracks-v1a1/index.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://okkotv-live.cdnvideo.ru/channel/Kaleidoskop.m3u8
 #EXTINF:-1 group-title="Giải Trí" tvg-logo="https://i.imgur.com/MnlcTkp.png",ТЕЛЕКАФЕ | Khoa giáo Tiếng Nga
+http://91.185.3.218:4000/play/605
+#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/MnlcTkp.png",ТЕЛЕКАФЕ | Khoa giáo Tiếng Nga
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1436,6 +1458,10 @@ http://185.161.224.216/dash/TeleKafe_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/MnlcTkp.png",ТЕЛЕКАФЕ | Khoa giáo Tiếng Nga
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0) AppleWebKit/537.36 (KHTML, like Gecko) Mobile/15E148 Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://ott-cdn.ucom.am/s56/04.m3u8
+#EXTINF:-1 group-title="Khoa giáo - Lối sống" tvg-logo="https://i.imgur.com/f8Rz3vX.png",Viasat History | Khoa giáo Tiếng Nga
+http://91.185.3.218:4000/play/323
+#EXTINF:-1 group-title="Khoa giáo - Lối sống" tvg-logo="https://i.imgur.com/SXIfU7v.png",Viasat Nature | Khoa giáo Tiếng Nga
+http://91.185.3.218:4000/play/304
 #EXTINF:-1 group-title="Khoa giáo - Lối sống" tvg-logo="https://i.imgur.com/f8Rz3vX.png",Viasat History HD | Khoa giáo Tiếng Nga
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
@@ -1458,6 +1484,9 @@ http://185.161.224.216/dash/Viasat_Nature_SD.ism/playlist.mpd
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
 #EXTINF:-1 group-title="Khoa giáo - Lối sống" tvg-logo="https://i.imgur.com/ZGNvRAr.png",HD Life | Khoa giáo Tiếng Nga
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+http://91.185.3.218:4000/play/142
+#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/ZGNvRAr.png",HD Life | Khoa giáo Tiếng Nga
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1551,6 +1580,8 @@ http://46.46.127.13:8311
 #EXTINF:-1 group-title="Âm nhạc" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_pladio_163947930147.png",Pladio FPT
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://vips-livecdn.fptplay.net/hda3/pladio_4000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Âm nhạc" tvg-logo="https://i.imgur.com/94gvcA4.jpg",Музыка первого | Muzyka Pervogo
+http://91.185.3.218:4000/play/608
 
 #EXTINF:-1  group-title="Kênh khác" tvg-logo="https://i.ibb.co/Vp2SfcT/Leomax24.png",Leomax 24 | Mua sắm cùng Việt Nga TV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
@@ -1572,6 +1603,8 @@ http://live-topshop.cdnvideo.ru/topshop/topshop_576p/playlist.m3u8
 http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 
 #EXTINF:-1 group-title="Khoa giáo - Lối sống" tvg-logo="https://iptvxpix.ml/englishclub.png",English Club TV | Học Tiếng Anh
+http://91.185.3.218:4000/play/407
+#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://iptvxpix.ml/englishclub.png",English Club TV | Học Tiếng Anh
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0) AppleWebKit/537.36 (KHTML, like Gecko) Mobile/15E148 Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://ott-cdn.ucom.am/s37/04.m3u8
 #EXTINF:-1 group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/ZgU9fin.png",Мульт | THIẾU NHI BỔ ÍCH
@@ -1642,6 +1675,8 @@ http://185.161.224.216/dash/Paramount_Comedy_SD.ism/playlist.mpd
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0) AppleWebKit/537.36 (KHTML, like Gecko) Mobile/15E148 Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://ott-cdn.ucom.am/s79/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jeq188d.png" group-title="Giải Trí",Кухня ТВ
+http://91.185.3.218:4000/play/38
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jeq188d.png" group-title="Dự phòng",Кухня ТВ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1684,7 +1719,8 @@ https://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xDfWEeC.jpg"  group-title="Phim truyện",Amedia Premium | PHIM DÀNH CHO NGƯỜI HÂM MỘ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0) AppleWebKit/537.36 (KHTML, like Gecko) Mobile/15E148 Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://ott-cdn.ucom.am/s64/04.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xDfWEeC.jpg"  group-title="Phim truyện",Дом Кино | Dom Kino
+http://91.185.3.218:4000/play/606
 #EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.ibb.co/jJCTwR5/Cinema.png",Cinema | PHIM DÀNH CHO NGƯỜI HÂM MỘ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1770,23 +1806,31 @@ http://185.161.224.216/dash/Kinomix_SD.ism/playlist.mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/Kinosvidaniye_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.ibb.co/DQXpBZy/63-Kinosemja.png",КИНОСЕМЬЯ | PHIM DÀNH CHO NGƯỜI HÂM MỘ
+http://91.185.3.218:4000/play/414
+#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.ibb.co/DQXpBZy/63-Kinosemja.png",КИНОСЕМЬЯ | PHIM DÀNH CHO NGƯỜI HÂM MỘ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/Kinosemya_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.ibb.co/Phw189V/image.png",КИНОСЕРИЯ | PHIM DÀNH CHO NGƯỜI HÂM MỘ
+http://91.185.3.218:4000/play/208
+#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.ibb.co/Phw189V/image.png",КИНОСЕРИЯ | PHIM DÀNH CHO NGƯỜI HÂM MỘ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/Kinoseriya_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.imgur.com/r96PcYg.jpg",Киноужас | PHIM DÀNH CHO NGƯỜI HÂM MỘ
+http://91.185.3.218:4000/play/259
 #EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.ibb.co/q9WVTbx/73-Kinohit.png",КИНОХИТ | PHIM DÀNH CHO NGƯỜI HÂM MỘ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/Kinohit_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.ibb.co/q9WVTbx/73-Kinohit.png",КИНОХИТ | PHIM DÀNH CHO NGƯỜI HÂM MỘ
+http://91.185.3.218:4000/play/321
 #EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.ibb.co/Sw8Q1sF/image.png",Кино ТВ HD | PHIM DÀNH CHO NGƯỜI HÂM MỘ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://1hdru-hls-otcnet.cdnvideo.ru/kinosem/index.m3u8
@@ -1836,12 +1880,16 @@ http://185.161.224.216/dash/NSTV_SD.ism/playlist.mpd
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://1hdru-hls-otcnet.cdnvideo.ru/siesta/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zJmfvMm/43-Muzhskoe-Kino.png" group-title="Phim truyện",Мужское кино | PHIM DÀNH CHO NAM GIỚI
+http://91.185.3.218:4000/play/2099
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zJmfvMm/43-Muzhskoe-Kino.png" group-title="Dự phòng",Мужское кино | PHIM DÀNH CHO NAM GIỚI
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/Mujskoye_Kino_SD.ism/playlist.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TtT1gmy/58-Rodnoje-kino.png" group-title="Phim truyện",РОДНОЕ КИНО | ĐIỆN ẢNH HÀNG ĐẦU
+#EXTINF:0 tvg-logo="https://i.ibb.co/TtT1gmy/58-Rodnoje-kino.png" group-title="Phim truyện",РОДНОЕ КИНО | ĐIỆN ẢNH HÀNG ĐẦU
+http://91.185.3.218:4000/play/12
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TtT1gmy/58-Rodnoje-kino.png" group-title="Dự phòng",РОДНОЕ КИНО | ĐIỆN ẢNH HÀNG ĐẦU
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1857,6 +1905,8 @@ http://185.161.224.216/dash/RTG_HD.ism/playlist.mpd
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0) AppleWebKit/537.36 (KHTML, like Gecko) Mobile/15E148 Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://ott-cdn.ucom.am/s95/04.m3u8
 #EXTINF:-1 group-title="Giải Trí" tvg-logo="https://i.imgur.com/PqJ5zzi.jpg",Кинокомедия | PHIM HÀI DÀNH CHO NGƯỜI HÂM MỘ
+http://91.185.3.218:4000/play/26
+#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/PqJ5zzi.jpg",Кинокомедия | PHIM HÀI DÀNH CHO NGƯỜI HÂM MỘ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1884,6 +1934,8 @@ http://ott-cdn.ucom.am/s98/04.m3u8
 #EXTINF:-1 group-title="Khoa giáo - Lối sống" tvg-logo="https://i.imgur.com/k1Gt1Rc.png",Охотник и Рыболов | Khoa giáo Tiếng Nga
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0) AppleWebKit/537.36 (KHTML, like Gecko) Mobile/15E148 Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://ott-cdn.ucom.am/s62/04.m3u8
+#EXTINF:-1 group-title="Khoa giáo - Lối sống" tvg-logo="https://i.imgur.com/k1Gt1Rc.png",Охотник и Рыболов HD | Khoa giáo Tiếng Nga
+http://91.185.3.218:4000/play/624
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0acD6tO.png" group-title="Địa Phương",Министерство идей | Truyền hình Yekaterinburg
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
@@ -1896,6 +1948,8 @@ https://n1.slavmir.tv/live/slavmir/playlist.m3u8
 #EXTINF:-1 group-title="Khoa giáo - Lối sống" tvg-logo="https://i.ibb.co/MBFj22w/tv-ekstra.jpg",ТВ Экстра | Khoa giáo Tiếng Nga
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://live-1.otcnet.ru/tvextra720b/index.m3u8
+#EXTINF:-1 group-title="Khoa giáo - Lối sống" tvg-logo="https://i.ibb.co/QkQFbs9/travel-adventure.png",Travel + Adventure
+http://91.185.3.218:4000/play/320
 #EXTINF:-1 group-title="Khoa giáo - Lối sống" tvg-logo="https://i.ibb.co/QkQFbs9/travel-adventure.png",Travel + Adventure HD 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://live-1.otcnet.ru/ta/tracks-v1a1/index.m3u8
@@ -1971,10 +2025,34 @@ http://195.245.97.133:8800/play/Vremya_HLS/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptvxpix.ml/sarafan.png" group-title="Giải Trí",Сарафан
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://195.245.97.133:8800/play/Sarafan/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FUYQxWb.png" group-title="Giải Trí",Perets
+http://91.185.3.218:4000/play/484
+#EXTINF:-1 tvg-logo="https://i.imgur.com/16X14yK.png" group-title="Giải Trí",Vremya
+http://91.185.3.218:4000/play/607
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Blue_Mars_symbol.svg" group-title="Khoa giáo - Lối sống",Мужской | Nam giới
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://195.245.97.133:8800/play/Myzkoy/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bEShc7Y.jpg" group-title="Khoa giáo - Lối sống",365 ДНЕЙ | 365 Ngày
+http://91.185.3.218:4000/play/2077
+#EXTINF:-1 tvg-logo="https://iptvxpix.ml/bober.png" group-title="Khoa giáo - Lối sống",БОБЕР | Bober
+http://91.185.3.218:4000/play/622
+#EXTINF:-1 tvg-logo="https://karnei4.github.io/convert/poehali.png" group-title="Giải Trí",Поехали
+http://91.185.3.218:4000/play/308
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bEShc7Y.jpg" group-title="Khoa giáo - Lối sống",Живая природа | Khoa giáo KHÔNG GIỚI HẠN
+http://91.185.3.218:4000/play/324
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bEShc7Y.jpg" group-title="Phim truyện",Techno 24
+http://91.185.3.218:4000/play/305
+#EXTINF:-1 tvg-logo="https://iptvxpix.ml/mosfilm.png" group-title="Phim truyện",Mosfilm
+http://91.185.3.218:4000/play/420
+#EXTINF:-1 tvg-logo="https://i.imgur.com/boJLBuV.png" group-title="Giải Trí",КВН ТВ | KVN
+http://91.185.3.218:4000/play/314
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DOtCK9V.png" group-title="Giải Trí",Pobeda
+http://91.185.3.218:4000/play/3770
 
+#EXTINF:-1 group-title="Thể thao" tvg-logo="https://i.ibb.co/tL4Rytq/fightbox-hd.png",Box TV
+http://91.185.3.218:4000/play/609
+#EXTINF:-1 group-title="Thể thao" tvg-logo="https://iptvxpix.ml/khl.png",KHL HD
+http://91.185.3.218:4000/play/404
 #EXTINF:-1 group-title="Thể thao" tvg-logo="https://i.ibb.co/tL4Rytq/fightbox-hd.png",FightBox HD | THỂ THAO ĐỈNH CAO
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0) AppleWebKit/537.36 (KHTML, like Gecko) Mobile/15E148 Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://ott-cdn.ucom.am/s86/04.m3u8
@@ -2002,36 +2080,8 @@ http://185.161.224.216/dash/MATCH_NASH_SPORT_SD.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bEShc7Y.jpg" group-title="Thể thao",Матч! Страна HD | THỂ THAO THỦ ĐÔ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://bl.uma.media/live/291663/HLS/4614144_3,2883584/2/1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptvxpix.ml/match-planeta.png" group-title="Thể thao",Match Planeta | THỂ THAO THỦ ĐÔ
+http://91.185.3.218:4000/play/617
 #EXTINF:-1 tvg-logo="https://iptvxpix.ml/viasat-sport.png" group-title="Thể thao",Viasat Sport
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://195.245.97.133:8800/play/Viasat_Sport/index.m3u8
-#EXTINF:-1 group-title="Thể thao" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png",FA Cup 1
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
-https://livecdn.fptplay.net/hdevent/fa01_4000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Thể thao" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png",FA Cup 2
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
-https://livecdn.fptplay.net/hdevent/fa02_4000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Thể thao" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png",FA Cup 3
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
-https://livecdn.fptplay.net/hdevent/fa03_4000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Thể thao" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png",FA Cup 4
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
-https://livecdn.fptplay.net/hdevent/fa04_4000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Thể thao" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png",FA Cup 5
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
-https://livecdn.fptplay.net/hdevent/fa05_4000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Thể thao" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png",FA Cup 6
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
-https://livecdn.fptplay.net/hdevent/fa06_4000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Thể thao" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png",FA Cup 7
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
-https://livecdn.fptplay.net/hdevent/fa07_4000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Thể thao" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png",FA Cup 8
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
-https://livecdn.fptplay.net/hdevent/fa08_4000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Thể thao" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png",FA Cup 9
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
-https://livecdn.fptplay.net/hdevent/fa09_4000.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Thể thao" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png",FA Cup 10
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
-https://livecdn.fptplay.net/hdevent/fa10_4000.stream/chunklist.m3u8
