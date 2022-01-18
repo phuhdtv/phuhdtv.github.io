@@ -12,7 +12,7 @@ https://livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="KÊNH VTV" tvg-logo="https://i.imgur.com/KurtRao.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV3 HD | Thể Thao & GIẢI TRÍ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv4hd" group-title="KÊNH VTV" tvg-logo="https://i.imgur.com/CDdM2aJ.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV4 HD | INTERNATIONAL
+#EXTINF:-1 tvg-id="vtv4hd" group-title="KÊNH VTV" tvg-logo="https://i.imgur.com/CDdM2aJ.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV4 HD | ĐỐI NGOẠI QUỐC GIA
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" group-title="KÊNH VTV" tvg-logo="https://i.imgur.com/W0cksu1.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV5 HD | TIẾNG DÂN TỘC
@@ -1093,18 +1093,18 @@ https://okkotv-live.cdnvideo.ru/channel/Pervii_Kanal_OTT_HD.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/Perviy_Kanal_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="Tổng hợp" tvg-logo="https://i.imgur.com/hi2oZMk.png",Россия 1 | THIẾT YẾU QUỐC GIA
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
-http://94.230.240.17:8080/rossia1/index.m3u8
-#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/hi2oZMk.png",Россия 1 | THIẾT YẾU QUỐC GIA
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
-http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus4/playlist_3.m3u8
-#EXTINF:-1 group-title="Tổng hợp" tvg-logo="https://i.imgur.com/lqLdvRR.png",Россия 1 HD | THIẾT YẾU QUỐC GIA
+#EXTINF:-1 group-title="Tổng hợp" tvg-logo="https://i.imgur.com/hi2oZMk.png",Россия 1 HD | THIẾT YẾU QUỐC GIA
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
-#EXTINF:0 group-title="NOT 24/24" tvg-logo="https://i.imgur.com/lqLdvRR.png",Россия 1 HD | THIẾT YẾU QUỐC GIA
+#EXTINF:0 group-title="NOT 24/24" tvg-logo="https://i.imgur.com/hi2oZMk.png",Россия 1 HD | THIẾT YẾU QUỐC GIA
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://radio-live-mg.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8
+#EXTINF:-1 group-title="Tổng hợp" tvg-logo="https://i.imgur.com/5D1gwiv.png",Россия РТР | ĐỐI NGOẠI QUỐC GIA
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+http://91.185.3.218:4000/play/303
+#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/5D1gwiv.png",Россия РТР | ĐỐI NGOẠI QUỐC GIA
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+http://radio-live-mg.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="Thể thao" tvg-logo="https://i.imgur.com/kFdooR4.png",МАТЧ! HD | THỂ THAO QUỐC GIA
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 #KODIPROP:inputstream=inputstream.adaptive
