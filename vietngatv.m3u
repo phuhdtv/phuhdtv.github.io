@@ -1107,7 +1107,10 @@ https://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
 http://radio-live-mg.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8
 #EXTINF:-1 group-title="Thể thao" tvg-logo="https://i.imgur.com/kFdooR4.png",МАТЧ! HD | THỂ THAO QUỐC GIA
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
-http://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://185.161.224.216/dash/Match_HD.ism/playlist.mpd
 #EXTINF:-1 group-title="Tổng hợp" tvg-logo="https://i.imgur.com/DtQX5P2.png",НТВ МИР | THIẾT YẾU QUỐC GIA
 http://91.185.3.218:4000/play/626
 #EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/DtQX5P2.png",НТВ МИР | THIẾT YẾU QUỐC GIA
