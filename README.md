@@ -5,7 +5,7 @@ RU: Коллекция общедоступных IPTV каналов с вье�
 
 Адрес 1: http://bom.to/vietNgaTV
 
-Адрес 2: http://bom.to/TVVietnga
+Адрес 2: https://phuhdtv.github.io/vietngatv.m3u
 
 Link Backup: http://bom.to/Koditv
 
