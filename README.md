@@ -7,7 +7,7 @@ RU: Коллекция общедоступных IPTV каналов с вье�
 
 Адрес 2: https://phuhdtv.github.io/vietngatv.m3u
 
-Link Backup: http://bom.to/Koditv
+Link javfhd: http://hqth.me/javfhd
 
 List FPT: https://bom.to/iptv-fpt
 
