@@ -7,13 +7,11 @@ RU: Коллекция общедоступных IPTV каналов с вье�
 
 Адрес 2: https://phuhdtv.github.io/vietngatv.m3u
 
-Link javfhd: http://hqth.me/javfhd
+Link International: https://iptv-org.github.io/iptv/regions/int.m3u
 
 List FPT: https://bom.to/iptv-fpt
 
 List iptvbyvietngatv: http://gg.gg/iptvbyvietngatv
-
-Link World TV: http://topplay.do.am/FreeWorldTV.m3u
 
 Download SimpleTV: http://gg.gg/simple-tv
 
