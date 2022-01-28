@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://onetv.click/schedule/epg.xml" tvg-shift=0 aspect-ratio=16:9 m3uautoload=1 
 
-#EXTINF:-1 group-title="GIỚI THIỆU" tvg-logo="https://i.imgur.com/bEShc7Y.jpg",IPTVMedia247 Cùng với Chanpro & Việt Nga TV | KHỞI NGUỒN XEM TRUYỀN HÌNH
+#EXTINF:-1 group-title="Pladio" tvg-logo="https://i.imgur.com/bEShc7Y.jpg",IPTVMedia247 Cùng với Chanpro & Việt Nga TV | KHỞI NGUỒN XEM TRUYỀN HÌNH
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://vips-livecdn.fptplay.net/hda3/pladio_4000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="KÊNH VTV" tvg-logo="https://i.imgur.com/QcInYpW.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV1 HD | THỜI SỰ TỔNG HỢP
@@ -58,7 +58,7 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTC4-SD-ABR/HTV-ABR/VTC4-SD-480p/
 #EXTINF:-1 tvg-id="vtc4hd" group-title="KÊNH VTC HD" tvg-logo="https://i.imgur.com/OebScbi.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc4_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC4 HD | KÊNH THỜI TRANG & Cuộc sống
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda2/vtc4_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtc5hd" group-title="KÊNH VTC SD" tvg-logo="https://i.imgur.com/w18H0gU.jpg" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc5_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC5 | KÊNH GIẢI TRÍ TỔNG HỢP
+#EXTINF:-1 tvg-id="vtc5hd" group-title="KÊNH VTC SD" tvg-logo="https://i.postimg.cc/0y4gJm0f/VTC5-W-1.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc5_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC5 | KÊNH GIẢI TRÍ TỔNG HỢP
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdb/vtc5_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc5hd" group-title="KÊNH VTC HD" tvg-logo="https://i.imgur.com/JRbU3Nl.png",VTC5 HD | KÊNH GIẢI TRÍ TỔNG HỢP
@@ -88,7 +88,7 @@ https://livecdn.fptplay.net/sdb/vtc10_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc10" group-title="KÊNH VTC HD" tvg-logo="https://i.imgur.com/HitkMj3.png",VTC10 HD | CẦU NỐI VĂN HÓA VIỆT
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://8387e1fb5a.vws.vegacdn.vn/live/vtc10/chunklist_2.m3u8
-#EXTINF:-1 tvg-id="vtc11" group-title="KÊNH VTC SD" tvg-logo="https://i.imgur.com/JARfwUf.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc11_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC11 | KÊNH DÀNH CHO THIẾU NHI 
+#EXTINF:-1 tvg-id="vtc11" group-title="KÊNH VTC SD" tvg-logo="https://i.postimg.cc/t43Pstb0/VTC11.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc11_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC11 | KÊNH DÀNH CHO THIẾU NHI 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc12" group-title="KÊNH VTC SD" tvg-logo="https://i.imgur.com/SgSZhS7.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc12_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC12 | VĂN HÓA & GIẢI TRÍ HÀN QUỐC
@@ -116,7 +116,7 @@ https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://serv25.vintera.tv:8081/viet/netviet/playlist.m3u8
 
-#EXTINF:-1 tvg-id="vovtv" group-title="Tổng hợp" tvg-logo="https://i.imgur.com/MGLFyKb.png",VOV TV | Đài Tiếng nói Việt Nam
+#EXTINF:-1 tvg-id="vovtv" group-title="Tổng hợp" tvg-logo="https://i.postimg.cc/RZL1gC6K/VOV-TV.png",VOV TV | Đài Tiếng nói Việt Nam
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/vovtvsd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vovtv" group-title="Tổng hợp" tvg-logo="https://i.imgur.com/SReog1U.png",VOV TV HD | Đài Tiếng nói Việt Nam
@@ -428,10 +428,10 @@ https://tv.thbl.vn/live/tv/tv.m3u8
 #EXTINF:-1 tvg-id="baclieu" group-title="Địa Phương" tvg-logo="https://i.imgur.com/EdAK0v2.jpg",BLTV HD | Truyền hình Bạc Liêu
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/baclieu_hls.smil/chunklist_b2800000.m3u8
-#EXTINF:-1 tvg-id="bentre" group-title="Địa Phương" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/32/Bentretv_logo.png",THBT | Truyền hình Bến Tre
+#EXTINF:-1 tvg-id="bentre" group-title="Địa Phương" tvg-logo="https://i.postimg.cc/Dy7753QL/bentre.png",THBT | Truyền hình Bến Tre
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/bentre_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="bentre" group-title="Địa Phương" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/32/Bentretv_logo.png",THBT HD | Truyền hình Bến Tre
+#EXTINF:-1 tvg-id="bentre" group-title="Địa Phương" tvg-logo="https://i.postimg.cc/Dy7753QL/bentre.png",THBT HD | Truyền hình Bến Tre
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/thbt.m3u8
 #EXTINF:-1 tvg-id="binhduong1" group-title="Địa Phương" tvg-logo="https://i.imgur.com/v1AVx04.png",BTV1 | Truyền hình Bình Dương
@@ -446,7 +446,7 @@ https://htv-drm-live-cdn.fptplay.net/htvonline/btv2.480p.fpt.tms/playlist.m3u8
 #EXTINF:-1 tvg-id="binhduong2" group-title="Địa Phương" tvg-logo="https://i.imgur.com/UXpR9v3.png",BTV2 HD | Truyền hình Bình Dương
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda3/btv2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/FyjCsje.jpg",BTV3 HD | Truyền hình Bình Dương
+#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.postimg.cc/YSz4DW0g/btv3.png",BTV3 HD | Truyền hình Bình Dương
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdb/binhduong3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="binhduong4" group-title="Địa Phương" tvg-logo="https://i.imgur.com/I1g6WBS.png",BTV4 | Truyền hình Bình Dương
@@ -455,7 +455,7 @@ https://8387e1fb5a.vws.vegacdn.vn/live/btv4-movie/chunklist_1.m3u8
 #EXTINF:-1 tvg-id="binhduong4" group-title="Địa Phương" tvg-logo="https://i.imgur.com/I1g6WBS.png",BTV4 HD | Truyền hình Bình Dương
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda2/btv4hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="binhduong6" group-title="Địa Phương" tvg-logo="https://i.imgur.com/g5UXhut.png",Việt Teen BTV6 | Truyền hình Bình Dương
+#EXTINF:-1 tvg-id="binhduong6" group-title="Địa Phương" tvg-logo="https://i.postimg.cc/dtsnTR4y/BTV6.png",BTV6 | Truyền hình Bình Dương
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sda/btv6_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="anvienhd" group-title="Kênh khác" tvg-logo="https://i.imgur.com/BKfBZ1X.png",BTV9 An Viên | Truyền hình Bình Dương
@@ -467,31 +467,31 @@ https://livecdn.fptplay.net/sdc/btv9_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="binhduong11" group-title="Kênh khác" tvg-logo="https://i.imgur.com/WaXDncJ.png",Top Shopping | Truyền hình Bình Dương
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sda/btv11_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="binhdinh" group-title="Địa Phương" tvg-logo="https://i.imgur.com/KkGdk6M.png",BTV | Truyền hình Bình Định
+#EXTINF:-1 tvg-id="binhdinh" group-title="Địa Phương" tvg-logo="https://i.postimg.cc/7L0YQSXL/BDTV.png",BTV | Truyền hình Bình Định
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sda/binhdinh_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="binhdinh" group-title="Địa Phương" tvg-logo="https://i.imgur.com/KkGdk6M.png",BTV HD | Truyền hình Bình Định
+#EXTINF:-1 tvg-id="binhdinh" group-title="Địa Phương" tvg-logo="https://i.postimg.cc/7L0YQSXL/BDTV.png",BTV HD | Truyền hình Bình Định
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8
-#EXTINF:-1 tvg-id="binhphuoc1" group-title="Địa Phương" tvg-logo="https://i.imgur.com/J3uXeSb.png",BPTV1 | Truyền hình & Báo Bình Phước
+#EXTINF:-1 tvg-id="binhphuoc1" group-title="Địa Phương" tvg-logo="https://i.postimg.cc/CMnrB9Nt/BPTV1.png",BPTV1 | Truyền hình & Báo Bình Phước
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/binhphuoc1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="binhphuoc1" group-title="Địa Phương" tvg-logo="https://i.imgur.com/J3uXeSb.png",BPTV1 HD | Truyền hình & Báo Bình Phước
+#EXTINF:-1 tvg-id="binhphuoc1" group-title="Địa Phương" tvg-logo="https://i.postimg.cc/CMnrB9Nt/BPTV1.png",BPTV1 HD | Truyền hình & Báo Bình Phước
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://103.90.220.236/bptvlive/tv1live.m3u8
-#EXTINF:-1 tvg-id="hometvbptv2" group-title="Địa Phương" tvg-logo="https://i.imgur.com/97Kgo2U.png",BPTV2 | Truyền hình & Báo Bình Phước
+#EXTINF:0 tvg-id="hometvbptv2" group-title="Địa Phương" tvg-logo="https://i.postimg.cc/FzSTMJzm/BPTV2.png",BPTV2 | Truyền hình & Báo Bình Phước
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/binhphuoc2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="hometvbptv2" group-title="Địa Phương" tvg-logo="https://i.imgur.com/97Kgo2U.png",BPTV2 HD | Truyền hình & Báo Bình Phước
+#EXTINF:0 tvg-id="hometvbptv2" group-title="Địa Phương" tvg-logo="https://i.postimg.cc/FzSTMJzm/BPTV2.png",BPTV2 HD | Truyền hình & Báo Bình Phước
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://103.90.220.236/bptvlive/tv2live.m3u8
-#EXTINF:-1 tvg-id="ant" group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/uZ8CXqY.png",BPTV3 ANT | THIẾU NHI BỔ ÍCH
+#EXTINF:-1 tvg-id="ant" group-title="Thiếu nhi" tvg-logo="https://i.postimg.cc/R06YKbPR/bptv3.png",BPTV3 ANT | THIẾU NHI BỔ ÍCH
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sda/ant_2000.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="binhthuan" group-title="Địa Phương" tvg-logo="https://i.imgur.com/Eb8zguH.png",BTV | Truyền hình Bình Thuận
+#EXTINF:-1 tvg-id="binhthuan" group-title="Địa Phương" tvg-logo="https://i.postimg.cc/tgX0kpB1/Binh-Thuan.png",BTV | Truyền hình Bình Thuận
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/binhthuan_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="binhthuan" group-title="Địa Phương" tvg-logo="https://i.imgur.com/Eb8zguH.png",BTV HD | Truyền hình Bình Thuận
+#EXTINF:-1 tvg-id="binhthuan" group-title="Địa Phương" tvg-logo="https://i.postimg.cc/tgX0kpB1/Binh-Thuan.png",BTV HD | Truyền hình Bình Thuận
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://202.43.109.144:1935/thbttv/bttv/chunklist.m3u8
 #EXTINF:-1 group-title="Kênh khác" tvg-logo="https://i.imgur.com/AekpBkr.jpg",BTV6 Quê Hương Homeshopping
@@ -506,7 +506,7 @@ https://livecdn.fptplay.net/sdc/bacgiang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="baccan" group-title="Địa Phương" tvg-logo="https://i.imgur.com/DzjVt6gr.jpg",TBK | Truyền hình Bắc Kạn
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdb/backan_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="bacninh" group-title="Địa Phương" tvg-logo="https://i.imgur.com/pP5Y2My.png",BTV HD | Truyền hình Bắc Ninh
+#EXTINF:-1 tvg-id="bacninh" group-title="Địa Phương" tvg-logo="https://i.postimg.cc/y6X8WKMt/BacNinh.png",BTV HD | Truyền hình Bắc Ninh
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/bacninh_hls.smil/chunklist_b2800000.m3u8
 #EXTINF:-1 tvg-id="camau" group-title="Địa Phương" tvg-logo="https://i.imgur.com/YkEommU.png",CTV HD | Truyền hình Cà Mau
@@ -551,7 +551,7 @@ https://s8erzszluwliv.vcdn.cloud/live/dongnai2/chunklist_1.m3u8
 #EXTINF:-1 tvg-id="dongnai2" group-title="Địa Phương" tvg-logo="https://i.imgur.com/Cl0V3oNr.png",ĐNRTV2 HD | Truyền hình Đồng Nai
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="dongnai3" group-title="Địa Phương" tvg-logo="https://i.imgur.com/OniDxoh.png",ĐNRTV3 | Truyền hình Đồng Nai
+#EXTINF:0 tvg-id="dongnai3" group-title="Địa Phương" tvg-logo="https://i.postimg.cc/vZXht7FV/DN3.png",ĐNRTV3 | Truyền hình Đồng Nai
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://vthanh.me/getlink2021/tivi.php?ott=vieon&type=tivi&kenh=dong-nai-3
 #EXTINF:-1 group-title="Kênh khác" tvg-logo="https://i.imgur.com/9smCOUN.png",ĐNRTV9 Sky Shop | Truyền hình Đồng Nai
@@ -611,10 +611,10 @@ https://livecdn.fptplay.net/sdc/hatinh_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="haiduong" group-title="Địa Phương" tvg-logo="https://i.imgur.com/pxxospp.png",THD | Truyền hình Hải Dương
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/haiduong_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="haiphong" group-title="Địa Phương" tvg-logo="https://i.imgur.com/AutovR7.png",THP | Truyền hình Hải Phòng
+#EXTINF:-1 tvg-id="haiphong" group-title="Địa Phương" tvg-logo="https://i.postimg.cc/P57L1SrP/THP.png",THP | Truyền hình Hải Phòng
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HAIPHONG-SD-ABR/HTV-ABR/HAIPHONG-SD-720p/playlist.m3u8
-#EXTINF:-1 tvg-id="haiphong" group-title="Địa Phương" tvg-logo="https://i.imgur.com/AutovR7.png",THP HD | Truyền hình Hải Phòng
+#EXTINF:0 tvg-id="haiphong" group-title="Địa Phương" tvg-logo="https://i.postimg.cc/P57L1SrP/THP.png",THP HD | Truyền hình Hải Phòng
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/haiphong_hls.smil/chunklist_b2800000.m3u8
 #EXTINF:-1 tvg-id="haiphongplus" group-title="Địa Phương" tvg-logo="https://i.imgur.com/ui0sjEz.png",THP+ HD | Truyền hình Hải Phòng
@@ -629,10 +629,10 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HAUGIANG-SD-ABR/HTV-ABR/HAUGIANG-
 #EXTINF:-1 tvg-id="hoabinh" group-title="Địa Phương" tvg-logo="https://i.imgur.com/IKwPc71.png",HBTV HD | Truyền hình Hoà Bình
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sda/hoabinh_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="hungyen" group-title="Địa Phương" tvg-logo="https://i.imgur.com/eGfpF9j.png",HYTV | Truyền hình Hưng Yên
+#EXTINF:-1 tvg-id="hungyen" group-title="Địa Phương" tvg-logo="https://i.postimg.cc/L6xQKVK7/hung-yen-b.png",HYTV | Truyền hình Hưng Yên
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/hungyen_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="hungyen" group-title="Địa Phương" tvg-logo="https://i.imgur.com/eGfpF9j.png",HYTV HD | Truyền hình Hưng Yên
+#EXTINF:-1 tvg-id="hungyen" group-title="Địa Phương" tvg-logo="https://i.postimg.cc/L6xQKVK7/hung-yen-b.png",HYTV HD | Truyền hình Hưng Yên
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://103.90.220.236/hytvlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="khanhhoa" group-title="Địa Phương" tvg-logo="https://i.imgur.com/N2gUYoh.png",KTV HD | Truyền hình Khánh Hoà
@@ -659,10 +659,10 @@ https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
 #EXTINF:-1 tvg-id="laichau" group-title="Địa Phương" tvg-logo="https://i.imgur.com/EDedDbI.png",LTV | Truyền hình Lai Châu
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/laichau_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="laocai" group-title="Địa Phương" tvg-logo="https://i.imgur.com/N5tsSuk.png",THLC | Truyền hình Lào Cai
+#EXTINF:-1 tvg-id="laocai" group-title="Địa Phương" tvg-logo="https://i.postimg.cc/ydgqCmF0/THLC.png",THLC | Truyền hình Lào Cai
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/laocai_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="laocai" group-title="Địa Phương" tvg-logo="https://i.imgur.com/N5tsSuk.png",THLC HD | Truyền hình Lào Cai
+#EXTINF:-1 tvg-id="laocai" group-title="Địa Phương" tvg-logo="https://i.postimg.cc/ydgqCmF0/THLC.png",THLC HD | Truyền hình Lào Cai
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
 #EXTINF:-1 tvg-id="langson" group-title="Địa Phương" tvg-logo="https://i.imgur.com/yxz02UD.png",LSTV | Truyền hình Lạng Sơn
@@ -677,13 +677,13 @@ https://livecdn.fptplay.net/sdc/lamdong_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="lamdong" group-title="Địa Phương" tvg-logo="https://i.imgur.com/WM7ddLv.png",LTV HD | Truyền hình Lâm Đồng
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://118.107.85.5:1935/live/smil:LTV.smil/chunklist_b1384000.m3u8
-#EXTINF:-1 tvg-id="longan" group-title="Địa Phương" tvg-logo="https://i.imgur.com/OfbPgIg.png",LA34 | Truyền hình Long An
+#EXTINF:-1 tvg-id="longan" group-title="Địa Phương" tvg-logo="https://i.postimg.cc/nhwb60Xc/LA34.png",LA34 | Truyền hình Long An
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/longan_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="longan" group-title="Địa Phương" tvg-logo="https://i.imgur.com/OfbPgIg.png",LA34 HD | Truyền hình Long An
+#EXTINF:-1 tvg-id="longan" group-title="Địa Phương" tvg-logo="https://i.postimg.cc/nhwb60Xc/LA34.png",LA34 HD | Truyền hình Long An
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/tv.m3u8
-#EXTINF:-1 tvg-id="namdinh" group-title="Địa Phương" tvg-logo="https://i.imgur.com/bFzFKSL.png",NTV SD | Truyền hình Nam Định
+#EXTINF:0 tvg-id="namdinh" group-title="Địa Phương" tvg-logo="https://i.postimg.cc/8zq539SQ/ND.webp",NTV | Truyền hình Nam Định
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/namdinh_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="nghean" group-title="Địa Phương" tvg-logo="https://i.imgur.com/FLvFSLS.png",NTV | Truyền hình Nghệ An
@@ -731,27 +731,27 @@ https://livecdn.fptplay.net/sdc/quangnam_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/Xh6cZmD.png",PTQ HD | Truyền hình Quảng Ngãi
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://livecdn.fptplay.net/sda/quangngai_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="quangninh1" group-title="Địa Phương" tvg-logo="https://i.imgur.com/pyFJcMq.jpg",QTV1 | Quảng Ninh Media Group
+#EXTINF:0 tvg-id="quangninh1" group-title="Địa Phương" tvg-logo="https://i.postimg.cc/W3cQ4f3S/QTV-1.png",QTV1 | Quảng Ninh Media Group
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sda/quangninh1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="quangninh1" group-title="Địa Phương" tvg-logo="https://i.imgur.com/pyFJcMq.jpg",QTV1 HD | Quảng Ninh Media Group
+#EXTINF:0 tvg-id="quangninh1" group-title="Địa Phương" tvg-logo="https://i.postimg.cc/W3cQ4f3S/QTV-1.png",QTV1 HD | Quảng Ninh Media Group
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://103.90.220.236/qtvlive/tv1live.m3u8
-#EXTINF:-1 tvg-id="quangninh3" group-title="Địa Phương" tvg-logo="https://i.imgur.com/1uht36Q.jpg",QTV3 | Quảng Ninh Media Group
+#EXTINF:0 tvg-id="quangninh3" group-title="Địa Phương" tvg-logo="https://i.postimg.cc/NFgS69RH/QTV-3.png",QTV3 | Quảng Ninh Media Group
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sda/quangninh3_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="quangninh3" group-title="Địa Phương" tvg-logo="https://i.imgur.com/1uht36Q.jpg",QTV3 HD | Quảng Ninh Media Group
+#EXTINF:0 tvg-id="quangninh3" group-title="Địa Phương" tvg-logo="https://i.postimg.cc/NFgS69RH/QTV-3.png",QTV3 HD | Quảng Ninh Media Group
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://103.90.220.236/qtvlive/tv3live.m3u8
-#EXTINF:-1 tvg-id="soctrang" group-title="Địa Phương" tvg-logo="https://i.imgur.com/zfkk610.jpg",STV | Truyền hình Sóc Trăng
+#EXTINF:-1 tvg-id="soctrang" group-title="Địa Phương" tvg-logo="https://i.postimg.cc/HkF0GH2v/STV1.png",STV1 | Truyền hình Sóc Trăng
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sda/soctrang_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="sonla" group-title="Địa Phương" tvg-logo="https://i.imgur.com/pCTJQMX.png",STV HD | Truyền hình Sơn La
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://118.107.85.4:1935/live/smil:STV.smil/chunklist_b1384000.m3u8
 #EXTINF:-1 tvg-id="sonla" group-title="Địa Phương" tvg-logo="https://i.imgur.com/pCTJQMX.png",STV | Truyền hình Sơn La
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/sonla_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="sonla" group-title="Địa Phương" tvg-logo="https://i.imgur.com/pCTJQMX.png",STV HD | Truyền hình Sơn La
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://118.107.85.4:1935/live/smil:STV.smil/chunklist_b1384000.m3u8
 #EXTINF:0 tvg-id="tayninh" group-title="Địa Phương" tvg-logo="https://i.imgur.com/8rGiYuk.png",TTV11 | Truyền hình Tây Ninh
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/TAYNINH-SD-ABR/HTV-ABR/TAYNINH-SD-720p/playlist.m3u8
@@ -767,7 +767,7 @@ https://livecdn.fptplay.net/sda/thaibinh_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="thaibinh" group-title="Địa Phương" tvg-logo="https://i.imgur.com/gwOQBas.png",TBTV HD | Truyền hình Thái Bình
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://103.90.220.236/tbtvlive/tv1live.m3u8
-#EXTINF:-1 tvg-id="thainguyen" group-title="Địa Phương" tvg-logo="https://i.imgur.com/02DXBmD.png",TN1 | Truyền hình Thái Nguyên
+#EXTINF:-1 tvg-id="thainguyen" group-title="Địa Phương" tvg-logo="https://i.postimg.cc/jSZTXRH9/TN1.png",TN1 HD | Truyền hình Thái Nguyên
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/thainguyen_hls.smil/chunklist_b2800000.m3u8
 #EXTINF:-1 group-title="Địa Phương" tvg-logo="https://i.imgur.com/68DJk6K.png",TN2 | Truyền hình Thái Nguyên
@@ -785,7 +785,7 @@ https://livecdn.fptplay.net/sda/tiengiang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="tiengiang" group-title="Địa Phương" tvg-logo="https://i.imgur.com/UTSrapf.png",THTG HD | Truyền hình Tiền Giang
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://123.25.238.45:1935/live/thtg/chunklist.m3u8
-#EXTINF:-1 tvg-id="travinh" group-title="Địa Phương" tvg-logo="https://i.imgur.com/vXriu0n.png",THTV HD | Truyền hình Trà Vinh
+#EXTINF:0 tvg-id="travinh" group-title="Địa Phương" tvg-logo="https://i.postimg.cc/8P5LjsXn/THTV.png",THTV HD | Truyền hình Trà Vinh
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/travinh_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="tuyenquang" group-title="Địa Phương" tvg-logo="https://i.imgur.com/UptBZdE.png",TTV HD | Truyền hình Tuyên Quang
@@ -1789,10 +1789,7 @@ http://185.161.224.216/dash/AMC_SD.ism/playlist.mpd?checkedby:iptvcat.com
 http://185.161.224.216/dash/MGM_HD.ism/playlist.mpd
 #EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.imgur.com/pFxalBn.png",Paramount Channel | PHIM DÀNH CHO NGƯỜI HÂM MỘ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.is_realtime_stream=true
-http://185.161.224.216/dash/Paramount_Channel_SD.ism/playlist.mpd
+https://htv-drm-live-cdn.fptplay.net/htvonline/paramount.720p.nimble.tms/chunks.m3u8
 #EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.ibb.co/dKL7Tmx/TV-XXI.png",TV XXI | PHIM DÀNH CHO NGƯỜI HÂM MỘ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 #KODIPROP:inputstream=inputstream.adaptive
