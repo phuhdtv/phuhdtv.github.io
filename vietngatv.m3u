@@ -162,7 +162,7 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab2/index.m3u8|Referer=http://sctv
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="Thể thao" tvg-logo="http://onetv.click/logo/on-sports.jpg",On Sports VTVCab3 | THỂ THAO
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab3/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtvcab4hd" group-title="KÊNH VTVCab" tvg-logo="https://i.imgur.com/FqjcVE8.png",VTVCab4 VĂN HÓA HD
+#EXTINF:-1 tvg-id="vtvcab4hd" group-title="KÊNH VTVCab" tvg-logo="https://i.imgur.com/FqjcVE8.png",VTVCab4 HD | VĂN HÓA
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab4/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab5hd" group-title="KÊNH VTVCab" tvg-logo="https://i.imgur.com/aXPRS4a.png",E Channel VTVCab5
@@ -171,7 +171,7 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab5/index.m3u8|Referer=http://sctv
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="Giải Trí" tvg-logo="http://onetv.click/logo/on-sportsplus.jpg",On Sports Plus VTVCab6
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab6/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtvcab7hd" group-title="KÊNH VTVCab" tvg-logo="https://imgur.com/Qu4654z.png",O2TV VTVCab7 | Sức khỏe và Cuộc sống
+#EXTINF:-1 tvg-id="vtvcab7hd" group-title="KÊNH VTVCab" tvg-logo="https://i.postimg.cc/QMqLdk2k/VTVCAB7.png",VTVCab7 | Sức khỏe và Cuộc sống
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab7/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab8hd" group-title="KÊNH VTVCab" tvg-logo="https://i.imgur.com/ArJ4kbr.png",BiBi VTVCab8 | THIẾU NHI BỔ ÍCH
@@ -487,14 +487,14 @@ https://livecdn.fptplay.net/sdc/binhphuoc2_hls.smil/chunklist_b2500000.m3u8
 http://103.90.220.236/bptvlive/tv2live.m3u8
 #EXTINF:-1 tvg-id="ant" group-title="Thiếu nhi" tvg-logo="https://i.postimg.cc/R06YKbPR/bptv3.png",BPTV3 ANT | THIẾU NHI BỔ ÍCH
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://livecdn.fptplay.net/sda/ant_2000.stream/playlist.m3u8
+https://livecdn.fptplay.net/sda/ant_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="binhthuan" group-title="Địa Phương" tvg-logo="https://i.postimg.cc/tgX0kpB1/Binh-Thuan.png",BTV | Truyền hình Bình Thuận
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/binhthuan_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="binhthuan" group-title="Địa Phương" tvg-logo="https://i.postimg.cc/tgX0kpB1/Binh-Thuan.png",BTV HD | Truyền hình Bình Thuận
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://202.43.109.144:1935/thbttv/bttv/chunklist.m3u8
-#EXTINF:-1 group-title="Kênh khác" tvg-logo="https://i.imgur.com/AekpBkr.jpg",BTV6 Quê Hương Homeshopping
+#EXTINF:-1 group-title="Kênh khác" tvg-logo="https://i.ibb.co/rFGPKFL/qh-logo-color.png",Quê Hương Homeshopping | Truyền hình Bình Thuận
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdb/quehuongshop_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="bacgiang" group-title="Địa Phương" tvg-logo="https://i.imgur.com/5Ys78oI.png",BGTV | Truyền hình Bắc Giang HD
@@ -554,7 +554,7 @@ https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="dongnai3" group-title="Địa Phương" tvg-logo="https://i.postimg.cc/vZXht7FV/DN3.png",ĐNRTV3 | Truyền hình Đồng Nai
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://vthanh.me/getlink2021/tivi.php?ott=vieon&type=tivi&kenh=dong-nai-3
-#EXTINF:-1 group-title="Kênh khác" tvg-logo="https://i.imgur.com/9smCOUN.png",ĐNRTV9 Sky Shop | Truyền hình Đồng Nai
+#EXTINF:0 group-title="Kênh khác" tvg-logo="https://i.ibb.co/88LbpTw/SKY-Shop-Logo-removebg-preview.png",Sky Shop | Truyền hình Đồng Nai
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sda/skymart_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="dongthap" group-title="Địa Phương" tvg-logo="https://i.imgur.com/BMug1gS.png",THĐT | Truyền hình Đồng Tháp
