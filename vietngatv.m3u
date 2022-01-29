@@ -103,9 +103,6 @@ https://livecdn.fptplay.net/hda1/vtc13_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtc14hd" group-title="KÊNH VTC SD" tvg-logo="https://i.imgur.com/ZbgAnDd.png",VTC14 | CUỘC SỐNG VẪN TƯƠI ĐẸP
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://8387d1dfc2.vws.vegacdn.vn/live/vtc14/chunklist_1.m3u8
-#EXTINF:-1 group-title="KÊNH VTC HD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTC15%20HD.png",VTC15 HD | Kênh sự kiện
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://103.125.191.32:8080/tvpub/mpegts
 #EXTINF:-1 tvg-id="vtc14hd" group-title="KÊNH VTC HD" tvg-logo="https://i.imgur.com/GjrYjqe.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc14_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC14 HD | CUỘC SỐNG VẪN TƯƠI ĐẸP
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8
@@ -1372,6 +1369,9 @@ http://185.161.224.216/dash/RU_TV_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Tin tức - Kinh tế" tvg-logo="https://i.imgur.com/AGj8EJF.png",РБК | TH Kinh tế Liên Bang Nga
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://91.229.235.66:8080/online/rbc_480p/index.m3u8
+#EXTINF:-1 group-title="Tin tức - Kinh tế" tvg-logo="https://i.imgur.com/AGj8EJF.png",РБК HD | TH Kinh tế Liên Bang Nga
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://online-video.rbc.ru/online/rbctv.m3u8
 #EXTINF:-1 group-title="Tin tức - Kinh tế" tvg-logo="https://i.imgur.com/o4Julue.jpg",IZ.RU HD | TIN TỨC HÀNG ĐẦU
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
