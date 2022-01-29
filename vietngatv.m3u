@@ -1391,6 +1391,9 @@ http://ott-cdn.ucom.am/s61/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z9E3DBW.png" group-title="Tin tức - Kinh tế",Настоящее время HD | Truyền Hình Nga Tại Cộng Hoà Séc HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
+#EXTINF:-1 group-title="Khoa giáo - Lối sống" tvg-logo="https://i.imgur.com/oUbjl18.png",Qazaq TV | Truyền Hình Nga Tại Kazakhstan
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://92.46.127.146:8080/KazakhTV-L3-TRANS/index.m3u8
 #EXTINF:-1 group-title="Khoa giáo - Lối sống" tvg-logo="https://i.imgur.com/oUbjl18.png",Qazaq TV HD | Truyền Hình Nga Tại Kazakhstan
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://serv30.vintera.tv:8081/kazahtv/stream_ru/playlist.m3u8
@@ -1556,9 +1559,6 @@ http://62.32.67.187:1935/WEB_Vera24/Vera24.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MkFsM39.png" group-title="Âm nhạc",1HD MUSIC TELEVISION | ÂM NHẠC QUỐC TẾ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HdPsSKn/AIVA.png" group-title="Âm nhạc",AIVA HD | ÂM NHẠC QUỐC TẾ
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://1hdru-hls-otcnet.cdnvideo.ru/aivaya/index.m3u8
 #EXTINF:-1 group-title="Âm nhạc" tvg-logo="https://i.imgur.com/L71iY9t.png",Bridge TV | ÂM NHẠC QUỐC TẾ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 #KODIPROP:inputstream=inputstream.adaptive
