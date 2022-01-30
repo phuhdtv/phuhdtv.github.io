@@ -306,7 +306,10 @@ https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv1" group-title="KÊNH HTV" tvg-logo="https://i.imgur.com/Z8Y74ih.png",HTV1 HD | THÔNG TIN & CỘNG ĐỒNG
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://8387e1fb5a.vws.vegacdn.vn/live/htv1/chunklist_2.m3u8
-#EXTINF:-1 tvg-id="htv2" group-title="KÊNH HTV" tvg-logo="https://i.imgur.com/PQfPGIX.png" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/06b93ec20336126a28dd0872a68932901632397465/htv2.cat.720p.tms/chunks_dvr_range-${start}-3000.m3u8",HTV2 HD | GIẢI TRÍ TỔNG HỢP
+#EXTINF:-1 tvg-id="htv2" group-title="KÊNH HTV" tvg-logo="https://i.imgur.com/PQfPGIX.png",HTV2 HD | TRUYỀN HÌNH CÁP HTVC
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="htv2" group-title="Dự phòng" tvg-logo="https://i.imgur.com/PQfPGIX.png" catchup="append" catchup-days="0.3" catchup-source="https://htvc271120.cdn.vnns.io/06b93ec20336126a28dd0872a68932901632397465/htv2.cat.720p.tms/chunks_dvr_range-${start}-3000.m3u8",HTV2 HD | TRUYỀN HÌNH FPT Play
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htv3" group-title="KÊNH HTV" tvg-logo="https://i.imgur.com/cBJo8IV.png",HTV3 | THIẾU NHI BỔ ÍCH
@@ -393,7 +396,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htvccanhachd" group-title="Dự phòng" tvg-logo="https://i.imgur.com/PgOD7m8.png",HTVC Ca Nhạc HD | TRUYỀN HÌNH FPT Play
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda3/htvcmusic_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="KÊNH HTVC" tvg-logo="https://i.imgur.com/PWKeQ2u.jpg",HTVC Shopping VGS SHOP | TRUYỀN HÌNH TP.HCM
+#EXTINF:-1 group-title="KÊNH HTVC" tvg-logo="https://i.imgur.com/PWKeQ2u.jpg",HTVC Shopping VGS SHOP | TRUYỀN HÌNH CÁP HTVC
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESHOPPING-SD-720p/playlist.m3u8
 #EXTINF:0 group-title="Dự phòng" tvg-logo="https://i.imgur.com/PWKeQ2u.jpg",HTVC Shopping VGS SHOP | TRUYỀN HÌNH FPT Play
