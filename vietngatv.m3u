@@ -21,13 +21,13 @@ https://livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="KÊNH VTV" tvg-logo="https://i.imgur.com/A9x2lzO.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV6 HD | THANH THIẾU NIÊN
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv7hd" group-title="KÊNH VTV" tvg-logo="https://i.imgur.com/p655IPH.png" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV7 HD | GIÁO DỤC
+#EXTINF:-1 tvg-id="vtv7hd" group-title="KÊNH VTV" tvg-logo="https://i.imgur.com/p655IPH.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV7 HD | GIÁO DỤC
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv8hd" group-title="KÊNH VTV" tvg-logo="https://i.imgur.com/kXE26Xc.png" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV8 HD | MIỀN TRUNG & TÂY NGUYÊN
+#EXTINF:-1 tvg-id="vtv8hd" group-title="KÊNH VTV" tvg-logo="https://i.imgur.com/kXE26Xc.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV8 HD | MIỀN TRUNG & TÂY NGUYÊN
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv9hd" group-title="KÊNH VTV" tvg-logo="https://i.imgur.com/cx1fx0b.png" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV9 HD | NAM BỘ
+#EXTINF:-1 tvg-id="vtv9hd" group-title="KÊNH VTV" tvg-logo="https://i.imgur.com/cx1fx0b.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV9 HD | NAM BỘ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="vtv5hdtnb" group-title="KÊNH ĐOÀN VIÊN" tvg-logo="https://i.imgur.com/jIZ0bRu.png",VTV5 Tây Nam Bộ
@@ -713,7 +713,7 @@ http://113.161.4.48:8080/phuyen/tv.m3u8
 #EXTINF:-1 tvg-id="phuyen" group-title="Địa Phương" tvg-logo="https://i.imgur.com/v0zTLT9.png",PTP HD | Truyền hình Phú Yên
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sda/phuyen_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="quangbinh" group-title="Địa Phương" tvg-logo="https://i.imgur.com/tMl0e2B.png",QBTV | Truyền hình Quảng Bình
+#EXTINF:-1 tvg-id="quangbinh" group-title="Địa Phương" tvg-logo="https://i.postimg.cc/gJVf7qW9/QBTV.png",QBTV | Truyền hình Quảng Bình
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sda/quangbinh_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="quangtri" group-title="Địa Phương" tvg-logo="https://i.imgur.com/xl4m2mn.png",QRTV | Truyền hình Quảng Trị
@@ -867,13 +867,13 @@ https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="blueantext" group-title="Giải Trí" tvg-logo="https://i.imgur.com/chLWFqA.png",Blue Ant Extreme HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="boxhits" group-title="Phim truyện" tvg-logo="https://i.ibb.co/BBN7g4y/boxhits.png",Box Hits HD
+#EXTINF:-1 tvg-id="boxhits" group-title="Phim truyện" tvg-logo="https://i.postimg.cc/qRz5Ps6Y/BoxHits.png",Box Hits HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://pprex49o5aliv.vcdn.cloud/live/box-hits/chunklist_2.m3u8
-#EXTINF:-1 tvg-id="boxmovie1" group-title="Phim truyện" tvg-logo="https://i.ibb.co/mqY1Sxs/box-movie-1.png",Box Movie 1
+#EXTINF:-1 tvg-id="boxmovie1" group-title="Phim truyện" tvg-logo="https://i.postimg.cc/TYJL7vLs/BOX-Movie.png",Box Movie 1
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="boxmovie1" group-title="Phim truyện" tvg-logo="https://i.ibb.co/mqY1Sxs/box-movie-1.png",Box Movie 1 HD
+#EXTINF:-1 tvg-id="boxmovie1" group-title="Phim truyện" tvg-logo="https://i.postimg.cc/TYJL7vLs/BOX-Movie.png",Box Movie 1 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://pprex49o5aliv.vcdn.cloud/live/box-movie/chunklist_2.m3u8
 #EXTINF:-1 tvg-logo="http://cbc.az/assets/uploads/sites/Logo_fin.png" group-title="Tin tức - Kinh tế",CBC HD
@@ -945,10 +945,10 @@ http://live-1.otcnet.ru/DW/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="dreamworks" group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/WTO8O0N.png",DreamWorks HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="drfithd" tvg-logo="https://i.ibb.co/d7qWHVD/251.jpg"  group-title="Kênh khác",Dr Fit
+#EXTINF:-1 tvg-id="drfithd" tvg-logo="https://i.ibb.co/d7qWHVD/251.jpg" group-title="Kênh khác",Dr Fit
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="drfithd" tvg-logo="https://i.ibb.co/d7qWHVD/251.jpg"  group-title="Kênh khác",Dr Fit HD
+#EXTINF:-1 tvg-id="drfithd" tvg-logo="https://i.ibb.co/d7qWHVD/251.jpg" group-title="Kênh khác",Dr Fit HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://pprex49o5aliv.vcdn.cloud/live/dr-fit/chunklist_2.m3u8
 #EXTINF:-1 group-title="Tin tức - Kinh tế" tvg-logo="https://i.imgur.com/cSZn7dD.png",EURONEWS | KÊNH TIN TỨC
@@ -971,10 +971,10 @@ http://94.230.240.17:8080/film_box/index.m3u8
 #EXTINF:-1 tvg-id="france24eng" group-title="Tin tức - Kinh tế" tvg-logo="https://i.imgur.com/zdze6Iq.png",FRANCE 24 English
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdb/france24_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="happykids" group-title="Thiếu nhi" tvg-logo="https://i.ibb.co/4Y4yxZq/Happy-Kids.png",Happy Kids
+#EXTINF:-1 tvg-id="happykids" group-title="Thiếu nhi" tvg-logo="https://i.postimg.cc/d0S6nhX2/HP.png",Happy Kids
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="happykids" group-title="Thiếu nhi" tvg-logo="https://i.ibb.co/4Y4yxZq/Happy-Kids.png",Happy Kids HD
+#EXTINF:-1 tvg-id="happykids" group-title="Thiếu nhi" tvg-logo="https://i.postimg.cc/d0S6nhX2/HP.png",Happy Kids HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://pprex49o5aliv.vcdn.cloud/live/happy-kids/chunklist_2.m3u8
 #EXTINF:-1 tvg-id="historyhd" group-title="Khoa giáo - Lối sống" tvg-logo="https://imgur.com/uWdY6xI.png",History HD
@@ -989,10 +989,10 @@ http://gg.gg/HaNoiIPTV-HITS_HD
 #EXTINF:-1 tvg-id="inthebox" group-title="Phim truyện" tvg-logo="https://i.ibb.co/Qdv98Db/inthebox.png",In The Box HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://pprex49o5aliv.vcdn.cloud/live/box-channel/playlist.m3u8
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="Phim truyện" tvg-logo="https://i.ibb.co/zPSHdRt/hollywood.jpg",Hollywood Classics
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="Phim truyện" tvg-logo="https://i.postimg.cc/rwyd7Z5w/Hollywood.png",Hollywood Classics
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="Phim truyện" tvg-logo="https://i.ibb.co/zPSHdRt/hollywood.jpg",Hollywood Classics HD
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="Phim truyện" tvg-logo="https://i.postimg.cc/rwyd7Z5w/Hollywood.png",Hollywood Classics HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://pprex49o5aliv.vcdn.cloud/live/hollywood/chunklist_2.m3u8
 #EXTINF:-1 tvg-id="kix" group-title="Giải Trí" tvg-logo="https://i.imgur.com/SvRrcXy.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",KIX HD
@@ -1001,7 +1001,7 @@ https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="kbsworld" group-title="Quốc tế" tvg-logo="https://i.imgur.com/5xIP1jn.png",KBS World HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda3/kbs_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="man" group-title="Giải Trí" tvg-logo="https://i.ibb.co/wcT2VqP/man.png",Man HD
+#EXTINF:-1 tvg-id="man" group-title="Giải Trí" tvg-logo="https://i.postimg.cc/4dFQvcJY/MAN.png",Man HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://pprex49o5aliv.vcdn.cloud/live/man-tv/chunklist_2.m3u8
 #EXTINF:-1 tvg-id="nhkworld" group-title="Quốc tế" tvg-logo="https://i.imgur.com/hUyQXOC.png",NHK WORLD JAPAN HD
@@ -1043,12 +1043,15 @@ https://livecdn.fptplay.net/hda3/music_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="outdoor_channel" group-title="Khoa giáo - Lối sống" tvg-logo="https://i.imgur.com/RJwaiHH.png",Outdoor Channel HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="planetearthhd" group-title="Khoa giáo - Lối sống" tvg-logo="https://i.ibb.co/ZGBcMK2/panetearth.jpg",Planet Earth
+#EXTINF:-1 tvg-id="planetearthhd" group-title="Khoa giáo - Lối sống" tvg-logo="https://i.postimg.cc/65g9scvg/P-E.png",Planet Earth
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8?bybeartv|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="planetearthhd" group-title="Khoa giáo - Lối sống" tvg-logo="https://i.ibb.co/ZGBcMK2/panetearth.jpg",Planet Earth HD
+#EXTINF:-1 tvg-id="planetearthhd" group-title="Khoa giáo - Lối sống" tvg-logo="https://i.postimg.cc/65g9scvg/P-E.png",Planet Earth HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://pprex49o5aliv.vcdn.cloud/live/planet-earth/chunklist_2.m3u8
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/ZsYvvwL.png",Public TV Of Armenia | Առաջին ալիք
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://serv24.vintera.tv:8081/test/h1_arm/index.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/RFXTFUK.png",Rai | Kênh Truyền hình Ý
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s29/04.m3u8
@@ -1094,10 +1097,10 @@ https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
 #EXTINF:-1 tvg-id="warnertvhd" group-title="Phim truyện" tvg-logo="https://i.imgur.com/9qJI1Mg.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/warnertv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Warner TV HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="woman" group-title="Giải Trí" tvg-logo="https://i.ibb.co/k17TsNx/woman.png",Woman
+#EXTINF:-1 tvg-id="woman" group-title="Giải Trí" tvg-logo="https://i.postimg.cc/SKFdyKbw/W-M.png",Woman
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="woman" group-title="Giải Trí" tvg-logo="https://i.ibb.co/k17TsNx/woman.png",Woman HD
+#EXTINF:-1 tvg-id="woman" group-title="Giải Trí" tvg-logo="https://i.postimg.cc/SKFdyKbw/W-M.png",Woman HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://pprex49o5aliv.vcdn.cloud/live/woman/chunklist_2.m3u8
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://i.imgur.com/oxZCMGs.png",Zee TV
@@ -1106,9 +1109,6 @@ http://91.185.3.218:4000/play/310
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jdpab5Q.png" group-title="Tin tức - Kinh tế",Русская Ярмарка ТВ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://api.alpaca.t62a.com/hls/9104/stream0.m3u8
-#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://i.imgur.com/ZsYvvwL.png",Առաջին ալիք | Public TV Of Armenia
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://serv24.vintera.tv:8081/test/h1_arm/index.m3u8
 
 #EXTINF:-1 group-title="Tổng hợp" tvg-logo="https://i.imgur.com/UYpJFJ9.png",Первый Канал | TỔNG HỢP QUỐC GIA
 http://91.185.3.218:4000/play/603
