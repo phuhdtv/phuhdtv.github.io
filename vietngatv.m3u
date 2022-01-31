@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://onetv.click/schedule/epg.xml" tvg-shift=0 aspect-ratio=16:9 m3uautoload=1 
+#EXTM3U url-tvg="http://onetv.click/schedule/epg.xml" tvg-shift=0 m3uautoload=1
 
 #EXTINF:-1 group-title="Pladio" tvg-logo="https://i.imgur.com/bEShc7Y.jpg",IPTVMedia247 Cùng với Chanpro & Việt Nga TV | KHỞI NGUỒN XEM TRUYỀN HÌNH
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
@@ -1046,7 +1046,7 @@ https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="musicbox" group-title="Âm nhạc" tvg-logo="https://i.imgur.com/g8AfcMb.png",Music Box
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="musicbox" group-title="Âm nhạc" tvg-logo="https://i.imgur.com/g8AfcMb.png",Music Box HD
+#EXTINF:-1 tvg-id="musicbox" group-title="Âm nhạc" tvg-logo="https://i.imgur.com/g8AfcMb.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/musicbox_1000.stream/chunks_dvr_range-${start}-10800.m3u8",Music Box HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda3/music_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="outdoor_channel" group-title="Khoa giáo - Lối sống" tvg-logo="https://i.imgur.com/RJwaiHH.png",Outdoor Channel HD
