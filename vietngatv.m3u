@@ -3,31 +3,50 @@
 #EXTINF:-1 group-title="Pladio" tvg-logo="https://i.imgur.com/bEShc7Y.jpg",IPTVMedia247 Cùng với Chanpro & Việt Nga TV | KHỞI NGUỒN XEM TRUYỀN HÌNH
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://vips-livecdn.fptplay.net/hda3/pladio_4000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="vtv1hd" group-title="KÊNH VTV" tvg-logo="https://i.imgur.com/QcInYpW.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV1 HD | THỜI SỰ TỔNG HỢP
+#EXTINF:-1 tvg-id="vtv1hd" group-title="KÊNH VTV SD" tvg-logo="https://i.imgur.com/OnEj23L.png",VTV1
+http://dung1202.duckdns.org:12381/udp/232.84.1.27:8136
+#EXTINF:-1 tvg-id="vtv2hd" group-title="KÊNH VTV SD" tvg-logo="https://i.imgur.com/o5Rdxdm.png",VTV2
+http://dung1202.duckdns.org:12381/udp/232.84.1.39:8208
+#EXTINF:-1 tvg-id="vtv3hd" group-title="KÊNH VTV SD" tvg-logo="https://i.imgur.com/QA2wgYc.png",VTV3
+http://dung1202.duckdns.org:12381/udp/232.84.1.28:8142
+#EXTINF:-1 tvg-id="vtv4hd" group-title="KÊNH VTV SD" tvg-logo="https://i.imgur.com/vU6vNLH.png",VTV4
+http://dung1202.duckdns.org:12381/udp/232.84.1.40:8214
+#EXTINF:-1 tvg-id="vtv5hd" group-title="KÊNH VTV SD" tvg-logo="https://i.imgur.com/o9tGjwG.png",VTV5
+http://dung1202.duckdns.org:12381/udp/232.84.1.41:8220
+#EXTINF:-1 tvg-id="vtv6hd" group-title="KÊNH VTV SD" tvg-logo="https://i.imgur.com/1L9LTRs.png",VTV6
+http://dung1202.duckdns.org:12381/udp/232.84.1.42:8226
+#EXTINF:-1 tvg-id="vtv7hd" group-title="KÊNH VTV SD" tvg-logo="https://i.imgur.com/uzJXh5h.png",VTV7
+http://dung1202.duckdns.org:12381/udp/232.84.2.201:10990
+#EXTINF:-1 tvg-id="vtv8hd" group-title="KÊNH VTV SD" tvg-logo="https://i.imgur.com/Mi5P7mF.png",VTV8
+http://dung1202.duckdns.org:12381/udp/232.84.1.148:8862
+#EXTINF:-1 tvg-id="vtv9hd" group-title="KÊNH VTV SD" tvg-logo="https://i.imgur.com/D8O1AnM.png",VTV9
+http://dung1202.duckdns.org:12381/udp/232.84.1.241:9420
+
+#EXTINF:-1 tvg-id="vtv1hd" group-title="KÊNH VTV HD" tvg-logo="https://i.imgur.com/QcInYpW.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV1 HD | THỜI SỰ TỔNG HỢP
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="KÊNH VTV" tvg-logo="https://i.imgur.com/Oecl699.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV2 HD | KHOA HỌC & GIÁO DỤC
+#EXTINF:-1 tvg-id="vtv2hd" group-title="KÊNH VTV HD" tvg-logo="https://i.imgur.com/Oecl699.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV2 HD | KHOA HỌC & GIÁO DỤC
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv3hd" group-title="KÊNH VTV" tvg-logo="https://i.imgur.com/KurtRao.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV3 HD | Thể Thao & GIẢI TRÍ
+#EXTINF:-1 tvg-id="vtv3hd" group-title="KÊNH VTV HD" tvg-logo="https://i.imgur.com/KurtRao.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV3 HD | Thể Thao & GIẢI TRÍ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv4hd" group-title="KÊNH VTV" tvg-logo="https://i.imgur.com/CDdM2aJ.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV4 HD | ĐỐI NGOẠI QUỐC GIA
+#EXTINF:-1 tvg-id="vtv4hd" group-title="KÊNH VTV HD" tvg-logo="https://i.imgur.com/CDdM2aJ.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV4 HD | ĐỐI NGOẠI QUỐC GIA
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv5hd" group-title="KÊNH VTV" tvg-logo="https://i.imgur.com/W0cksu1.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV5 HD | TIẾNG DÂN TỘC
+#EXTINF:-1 tvg-id="vtv5hd" group-title="KÊNH VTV HD" tvg-logo="https://i.imgur.com/W0cksu1.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV5 HD | TIẾNG DÂN TỘC
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv6hd" group-title="KÊNH VTV" tvg-logo="https://i.imgur.com/A9x2lzO.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV6 HD | THANH THIẾU NIÊN
+#EXTINF:-1 tvg-id="vtv6hd" group-title="KÊNH VTV HD" tvg-logo="https://i.imgur.com/A9x2lzO.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV6 HD | THANH THIẾU NIÊN
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv7hd" group-title="KÊNH VTV" tvg-logo="https://i.imgur.com/p655IPH.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV7 HD | GIÁO DỤC
+#EXTINF:-1 tvg-id="vtv7hd" group-title="KÊNH VTV HD" tvg-logo="https://i.imgur.com/p655IPH.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV7 HD | GIÁO DỤC
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv8hd" group-title="KÊNH VTV" tvg-logo="https://i.imgur.com/kXE26Xc.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV8 HD | MIỀN TRUNG & TÂY NGUYÊN
+#EXTINF:-1 tvg-id="vtv8hd" group-title="KÊNH VTV HD" tvg-logo="https://i.imgur.com/kXE26Xc.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV8 HD | MIỀN TRUNG & TÂY NGUYÊN
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv9hd" group-title="KÊNH VTV" tvg-logo="https://i.imgur.com/cx1fx0b.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV9 HD | NAM BỘ
+#EXTINF:-1 tvg-id="vtv9hd" group-title="KÊNH VTV HD" tvg-logo="https://i.imgur.com/cx1fx0b.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV9 HD | NAM BỘ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="vtv5hdtnb" group-title="KÊNH ĐOÀN VIÊN" tvg-logo="https://i.imgur.com/jIZ0bRu.png",VTV5 Tây Nam Bộ
@@ -1370,6 +1389,9 @@ http://185.161.224.216/dash/360_TV_SD.ism/playlist.mpd
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
 #EXTINF:-1 group-title="Âm nhạc" tvg-logo="https://i.imgur.com/Y6ZQyc7.png",RUTV | ÂM NHẠC CHUYÊN BIỆT
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://46.46.127.13:8213
+#EXTINF:0 group-title="Dự phòng" tvg-logo="https://i.imgur.com/Y6ZQyc7.png",RUTV | ÂM NHẠC CHUYÊN BIỆT | THU LẬU
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
