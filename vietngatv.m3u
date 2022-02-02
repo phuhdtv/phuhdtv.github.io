@@ -1,5 +1,8 @@
 #EXTM3U url-tvg="http://onetv.click/schedule/epg.xml" tvg-shift=0 m3uautoload=1
 
+#EXTINF:-1 group-title="Pladio" tvg-logo="https://i.imgur.com/bEShc7Y.jpg",IPTVMedia247 Cùng với Chanpro & Việt Nga TV | KHỞI NGUỒN XEM TRUYỀN HÌNH
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://vips-livecdn.fptplay.net/hda3/pladio_4000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="KÊNH VTV HD" tvg-logo="https://i.imgur.com/QcInYpW.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV1 HD | THIẾT YẾU QUỐC GIA
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
@@ -614,9 +617,6 @@ https://livecdn.fptplay.net/sdc/hatinh_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="haiduong" group-title="Địa Phương" tvg-logo="https://i.imgur.com/pxxospp.png",THD | Truyền hình Hải Dương
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/haiduong_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="haiduong" group-title="Địa Phương" tvg-logo="https://i.imgur.com/pxxospp.png",THD HD | Truyền hình Hải Dương
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://vthanh.me/getlink2021/tivi.php?ott=vtvgo&id=143
 #EXTINF:-1 tvg-id="haiphong" group-title="Địa Phương" tvg-logo="https://i.postimg.cc/P57L1SrP/THP.png",THP | Truyền hình Hải Phòng
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HAIPHONG-SD-ABR/HTV-ABR/HAIPHONG-SD-720p/playlist.m3u8
