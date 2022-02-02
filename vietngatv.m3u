@@ -1118,10 +1118,10 @@ http://91.185.3.218:4000/play/603
 #EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/UYpJFJ9.png",Первый Канал | TỔNG HỢP QUỐC GIA
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s14/04.m3u8
-#EXTINF:-1 group-title="Tổng hợp" tvg-logo="http://img.vintera.tv/img/ico/perviy_1.png",Первый Канал HD | TỔNG HỢP QUỐC GIA
+#EXTINF:-1 group-title="Tổng hợp" tvg-logo="http://img.vintera.tv/img/ico/perviy_1.png",Первый Канал HD | TỔNG HỢP ĐỘ NÉT CAO
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://okkotv-live.cdnvideo.ru/channel/Pervii_Kanal_OTT_HD.m3u8
-#EXTINF:-1 group-title="Dự phòng" tvg-logo="http://img.vintera.tv/img/ico/perviy_1.png",Первый Канал HD | TỔNG HỢP QUỐC GIA | THU LẬU
+#EXTINF:-1 group-title="Dự phòng" tvg-logo="http://img.vintera.tv/img/ico/perviy_1.png",Первый Канал HD | TỔNG HỢP ĐỘ NÉT CAO | THU LẬU
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1133,13 +1133,16 @@ http://94.230.240.17:8080/rossia1/index.m3u8
 #EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/hi2oZMk.png",Россия 1 | THIẾT YẾU QUỐC GIA
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://radio-live-mg.rtr-vesti.ru/hls/russia1_plus4/playlist_3.m3u8
-#EXTINF:-1 group-title="Tổng hợp" tvg-logo="https://i.imgur.com/lqLdvRR.png",Россия 1 HD | THIẾT YẾU QUỐC GIA
+#EXTINF:-1 group-title="Tổng hợp" tvg-logo="https://i.imgur.com/lqLdvRR.png",Россия 1 HD | TỔNG HỢP ĐỘ NÉT CAO
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
-#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/lqLdvRR.png",Россия 1 HD | THIẾT YẾU QUỐC GIA
+#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/lqLdvRR.png",Россия 1 HD | TỔNG HỢP ĐỘ NÉT CAO
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://radio-live-mg.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8
-#EXTINF:-1 group-title="Thể thao" tvg-logo="https://i.imgur.com/kFdooR4.png",МАТЧ! HD | THỂ THAO QUỐC GIA
+#EXTINF:-1 group-title="Thể thao" tvg-logo="https://i.imgur.com/kFdooR4.png",МАТЧ! | THỂ THAO QUỐC GIA
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://78.58.133.179:28000/play/a01d/index.m3u8
+#EXTINF:-1 group-title="Thể thao" tvg-logo="https://i.imgur.com/kFdooR4.png",МАТЧ! HD | THỂ THAO ĐỘ NÉT CAO
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1153,6 +1156,9 @@ http://92.46.127.146:8080/ntv/index.m3u8
 #EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/DtQX5P2.png",НТВ МИР | THIẾT YẾU QUỐC GIA
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s17/04.m3u8
+#EXTINF:0 group-title="Dự phòng" tvg-logo="http://epg.it999.ru/img/2001.png",НТВ HD | TỔNG HỢP ĐỘ NÉT CAO
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://78.58.133.179:28000/play/a001/index.m3u8
 #EXTINF:-1 group-title="Tổng hợp" tvg-logo="https://i.imgur.com/qswopzO.png",Пятый канал | THIẾT YẾU QUỐC GIA
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1764,6 +1770,9 @@ https://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xDfWEeC.jpg" group-title="Phim truyện",Amedia Premium | PHIM DÀNH CHO NGƯỜI HÂM MỘ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s64/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xDfWEeC.jpg" group-title="Phim truyện",Amedia Premium HD | PHIM DÀNH CHO NGƯỜI HÂM MỘ
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://78.58.133.179:28000/play/a010/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptvxpix.ml/domkino.png" group-title="Phim truyện",Дом Кино | Dom Kino
 http://91.185.3.218:4000/play/606
 #EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.ibb.co/jJCTwR5/Cinema.png",Cinema | PHIM DÀNH CHO NGƯỜI HÂM MỘ
@@ -1864,6 +1873,12 @@ http://185.161.224.216/dash/Ruskiy_Detektiv_SD.ism/playlist.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/Ruskiy_Roman_SD.ism/playlist.mpd
+#EXTINF:0 group-title="Phim truyện" tvg-logo="http://epg.it999.ru/img/994.png",Русский бестселлер | PHIM ĐẶC SẮC
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://78.58.133.179:28000/play/a078/index.m3u8
+#EXTINF:-1 group-title="Phim truyện" tvg-logo="http://epg.it999.ru/img/53.png",Русский Иллюзион | PHIM TRUYỆN HAY NHẤT
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://78.58.133.179:28000/play/a050/index.m3u8
 #EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.ibb.co/TtHB3bS/mirser.png",Мир Сериала | PHIM DÀNH CHO THỦ ĐÔ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 #KODIPROP:inputstream=inputstream.adaptive
