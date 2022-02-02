@@ -825,6 +825,9 @@ http://ott-cdn.ucom.am/s23/04.m3u8
 #EXTINF:-1 group-title="Tin tức - Kinh tế" tvg-logo="https://i.imgur.com/dQrdh2F.png",Aljazeera English HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 group-title="Âm nhạc" tvg-logo="https://iptvxpix.ml/aiva.png",Aiva HD | ÂM NHẠC QUỐC TẾ
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://1hdru-hls-otcnet.cdnvideo.ru/aivaya/index.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="Giải Trí" tvg-logo="https://i.imgur.com/OdR3aff.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",AXN HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
@@ -849,9 +852,6 @@ https://livecdn.fptplay.net/sdb/australiaplus_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="bloomberg" group-title="Tin tức - Kinh tế" tvg-logo="https://i.imgur.com/idRFfhY.png",Bloomberg Television
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdb/bloomberg_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="bloomberg" group-title="Tin tức - Kinh tế" tvg-logo="https://i.imgur.com/idRFfhY.png",Bloomberg Television HD
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
 #EXTINF:-1 tvg-id="boomerang" group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/id8XNtI.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/boomerang_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",BOOMERANG HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
@@ -1033,7 +1033,7 @@ http://185.161.224.216/dash/Nickelodeon_SD.ism/playlist.mpd
 http://185.161.224.216/dash/Nick_JR_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Âm nhạc" tvg-logo="https://i.imgur.com/n2trOy5.png",MCM TOP | ÂM NHẠC QUỐC TẾ | 576P
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://live-1.otcnet.ru/mcm/tracks-v1a1/index.m3u8
+http://1hdru-hls-otcnet.cdnvideo.ru/mcm/tracks-v1a1/index.m3u8
 #EXTINF:0 group-title="Dự phòng" tvg-logo="https://i.imgur.com/n2trOy5.png",MCM TOP | ÂM NHẠC QUỐC TẾ | 480P
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s49/04.m3u8
@@ -1672,7 +1672,7 @@ https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD.m3u8
 http://185.161.224.216/dash/Detskiy_Mir_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/tDjQD6x.png",Tiji | THIẾU NHI BỔ ÍCH | 576P
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://live-1.otcnet.ru/TiJi_OT/index.m3u8
+http://1hdru-hls-otcnet.cdnvideo.ru/TiJi_OT/index.m3u8
 #EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/tDjQD6x.png",Tiji | THIẾU NHI BỔ ÍCH | 576P | THU LẬU
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1682,9 +1682,9 @@ http://185.161.224.216/dash/Tiji_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/tDjQD6x.png",Tiji | 480P
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s59/04.m3u8
-#EXTINF:-1 group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/W4wWt9J.jpg",Gulli Girl | THIẾU NHI BỔ ÍCH
+#EXTINF:0 group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/W4wWt9J.jpg",Gulli Girl | THIẾU NHI BỔ ÍCH
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://live-1.otcnet.ru/Gulli_OT/index.m3u8
+http://1hdru-hls-otcnet.cdnvideo.ru/Gulli_OT/index.m3u8
 #EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/W4wWt9J.jpg",Gulli Girl | THIẾU NHI BỔ ÍCH | THU LẬU
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1929,15 +1929,15 @@ http://retj.educom.ru/mosobrtv/tv1/index.m3u8
 https://n1.slavmir.tv/live/slavmir/playlist.m3u8
 #EXTINF:-1 group-title="Khoa giáo - Lối sống" tvg-logo="https://i.ibb.co/MBFj22w/tv-ekstra.jpg",ТВ Экстра | Khoa giáo Tiếng Nga
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://live-1.otcnet.ru/tvextra720b/index.m3u8
+http://1hdru-hls-otcnet.cdnvideo.ru/tvextra720b/index.m3u8
 #EXTINF:-1 group-title="Khoa giáo - Lối sống" tvg-logo="https://iptvxpix.ml/travel-adventure.png",Travel + Adventure | Du lịch Tiếng Nga
 http://91.185.3.218:4000/play/320
 #EXTINF:-1 group-title="Khoa giáo - Lối sống" tvg-logo="https://iptvxpix.ml/travel-adventure.png",Travel + Adventure HD | Du lịch Tiếng Nga
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://live-1.otcnet.ru/ta/tracks-v1a1/index.m3u8
+http://1hdru-hls-otcnet.cdnvideo.ru/tadtmf/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Dự phòng" tvg-logo="https://iptvxpix.ml/travel-adventure.png",Travel + Adventure HD | Du lịch Tiếng Nga
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://live-1.otcnet.ru/tadtmf/tracks-v1a1/index.m3u8
+http://1hdru-hls-otcnet.cdnvideo.ru/ta/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mxe21Rt.png" group-title="Phim truyện",VIP Megahit HD | ĐẶC SẮC ẤN TƯỢNG
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
@@ -1979,7 +1979,7 @@ http://ott-cdn.ucom.am/s77/04.m3u8
 http://ott-cdn.ucom.am/s90/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2tv37Dr/81-Eda.png" group-title="Giải Trí",Еда Премиум HD | ẨM THỰC HÀNG ĐẦU
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://live-1.otcnet.ru/edapremium/index.m3u8
+http://1hdru-hls-otcnet.cdnvideo.ru/edapremium/index.m3u8
 #EXTINF:-1 group-title="Kênh khác" tvg-logo="https://i.imgur.com/Jdpab5Q.png",TV Pro
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://rtmp.tvpro-online.ru/hls/ch1.m3u8
