@@ -1638,15 +1638,18 @@ http://91.185.3.218:4000/play/407
 #EXTINF:-1 group-title="Dự phòng" tvg-logo="https://iptvxpix.ml/englishclub.png",English Club TV | Học Tiếng Anh
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s37/04.m3u8
-#EXTINF:-1 group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/ZgU9fin.png",Мульт | THIẾU NHI BỔ ÍCH
+#EXTINF:-1 group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/ZgU9fin.png",Мульт | THIẾU NHI BỔ ÍCH | THU LẬU
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/Mult_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/ZgU9fin.png",Мульт | THIẾU NHI BỔ ÍCH | 480P
+#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/ZgU9fin.png",Мульт | THIẾU NHI BỔ ÍCH
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s58/04.m3u8
+#EXTINF:-1 group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/OwA1zSH.png",Мультимания | THIẾU NHI BỔ ÍCH
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://109.171.7.89:81/udp/239.54.5.158:1224
 #EXTINF:-1 group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/OwA1zSH.png",Мультимания HD | THIẾU NHI BỔ ÍCH
 #EXTVLCOPT:http-user-agent=(_._)
 http://okkotv-live.cdnvideo.ru/channel/Multilandia_HD.m3u8
@@ -1840,11 +1843,17 @@ http://185.161.224.216/dash/Kino_TV_HD.ism/playlist.mpd
 http://185.161.224.216/dash/Lyubimoe_Kino_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Phim truyện" tvg-logo="http://epg.it999.ru/img/1570.png",Русский Детектив | PHIM TRUYỆN HAY NHẤT
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://109.171.7.89:81/udp/239.54.7.32:1224
+#EXTINF:0 group-title="Dự phòng" tvg-logo="http://epg.it999.ru/img/1570.png",Русский Детектив | PHIM TRUYỆN HAY NHẤT | THU LẬU
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/Ruskiy_Detektiv_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="Phim truyện" tvg-logo="http://epg.it999.ru/img/401.png",Русский Роман | PHIM ĐẶC SẮC
+#EXTINF:0 group-title="Phim truyện" tvg-logo="http://epg.it999.ru/img/401.png",Русский Роман | PHIM ĐẶC SẮC
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://109.171.7.89:81/udp/239.54.5.87:1224
+#EXTINF:-1 group-title="Dự phòng" tvg-logo="http://epg.it999.ru/img/401.png",Русский Роман | PHIM ĐẶC SẮC | THU LẬU
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
