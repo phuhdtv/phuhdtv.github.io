@@ -1133,15 +1133,9 @@ http://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
 #EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/lqLdvRR.png",Россия 1 HD | TỔNG HỢP ĐỘ NÉT CAO
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://radio-live-mg.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8
-#EXTINF:-1 group-title="Thể thao" tvg-logo="https://i.imgur.com/kFdooR4.png",МАТЧ! | THỂ THAO QUỐC GIA
+#EXTINF:-1 group-title="Thể thao" tvg-logo="https://i.imgur.com/kFdooR4.png",МАТЧ! Планета | THỂ THAO THỦ ĐÔ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://78.58.133.179:28000/play/a01d/index.m3u8
-#EXTINF:-1 group-title="Thể thao" tvg-logo="https://i.imgur.com/kFdooR4.png",МАТЧ! | THỂ THAO ĐỘ NÉT CAO
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://78.58.133.179:28000/play/a01d/index.m3u8
-#EXTINF:-1 group-title="Thể thao" tvg-logo="https://i.imgur.com/kFdooR4.png",МАТЧ! HD | THỂ THAO ĐỘ NÉT CAO
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://78.58.133.179:28000/play/a028/index.m3u8
+http://91.185.3.218:4000/play/617
 #EXTINF:-1 group-title="Tổng hợp" tvg-logo="https://i.imgur.com/DtQX5P2.png",НТВ МИР | THIẾT YẾU QUỐC GIA
 http://91.185.3.218:4000/play/626
 #EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/DtQX5P2.png",НТВ МИР | THIẾT YẾU QUỐC GIA
@@ -2035,8 +2029,6 @@ http://185.161.224.216/dash/Matc_Boec_SD.ism/playlist.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/MATCH_NASH_SPORT_SD.ism/playlist.mpd
-#EXTINF:-1 tvg-logo="https://iptvxpix.ml/match-planeta.png" group-title="Thể thao",Матч! Планета | THỂ THAO THỦ ĐÔ
-http://91.185.3.218:4000/play/617
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="Phim truyện" tvg-logo="https://i.imgur.com/tUvgyS5.png",K+ CINE HD | Điện ảnh thế giới
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
