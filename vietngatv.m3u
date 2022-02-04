@@ -1090,6 +1090,9 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXLIFE-SD-720p/playlist.m3u8
 https://livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Tin tức - Kinh tế" tvg-logo="https://i.imgur.com/PLpyQsV.png",TRT World HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://145.249.228.229:8000/play/39
+#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/PLpyQsV.png",TRT World HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://tv-trtworld.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KWg9F4c.png" group-title="Âm nhạc",VIVA | ÂM NHẠC QUỐC TẾ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
@@ -1139,12 +1142,12 @@ http://radio-live-mg.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8
 #EXTINF:-1 group-title="Thể thao" tvg-logo="https://i.imgur.com/kFdooR4.png",МАТЧ! | THỂ THAO QUỐC GIA
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://78.58.133.179:28000/play/a01d/index.m3u8
+#EXTINF:-1 group-title="Thể thao" tvg-logo="https://i.imgur.com/kFdooR4.png",МАТЧ! | THỂ THAO ĐỘ NÉT CAO
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://78.58.133.179:28000/play/a01d/index.m3u8
 #EXTINF:-1 group-title="Thể thao" tvg-logo="https://i.imgur.com/kFdooR4.png",МАТЧ! HD | THỂ THAO ĐỘ NÉT CAO
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.is_realtime_stream=true
-http://185.161.224.216/dash/Match_HD.ism/playlist.mpd
+http://78.58.133.179:28000/play/a028/index.m3u8
 #EXTINF:-1 group-title="Tổng hợp" tvg-logo="https://i.imgur.com/DtQX5P2.png",НТВ МИР | THIẾT YẾU QUỐC GIA
 http://91.185.3.218:4000/play/626
 #EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/DtQX5P2.png",НТВ МИР | THIẾT YẾU QUỐC GIA
@@ -1184,9 +1187,6 @@ http://185.161.224.216/dash/Karusel_SD.ism/playlist.mpd
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://94.230.240.17:8080/otp/index.m3u8
 #EXTINF:-1 group-title="Tổng hợp" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВ Центр | THIẾT YẾU QUỐC GIA
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://85.192.10.131/hls/TvciRu/playlist.m3u8
-#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВ Центр | THIẾT YẾU QUỐC GIA
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s54/04.m3u8
 #EXTINF:-1 group-title="Tổng hợp" tvg-logo="https://i.imgur.com/18TAzYV.png",РЕН ТВ | THIẾT YẾU QUỐC GIA
@@ -1324,7 +1324,10 @@ http://91.185.3.218:4000/play/421
 #EXTINF:-1 group-title="Giải Trí" tvg-logo="https://i.imgur.com/FZbyKH5.jpg",ТНТ4 HD | HÀI HƯỚC & HẤP DẪN
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://bl.uma.media/live/317849/HLS/4614144_3,2883584/2/1/playlist.m3u8
-#EXTINF:-1 group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/XqPS7VR.jpg",2x2 | THIẾU NHI BỔ ÍCH
+#EXTINF:0 group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/XqPS7VR.jpg",2x2 | THIẾU NHI BỔ ÍCH
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://46.46.127.13:8285
+#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/XqPS7VR.jpg",2x2 | THIẾU NHI BỔ ÍCH | THU LẬU
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1412,12 +1415,6 @@ https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
 #EXTINF:0 group-title="Khoa giáo - Lối sống" tvg-logo="https://i.imgur.com/gn8Gb98.png",БелРос | Kênh Truyền hình Nga Tại Belarus
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
-#EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.ibb.co/DDjQTKc/Kino-24.png",KINO 24 | Kiều bào Việt Nam ở Các nước Baltic
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://85.192.10.131/hls/Kino24Ru/playlist.m3u8
-#EXTINF:-1 group-title="Phim truyện" tvg-logo="http://img.vintera.tv/img/ico/pro100.png",Pro 100 TV | Kiều bào Việt Nam ở Các nước Baltic
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://85.192.10.131/hls/Pro100tvRu/playlist.m3u8
 
 #EXTINF:-1 group-title="Tin tức - Kinh tế" tvg-logo="https://i.imgur.com/EMwsDdd.png",Красная линия | Thông tin và chính trị
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
