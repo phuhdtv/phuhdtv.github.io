@@ -769,9 +769,6 @@ http://118.107.85.4:1935/live/smil:STV.smil/chunklist_b1384000.m3u8
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/TAYNINH-SD-ABR/HTV-ABR/TAYNINH-SD-720p/playlist.m3u8
 #EXTINF:0 tvg-id="tayninh" group-title="Địa Phương" tvg-logo="https://i.imgur.com/8rGiYuk.png",TTV11 HD | Truyền hình Tây Ninh
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://202.43.109.142:1935/ttv11/tntv/playlist.m3u8
-#EXTINF:-1 tvg-id="tayninh" group-title="Dự phòng" tvg-logo="https://i.imgur.com/8rGiYuk.png",TTV11 HD | Truyền hình Tây Ninh
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sda/tayninhhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="thaibinh" group-title="Địa Phương" tvg-logo="https://i.imgur.com/gwOQBas.png",TBTV | Truyền hình Thái Bình
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
@@ -1434,6 +1431,10 @@ http://serv25.vintera.tv:8081/1pnk/1pnk/playlist.m3u8
 #EXTINF:-1 group-title="Tôn giáo" tvg-logo="http://img.vintera.tv/img/ico/SOYUZ.png",Союз | Tôn giáo Tiếng Nga
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+#EXTINF:-1 group-title="Khoa giáo - Lối sống" tvg-logo="https://i.imgur.com/KUfXhKC.png",Моя планета | My Planeta
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://radio-live-mg.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="Khoa giáo - Lối sống" tvg-logo="https://i.imgur.com/KUfXhKC.png",Моя планета HD | My Planeta HD
 http://91.185.3.218:4000/play/619
 #EXTINF:-1 group-title="Khoa giáo - Lối sống" tvg-logo="https://i.imgur.com/8PrbyBz.jpg",Ocean TV | Khoa giáo Tiếng Nga
