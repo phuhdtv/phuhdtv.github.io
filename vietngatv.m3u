@@ -299,6 +299,9 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/antg/sd2/index.m3u8|Referer=http://sct
 #EXTINF:0 group-title="Kênh khác" tvg-logo="https://vthanh.xyz/ic/191.png",SCJ TV Shopping • Hanoicab5 | KÊNH MUA SẮM TẠI NHÀ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://e3.endpoint.cdn.sctvonline.vn/hls/hanoicab5/sd2/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:0 group-title="Phim truyện" tvg-logo="https://i.imgur.com/Rz2LZJp.png",Hanoicab6 | PHIM HAY
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://ott.avg.vn/live/phimhay/chunklist_1.m3u8?cc
 #EXTINF:-1 group-title="Kênh khác" tvg-logo="https://nethubtv.vn/images/logo/logo.png?v=0.3.6",NET Hub | Kênh Thử Nghiệm
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://log5uwsgbvliv.vcdn.cloud/live/thunghiem/chunklist_2.m3u8
@@ -1501,9 +1504,6 @@ http://mfe.cliptv.az/dash/HD_life.ism/playlist.mpd
 #EXTINF:-1 group-title="Tôn giáo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/3ABN_logo.svg",Three Angels Broadcasting Network
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://hls.tv.3angels.ru/stream/HQ.m3u8
-#EXTINF:-1 group-title="KÊNH LÂN CẬN" tvg-logo="https://i.ibb.co/zbhdTwV/Vera24TV.png",Вера 24 HD | Kênh Lân cận Tiếng Nga
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://62.32.67.187:1935/WEB_Vera24/Vera24.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MkFsM39.png" group-title="Âm nhạc",1HD MUSIC TELEVISION | ÂM NHẠC QUỐC TẾ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
