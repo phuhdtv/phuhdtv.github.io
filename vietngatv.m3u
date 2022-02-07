@@ -947,7 +947,10 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sc
 https://pprex49o5aliv.vcdn.cloud/live/dr-fit/chunklist_2.m3u8
 #EXTINF:-1 group-title="Tin tức - Kinh tế" tvg-logo="https://i.imgur.com/cSZn7dD.png",EURONEWS
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8
+http://91.185.3.218:4000/play/410
+#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/cSZn7dD.png",EURONEWS
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s89/04.m3u8
 #EXTINF:-1 group-title="Giải Trí" tvg-logo="https://i.imgur.com/yvNu4Rm.png",Fashion TV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s30/04.m3u8
@@ -1567,6 +1570,9 @@ http://rtmp.one.by:1499
 http://46.46.127.13:8311
 #EXTINF:-1 group-title="Âm nhạc" tvg-logo="https://i.imgur.com/94gvcA4.jpg",Музыка первого | Muzyka Pervogo
 http://91.185.3.218:4000/play/608
+#EXTINF:-1 group-title="Âm nhạc" tvg-logo="https://iptvxpix.ml/9-volna.png",Девятая Волна | ÂM NHẠC KO GIỚI HẠN
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
 
 #EXTINF:0 group-title="Kênh khác" tvg-logo="https://iptvxpix.ml/shop24.png",Leomax 24 HD | Mua sắm cùng Việt Nga TV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
