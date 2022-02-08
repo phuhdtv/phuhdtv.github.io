@@ -1492,7 +1492,7 @@ http://91.185.3.218:4000/play/142
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/HD_life.ism/playlist.mpd
-#EXTINF:-1 group-title="Tôn giáo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/3ABN_logo.svg",Three Angels Broadcasting Network
+#EXTINF:-1 group-title="Tôn giáo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/3ABN_logo.svg",3ABN HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://hls.tv.3angels.ru/stream/HQ.m3u8
 
@@ -1697,7 +1697,7 @@ http://mfe.cliptv.az/dash/A_Media_Hit_SD.ism/playlist.mpd
 http://ott-cdn.ucom.am/s64/04.m3u8
 #EXTINF:-1 tvg-logo="https://iptvxpix.ml/domkino.png" group-title="Phim truyện",Дом Кино | ĐẶC SẮC ẤN TƯỢNG
 http://91.185.3.218:4000/play/606
-#EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.ibb.co/jJCTwR5/Cinema.png",Cinema | PHIM DÀNH CHO NGƯỜI HÂM MỘ
+#EXTINF:-1 group-title="Phim truyện" tvg-logo="https://iptvxpix.ml/cinema.png",Cinema | PHIM DÀNH CHO NGƯỜI HÂM MỘ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1881,10 +1881,10 @@ http://ott-cdn.ucom.am/s20/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xjFRs5h/arsenaltv.png" group-title="Khoa giáo - Lối sống",Арсенал | Khoa giáo Tiếng Nga
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s68/04.m3u8
-#EXTINF:-1 group-title="Khoa giáo - Lối sống" tvg-logo="https://i.imgur.com/Jdpab5Q.png",Рыболов | Khoa giáo Tiếng Nga
+#EXTINF:-1 group-title="Khoa giáo - Lối sống" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rybolov-ru.png",Рыболов | Khoa giáo Tiếng Nga
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s55/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jdpab5Q.png" group-title="Tôn giáo",ТБН HD | Khoa giáo Tiếng Nga
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tbn_ru.png" group-title="Tôn giáo",ТБН HD | Khoa giáo Tiếng Nga
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://62.32.67.187:1935/WEB_TBN/TBN.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yy0YpWT.png" group-title="Khoa giáo - Lối sống",Зоо ТВ | Khoa giáo Tiếng Nga
