@@ -1113,9 +1113,6 @@ http://radio-live-mg.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8
 #EXTINF:-1 group-title="Người Việt Ở Nga" tvg-logo="https://i.imgur.com/5D1gwiv.png",Россия РТР | THIẾT YẾU ĐẶC SẮC
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://91.185.3.218:4000/play/303
-#EXTINF:0 group-title="Dự phòng" tvg-logo="https://i.imgur.com/5D1gwiv.png",Россия РТР | THIẾT YẾU ĐẶC SẮC | Phát ẩn
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://dung1202.duckdns.org:12381/udp/232.84.2.127:8544
 #EXTINF:0 group-title="Dự phòng" tvg-logo="https://i.imgur.com/5D1gwiv.png",Россия РТР | THIẾT YẾU ĐẶC SẮC | Internet
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://radio-live-mg.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
@@ -1239,7 +1236,7 @@ http://ott-cdn.ucom.am/s28/04.m3u8
 http://80.65.18.213/perviy_molodeginyi_3100kb.m3u8
 #EXTINF:-1 group-title="KÊNH LÂN CẬN" tvg-logo="http://img.vintera.tv/img/ico/10kanal.png",10 Канал Десятка | Truyền hình Novokuznetsk HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://www.10kanal.ru:1443/10kanal/k24/playlist.m3u8
+http://kuzbass1.ru:8082/10kanal/10kanal_720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hLD874K.jpg" group-title="KÊNH LÂN CẬN",Вечерняя Москва | Truyền hình Thủ Đô Moscow
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://vmvideo.gcdn.co/streams/1503_161/playlist.m3u8
