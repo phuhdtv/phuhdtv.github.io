@@ -106,6 +106,9 @@ https://8387d1dfc2.vws.vegacdn.vn/live/vtc14/chunklist_1.m3u8
 #EXTINF:-1 tvg-id="vtc14hd" group-title="KÊNH VTC HD" tvg-logo="https://i.imgur.com/GjrYjqe.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc14_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC14 HD | CUỘC SỐNG VẪN TƯƠI ĐẸP
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="KÊNH VTC HD" tvg-logo="https://i.imgur.com/0q7pgBg.png",VTC15 HD | TINH TẾ MỘT GIÁ TRỊ NƯỚC NGA
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://gg.gg/VTC15_HD_Tinh-te-mot-gia-tri-nuoc-Nga
 #EXTINF:0 tvg-id="vtc16" group-title="KÊNH VTC SD" tvg-logo="https://i.imgur.com/jHJ0Qnp.png",3N • VTC16 | Cùng nông dân hội nhập
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://8387d1dfc2.vws.vegacdn.vn/live/vtc16/chunklist_1.m3u8
@@ -1373,9 +1376,6 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://91.185.3.218:4000/play/206
 #EXTINF:-1 group-title="Người Việt Ở Nga" tvg-logo="https://i.imgur.com/xVO2kPj.png",Хабар 24 HD | Truyền Hình Nga Tại Kazakhstan
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://91.185.3.218:4000/play/527
-#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/xVO2kPj.png",Хабар 24 HD | Truyền Hình Nga Tại Kazakhstan
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://serv30.vintera.tv:8081/habar/habar24/chunks.m3u8
 #EXTINF:-1 group-title="Tôn giáo" tvg-logo="https://i.imgur.com/exdDHml.png",Надежда HD | Truyền Hình Nga Tại Ukraine
