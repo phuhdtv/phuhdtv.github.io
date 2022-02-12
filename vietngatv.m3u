@@ -106,9 +106,6 @@ https://8387d1dfc2.vws.vegacdn.vn/live/vtc14/chunklist_1.m3u8
 #EXTINF:-1 tvg-id="vtc14hd" group-title="KÊNH VTC HD" tvg-logo="https://i.imgur.com/GjrYjqe.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc14_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC14 HD | CUỘC SỐNG VẪN TƯƠI ĐẸP
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="KÊNH VTC HD" tvg-logo="https://i.imgur.com/0q7pgBg.png",VTC15 HD | TINH TẾ MỘT GIÁ TRỊ NƯỚC NGA
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://gg.gg/VTC15_HD_Tinh-te-mot-gia-tri-nuoc-Nga
 #EXTINF:0 tvg-id="vtc16" group-title="KÊNH VTC SD" tvg-logo="https://i.imgur.com/jHJ0Qnp.png",3N • VTC16 | Cùng nông dân hội nhập
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://8387d1dfc2.vws.vegacdn.vn/live/vtc16/chunklist_1.m3u8
@@ -563,6 +560,9 @@ https://livecdn.fptplay.net/sda/skymart_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="dongthap" group-title="Địa Phương" tvg-logo="https://i.imgur.com/11UmfZD.png",THĐT1 | Truyền hình Đồng Tháp
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/dongthap_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="dongthap" group-title="Địa Phương" tvg-logo="https://i.imgur.com/uMpTmJ4.png",THĐT1 HD | Truyền hình Đồng Tháp
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://118.69.169.41:1935/THDT/thdttv/chunklist.m3u8
 #EXTINF:-1 tvg-id="dongthap2" group-title="Địa Phương" tvg-logo="https://i.imgur.com/PfETBEp.png",THĐT2 • Miền Tây | Truyền hình Đồng Tháp
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://202.43.109.144:1935/thdt2/thdt2/chunklist.m3u8
