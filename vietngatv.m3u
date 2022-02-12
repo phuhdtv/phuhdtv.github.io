@@ -1,6 +1,9 @@
 #EXTM3U url-tvg="http://onetv.click/schedule/epg.xml" tvg-shift=0 m3uautoload=1
 
-#EXTINF:-1 group-title="Pladio" tvg-logo="https://i.imgur.com/bEShc7Y.jpg",IPTVMedia247 Cùng với Chanpro & Việt Nga TV | KHỞI NGUỒN XEM TRUYỀN HÌNH
+#EXTINF:-1 group-title="VietngaTV" tvg-logo="https://fptplay.vn/images/logo-2.png",FPT Giới Thiệu
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://livecdn.fptplay.net/hda4/f-channel.stream/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="VietngaTV" tvg-logo="https://i.imgur.com/bEShc7Y.jpg",IPTVMedia247 Cùng với Chanpro & Việt Nga TV | KHỞI NGUỒN XEM TRUYỀN HÌNH
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://vips-livecdn.fptplay.net/hda3/pladio_4000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="KÊNH VTV HD" tvg-logo="https://i.imgur.com/QcInYpW.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV1 HD | THIẾT YẾU QUỐC GIA
@@ -1372,9 +1375,6 @@ http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
 #EXTINF:-1 group-title="Người Việt Ở Nga" tvg-logo="https://i.imgur.com/Dh1pUNW.png",Беларусь 24 HD | Truyền Hình Nga Tại Belarus
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
-#EXTINF:-1 group-title="Người Việt Ở Nga" tvg-logo="https://i.imgur.com/xVO2kPj.png",Хабар 24 | Truyền Hình Nga Tại Kazakhstan
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://91.185.3.218:4000/play/206
 #EXTINF:-1 group-title="Người Việt Ở Nga" tvg-logo="https://i.imgur.com/xVO2kPj.png",Хабар 24 HD | Truyền Hình Nga Tại Kazakhstan
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://serv30.vintera.tv:8081/habar/habar24/chunks.m3u8
