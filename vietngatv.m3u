@@ -1,8 +1,5 @@
 #EXTM3U url-tvg="http://onetv.click/schedule/epg.xml" tvg-shift=0 m3uautoload=1
 
-#EXTINF:-1 group-title="VietngaTV" tvg-logo="https://fptplay.vn/images/logo-2.png",FPT Giới Thiệu
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://livecdn.fptplay.net/hda4/f-channel.stream/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="VietngaTV" tvg-logo="https://i.imgur.com/bEShc7Y.jpg",IPTVMedia247 Cùng với Chanpro & Việt Nga TV | KHỞI NGUỒN XEM TRUYỀN HÌNH
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://vips-livecdn.fptplay.net/hda3/pladio_4000.stream/chunklist.m3u8
@@ -569,7 +566,10 @@ http://118.69.169.41:1935/THDT/thdttv/chunklist.m3u8
 #EXTINF:-1 tvg-id="dongthap2" group-title="Địa Phương" tvg-logo="https://i.imgur.com/PfETBEp.png",THĐT2 • Miền Tây | Truyền hình Đồng Tháp
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://202.43.109.144:1935/thdt2/thdt2/chunklist.m3u8
-#EXTINF:-1 tvg-id="dienbien" group-title="Địa Phương" tvg-logo="https://i.imgur.com/hMDRDxN.png",ĐTV HD | Truyền hình Điện Biên
+#EXTINF:-1 tvg-id="dienbien" group-title="Địa Phương" tvg-logo="https://i.imgur.com/hMDRDxN.png",ĐTV | Truyền hình Điện Biên
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&q=high&type=tv&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1586309420781&pkg=pkg11
+#EXTINF:-1 tvg-id="dienbien" group-title="Địa Phương" tvg-logo="https://i.imgur.com/oVTYbHz.png",ĐTV HD | Truyền hình Điện Biên
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/dienbien_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="daklak" group-title="Địa Phương" tvg-logo="https://i.imgur.com/jtyDVU5.png",DRT | Truyền hình Đắk Lắk
