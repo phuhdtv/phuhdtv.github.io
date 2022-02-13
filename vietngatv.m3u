@@ -1718,6 +1718,9 @@ http://mfe.cliptv.az/dash/MGM_HD.ism/playlist.mpd
 #EXTINF:-1 tvg-id="paramouthd" group-title="Phim truyện" tvg-logo="https://i.imgur.com/pFxalBn.png",Paramount Channel | PHIM DÀNH CHO NGƯỜI HÂM MỘ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://htv-drm-live-cdn.fptplay.net/htvonline/paramount.720p.nimble.tms/chunks.m3u8
+#EXTINF:0 group-title="Phim truyện" tvg-logo="https://i.imgur.com/p31sF8Q.png",Phim Hay HD | AVG & Đại sứ quán Việt Nam tại Moskva
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://193.33.88.172:8080/russki_roman_hd/index.m3u8
 #EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.ibb.co/dKL7Tmx/TV-XXI.png",TV XXI | PHIM DÀNH CHO NGƯỜI HÂM MỘ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1783,9 +1786,6 @@ http://mfe.cliptv.az/dash/Ruskiy_Detektiv_SD.ism/playlist.mpd
 #EXTINF:0 group-title="Phim truyện" tvg-logo="http://epg.it999.ru/img/401.png",Русский Роман | PHIM THIẾT YẾU
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://109.171.7.89:81/udp/239.54.5.87:1224
-#EXTINF:0 group-title="Phim truyện" tvg-logo="http://epg.it999.ru/img/401.png",Русский Роман HD | PHIM ĐẶC SẮC
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://193.33.88.172:8080/russki_roman_hd/index.m3u8
 #EXTINF:-1 group-title="Dự phòng" tvg-logo="http://epg.it999.ru/img/401.png",Русский Роман | PHIM ĐẶC SẮC | THU LẬU
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 #KODIPROP:inputstream=inputstream.adaptive
