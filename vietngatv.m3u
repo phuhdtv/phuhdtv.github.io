@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://onetv.click/schedule/epg.xml" tvg-shift=0 m3uautoload=1
 
-#EXTINF:-1 group-title="Đại sứ quán VN tại Moskva" tvg-logo="https://i.imgur.com/bEShc7Y.jpg",IPTVMedia247 Cùng với Chanpro & Việt Nga TV | KHỞI NGUỒN XEM TRUYỀN HÌNH
+#EXTINF:-1 group-title="Play" tvg-logo="https://i.imgur.com/bEShc7Y.jpg",IPTVMedia247 Cùng với Chanpro & Việt Nga TV | KHỞI NGUỒN XEM TRUYỀN HÌNH
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://vips-livecdn.fptplay.net/hda3/pladio_4000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="KÊNH VTV HD" tvg-logo="https://i.imgur.com/QcInYpW.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV1 HD | THIẾT YẾU QUỐC GIA
@@ -112,7 +112,7 @@ https://8387d1dfc2.vws.vegacdn.vn/live/vtc16/chunklist_1.m3u8
 #EXTINF:0 tvg-id="vtc16" group-title="KÊNH VTC HD" tvg-logo="https://i.imgur.com/sWbU8jO.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc16_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",3N VTC16 HD | Cùng nông dân hội nhập
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://chungmaster.github.io/logo/netviet.png" group-title="Đại sứ quán VN tại Moskva",NETVIET HD | NGƯỜI VIỆT Ở NƯỚC NGOÀI
+#EXTINF:-1 tvg-logo="https://chungmaster.github.io/logo/netviet.png" group-title="KÊNH VTC HD",NETVIET HD | NGƯỜI VIỆT Ở NƯỚC NGOÀI
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://serv25.vintera.tv:8081/viet/netviet/playlist.m3u8
 
@@ -226,6 +226,9 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/sctv4/sd2/index.m3u8|Referer=http://sc
 #EXTINF:-1 group-title="KÊNH SCTV" tvg-logo="https://i.imgur.com/N3WRCXt.png",SCJ TV Shopping • SCTV5 | MUA SẮM HÀNG ĐẦU
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv5/sd2/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv6hd" group-title="KÊNH SCTV" tvg-logo="https://i.imgur.com/Fe8omK9.png",SCTV6 | Viettel Media
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv6/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv6hd" group-title="KÊNH SCTV" tvg-logo="https://i.imgur.com/Fe8omK9.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",SCTV6 HD | Viettel Media
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
@@ -299,6 +302,9 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/antg/sd2/index.m3u8|Referer=http://sct
 #EXTINF:0 group-title="Kênh khác" tvg-logo="https://raw.githubusercontent.com/dung204/tv-online-vietnam/main/logos/Hanoicab/Hanoicab.png",SCJ TV Shopping | Truyền hình Cáp Hà Nội
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://e3.endpoint.cdn.sctvonline.vn/hls/hanoicab5/sd2/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:0 group-title="Phim truyện" tvg-logo="https://i.imgur.com/Rz2LZJp.png",Phim Hay | Truyền hình Cáp Hà Nội & Truyền hình Cáp SCTV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+
 #EXTINF:-1 group-title="Kênh khác" tvg-logo="https://nethubtv.vn/images/logo/logo.png?v=0.3.6",NET Hub | Kênh Thử Nghiệm
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://log5uwsgbvliv.vcdn.cloud/live/thunghiem/chunklist_2.m3u8
@@ -1105,7 +1111,7 @@ http://91.185.3.218:4000/play/310
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://api.alpaca.t62a.com/hls/9104/stream0.m3u8
 
-#EXTINF:-1 group-title="Đại sứ quán VN tại Moskva" tvg-logo="https://i.imgur.com/r8qjcs4.png",Первый Канал | TỔNG HỢP QUỐC GIA
+#EXTINF:-1 group-title="Tổng hợp" tvg-logo="https://i.imgur.com/r8qjcs4.png",Первый Канал | TỔNG HỢP QUỐC GIA
 http://91.185.3.218:4000/play/603
 #EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/r8qjcs4.png",Первый Канал | TỔNG HỢP QUỐC GIA
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
@@ -1119,7 +1125,7 @@ http://mfe.cliptv.az/dash/Perviy_Kanal_HD.ism/playlist.mpd
 #EXTINF:0 group-title="Tổng hợp" tvg-logo="https://i.imgur.com/WI6hKez.png",Россия 1 HD | THIẾT YẾU QUỐC GIA
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://radio-live-mg.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8
-#EXTINF:-1 group-title="Đại sứ quán VN tại Moskva" tvg-logo="https://i.imgur.com/5D1gwiv.png",Россия РТР | THIẾT YẾU ĐẶC SẮC
+#EXTINF:-1 group-title="Tổng hợp" tvg-logo="https://i.imgur.com/5D1gwiv.png",Россия РТР | THIẾT YẾU ĐẶC SẮC
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://91.185.3.218:4000/play/303
 #EXTINF:0 group-title="Dự phòng" tvg-logo="https://i.imgur.com/5D1gwiv.png",Россия РТР | THIẾT YẾU ĐẶC SẮC | Internet
@@ -1144,6 +1150,9 @@ http://ott-cdn.ucom.am/s17/04.m3u8
 http://mfe.cliptv.az/dash/5_Kanal_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Tổng hợp" tvg-logo="https://i.imgur.com/Q5XxFQi.png",Россия K | ĐỜI SỐNG XÃ HỘI
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://85.192.10.131/hls/kultura/playlist.m3u8
+#EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/Q5XxFQi.png",Россия K | ĐỜI SỐNG XÃ HỘI | PHÁT LẬU
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
@@ -1165,7 +1174,7 @@ http://ott-cdn.ucom.am/s21/04.m3u8
 http://mfe.cliptv.az/dash/Karusel_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Tổng hợp" tvg-logo="https://i.imgur.com/6ot2Nlh.png",ОТР | THIẾT YẾU QUỐC GIA
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://109.171.7.89:81/udp/239.54.5.146:1224
+http://85.192.10.131/hls/OTR/playlist.m3u8
 #EXTINF:-1 group-title="Tổng hợp" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВ Центр | THIẾT YẾU QUỐC GIA
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://uiptv.do.am/1ufc/000000009/playlist.m3u8
@@ -1183,7 +1192,7 @@ http://91.185.3.218:4000/play/625
 #EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/F6j6xWc.jpg",СТС | GIẢI TRÍ QUỐC GIA
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s52/04.m3u8
-#EXTINF:-1 group-title="Đại sứ quán VN tại Moskva" tvg-logo="https://i.imgur.com/jBnjxGR.png",Домашний | GIẢI TRÍ DÀNH CHO GIA ĐÌNH
+#EXTINF:-1 group-title="Tổng hợp" tvg-logo="https://i.imgur.com/jBnjxGR.png",Домашний | GIẢI TRÍ DÀNH CHO GIA ĐÌNH
 http://91.185.3.218:4000/play/620
 #EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/jBnjxGR.png",Домашний | GIẢI TRÍ DÀNH CHO GIA ĐÌNH
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
@@ -1197,7 +1206,7 @@ http://mfe.cliptv.az/dash/TV_3_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Giải Trí" tvg-logo="https://i.imgur.com/zvhT8JO.png",ТВ3 HD | GIẢI TRÍ HẤP DẪN
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://bl.uma.media/live/407373/HLS/6307840_7,4280320/2/1/playlist.m3u8
-#EXTINF:-1 group-title="Đại sứ quán VN tại Moskva" tvg-logo="https://i.imgur.com/CNOYAUN.png",Пятница! Int. | GIẢI TRÍ DÀNH CHO THỦ ĐÔ
+#EXTINF:-1 group-title="Tổng hợp" tvg-logo="https://i.imgur.com/CNOYAUN.png",Пятница! Int. | GIẢI TRÍ DÀNH CHO THỦ ĐÔ
 http://91.185.3.218:4000/play/330
 #EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/CNOYAUN.png",Пятница! Int. | GIẢI TRÍ DÀNH CHO THỦ ĐÔ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
@@ -1223,9 +1232,9 @@ http://ott-cdn.ucom.am/s39/04.m3u8
 #EXTINF:-1 group-title="Tổng hợp" tvg-logo="http://widget.ottplayer.tv/pictures/533.png",МИР HD | ĐẶC SẮC QUỐC GIA
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 group-title="Đại sứ quán VN tại Moskva" tvg-logo="https://i.imgur.com/1WqIPOB.png",ТНТ | GIẢI TRÍ & TỔNG HỢP
+#EXTINF:-1 group-title="Tổng hợp" tvg-logo="https://i.imgur.com/1WqIPOB.png",ТНТ | GIẢI TRÍ & TỔNG HỢP
 http://91.185.3.218:4000/play/332
-#EXTINF:-1 group-title="Đại sứ quán VN tại Moskva" tvg-logo="https://i.imgur.com/1WqIPOB.png",ТНТ | GIẢI TRÍ & TỔNG HỢP
+#EXTINF:-1 group-title="Tổng hợp" tvg-logo="https://i.imgur.com/1WqIPOB.png",ТНТ | GIẢI TRÍ & TỔNG HỢP
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s19/04.m3u8
 #EXTINF:0 group-title="Giải Trí" tvg-logo="https://iptvxpix.ml/tnt-hd.png",ТНТ HD | GIẢI TRÍ & TỔNG HỢP
@@ -1366,7 +1375,7 @@ http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
 #EXTINF:0 group-title="Khoa giáo - Lối sống" tvg-logo="https://i.imgur.com/oUbjl18.png",Qazaq TV | Truyền Hình Nga Tại Kazakhstan
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://kazakhtv.ultraiptv.com/kazakhtv/master.m3u8
-#EXTINF:-1 group-title="Đại sứ quán VN tại Moskva" tvg-logo="https://i.imgur.com/oUbjl18.png",Qazaq TV HD | Truyền Hình Nga Tại Kazakhstan
+#EXTINF:-1 group-title=Khoa giáo - Lối sống" tvg-logo="https://i.imgur.com/oUbjl18.png",Qazaq TV HD | Truyền Hình Nga Tại Kazakhstan
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://serv30.vintera.tv:8081/kazahtv/stream_ru/playlist.m3u8
 #EXTINF:-1 group-title="Tin tức - Kinh tế" tvg-logo="https://i.imgur.com/Dh1pUNW.png",Беларусь 24 | Truyền Hình Nga Tại Belarus
@@ -1609,7 +1618,7 @@ http://mfe.cliptv.az/dash/Mult_SD.ism/playlist.mpd
 http://ott-cdn.ucom.am/s58/04.m3u8
 #EXTINF:0 group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/OwA1zSH.png",Мультимания | THIẾU NHI BỔ ÍCH
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://109.171.7.89:81/udp/239.54.5.158:1224
+http://85.192.10.131/hls/MultimaniaRu/playlist.m3u8
 #EXTINF:-1 group-title="Dự phòng" tvg-logo="https://i.imgur.com/OwA1zSH.png",Мультимания | THIẾU NHI BỔ ÍCH | THU LẬU
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1718,9 +1727,6 @@ http://mfe.cliptv.az/dash/MGM_HD.ism/playlist.mpd
 #EXTINF:-1 tvg-id="paramouthd" group-title="Phim truyện" tvg-logo="https://i.imgur.com/pFxalBn.png",Paramount Channel | PHIM DÀNH CHO NGƯỜI HÂM MỘ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://htv-drm-live-cdn.fptplay.net/htvonline/paramount.720p.nimble.tms/chunks.m3u8
-#EXTINF:0 group-title="Đại sứ quán VN tại Moskva" tvg-logo="https://i.imgur.com/Rz2LZJp.png",Phim Hay HD
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://193.33.88.172:8080/russki_roman_hd/index.m3u8
 #EXTINF:-1 group-title="Phim truyện" tvg-logo="https://i.ibb.co/dKL7Tmx/TV-XXI.png",TV XXI | PHIM DÀNH CHO NGƯỜI HÂM MỘ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1794,7 +1800,7 @@ http://109.171.7.89:81/udp/239.54.5.87:1224
 http://mfe.cliptv.az/dash/Ruskiy_Roman_SD.ism/playlist.mpd
 #EXTINF:0 group-title="Phim truyện" tvg-logo="http://epg.it999.ru/img/994.png",Русский бестселлер | PHIM KO GIỚI HẠN
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://193.33.88.172:8080/rus-bestseller/index.m3u8
+http://46.43.195.121:4022/udp/239.255.1.36:1234
 #EXTINF:-1 group-title="Phim truyện" tvg-logo="http://epg.it999.ru/img/53.png",Русский Иллюзион | PHIM TRUYỆN HAY NHẤT
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://86.57.178.105:10823
