@@ -26,3 +26,5 @@ Link Amazing Vietnam 2010 on VTC8 (Vietnam): http://gg.gg/Amazing_Vietnam_2010
 Link VTV1 Hôm nay + Ngày mai (01.01.2011 - 31.12.2011): http://gg.gg/vtv1-2011 + http://gg.gg/http-gg-gg-vtv1-2011-ngay-mai
 
 Full Intro Of Vietnamese 1 Vs. 100 (2006 - 2008): http://gg.gg/1vs100-vietnam_2006
+
+VTC1 Opening (2006 - 2007): http://gg.gg/VTC1-Opening_2006-2007
