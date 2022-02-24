@@ -28,3 +28,5 @@ Link VTV1 Hôm nay + Ngày mai (01.01.2011 - 31.12.2011): http://gg.gg/vtv1-201
 Full Intro Of Vietnamese 1 Vs. 100 (2006 - 2008): http://gg.gg/1vs100-vietnam_2006
 
 VTC1 Opening 2007 (Remake): http://gg.gg/VTC1-Opening_2007
+
+VTC5 (Vietnam) Ident 2008: http://gg.gg/vtc5id2008
