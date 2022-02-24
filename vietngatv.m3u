@@ -969,6 +969,9 @@ https://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="france24eng" group-title="Tin tức - Kinh tế" tvg-logo="https://i.imgur.com/zdze6Iq.png",FRANCE 24 English
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdb/france24_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="france24eng" group-title="Tin tức - Kinh tế" tvg-logo="https://i.imgur.com/zdze6Iq.png",France 24 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/01.m3u8
 #EXTINF:-1 tvg-id="happykids" group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/Cz2Kju8.png",Happy Kids
 #EXTVLCOPT:http-user-agent="SCTVOnline"
 https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8|Referer=http://sctvonline.vn/
@@ -1817,12 +1820,6 @@ http://185.161.224.216/dash/NSTV_SD.ism/playlist.mpd
 http://91.185.3.218:4000/play/2099
 #EXTINF:0 tvg-logo="https://i.ibb.co/TtT1gmy/58-Rodnoje-kino.png" group-title="Phim truyện",РОДНОЕ КИНО | ĐIỆN ẢNH HÀNG ĐẦU
 http://91.185.3.218:4000/play/12
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x3IE7sE.png" group-title="Dự phòng",RTG HD | GIẢI TRÍ ĐỈNH CAO | PHÁT & THU LẬU
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.is_realtime_stream=true
-http://185.161.224.216/dash/RTG_HD.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M0OR92h.png" group-title="Phim truyện",Дорама | PHIM TRUYỆN HAY NHẤT
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s95/04.m3u8
@@ -1941,7 +1938,7 @@ http://ott-cdn.ucom.am/s41/04.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/Match_Arena_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="Thể thao" tvg-logo="https://i.imgur.com/Xz4HJRP.png",Матч! Боец | THỂ THAO ĐỈNH CAO
+#EXTINF:-1 group-title="Thể thao" tvg-logo="https://i.imgur.com/Xz4HJRP.png",Матч! Боец | ON Action Sports
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
