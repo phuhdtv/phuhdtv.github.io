@@ -302,7 +302,7 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/antg/sd2/index.m3u8|Referer=http://sct
 #EXTINF:0 group-title="Kênh khác" tvg-logo="https://vthanh.xyz/ic/191.png",SCJ TV Shopping | Truyền hình Cáp Hà Nội
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://e3.endpoint.cdn.sctvonline.vn/hls/hanoicab5/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="Kênh khác" tvg-logo="https://nethubtv.vn/images/logo/logo.png?v=0.3.6",NET Hub | Kênh Thử Nghiệm
+#EXTINF:-1 group-title="Kênh khác" tvg-logo="https://i.ibb.co/5jN8dTh/Nethub-BEARTV.png",NET Hub | Kênh Thử Nghiệm
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://log5uwsgbvliv.vcdn.cloud/live/thunghiem/chunklist_2.m3u8
 
@@ -662,7 +662,7 @@ https://livecdn.fptplay.net/sdc/kontum_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="kontum" group-title="Địa Phương" tvg-logo="https://i.imgur.com/akPWFQ4.png",KRT HD | Truyền hình Kon Tum
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
-#EXTINF:-1 tvg-id="laichau" group-title="Địa Phương" tvg-logo="https://i.imgur.com/EDedDbI.png",LTV HD | Truyền hình Lai Châu
+#EXTINF:-1 tvg-id="laichau" group-title="Địa Phương" tvg-logo="https://i.postimg.cc/RVgH2vhw/LaiChau.png",LTV HD | Truyền hình Lai Châu
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/laichau_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="laocai" group-title="Địa Phương" tvg-logo="https://i.postimg.cc/ydgqCmF0/THLC.png",THLC | Truyền hình Lào Cai
@@ -1094,7 +1094,7 @@ https://livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
 http://tv-trtworld.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KWg9F4c.png" group-title="Âm nhạc",VIVA | ÂM NHẠC QUỐC TẾ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://cdnhls.goodgame.ru/hls/180805.m3u8
+https://hls.myvideocontent.ru/hls2/vivarussia/index.m3u8
 #EXTINF:-1 tvg-id="warnertvhd" group-title="Phim truyện" tvg-logo="https://i.imgur.com/9qJI1Mg.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/warnertv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Warner TV HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
@@ -1956,6 +1956,7 @@ EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://license-sgn.solocoo.tv/wv?c=cpi%3A2%3AghIJ56a-YcG0OkCs5aTzpu9_yUm6xYK1jW3bxCSd3T0%3AMTp7YzoiUW5xQVFzaG1jMHV1dnNSWGtLcUZMZ0FBQUFNIixsOiJ2aV9WTiIsbWY6MTYsb2Y6MSx0czoxNjQ1OTMyMjEyMjI0LHU6IjVlODBjNDgxLTgyZDctYzhhZi0zYjU3LWI2OTk2ZjgyODNlZiIsZGU6MyxsZjowfQ
 https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_cinehd/default/i.mpd
 #EXTINF:-1 group-title="KÊNH K+" tvg-logo="https://i.imgur.com/1YqN0Ps.png",K+LIFE HD
