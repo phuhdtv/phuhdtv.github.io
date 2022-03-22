@@ -1109,9 +1109,12 @@ http://ott-cdn.ucom.am/s52/04.m3u8
 #EXTINF:-1 group-title="Giải Trí" tvg-logo="https://i.imgur.com/jBnjxGR.png",Домашний | GIẢI TRÍ DÀNH CHO GIA ĐÌNH
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s88/04.m3u8
-#EXTINF:-1 group-title="Giải Trí" tvg-logo="https://i.imgur.com/zvhT8JO.png",ТВ3 HD | GIẢI TRÍ HẤP DẪN
+#EXTINF:-1 group-title="Giải Trí" tvg-logo="https://i.imgur.com/zvhT8JO.png",ТВ3 | GIẢI TRÍ HẤP DẪN
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://bl.uma.media/live/407373/HLS/6307840_7,4280320/2/1/playlist.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://185.161.224.216/dash/TV_3_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Tổng hợp" tvg-logo="https://i.imgur.com/CNOYAUN.png",Пятница! Int. | GIẢI TRÍ DÀNH CHO THỦ ĐÔ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s50/04.m3u8
