@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://onetv.click/schedule/epg.xml" tvg-shift=0 m3uautoload=1
 
-#EXTINF:-1 group-title="Thông Báo" tvg-logo="https://i.imgur.com/bEShc7Y.jpg",Chuyển List Một Số Kênh Sang HThanhIPTV (aka vietngatv+)
+#EXTINF:-1 group-title="Play" tvg-logo="https://i.imgur.com/bEShc7Y.jpg",List Kênh Trong Nước Cho Ngoài Việt Nam | gg.gg/hthanhiptv
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://vips-livecdn.fptplay.net/hda3/pladio_4000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="KÊNH VTV" tvg-logo="https://i.imgur.com/QcInYpW.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV1 HD | THIẾT YẾU QUỐC GIA
@@ -79,6 +79,9 @@ https://livecdn.fptplay.net/sdb/vtc9_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc10" group-title="KÊNH VTC" tvg-logo="https://i.imgur.com/HitkMj3.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc10_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC10 | CẦU NỐI VĂN HÓA VIỆT
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdb/vtc10_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HitkMj3.png" group-title="KÊNH VTC HD",VTC10 HD • Russia | CẦU NỐI VĂN HÓA VIỆT
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://serv25.vintera.tv:8081/viet/netviet/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc11" group-title="KÊNH VTC" tvg-logo="https://i.imgur.com/s8wYY4I.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc11_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC11 | KÊNH DÀNH CHO THIẾU NHI 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist_b2500000.m3u8
@@ -94,9 +97,6 @@ https://livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 tvg-id="vtc16" group-title="KÊNH VTC HD" tvg-logo="https://i.imgur.com/jHJ0Qnp.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc16_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",3N VTC16 HD | Cùng nông dân hội nhập
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://chungmaster.github.io/logo/netviet.png" group-title="KÊNH VTC HD",NETVIET HD | NGƯỜI VIỆT Ở NƯỚC NGOÀI
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://serv25.vintera.tv:8081/viet/netviet/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vovtvhd" group-title="Tổng hợp" tvg-logo="https://i.postimg.cc/RZL1gC6K/VOV-TV.png",VOV TV | Đài Tiếng nói Việt Nam
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
