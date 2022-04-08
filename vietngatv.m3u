@@ -999,21 +999,12 @@ http://ott-cdn.ucom.am/s29/04.m3u8
 #EXTINF:-1 tvg-logo="http://img.vintera.tv/img/ico/russian_america_tv.png" group-title="Tin tức - Kinh tế",Russian America TV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://stream.russianamerica.tv/ratv/index.m3u8
-#EXTINF:-1 group-title="Tin tức - Kinh tế" tvg-logo="https://i.imgur.com/uIeaOAx.png",Russia Today English HD
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://rt-glb.gcdn.co/live/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="Tin tức - Kinh tế" tvg-logo="https://i.imgur.com/3E4KGqG.png",Russia Today English SD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s96/04.m3u8
-#EXTINF:-1 group-title="Khoa giáo - Lối sống" tvg-logo="https://i.imgur.com/C6fylkt.png",Russia Today Documentary ENGLISH HD
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://rt-glb.gcdn.co/live/rtdoc/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="Khoa giáo - Lối sống" tvg-logo="https://i.imgur.com/C6fylkt.png",Russia Today Documentary RUSSIAN | Phim tài liệu
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s93/04.m3u8
-#EXTINF:-1 group-title="Khoa giáo - Lối sống" tvg-logo="https://i.imgur.com/C6fylkt.png",Russia Today Documentary RUSSIAN HD | Phim tài liệu
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://rtmp.api.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 group-title="Âm nhạc" tvg-logo="https://iptvxpix.ml/sochi-live.png",Sochi Live HD | Kênh Truyền hình Sochi
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
@@ -1079,6 +1070,9 @@ http://85.192.10.131/hls/kultura/playlist.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s16/04.m3u8
 #EXTINF:-1 group-title="Tin tức - Kinh tế" tvg-logo="https://i.imgur.com/wu7O85f.png",Россия 24 | TIN TỨC & CUỘC SỐNG | 576P
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
+#EXTINF:-1 group-title="Dự phòng Đặc sắc" tvg-logo="https://i.imgur.com/wu7O85f.png",Россия 24 | TIN TỨC & CUỘC SỐNG | 480P
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s21/04.m3u8
 #EXTINF:-1 group-title="Thiếu nhi" tvg-logo="https://i.imgur.com/4fFMlVq.png",Карусель | THIẾU NHI QUỐC GIA
