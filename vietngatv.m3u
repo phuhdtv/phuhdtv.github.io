@@ -736,7 +736,7 @@ http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://api.alpaca.t62a.com/hls/9104/stream0.m3u8
 
-#EXTINF:-1 group-title="RUSSIAN" tvg-logo="https://i.imgur.com/r8qjcs4.png",Первый Канал HD (СНГ)
+#EXTINF:0 group-title="RUSSIAN" tvg-logo="https://i.imgur.com/r8qjcs4.png",Первый Канал HD (СНГ)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s14/04.m3u8
 #EXTINF:0 group-title="RUSSIAN" tvg-logo="https://i.imgur.com/5D1gwiv.png",Россия РТР
@@ -831,9 +831,87 @@ https://bl.uma.media/live/317845/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZKGC5i0.png" group-title="RUSSIAN",ТНВ-Планета
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://tnv.bonus-tv.ru/cdn/tnvplanet/playlist.m3u8
+#EXTINF:-1 group-title="RUSSIAN" tvg-logo="https://i.imgur.com/AGj8EJF.png",РБК
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:-1 group-title="RUSSIAN" tvg-logo="https://i.imgur.com/AGj8EJF.png",РБК HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://live-rbc.gcdn.co/gcore/rbctvhd.m3u8
+#EXTINF:-1 group-title="RUSSIAN" tvg-logo="https://i.imgur.com/o4Julue.jpg",IZ.RU HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 group-title="RUSSIAN" tvg-logo="https://i.imgur.com/aMOLqMW.png",МИР 24 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:0 group-title="RUSSIAN" tvg-logo="https://i.imgur.com/m52Nolz.png",360
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
+
+#EXTINF:-1 group-title="RUSSIAN" tvg-logo="https://i.imgur.com/EMwsDdd.png",Красная линия
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://kprf-htlive.cdn.ngenix.net/live/stream_high/playlist.m3u8
+#EXTINF:-1 group-title="RUSSIAN" tvg-logo="https://i.imgur.com/0StosQm.png",ЛДПР ТВ HD | Thông tin và chính trị
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img.vintera.tv/img/ico/1rnk.png" group-title="RUSSIAN",ПРНК HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://serv25.vintera.tv:8081/1pnk/1pnk/playlist.m3u8
+#EXTINF:-1 group-title="RUSSIAN" tvg-logo="http://img.vintera.tv/img/ico/SOYUZ.png",Союз
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1 group-title="Khoa giáo - Lối sống" tvg-logo="https://i.imgur.com/KUfXhKC.png",Моя планета
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://radio-live-mg.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="International" tvg-logo="https://i.imgur.com/vLpm8tN.png",TV BRICS Chinese
+https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
+#EXTINF:-1 group-title="International" tvg-logo="https://i.imgur.com/vLpm8tN.png",TV BRICS English
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8
+#EXTINF:-1 group-title="International" tvg-logo="https://i.imgur.com/vLpm8tN.png",TV BRICS Portuguese
+https://brics.bonus-tv.ru/cdn/brics/portuguese/playlist.m3u8
+#EXTINF:-1 group-title="Kênh khác" tvg-logo="https://i.imgur.com/vLpm8tN.png",TV BRICS Russian
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://brics.bonus-tv.ru/cdn/brics/russian/playlist.m3u8
+#EXTINF:-1 group-title="RUSSIAN" tvg-logo="https://i.imgur.com/IgFmj3L.png",NANO TV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://nano.teleservice.su:8080/hls/nano.m3u8
+#EXTINF:-1 group-title="RUSSIAN" tvg-logo="https://i.imgur.com/oxaWl1I.png",Калейдскоп ТВ
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://live-1.otcnet.ru/kaleidoskop/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="RUSSIAN" tvg-logo="https://i.imgur.com/MnlcTkp.png",ТЕЛЕКАФЕ
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s56/04.m3u8
+#EXTINF:-1 group-title="RUSSIAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/3ABN_logo.svg",3ABN HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://hls.tv.3angels.ru/stream/HQ.m3u8
+
+#EXTINF:-1 group-title="CIS" tvg-logo="https://i.imgur.com/Usviin0.png",Atameken Business HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://live.atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z9E3DBW.png" group-title="CIS",Настоящее время
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s61/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z9E3DBW.png" group-title="CIS",Настоящее время HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
+#EXTINF:0 group-title="CIS" tvg-logo="https://i.imgur.com/oUbjl18.png",Qazaq TV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://kazakhtv.ultraiptv.com/kazakhtv/master.m3u8
+#EXTINF:-1 group-title=CIS" tvg-logo="https://i.imgur.com/oUbjl18.png",Qazaq TV HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://serv30.vintera.tv:8081/kazahtv/stream_ru/playlist.m3u8
+#EXTINF:-1 group-title="CIS" tvg-logo="https://i.imgur.com/Dh1pUNW.png",Беларусь 24
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
+#EXTINF:-1 group-title="CIS" tvg-logo="https://i.imgur.com/xVO2kPj.png",Хабар 24 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://serv30.vintera.tv:8081/habar/habar24/chunks.m3u8
+#EXTINF:-1 group-title="CIS" tvg-logo="https://i.imgur.com/exdDHml.png",Надежда HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+#EXTINF:0 group-title="CIS" tvg-logo="https://i.imgur.com/gn8Gb98.png",БелРос
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", FPT Play Event 1
 #EXTVLCOPT:http-user-agent=VThanhTivi
