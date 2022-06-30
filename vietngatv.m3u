@@ -773,11 +773,17 @@ http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://spas.mediacdn.ru/cdn/spas/playlist.m3u8
 #EXTINF:-1 group-title="RUSSIAN" tvg-logo="https://i.imgur.com/F6j6xWc.jpg",СТС HD
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s52/04.m3u8
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://185.161.224.216/dash/STS_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="RUSSIAN" tvg-logo="https://i.imgur.com/jBnjxGR.png",Домашний HD
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s88/index.m3u8
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://185.161.224.216/dash/Domashniy_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="RUSSIAN" tvg-logo="https://i.imgur.com/zvhT8JO.png",ТВ3 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://bl.uma.media/live/407373/HLS/6307840_7/2/1/playlist.m3u8
@@ -805,8 +811,11 @@ http://ott-cdn.ucom.am/s19/04.m3u8
 #EXTINF:-1 group-title="RUSSIAN" tvg-logo="https://i.imgur.com/1WqIPOB.png",ТНТ HD
 https://bl.uma.media/live/410338/HLS/6307840_7/2/1/playlist.m3u8
 #EXTINF:-1 group-title="RUSSIAN" tvg-logo="https://i.imgur.com/n7bGFXj.png",МУЗ ТВ
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s28/index.m3u8
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://185.161.224.216/dash/Muz_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="RUSSIAN" tvg-logo="https://i.imgur.com/nRD61Dw.png",Че
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 #KODIPROP:inputstream=inputstream.adaptive
