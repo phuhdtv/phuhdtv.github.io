@@ -237,9 +237,6 @@ https://livecdn.fptplay.net/sdc/binhphuoc2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="hometvbptv2" group-title="Local" tvg-logo="https://i.imgur.com/UwxLugU.png",BPTV2 HD - BAO BINH PHUOC 2 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://103.90.220.236/bptvlive/tv2live.m3u8
-#EXTINF:-1 tvg-id="ant" group-title="Kids" tvg-logo="https://i.imgur.com/5yQSdwh.png",BPTV3 HD - BAO BINH PHUOC 3 HD
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://livecdn.fptplay.net/sda/ant_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="binhthuan" group-title="Local" tvg-logo="https://i.postimg.cc/tgX0kpB1/Binh-Thuan.png",BTV - BInh ThuAn
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/binhthuan_hls.smil/chunklist_b2500000.m3u8
@@ -690,9 +687,6 @@ http://1hdru-hls-otcnet.cdnvideo.ru/mcm/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="mtvhd" group-title="Music" tvg-logo="https://i.imgur.com/FeFMOxH.png",MTV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="musicbox" group-title="Music" tvg-logo="https://i.imgur.com/2UBIyT5.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/musicbox_1000.stream/chunks_dvr_range-${start}-10800.m3u8",Music Box HD
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://livecdn.fptplay.net/hda3/music_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="outdoor_channel" group-title="Science - Lifestyle" tvg-logo="https://i.imgur.com/RJwaiHH.png",Outdoor Channel HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
@@ -903,11 +897,11 @@ https://hls.tv.3angels.ru/stream/HQ.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://live-1.otcnet.ru/onehdweb/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/L71iY9t.png",Bridge TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s34/04.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/4ZJMvii.png",Bridge TV Русский хит
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s78/04.m3u8
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://185.161.224.216/dash/Bridge_TV_SD.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wG8KyeG.png" group-title="Music",Страна FM
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
@@ -929,9 +923,9 @@ http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/pX4Enau.png",Шансон ТВ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s43/04.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/RU7jA3I.png",Первый Музыкальный HD
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/RU7jA3I.png",Первый Музыкальный International
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://rtmp.one.by:1300
+http://rtmp.one.by:1200
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/3Z6GjxM.png",Первый Музыкальный Россия HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://rtmp.one.by:2300
