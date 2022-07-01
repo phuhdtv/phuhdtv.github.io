@@ -83,10 +83,7 @@ https://livecdn.fptplay.net/sdc/vovtvsd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vovtv" group-title="VIETNAMESE" tvg-logo="https://i.imgur.com/yyftSZg.png",VOV TV HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://103.90.220.236/vovlive/tv1live.m3u8
-#EXTINF:-1 tvg-id="antvhd" group-title="VIETNAMESE" tvg-logo="https://i.imgur.com/6JZPjPc.png",AN NINH TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/ANTV-SD-ABR/HTV-ABR/ANTV-SD-720p/playlist.m3u8
-#EXTINF:-1 tvg-id="antvhd" group-title="VIETNAMESE" tvg-logo="https://i.imgur.com/8goldzC.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",AN NINH TV
+#EXTINF:-1 tvg-id="antvhd" group-title="VIETNAMESE" tvg-logo="https://i.imgur.com/8goldzC.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",AN NINH TV HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="quochoi" group-title="VIETNAMESE" tvg-logo="https://i.imgur.com/pyQJnZz.png",QUOC HOI TV HD
@@ -739,7 +736,7 @@ http://185.161.224.216/Perviy_Kanal_HD.ism/playlist.mpd
 #EXTINF:0 group-title="RUSSIAN" tvg-logo="https://i.imgur.com/5D1gwiv.png",Россия РТР (РТР Планета)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://ott-cdn.ucom.am/s15/index.m3u8
-#EXTINF:-1 group-title="RUSSIAN" tvg-logo="https://i.imgur.com/DtQX5P2.png",НТВ МИР
+#EXTINF:-1 group-title="RUSSIAN" tvg-logo="https://i.imgur.com/DtQX5P2.png",НТВ HD (МИР)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s17/04.m3u8
 #EXTINF:-1 group-title="RUSSIAN" tvg-logo="https://i.imgur.com/qswopzO.png",Пятый канал
@@ -857,6 +854,8 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
 #EXTINF:-1 group-title="RUSSIAN" tvg-logo="https://i.imgur.com/xQc3UoJ.png",Между.Net (Междуреченск)
 http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8
+#EXTINF:-1 group-title="RUSSIAN" tvg-logo="https://i.imgur.com/ARh6WSf.png",Кузбасс 1 HD
+https://www.10kanal.ru:1443/10kanal/k24/playlist.m3u8
 
 #EXTINF:-1 group-title="RUSSIAN" tvg-logo="https://i.imgur.com/EMwsDdd.png",Красная линия
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
