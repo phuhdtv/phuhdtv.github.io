@@ -733,7 +733,7 @@ http://ott-cdn.ucom.am/s14/04.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/Perviy_Kanal_HD.ism/playlist.mpd
-#EXTINF:0 group-title="RUSSIAN" tvg-logo="https://i.imgur.com/5D1gwiv.png",Россия РТР (РТР Планета)
+#EXTINF:0 group-title="RUSSIAN" tvg-logo="https://i.imgur.com/5D1gwiv.png",РТР Планета (СНГ)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://ott-cdn.ucom.am/s15/index.m3u8
 #EXTINF:-1 group-title="RUSSIAN" tvg-logo="https://i.imgur.com/DtQX5P2.png",НТВ HD (МИР)
@@ -852,8 +852,8 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:0 group-title="RUSSIAN" tvg-logo="https://i.imgur.com/m52Nolz.png",360
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
-#EXTINF:-1 group-title="RUSSIAN" tvg-logo="https://i.imgur.com/xQc3UoJ.png",Между.Net (Междуреченск)
-http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8
+#EXTINF:-1 group-title="RUSSIAN" tvg-logo="http://img.vintera.tv/img/ico/enisey.png",Енисей
+http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 group-title="RUSSIAN" tvg-logo="https://i.imgur.com/ARh6WSf.png",Кузбасс 1 HD
 https://www.10kanal.ru:1443/10kanal/k24/playlist.m3u8
 
