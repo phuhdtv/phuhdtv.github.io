@@ -420,10 +420,7 @@ http://202.43.109.142:1935/NTV/ntvtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="phutho" group-title="Local" tvg-logo="https://i.imgur.com/LXuRwJY.png",PTV HD - PHU THO
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sda/phutho_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="phuyen" group-title="Local" tvg-logo="https://i.imgur.com/v0zTLT9.png",PTP - PHU YEN
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://113.161.4.48:8080/phuyen/tv.m3u8
-#EXTINF:-1 tvg-id="phuyen" group-title="Local" tvg-logo="https://i.imgur.com/ojcKLF7.png",PTP HD - PHU YEN HD
+#EXTINF:-1 tvg-id="phuyen" group-title="Local" tvg-logo="https://i.imgur.com/v0zTLT9.png",PTP HD - PHU YEN
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sda/phuyen_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="quangbinh" group-title="Local" tvg-logo="https://i.postimg.cc/gJVf7qW9/QBTV.png",QBTV - QUANG BINH
@@ -856,6 +853,8 @@ https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 group-title="RUSSIAN" tvg-logo="https://i.imgur.com/ARh6WSf.png",Кузбасс 1 HD
 https://www.10kanal.ru:1443/10kanal/k24/playlist.m3u8
+#EXTINF:-1 group-title="RUSSIAN" tvg-logo="https://i.imgur.com/xQc3UoJ.png",Между.Net (Междуреченск)
+http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8
 #EXTINF:-1 group-title="RUSSIAN" tvg-logo="",ТВК
 http://air.tvk6.ru/tvk24/tracks-v2a1/mono.m3u8
 
