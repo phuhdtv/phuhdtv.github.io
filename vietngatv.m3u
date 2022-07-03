@@ -160,7 +160,7 @@ https://livecdn.fptplay.net/hda3/htvcmusic_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdb/htvcshopping_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="hitv" tvg-logo="https://i.imgur.com/hljdH2o.jpg" group-title="OTHER",HiTV
+#EXTINF:-1 tvg-id="hitv" tvg-logo="https://i.imgur.com/vsoxNq7.png" group-title="OTHER",HITV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://live2cdn.todayplus.com.vn/sdb/smil:hitv.smil/chunklist_w1869490844_b1596000.m3u8
 #EXTINF:-1 tvg-id="youtv" group-title="OTHER" tvg-logo="https://imgur.com/TNHxeXv.png",YouTV
@@ -550,10 +550,10 @@ http://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="cbeebies" group-title="Kids" tvg-logo="https://i.imgur.com/oD53jAs.png",BBC CBEEBIES HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="bbcworldnews" group-title="News" tvg-logo="https://i.imgur.com/PbvTBsS.png",BBC World News
+#EXTINF:-1 tvg-id="bbcworldnews" group-title="News" tvg-logo="https://i.imgur.com/rPzH88J.png",BBC News
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdb/bbcnew_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="bbcearth" group-title="Science - Lifestyle" tvg-logo="https://i.imgur.com/dzoQWPj.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",BBC Earth HD
+#EXTINF:-1 tvg-id="bbcearth" group-title="Science - Lifestyle" tvg-logo="https://i.imgur.com/xXM60fa.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",BBC Earth HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="bbclifestyle" group-title="Science - Lifestyle" tvg-logo="https://i.imgur.com/LIZyi7p.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbclifestyle_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8",BBC Lifestyle
@@ -628,9 +628,7 @@ http://ott-cdn.ucom.am/s26/04.m3u8
 #EXTINF:-1 tvg-id="dreamworks" group-title="Kids" tvg-logo="https://i.imgur.com/WTO8O0N.png",DreamWorks HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/IficfLy.png",EURONEWS English
-https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/IficfLy.png",EURONEWS Russian
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/8t9mdg9.png",EURONEWS
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s89/04.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/Dk6Rz7T.png",Fashion TV
@@ -693,7 +691,7 @@ http://ott-cdn.ucom.am/s96/04.m3u8
 #EXTINF:-1 group-title="Science - Lifestyle" tvg-logo="https://i.imgur.com/C6fylkt.png",Russia Today Documentary RUSSIAN
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s93/04.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="http://img.vintera.tv/img/ico/sochilive.png",Sochi Live HD
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/pH3Q1jn.png",Sochi Live HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 #EXTINF:-1 tvg-id="tv5monde_asie" group-title="International" tvg-logo="https://i.imgur.com/Jxi54ms.png",TV5 Monde ASIE
@@ -846,6 +844,8 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:0 group-title="RUSSIAN" tvg-logo="https://i.imgur.com/nNNKLwF.png",360
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GMQLSee.png" group-title="RUSSIAN",8 канал
+http://176.99.110.252/stream8/playlist.m3u8
 #EXTINF:-1 group-title="RUSSIAN" tvg-logo="http://img.vintera.tv/img/ico/enisey.png",Енисей
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 group-title="RUSSIAN" tvg-logo="https://i.imgur.com/ARh6WSf.png",Кузбасс 1 HD
@@ -905,9 +905,9 @@ http://185.161.224.216/dash/Bridge_TV_SD.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wG8KyeG.png" group-title="Music",Страна FM
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A2FfrGX.png" group-title="Music",Хит ТВ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5xKqV1s.png" group-title="Music",Хит ТВ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://hithd.camsh.orsk.ru/hls/hit.m3u8
+http://hithd.camsh.orsk.ru/hls/hithd.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/v6KNZms.png",МузСоюз
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
@@ -936,16 +936,16 @@ http://rtmp.one.by:1499
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
 
-#EXTINF:0 group-title="MARKET online" tvg-logo="http://epg.it999.ru/img/2302.png",Leomax 24 HD
+#EXTINF:0 group-title="MARKET online" tvg-logo="https://i.imgur.com/qU9ohQu.png",Leomax 24 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://tvshops.bonus-tv.ru:80/cdn/shop24/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="MARKET online" tvg-logo="https://i.imgur.com/MWXrusu.png",Luxury HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://nano.teleservice.su:8080/hls/luxury.m3u8
-#EXTINF:-1 group-title="MARKET online" tvg-logo="https://i.imgur.com/taRIAiJ.png",Shopping Live
+#EXTINF:-1 group-title="MARKET online" tvg-logo="https://i.imgur.com/1KzGSke.png",Shopping Live
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
-#EXTINF:-1 group-title="MARKET online" tvg-logo="http://img.vintera.tv/img/ico/yuvelirochka.png",Ювелирочка ТВ HD
+#EXTINF:-1 group-title="MARKET online" tvg-logo="https://i.imgur.com/uODF16y.png",Ювелирочка ТВ HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 
@@ -1005,7 +1005,7 @@ http://ott-cdn.ucom.am/s68/04.m3u8
 #EXTINF:-1 group-title="Science - Lifestyle" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rybolov-ru.png",Рыболов
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s55/04.m3u8
-#EXTINF:-1 group-title="Science - Lifestyle" tvg-logo="https://i.ibb.co/vxZCXdC/image.png",Родной канал
+#EXTINF:-1 group-title="Science - Lifestyle" tvg-logo="https://i.imgur.com/xp9rDCz.png",Родной канал
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://n1.slavmir.tv/live/slavmir/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yy0YpWT.png" group-title="Science - Lifestyle",Зоо ТВ
@@ -1015,7 +1015,7 @@ http://ott-cdn.ucom.am/s92/04.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s90/04.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tbn_ru.png" group-title="OTHER",ТБН HD | Khoa giáo Tiếng Nga
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tbn_ru.png" group-title="OTHER",ТБН HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://62.32.67.187:1935/WEB_TBN/TBN.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0acD6tO.png" group-title="OTHER",Министерство идей
