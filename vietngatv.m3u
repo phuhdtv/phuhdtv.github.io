@@ -716,7 +716,7 @@ http://185.161.224.216/Perviy_Kanal_HD.ism/playlist.mpd
 #EXTINF:0 group-title="RUSSIAN" tvg-logo="https://i.imgur.com/5D1gwiv.png",РТР Планета (СНГ)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://ott-cdn.ucom.am/s15/index.m3u8
-#EXTINF:-1 group-title="RUSSIAN" tvg-logo="https://i.imgur.com/DtQX5P2.png",НТВ HD (МИР)
+#EXTINF:-1 group-title="RUSSIAN" tvg-logo="https://i.imgur.com/DtQX5P2.png",НТВ МИР
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s17/04.m3u8
 #EXTINF:-1 group-title="RUSSIAN" tvg-logo="https://i.imgur.com/qswopzO.png",Пятый канал
@@ -758,6 +758,12 @@ http://185.161.224.216/dash/STS_SD.ism/playlist.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/Domashniy_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="RUSSIAN" tvg-logo="https://i.imgur.com/zvhT8JO.png",ТВ3
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://185.161.224.216/dash/TV_3_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="RUSSIAN" tvg-logo="https://i.imgur.com/zvhT8JO.png",ТВ3 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://bl.uma.media/live/407373/HLS/6307840_7/2/1/playlist.m3u8
@@ -1078,8 +1084,6 @@ https://livecdn.fptplay.net/schedule/sukien04_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://vips-livecdn.fptplay.net/hda3/pladio_4000.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://golfnewstv.com/assets/images/GolfNews1.png",GolfNews
-https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/TOftsxb.png",ON Golf
 https://onsportlive.vtvcab.vn/hls/ONGOLFTA_CL/04.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/wPdMkZ4.png",ON VFF
