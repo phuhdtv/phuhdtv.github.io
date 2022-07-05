@@ -847,6 +847,9 @@ https://www.10kanal.ru:1443/10kanal/k24/playlist.m3u8
 http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8
 #EXTINF:-1 group-title="RUSSIAN" tvg-logo="http://img.ss-iptv.com/?action=getChannelLogo&id=356",ТВК
 http://air.tvk6.ru/tvk24/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GHUJeZH.png" group-title="RUSSIAN",ТВ Экстра
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://live-1.otcnet.ru/tvextra720b/index.m3u8
 
 #EXTINF:-1 group-title="RUSSIAN" tvg-logo="https://i.imgur.com/EMwsDdd.png",Красная линия
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
@@ -886,9 +889,6 @@ http://ott-cdn.ucom.am/s56/04.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://hls.tv.3angels.ru/stream/HQ.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MkFsM39.png" group-title="Music",1HD MUSIC TELEVISION
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://live-1.otcnet.ru/onehdweb/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/L71iY9t.png",Bridge TV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 #KODIPROP:inputstream=inputstream.adaptive
