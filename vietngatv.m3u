@@ -695,15 +695,8 @@ http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://api.alpaca.t62a.com/hls/9104/stream0.m3u8
 
-#EXTINF:0 group-title="RUSSIAN" tvg-logo="https://i.imgur.com/r8qjcs4.png",Первый Канал (СНГ)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s14/04.m3u8
-#EXTINF:0 group-title="RUSSIAN" tvg-logo="http://img.vintera.tv/img/ico/perviy_1.png",Первый HD
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.is_realtime_stream=true
-http://185.161.224.216/Perviy_Kanal_HD.ism/playlist.mpd
+#EXTINF:0 group-title="RUSSIAN" tvg-logo="https://i.imgur.com/r8qjcs4.png",Первый Канал (Евразия)
+http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
 #EXTINF:0 group-title="RUSSIAN" tvg-logo="https://i.imgur.com/5D1gwiv.png",РТР Планета (СНГ)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://ott-cdn.ucom.am/s15/index.m3u8
@@ -814,7 +807,7 @@ http://185.161.224.216/dash/2x2_SD.ism/playlist.mpd
 #EXTINF:0 group-title="RUSSIAN" tvg-logo="https://i.imgur.com/fhQFLEl.png",2x2 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://bl.uma.media/live/317805/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="RUSSIAN" tvg-logo="http://epg.it999.ru/img/2288.png",Суббота
+#EXTINF:-1 group-title="RUSSIAN" tvg-logo="http://epg.it999.ru/img/2288.png",Суббота HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://bl.uma.media/live/317845/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZKGC5i0.png" group-title="RUSSIAN",ТНВ-Планета
@@ -843,10 +836,12 @@ https://vmvideo.gcdn.co/streams/1503_161/playlist.m3u8
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 group-title="RUSSIAN" tvg-logo="https://i.imgur.com/ARh6WSf.png",Кузбасс 1 HD
 https://www.10kanal.ru:1443/10kanal/k24/playlist.m3u8
-#EXTINF:-1 group-title="RUSSIAN" tvg-logo="https://i.imgur.com/xQc3UoJ.png",Между.Net (Междуреченск)
+#EXTINF:-1 group-title="RUSSIAN" tvg-logo="https://i.imgur.com/xQc3UoJ.png",Между.Net
 http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8
 #EXTINF:-1 group-title="RUSSIAN" tvg-logo="https://i.imgur.com/BOry400.png",Москва 24
 https://radio-live-mg.rtr-vesti.ru/hls/moscow_24/playlist.m3u8
+#EXTINF:-1 group-title="RUSSIAN" tvg-logo="https://i.ibb.co/HFWJHMS/Prima.webp",Прима ТВ
+https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
 #EXTINF:-1 group-title="RUSSIAN" tvg-logo="http://img.ss-iptv.com/?action=getChannelLogo&id=356",ТВК
 http://air.tvk6.ru/tvk24/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GHUJeZH.png" group-title="RUSSIAN",ТВ Экстра
