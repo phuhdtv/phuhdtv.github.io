@@ -315,6 +315,9 @@ https://livecdn.fptplay.net/sdc/hanoitv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="hanoi2" group-title="Local" tvg-logo="https://i.imgur.com/97VIVBi.png",HanoiTV2
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/hanoitv2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="hanoi2" group-title="Local" tvg-logo="https://i.imgur.com/97VIVBi.png",HanoiTV2 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://103.90.220.236/hntvlive/tv2live.m3u8
 #EXTINF:-1 tvg-id="hatinh" group-title="Local" tvg-logo="https://i.imgur.com/q47WFaS.png",HTTV HD - HA TINH HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/hatinh_hls.smil/chunklist_b2500000.m3u8
@@ -1042,10 +1045,7 @@ http://ott-cdn.ucom.am/s61/04.m3u8
 http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
 #EXTINF:0 group-title="CIS" tvg-logo="https://i.imgur.com/oUbjl18.png",Qazaq TV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://kazakhtv.ultraiptv.com/kazakhtv/master.m3u8
-#EXTINF:-1 group-title="CIS" tvg-logo="https://i.imgur.com/oUbjl18.png",Qazaq TV HD
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://serv30.vintera.tv:8081/kazahtv/stream_ru/playlist.m3u8
+https://kzkhtv.ultraiptv.com/kzkhtv/master.m3u8
 #EXTINF:-1 group-title="CIS" tvg-logo="https://i.imgur.com/Dh1pUNW.png",Беларусь 24
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
