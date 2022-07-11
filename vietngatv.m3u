@@ -282,9 +282,6 @@ https://livecdn.fptplay.net/sda/skymart_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="dongthap" group-title="Local" tvg-logo="https://i.imgur.com/uMpTmJ4.png",THĐT1 HD - DONG THAP 1
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/dongthap_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="dongthap2" group-title="Local" tvg-logo="https://i.imgur.com/PfETBEp.png",MIEN TAY - THĐT2
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://202.43.109.144:1935/thdt2/thdt2/chunklist.m3u8
 #EXTINF:-1 tvg-id="dienbien" group-title="Local" tvg-logo="https://i.imgur.com/hMDRDxN.png",ĐTV HD - DIEN BIEN
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/dienbien_hls.smil/chunklist_b2500000.m3u8
@@ -393,6 +390,9 @@ https://livecdn.fptplay.net/sdc/longan_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="longan" group-title="Local" tvg-logo="https://i.imgur.com/FmwM4nh.png",LA34 HD - Long An HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://la34.vncdn.vn/live/LA34AAA/playlist.m3u8
+#EXTINF:-1 tvg-id="dongthap2" group-title="Local" tvg-logo="https://i.imgur.com/gfUNOZz.png",MIEN TAY HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://202.43.109.144:1935/thdt2/thdt2/chunklist.m3u8
 #EXTINF:0 tvg-id="namdinh" group-title="Local" tvg-logo="https://i.imgur.com/pMJZOnw.png",NTV HD - NAM DINH
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/namdinh_hls.smil/chunklist_b2500000.m3u8
