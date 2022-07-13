@@ -450,11 +450,9 @@ https://livecdn.fptplay.net/sda/quangninh3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="quangninh3" group-title="Local" tvg-logo="https://i.imgur.com/KgNVOmr.png",QTV3 HD - QUANG NINH 3 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://103.90.220.236/qtvlive/tv3live.m3u8
-#EXTINF:-1 tvg-id="soctrang" group-title="Local" tvg-logo="https://i.imgur.com/P8X69iD.png",STV1 - SOC TRANG 1
+#EXTINF:-1 tvg-id="soctrang" group-title="Local" tvg-logo="https://i.imgur.com/P8X69iD.png",STV1 - SOC TRANG
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sda/soctrang_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="soctrang" group-title="Local" tvg-logo="https://i.imgur.com/OozNLx6.png",STV2 - SOC TRANG 2
-http://live.television4you.xyz/stv2/mpegts
 #EXTINF:-1 tvg-id="sonla" group-title="Local" tvg-logo="https://i.imgur.com/pCTJQMX.png",STV - SON LA
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/sonla_hls.smil/chunklist_b2500000.m3u8
@@ -660,7 +658,7 @@ https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="outdoor_channel" group-title="Science - Lifestyle" tvg-logo="https://i.imgur.com/RJwaiHH.png",Outdoor Channel HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="International" tvg-logo="https://i.imgur.com/ZsYvvwL.png",Public TV Of Armenia
+#EXTINF:-1 group-title="CIS" tvg-logo="https://i.imgur.com/ZsYvvwL.png",Public TV Of Armenia
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://serv24.vintera.tv:8081/test/h1_arm/index.m3u8
 #EXTINF:-1 group-title="International" tvg-logo="https://i.imgur.com/3jY6dQU.png",Rai
@@ -1056,6 +1054,8 @@ https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
 #EXTINF:0 group-title="CIS" tvg-logo="https://i.imgur.com/gn8Gb98.png",БелРос
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
+#EXTINF:-1 group-title="CIS" tvg-logo="https://i.imgur.com/HLiv5Hq.jpg",Новое ТВ
+http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png",F Event 1
 #EXTVLCOPT:http-user-agent=VThanhTivi
