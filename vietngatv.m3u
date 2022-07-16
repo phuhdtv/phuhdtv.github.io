@@ -58,7 +58,7 @@ https://livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc9hd" group-title="🇻🇳| VTC HD" tvg-logo="https://imgur.com/SyeeC16.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc9_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC9 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdb/vtc9_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc10" group-title="🇻🇳| Networks" tvg-logo="https://i.imgur.com/HitkMj3.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc10_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC10
+#EXTINF:-1 tvg-id="vtc10" group-title="🇻🇳| Networks" tvg-logo="https://i.imgur.com/1U7CKCF.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc10_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC10 - NETVIET
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdb/vtc10_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc11" group-title="🇻🇳| Networks" tvg-logo="https://i.imgur.com/AyBxScM.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc11_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC11
@@ -157,6 +157,8 @@ https://live2cdn.todayplus.com.vn/sdb/smil:hitv.smil/chunklist_w1869490844_b1596
 #EXTINF:-1 tvg-id="youtv" group-title="🇻🇳| Networks" tvg-logo="https://imgur.com/TNHxeXv.png",YouTV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="🇻🇳| Networks" tvg-logo="https://i.imgur.com/Rz2LZJp.png",Phim Hay
+http://cdn.socolacdn.online:8080/phimhay/mpegts
 #EXTINF:-1 tvg-id="sctv6hd" group-title="🇻🇳| Networks" tvg-logo="https://i.imgur.com/5XwO0Ql.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",SCTV6 HD
 #EXTVLCOPT:http-user-agent="SCTVOnline"
 https://livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
@@ -294,9 +296,6 @@ http://103.90.220.236/drtlive/tv1live-transmux.m3u8
 #EXTINF:-1 tvg-id="daknong" tvg-logo="https://i.imgur.com/3t7IHIe.png" group-title="🇻🇳| Local",PTD - DAK NONG
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://drm-livecdn.hplus.com.vn/htvonline/daknong.480p.nimble.tms/playlist.m3u8
-#EXTINF:-1 tvg-id="daknong" tvg-logo="https://i.imgur.com/3t7IHIe.png" group-title="🇻🇳| Local",PTD HD - DAK NONG HD
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://16371213858134.vnns.net/daknong_abr/vtc130121/daknong-1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="gialai" group-title="🇻🇳| Local" tvg-logo="https://i.imgur.com/ZEAxzoF.png",THGL - Gia Lai
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sda/gialai_hls.smil/chunklist_b2500000.m3u8
@@ -619,7 +618,7 @@ http://ott-cdn.ucom.am/s26/04.m3u8
 #EXTINF:-1 tvg-id="dreamworks" group-title="🇻🇳/🇷🇺| Kids" tvg-logo="https://i.imgur.com/WTO8O0N.png",DreamWorks HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="🇻🇳/🇷🇺| News" tvg-logo="https://i.imgur.com/8t9mdg9.png",EURONEWS
+#EXTINF:-1 group-title="🇷🇺| RUSSIAN" tvg-logo="https://i.imgur.com/8t9mdg9.png",EURONEWS
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s89/04.m3u8
 #EXTINF:-1 group-title="🇻🇳/🇷🇺| Entertainment" tvg-logo="https://i.imgur.com/Dk6Rz7T.png",Fashion TV
