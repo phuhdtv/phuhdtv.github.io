@@ -597,12 +597,6 @@ http://liveru.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1 tvg-id="davincihd" group-title="🇻🇳/🇷🇺| Kids" tvg-logo="https://i.imgur.com/iBx7K1M.png",Da Vinci HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="🇻🇳/🇷🇺| Kids" tvg-logo="https://i.imgur.com/g0UK661.png",Disney Channel
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.is_realtime_stream=true
-http://185.161.224.216/dash/Disney_SD.ism/playlist.mpd
 #EXTINF:-1 tvg-id="discovery" group-title="🇻🇳/🇷🇺| Science - Lifestyle" tvg-logo="https://i.imgur.com/JuuiKd3.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/discovrery_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Discovery HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
@@ -642,7 +636,7 @@ https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="kbsworld" group-title="🌏| International" tvg-logo="https://i.imgur.com/zPSO1up.png",KBS World HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="nhkworld" group-title="🌏| International" tvg-logo="https://i.imgur.com/cnMuKG4.jpg",NHK WORLD JAPAN HD
+#EXTINF:-1 tvg-id="nhkworld" group-title="🌏| International" tvg-logo="https://i.imgur.com/dUiPQw8.png",NHK WORLD JAPAN HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="ngchd" group-title="🇻🇳/🇷🇺| Science - Lifestyle" tvg-logo="https://i.imgur.com/O13uMvJ.png",National Geographic HD
@@ -824,6 +818,12 @@ http://185.161.224.216/dash/2x2_SD.ism/playlist.mpd
 #EXTINF:0 group-title="🇷🇺| RUSSIAN" tvg-logo="https://i.imgur.com/fhQFLEl.png",2x2 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://bl.uma.media/live/317805/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="🇻🇳/🇷🇺| Kids" tvg-logo="https://i.imgur.com/u7VDHRz.png",Disney Channel
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://185.161.224.216/dash/Disney_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="🇷🇺| RUSSIAN" tvg-logo="http://epg.it999.ru/img/2288.png",Суббота HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://bl.uma.media/live/317845/HLS/4614144_3/2/1/playlist.m3u8
