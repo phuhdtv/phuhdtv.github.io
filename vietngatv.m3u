@@ -160,7 +160,7 @@ https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="🇻🇳/🇷🇺| MOVIES & TV SERIES" tvg-logo="https://i.imgur.com/Rz2LZJp.png",Phim Hay
 http://cdn.socolacdn.online:8080/phimhay/mpegts
 #EXTINF:-1 tvg-id="sctv6hd" group-title="🇻🇳| Networks" tvg-logo="https://i.imgur.com/5XwO0Ql.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",SCTV6 HD
-#EXTVLCOPT:http-user-agent="SCTVOnline"
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="sctv8hd" group-title="🇻🇳| Networks" tvg-logo="https://i.imgur.com/DZ0Gv8i.png",VITV - SCTV8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
@@ -1057,19 +1057,19 @@ http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png",F Event 1
-#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/schedule/sukien01_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png",F Event 2
-#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/schedule/sukien02_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png",F Event 3
-#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/schedule/sukien03_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png",F Event 4
-#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/schedule/sukien04_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://i.postimg.cc/V669QzBb/Pladio-FPT.png",Pladio
-#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://vips-livecdn.fptplay.net/hda3/pladio_4000.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="🇻🇳/🇷🇺| Sports" tvg-logo="https://i.ibb.co/488srb1/Golf-News-BEARTV.png",GolfNews
@@ -1086,31 +1086,31 @@ http://ott-cdn.ucom.am/s86/04.m3u8
 http://ott-cdn.ucom.am/s41/04.m3u8
 
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://i.ibb.co/DRc2SNG/fpt-play-sport-BEARTV.png",F Sports 1
-#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://vips-livecdn.fptplay.net/hdevent/fsport01_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://i.ibb.co/DRc2SNG/fpt-play-sport-BEARTV.png",F Sports 2
-#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://vips-livecdn.fptplay.net/hdevent/fsport02_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://i.ibb.co/DRc2SNG/fpt-play-sport-BEARTV.png",F Sports 3
-#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://vips-livecdn.fptplay.net/hdevent/fsport03_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://i.ibb.co/DRc2SNG/fpt-play-sport-BEARTV.png",F Sports 4
-#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://vips-livecdn.fptplay.net/hdevent/fsport04_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://i.ibb.co/DRc2SNG/fpt-play-sport-BEARTV.png",F Sports 5
-#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://vips-livecdn.fptplay.net/hdevent/fsport05_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://i.ibb.co/DRc2SNG/fpt-play-sport-BEARTV.png",F Sports 6
-#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://vips-livecdn.fptplay.net/hdevent/fsport06_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://i.ibb.co/DRc2SNG/fpt-play-sport-BEARTV.png",F Sports 7
-#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://vips-livecdn.fptplay.net/hdevent/fsport07_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://i.ibb.co/DRc2SNG/fpt-play-sport-BEARTV.png",F Sports 8
-#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://vips-livecdn.fptplay.net/hdevent/fsport08_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://i.ibb.co/DRc2SNG/fpt-play-sport-BEARTV.png",F Sports 9
-#EXTVLCOPT:http-user-agent=VThanhTivi
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://vips-livecdn.fptplay.net/hdevent/fsport09_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 group-title="🇻🇳/🇷🇺| RADIO" tvg-logo="https://i.imgur.com/mbPvLmS.png",VOV1
