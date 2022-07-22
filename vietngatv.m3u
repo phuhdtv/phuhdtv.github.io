@@ -248,7 +248,7 @@ https://livecdn.fptplay.net/sdb/backan_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="bacninh" group-title="🇻🇳| Local" tvg-logo="https://i.imgur.com/Ju7lwHi.png",BTV HD - Bac Ninh HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/bacninh_hls.smil/chunklist_b2800000.m3u8
-#EXTINF:-1 tvg-id="camau" group-title="🇻🇳| Local" tvg-logo="https://i.imgur.com/YkEommU.png",CTV HD - CA Mau HD
+#EXTINF:-1 tvg-id="camau" group-title="🇻🇳| Local" tvg-logo="https://i.imgur.com/Zft3fPI.png",CTV HD - CA Mau HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/camau_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="caobang" group-title="🇻🇳| Local" tvg-logo="https://i.imgur.com/kETe9LN.png",CRTV - Cao BAng
@@ -684,7 +684,7 @@ http://tv-trtworld.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KWg9F4c.png" group-title="🇻🇳/🇷🇺| Music",VIVA HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
-#EXTINF:-1 group-title="🇻🇳/🇷🇺| News" tvg-logo="https://i.imgur.com/9A6LZ7z.jpg",VOA TV
+#EXTINF:-1 group-title="🇻🇳/🇷🇺| OTHER" tvg-logo="https://i.imgur.com/9A6LZ7z.jpg",VOA TV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://voa-ingest.akamaized.net/hls/live/2033866/tvmc01/VOA-TVMC01_1080/playlist.m3u8
 #EXTINF:-1 tvg-id="warnertvhd" group-title="🇻🇳/🇷🇺| MOVIES & TV SERIES" tvg-logo="https://i.imgur.com/kj250WZ.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/warnertv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Warner TV HD
@@ -1002,9 +1002,6 @@ http://ott-cdn.ucom.am/s90/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0acD6tO.png" group-title="🇻🇳/🇷🇺| OTHER",Министерство идей
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WInGwXw.png" group-title="🇻🇳/🇷🇺| OTHER",Московский образовательный
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://retj.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:-1 group-title="🇻🇳/🇷🇺| MOVIES & TV SERIES" tvg-logo="https://i.imgur.com/YTcmkfW.png",Backus TV
 http://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GGX4vDW.png" group-title="🇻🇳/🇷🇺| MOVIES & TV SERIES",Backus TV Страшное
@@ -1136,8 +1133,10 @@ https://str.vov.gov.vn/vovlive/vovgtMeKong.sdp_aac/chunklist_w1338501805.m3u8
 http://media.kythuatvov.vn:7021/;stream/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9I4gX5Y.png" group-title="🇻🇳/🇷🇺| RADIO",Da Nang TV Radio
 http://drtdnglive.e49a7c38.cdnviet.com/liveradio/playlist.m3u8
-#EXTINF:-1 group-title="🇻🇳/🇷🇺| RADIO" tvg-logo="https://i.imgur.com/11UmfZD.png",THĐT Radio - 98.4Mhz
+#EXTINF:-1 group-title="🇻🇳/🇷🇺| RADIO" tvg-logo="https://i.imgur.com/11UmfZD.png",THĐT Radio - FM 98.4Mhz
 http://202.43.109.144:1935/thdtradio/thdtradio/chunklist.m3u8
+#EXTINF:-1 group-title="🇻🇳/🇷🇺| RADIO" tvg-logo="https://i.imgur.com/YkEommU.png",CTV Radio - FM 94.6Mhz
+http://tv.ctvcamau.vn/live/radio/radio.m3u8
 #EXTINF:-1 group-title="🇻🇳/🇷🇺| RADIO" tvg-logo="https://i.ibb.co/f0NGW2Y/ON365-FM.webp",ON365 FM
 http://onsportlive.vtvcab.vn/hls/ONRADIO_CL/04.m3u8
 #EXTINF:0 group-title="🇻🇳/🇷🇺| RADIO" tvg-logo="https://i.ibb.co/RTqj6Y9/voh610.png",VOH1 - 610Khz
