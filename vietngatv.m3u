@@ -28,26 +28,27 @@ https://livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="vtvcab1hd" group-title="🇻🇳/🇷🇺| Entertainment" tvg-logo="https://i.imgur.com/86M8nJ2.png",VTVcab 1
+#EXTINF:-1 tvg-id="vtvcab1hd" group-title="🇻🇳/🇷🇺| Entertainment" tvg-logo="https://i.imgur.com/86M8nJ2.png" catchup="append" catchup-days="2" catchup-source="https://api.television4you.xyz/v1/dvr/vieon/vie-giai-tri-hd/${start}/${offset}",VTVcab 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.television4you.xyz/v1/getlink/vieon/vie-giai-tri-hd
-#EXTINF:-1 tvg-id="vtvcab3hd" group-title="🇻🇳/🇷🇺| Sports" tvg-logo="https://i.imgur.com/UKDBOaR.png",ON Sports HD
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="🇻🇳/🇷🇺| Sports" tvg-logo="https://i.imgur.com/UKDBOaR.png" catchup="append" catchup-days="2" catchup-source="https://api.television4you.xyz/v1/dvr/vieon/vtvcab3-on-sports/${start}/${offset}",ON Sports HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.television4you.xyz/v1/getlink/vieon/vtvcab3-on-sports
-#EXTINF:-1 tvg-id="vtvcab6hd" group-title="🇻🇳/🇷🇺| Sports" tvg-logo="https://i.imgur.com/0WG6aCs.png",ON Sports+ HD
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="🇻🇳/🇷🇺| Sports" tvg-logo="https://i.imgur.com/0WG6aCs.png" catchup="append" catchup-days="2" catchup-source="https://api.television4you.xyz/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}",ON Sports+ HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.television4you.xyz/v1/getlink/vieon/vtvcab6-on-sport-plus
 #EXTINF:-1 group-title="🇻🇳/🇷🇺| Shop" tvg-logo="https://i.imgur.com/poOt1nE.png",VTVCab13 - VTV Hyundai Home Shopping
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdb/vtvhyundai_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="🇻🇳/🇷🇺| Sports" tvg-logo="https://i.imgur.com/yVrY9R0.png",ON Football HD
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="🇻🇳/🇷🇺| Sports" tvg-logo="https://i.imgur.com/yVrY9R0.png" catchup="append" catchup-days="2" catchup-source="https://api.television4you.xyz/v1/dvr/vieon/vtvcab16-on-football/${start}/${offset}",ON Football HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.television4you.xyz/v1/getlink/vieon/vtvcab16-on-football
-#EXTINF:-1 tvg-id="vtvcab18hd" group-title="🇻🇳/🇷🇺| Sports" tvg-logo="https://i.imgur.com/DRaBQah.png",ON Sports News HD
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="🇻🇳/🇷🇺| Sports" tvg-logo="https://i.imgur.com/DRaBQah.png" catchup="append" catchup-days="2" catchup-source="https://api.television4you.xyz/v1/dvr/vieon/vtvcab18-on-sports-news/${start}/${offset}",ON Sports News HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.television4you.xyz/v1/getlink/vieon/vtvcab18-on-sports-news
-#EXTINF:-1 tvg-id="vtvcab19hd" group-title="🇻🇳/🇷🇺| MOVIES & TV SERIES" tvg-logo="https://i.imgur.com/8e5aeiW.png",Vie Dramas
-https://api.television4you.xyz/v1/getlink/vieon/vie-dramas-hd
+#EXTINF:-1 tvg-id="vtvcab23hd" group-title="🇻🇳/🇷🇺| Sports" tvg-logo="https://i.imgur.com/TOftsxb.png" catchup="append" catchup-days="2" catchup-source="https://api.television4you.xyz/v1/dvr/vieon/vtvcab23-the-thao-golf/${start}/${offset}",ON Golf HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://api.television4you.xyz/v1/getlink/vieon/vtvcab23-the-thao-golf
 #EXTINF:-1 tvg-id="vtvcab23hd" group-title="🇻🇳/🇷🇺| Sports" tvg-logo="https://i.imgur.com/TOftsxb.png",ON Golf ENG
 https://onsportlive.vtvcab.vn/hls/ONGOLFTA_CL/04.m3u8
 #EXTINF:-1 group-title="🇻🇳/🇷🇺| Sports" tvg-logo="https://i.imgur.com/wPdMkZ4.png",ON VFF
