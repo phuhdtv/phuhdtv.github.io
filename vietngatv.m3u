@@ -181,9 +181,7 @@ https://livecdn.fptplay.net/hda3/htvcmusic_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdb/htvcshopping_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="hitv" tvg-logo="https://i.imgur.com/M2eXdhw.png" group-title="🇻🇳/🇷🇺| Entertainment",Hanoicab HITV
-https://live2cdn.todayplus.com.vn/sdb/smil:hitv.smil/chunklist_w1869490844_b1596000.m3u8
-#EXTINF:-1 tvg-id="youtv" group-title="🇻🇳/🇷🇺| Entertainment" tvg-logo="https://imgur.com/TNHxeXv.png",Hanoicab YouTV
+#EXTINF:-1 tvg-id="youtv" group-title="🇻🇳/🇷🇺| Entertainment" tvg-logo="https://imgur.com/TNHxeXv.png",HCATV - YouTV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
 
@@ -320,10 +318,10 @@ http://103.90.220.236/thhnlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="hanoi1" group-title="🇻🇳| Local" tvg-logo="https://i.imgur.com/zkigXd4.png",HanoiTV1 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/hanoitv1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="hanoi2" group-title="🇻🇳| Local" tvg-logo="https://i.imgur.com/97VIVBi.png",HanoiTV2
+#EXTINF:-1 tvg-id="hanoi2" group-title="🇻🇳| Local" tvg-logo="https://i.imgur.com/97VIVBi.png",HanoiTV2 (HaTayTV)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/hanoitv2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="hanoi2" group-title="🇻🇳| Local" tvg-logo="https://i.imgur.com/97VIVBi.png",HanoiTV2 HD
+#EXTINF:-1 tvg-id="hanoi2" group-title="🇻🇳| Local" tvg-logo="https://i.imgur.com/97VIVBi.png",HanoiTV2 HD (HaTayTV)
 http://103.90.220.236/hntvlive/tv2live.m3u8
 #EXTINF:-1 tvg-id="hatinh" group-title="🇻🇳| Local" tvg-logo="https://i.imgur.com/q47WFaS.png",HTTV HD - HA TINH HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
@@ -524,7 +522,7 @@ https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="abcaustralia" group-title="🇻🇳/🇷🇺| News - Business" tvg-logo="https://imgur.com/2vyn97P.png",ABC Australia
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://livecdn.fptplay.net/sdb/australiaplus_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda3/australiaplus_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="bloomberg" group-title="🇻🇳/🇷🇺| News - Business" tvg-logo="https://i.imgur.com/idRFfhY.png",Bloomberg Television
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdb/bloomberg_hls.smil/chunklist_b2500000.m3u8
@@ -536,7 +534,7 @@ http://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="🇻🇳/🇷🇺| News - Business" tvg-logo="https://i.imgur.com/rPzH88J.png",BBC News
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://livecdn.fptplay.net/sdb/bbcnew_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda3/bbcnews_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="bbcearth" group-title="🇻🇳/🇷🇺| Science - Lifestyle" tvg-logo="https://i.imgur.com/xXM60fa.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",BBC Earth HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
@@ -561,11 +559,9 @@ http://livecdn.fptplay.net/sdb/newsasia_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="cna" group-title="🇻🇳/🇷🇺| News - Business" tvg-logo="https://i.imgur.com/2jkHv8G.png",Channel News Asia HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="cnn" group-title="🇻🇳/🇷🇺| News - Business" tvg-logo="https://i.imgur.com/KacMcVa.png",Cable News Network International
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://livecdn.fptplay.net/sdb/cnn_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="cnn" group-title="🇻🇳/🇷🇺| News - Business" tvg-logo="https://i.imgur.com/KacMcVa.png",Cable News Network International HD
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://vips-livecdn.fptplay.net/hda3/cnn_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="cartoonhd" group-title="🇻🇳/🇷🇺| Kids" tvg-logo="https://i.imgur.com/cq9CgAk.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Cartoon Network HD SEA
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
@@ -596,7 +592,7 @@ http://ott-cdn.ucom.am/s26/04.m3u8
 #EXTINF:-1 tvg-id="dreamworks" group-title="🇻🇳/🇷🇺| Kids" tvg-logo="https://i.imgur.com/WTO8O0N.png",DreamWorks HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="🇷🇺| RUSSIAN" tvg-logo="https://i.imgur.com/8t9mdg9.png",EURONEWS
+#EXTINF:-1 group-title="🇷🇺| RUSSIAN" tvg-logo="https://i.imgur.com/8t9mdg9.png",EURONEWS - Евроновости
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s89/04.m3u8
 #EXTINF:-1 group-title="🇻🇳/🇷🇺| Entertainment" tvg-logo="https://i.imgur.com/Dk6Rz7T.png",Fashion TV
@@ -640,7 +636,7 @@ https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="CIS" tvg-logo="https://i.imgur.com/ZsYvvwL.png",Public TV Of Armenia
 http://serv24.vintera.tv:8081/test/h1_arm/index.m3u8
-#EXTINF:-1 group-title="🌏| International" tvg-logo="https://i.imgur.com/3jY6dQU.png",Rai
+#EXTINF:-1 group-title="🌏| International" tvg-logo="https://i.imgur.com/3jY6dQU.png",Rai Italia Asia
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s29/04.m3u8
 #EXTINF:-1 tvg-id="blueantent" group-title="🇻🇳/🇷🇺| Entertainment" tvg-logo="https://i.imgur.com/rDncFFu.png",Rock Entertainment HD
