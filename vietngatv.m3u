@@ -600,10 +600,6 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/01.m3u8
 #EXTINF:-1 tvg-id="hbohd" group-title="🇻🇳/🇷🇺| MOVIES & TV SERIES" tvg-logo="https://i.imgur.com/UmfhBQU.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",HBO HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="historyhd" tvg-name="History HD" tvg-logo="https://i.imgur.com/uWdY6xI.png" group-title="🇻🇳/🇷🇺| Science - Lifestyle",History HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://code.television4you.xyz/key.php?kid=6765ea7b7cc54c1c86551d6b3440b39b&key=1613f6b40465bbe91740f78571ac79fa
-https://vstv.broadpeak-aas.com/bpk-tv/prod_history/default/i.mpd
 #EXTINF:-1 tvg-id="kix" group-title="🇻🇳/🇷🇺| Entertainment" tvg-logo="https://i.imgur.com/SvRrcXy.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",KIX HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
@@ -913,7 +909,7 @@ http://ott-cdn.ucom.am/s31/04.m3u8
 #EXTINF:-1 group-title="🇻🇳/🇷🇺| Science - Lifestyle" tvg-logo="https://i.ibb.co/48cmJCx/image.png",Телепутешествия 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s71/04.m3u8
-#EXTINF:-1 group-title="🇻🇳/🇷🇺| Science - Lifestyle" tvg-logo="https://i.imgur.com/7fZXK7y.png",История 
+#EXTINF:-1 group-title="🇻🇳/🇷🇺| Science - Lifestyle" tvg-logo="https://i.imgur.com/7fZXK7y.png",История - History HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s40/04.m3u8
 #EXTINF:-1 group-title="🇻🇳/🇷🇺| Science - Lifestyle" tvg-logo="https://i.imgur.com/BLFXTL1.png",Наука 
@@ -1064,8 +1060,6 @@ https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist_w1213978008.m3u8
 https://str.vov.gov.vn/vovlive/vovgtMeKong.sdp_aac/chunklist_w1338501805.m3u8
 #EXTINF:-1 group-title="🇻🇳/🇷🇺| RADIO" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VOV_SucKhoe.png",VOV FM 89Mhz
 http://media.kythuatvov.vn:7021/;stream/
-#EXTINF:-1 group-title="🇻🇳/🇷🇺| RADIO" tvg-logo="https://i.ibb.co/f0NGW2Y/ON365-FM.webp",ON365 FM
-http://onsportlive.vtvcab.vn/hls/ONRADIO_CL/04.m3u8
 #EXTINF:0 group-title="🇻🇳/🇷🇺| RADIO" tvg-logo="https://i.ibb.co/RTqj6Y9/voh610.png",VOH1 - 610Khz
 https://strm.voh.com.vn/radio/channel2/playlist.m3u8
 #EXTINF:0 group-title="🇻🇳/🇷🇺| RADIO" tvg-logo="https://i.ibb.co/LYGM648/r-voh87.png",VOH2 - 87.7Mhz
