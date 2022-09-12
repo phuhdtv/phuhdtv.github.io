@@ -649,8 +649,9 @@ http://ott-cdn.ucom.am/s14/04.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/Perviy_Kanal_HD.ism/playlist.mpd
-#EXTINF:0 group-title="🇷🇺| RUSSIAN" tvg-logo="https://i.imgur.com/5D1gwiv.png",Россия РТР Азия
-http://a635216092-s27836.cdn.ngenix.net/hls/planeta_rtr_asia/playlist_3.m3u8
+#EXTINF:0 group-title="🇷🇺| RUSSIAN" tvg-logo="https://i.imgur.com/5D1gwiv.png",Россия РТР СНГ
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s15/index.m3u8
 #EXTINF:-1 group-title="🇷🇺| RUSSIAN" tvg-logo="https://i.imgur.com/DtQX5P2.png",НТВ МИР
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s17/04.m3u8
