@@ -480,7 +480,7 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklis
 #EXTINF:-1 tvg-id="animaxhd" group-title="🇻🇳/🇷🇺| Kids" tvg-logo="https://i.imgur.com/4vguftk.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animaxport_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",ANIMAX HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="animalhd" group-title="🇻🇳/🇷🇺| Science & Lifestyle" tvg-logo="https://i.imgur.com/VdM7RV6.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Animal HD ENG
+#EXTINF:-1 tvg-id="animalhd" group-title="🇻🇳/🇷🇺| Science & Lifestyle" tvg-logo="https://i.imgur.com/VdM7RV6.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Animal Asia HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="afnhd" group-title="🇻🇳/🇷🇺| Sports & Entertainment" tvg-logo="https://i.imgur.com/tNnqNSz.png",Asian Food Network HD
@@ -519,16 +519,16 @@ https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="🇻🇳/🇷🇺| MOVIES & TV SERIES" tvg-logo="https://i.imgur.com/gHCOcuF.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemawork_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Cinema World HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="cna" group-title="🇻🇳/🇷🇺| News - Business" tvg-logo="https://i.imgur.com/2jkHv8G.png",Channel News Asia
+#EXTINF:-1 tvg-id="cna" group-title="🇻🇳/🇷🇺| News - Business" tvg-logo="https://i.imgur.com/2jkHv8G.png",CNA - Channel News Asia
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://livecdn.fptplay.net/sdb/newsasia_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="cna" group-title="🇻🇳/🇷🇺| News - Business" tvg-logo="https://i.imgur.com/2jkHv8G.png",Channel News Asia HD
+#EXTINF:-1 tvg-id="cna" group-title="🇻🇳/🇷🇺| News - Business" tvg-logo="https://i.imgur.com/2jkHv8G.png",CNA - Channel News Asia HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="cnn" group-title="🇻🇳/🇷🇺| News - Business" tvg-logo="https://i.imgur.com/KacMcVa.png",Cable News Network International HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://vips-livecdn.fptplay.net/hda3/cnn_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="cartoonhd" group-title="🇻🇳/🇷🇺| Kids" tvg-logo="https://i.imgur.com/cq9CgAk.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Cartoon HD ENG
+#EXTINF:-1 tvg-id="cartoonhd" group-title="🇻🇳/🇷🇺| Kids" tvg-logo="https://i.imgur.com/cq9CgAk.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Cartoon Asia HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="cnbc" group-title="🌏| International" tvg-logo="https://i.imgur.com/KxxvR2X.png",CNBC
@@ -560,14 +560,15 @@ http://ott-cdn.ucom.am/s26/04.m3u8
 https://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="🇷🇺| RUSSIAN" tvg-logo="https://i.imgur.com/8t9mdg9.png",EURONEWS - Евроновости
 https://euronews.alteox.app/hls/ru_stream.m3u8
-#EXTINF:-1 group-title="🇻🇳/🇷🇺| Sports & Entertainment" tvg-logo="https://i.imgur.com/Dk6Rz7T.png",Fashion TV
+#EXTINF:-1 group-title="🇻🇳/🇷🇺| Sports & Entertainment" tvg-logo="https://i.imgur.com/Dk6Rz7T.png",FTV - Fashion TV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="france24eng" group-title="🌏| International" tvg-logo="https://i.imgur.com/zdze6Iq.png",FRANCE 24 English
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdb/france24_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="france24eng" group-title="🌏| International" tvg-logo="https://i.imgur.com/zdze6Iq.png",France 24 English HD
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/01.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://api.vthanhtivi.pw/v1/getlink/vieon/france-24-english-hd
 #EXTINF:-1 tvg-id="hbohd" group-title="🇻🇳/🇷🇺| MOVIES & TV SERIES" tvg-logo="https://i.imgur.com/UmfhBQU.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",HBO HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
@@ -595,7 +596,7 @@ https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="outdoor_channel" group-title="🇻🇳/🇷🇺| Science & Lifestyle" tvg-logo="https://i.imgur.com/RJwaiHH.png",Outdoor Channel HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="CIS" tvg-logo="https://i.imgur.com/ZsYvvwL.png",Public TV Of Armenia
+#EXTINF:-1 group-title="CIS" tvg-logo="https://i.imgur.com/ZsYvvwL.png",H1 International - Public TV Of Armenia
 http://serv24.vintera.tv:8081/test/h1_arm/index.m3u8
 #EXTINF:-1 group-title="🌏| International" tvg-logo="https://i.imgur.com/3jY6dQU.png",Rai Italia Asia
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
@@ -606,10 +607,10 @@ https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="blueantext" group-title="🇻🇳/🇷🇺| Sports & Entertainment" tvg-logo="https://i.imgur.com/FiVtTfA.png",Rock Extreme HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="🇻🇳/🇷🇺| News - Business" tvg-logo="https://i.imgur.com/3E4KGqG.png",Russia Today English
+#EXTINF:-1 group-title="🇻🇳/🇷🇺| News - Business" tvg-logo="https://i.imgur.com/3E4KGqG.png",RT - Russia Today English
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s96/04.m3u8
-#EXTINF:-1 group-title="🇻🇳/🇷🇺| Science & Lifestyle" tvg-logo="https://i.imgur.com/C6fylkt.png",Russia Today Documentary RUSSIAN
+#EXTINF:-1 group-title="🇻🇳/🇷🇺| Science & Lifestyle" tvg-logo="https://i.imgur.com/C6fylkt.png",RTД - Russia Today Documentary RUSSIAN
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s93/04.m3u8
 #EXTINF:-1 group-title="🇻🇳/🇷🇺| Music" tvg-logo="https://i.imgur.com/pH3Q1jn.png",Sochi Live HD
@@ -617,6 +618,9 @@ http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 #EXTINF:-1 tvg-id="tv5monde_asie" group-title="🌏| International" tvg-logo="https://imgur.com/BD2PW2Q.png",TV5 Monde ASIE
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="tv5monde_asie" group-title="🌏| International" tvg-logo="https://imgur.com/BD2PW2Q.png",TV5 Monde HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://api.vthanhtivi.pw/v1/getlink/vieon/tv5-monde-asie
 #EXTINF:-1 tvg-id="tlchd" group-title="🇻🇳/🇷🇺| Science & Lifestyle" tvg-logo="https://i.imgur.com/ELjuMyU.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",TLC HD - Travel & Living
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
