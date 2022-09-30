@@ -83,27 +83,27 @@ https://livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="vovtvhd" group-title="🇻🇳| Voice of Vietnam" tvg-logo="https://i.imgur.com/MGLFyKb.png",VOV TV
+#EXTINF:-1 tvg-id="vovtvhd" group-title="🇻🇳| National" tvg-logo="https://i.imgur.com/MGLFyKb.png",VOV TV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/vovtvsd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vovtvhd" group-title="🇻🇳| Voice of Vietnam" tvg-logo="https://i.imgur.com/yyftSZg.png",VOV TV HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://103.90.220.236/vovlive/tv1live.m3u8
-#EXTINF:-1 tvg-id="antvhd" group-title="🇻🇳| National" tvg-logo="https://i.imgur.com/8goldzC.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",AN NINH TV HD
+#EXTINF:-1 tvg-id="antvhd" group-title="🇻🇳-🇷🇺| Newspapers" tvg-logo="https://i.imgur.com/8goldzC.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",AN NINH TV HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="qpvnhd" group-title="🇻🇳| National" tvg-logo="https://i.imgur.com/fBvkVen.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/quocphongvnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",QPVN HD
+#EXTINF:-1 tvg-id="qpvnhd" group-title="🇻🇳-🇷🇺| Newspapers" tvg-logo="https://i.imgur.com/fBvkVen.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/quocphongvnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",QPVN HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="ttxvnhd" group-title="🇻🇳| National" tvg-logo="https://i.imgur.com/AAWIPHz.png",VNews - TTXVN HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="quochoi" group-title="🇻🇳| National" tvg-logo="https://i.ibb.co/BCVcBPM/quochoi-cc.webp",QUOC HOI TV HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda1/quochoivn_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="nhandan" group-title="🇻🇳-🇷🇺| Newspapers" tvg-logo="https://i.imgur.com/7zgsFIK.png",NHAN DAN TV HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="ttxvnhd" group-title="🇻🇳| National" tvg-logo="https://i.imgur.com/AAWIPHz.png",VNews - TTXVN HD
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="htv1" group-title="🇻🇳| HCMC Television" tvg-logo="https://i.imgur.com/DXN2hS2.png",HTV1
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
