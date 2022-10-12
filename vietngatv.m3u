@@ -528,7 +528,7 @@ http://livecdn.fptplay.net/sdb/newsasia_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="cnn" group-title="🇻🇳-🇷🇺| News - Business" tvg-logo="https://i.imgur.com/KacMcVa.png",Cable News Network International HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://vips-livecdn.fptplay.net/hda3/cnn_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="cartoonhd" group-title="🇻🇳-🇷🇺| Kids" tvg-logo="https://i.imgur.com/cq9CgAk.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Cartoon Asia HD
+#EXTINF:-1 tvg-id="cartoonhd" group-title="🇻🇳-🇷🇺| Kids" tvg-logo="https://i.imgur.com/cq9CgAk.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",CN - Cartoon HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="cnbc" group-title="🌏| International" tvg-logo="https://i.imgur.com/KxxvR2X.png",CNBC
@@ -595,6 +595,8 @@ http://ott-cdn.ucom.am/s49/index.m3u8
 #EXTINF:-1 tvg-id="mtvhd" group-title="🇻🇳-🇷🇺| Music" tvg-logo="https://i.imgur.com/FeFMOxH.png",MTV Asia
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/NDTV_247.svg" group-title="🇻🇳-🇷🇺| News - Business",NDTV 24X7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 #EXTINF:-1 tvg-id="outdoor_channel" group-title="🇻🇳-🇷🇺| Science & Lifestyle" tvg-logo="https://i.imgur.com/RJwaiHH.png",Outdoor Channel HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
@@ -632,6 +634,8 @@ https://voa-ingest.akamaized.net/hls/live/2033866/tvmc01/VOA-TVMC01_1080/playlis
 #EXTINF:-1 tvg-id="warnertvhd" group-title="🇻🇳-🇷🇺| MOVIES & TV SERIES" tvg-logo="https://i.imgur.com/kj250WZ.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/warnertv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Warner TV HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JyslMHb.jpg" group-title="🇷🇺-🇰🇿-🇧🇾| RUSSIA-Kazakhstan-Belarus",World Fashion Channel International
+https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jdpab5Q.png" group-title="🇻🇳-🇷🇺| News - Business",Русская Ярмарка ТВ
 http://api.alpaca.t62a.com/hls/9104/stream0.m3u8
 
@@ -766,8 +770,8 @@ http://tnv.bonus-tv.ru/cdn/tnvplanet/playlist.m3u8
 http://uiptv.do.am/1ufc/701293058/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| News - Business" tvg-logo="https://i.imgur.com/AGj8EJF.png",РБК (HD)
 https://live-rbc.gcdn.co/gcore/rbctvhd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JyslMHb.jpg" group-title="🇷🇺-🇰🇿-🇧🇾| RUSSIA-Kazakhstan-Belarus",World Fashion Channel International
-https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n5vWRjT.png" group-title="🇻🇳-🇷🇺| News - Business",Известия ТВ HD
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| News - Business" tvg-logo="https://i.imgur.com/aMOLqMW.png",МИР 24 HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:0 group-title="🇷🇺-🇰🇿-🇧🇾| RUSSIA-Kazakhstan-Belarus" tvg-logo="https://i.imgur.com/nNNKLwF.png",360
