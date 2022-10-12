@@ -499,6 +499,9 @@ http://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="🇻🇳-🇷🇺| News - Business" tvg-logo="https://i.imgur.com/rPzH88J.png",BBC News
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s24/index.m3u8
+#EXTINF:-1 tvg-id="bbcworldnews" group-title="🇻🇳-🇷🇺| News - Business" tvg-logo="https://i.imgur.com/rPzH88J.png",BBC News HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://vips-livecdn.fptplay.net/hda3/bbcnews_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="bbcearth" group-title="🇻🇳-🇷🇺| Science & Lifestyle" tvg-logo="https://i.imgur.com/xXM60fa.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",BBC Earth HD
@@ -557,6 +560,8 @@ http://ott-cdn.ucom.am/s26/04.m3u8
 https://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="🇷🇺-🇰🇿-🇧🇾| RUSSIA-Kazakhstan-Belarus" tvg-logo="https://i.imgur.com/8t9mdg9.png",EURONEWS - Евроновости
 https://euronews.alteox.app/hls/ru_stream.m3u8
+#EXTINF:-1 group-title="🇷🇺-🇰🇿-🇧🇾| RUSSIA-Kazakhstan-Belarus" tvg-logo="https://i.imgur.com/8t9mdg9.png",EURONEWS - Евроновости HD
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCFzJjgVicCtFxJ5B0P_ei8A/live
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| Sports & Entertainment" tvg-logo="https://i.imgur.com/Dk6Rz7T.png",FTV - Fashion TV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
@@ -782,10 +787,14 @@ http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 https://live-trc33.cdnvideo.ru/trc33/trc33.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IlL57Rm.png" group-title="🇷🇺-🇰🇿-🇧🇾| RUSSIA-Kazakhstan-Belarus",Губерния Самара
 http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇻🇳-🇷🇺| OTHER",Небеса ТВ7 (FI.)
+https://vod.tv7.fi/tv7-ru/tv7-ru.smil/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| Rest of channels" tvg-logo="https://i.imgur.com/ARh6WSf.png",Кузбасс 1 HD
 https://www.10kanal.ru:1443/10kanal/k24/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| Rest of channels" tvg-logo="https://www.lyngsat.com/logo/tv/num/24_krim_ua.png",Крым 24
 http://mr2live.1tvcrimea.ru:8080/24tvcrimea.m3u8
+#EXTINF:-1 tvg-id="LifeTV.ee" tvg-logo="https://i.imgur.com/RBUmENQ.png" group-title="🇻🇳-🇷🇺| OTHER",Life TV (EST.)
+https://lifetv.bitflip.ee/live/stream1.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| Rest of channels" tvg-logo="https://i.imgur.com/xQc3UoJ.png",Между.Net
 http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8
 #EXTINF:-1 group-title="🇷🇺-🇰🇿-🇧🇾| RUSSIA-Kazakhstan-Belarus" tvg-logo="https://i.imgur.com/BOry400.png",Москва 24
