@@ -665,8 +665,9 @@ http://ott-cdn.ucom.am/s21/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/Karusel_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="🇷🇺-🇰🇿-🇧🇾| RUSSIA-Kazakhstan-Belarus" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВ Центр (М.)
-http://uiptv.do.am/1ufc/000000009/playlist.m3u8
+#EXTINF:-1 group-title="🇷🇺-🇰🇿-🇧🇾| RUSSIA-Kazakhstan-Belarus" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВ Центр (int.)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s54/index.m3u8
 #EXTINF:-1 group-title="🇷🇺-🇰🇿-🇧🇾| RUSSIA-Kazakhstan-Belarus" tvg-logo="https://i.imgur.com/18TAzYV.png",РЕН ТВ HD
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
 #EXTINF:-1 group-title="🇷🇺-🇰🇿-🇧🇾| RUSSIA-Kazakhstan-Belarus" tvg-logo="http://img.vintera.tv/img/ico/spas.png",СПАС
@@ -760,31 +761,42 @@ http://tnv.bonus-tv.ru/cdn/tnvplanet/playlist.m3u8
 http://uiptv.do.am/1ufc/701293058/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| News - Business" tvg-logo="https://i.imgur.com/AGj8EJF.png",РБК (HD)
 https://live-rbc.gcdn.co/gcore/rbctvhd.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| Newspapers" tvg-logo="https://i.imgur.com/n5vWRjT.png",Известия HD (IZ.RU)
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JyslMHb.jpg" group-title="🇷🇺-🇰🇿-🇧🇾| RUSSIA-Kazakhstan-Belarus",World Fashion Channel International
+https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| News - Business" tvg-logo="https://i.imgur.com/aMOLqMW.png",МИР 24 HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:0 group-title="🇷🇺-🇰🇿-🇧🇾| RUSSIA-Kazakhstan-Belarus" tvg-logo="https://i.imgur.com/nNNKLwF.png",360
 https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qn8ArfT.png" group-title="🇻🇳-🇷🇺| Rest of channels",8 канал
 http://176.99.110.252/stream8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hLD874K.jpg" group-title="🇻🇳-🇷🇺| Newspapers",Вечерняя Москва
 https://vmvideo.gcdn.co/streams/1503_161/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vera24.tv/wp-content/uploads/2020/03/VERA_theme@2x.png" group-title="🇷🇺-🇰🇿-🇧🇾| RUSSIA-Kazakhstan-Belarus",Вера 24
+http://62.32.67.187:1935/WEB_Vera24/Vera24.stream/playlist.m3u8
+#EXTINF:-1 group-title="🇻🇳-🇷🇺| Rest of channels" tvg-logo="https://i.imgur.com/rxwTjuT.jpg",БСТ - Башкирское спутниковое телевидение
+https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| Rest of channels" tvg-logo="http://img.vintera.tv/img/ico/enisey.png",Енисей
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/svJXsxD.png" group-title="🇷🇺-🇰🇿-🇧🇾| RUSSIA-Kazakhstan-Belarus",Губерния 33
+https://live-trc33.cdnvideo.ru/trc33/trc33.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IlL57Rm.png" group-title="🇷🇺-🇰🇿-🇧🇾| RUSSIA-Kazakhstan-Belarus",Губерния Самара
+http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| Rest of channels" tvg-logo="https://i.imgur.com/ARh6WSf.png",Кузбасс 1 HD
 https://www.10kanal.ru:1443/10kanal/k24/playlist.m3u8
+#EXTINF:-1 group-title="🇻🇳-🇷🇺| Rest of channels" tvg-logo="https://www.lyngsat.com/logo/tv/num/24_krim_ua.png",Крым 24
+http://mr2live.1tvcrimea.ru:8080/24tvcrimea.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| Rest of channels" tvg-logo="https://i.imgur.com/xQc3UoJ.png",Между.Net
 http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| Rest of channels" tvg-logo="https://i.imgur.com/BOry400.png",Москва 24
+#EXTINF:-1 group-title="🇷🇺-🇰🇿-🇧🇾| RUSSIA-Kazakhstan-Belarus" tvg-logo="https://i.imgur.com/BOry400.png",Москва 24
 https://radio-live-mg.rtr-vesti.ru/hls/moscow_24/playlist.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| Rest of channels" tvg-logo="https://i.ibb.co/HFWJHMS/Prima.webp",Прима ТВ
-https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| Rest of channels" tvg-logo="http://img.ss-iptv.com/?action=getChannelLogo&id=356",ТВК
+#EXTINF:-1 group-title="🇷🇺-🇰🇿-🇧🇾| RUSSIA-Kazakhstan-Belarus" tvg-logo="http://img.ss-iptv.com/?action=getChannelLogo&id=356",ТВК
 http://air.tvk6.ru/tvk24/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GHUJeZH.png" group-title="🇷🇺-🇰🇿-🇧🇾| RUSSIA-Kazakhstan-Belarus",ТВ Экстра
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://live-1.otcnet.ru/tvextra720b/index.m3u8
+#EXTINF:-1 group-title="🇷🇺-🇰🇿-🇧🇾| RUSSIA-Kazakhstan-Belarus" tvg-logo="https://i.imgur.com/KHKNYNe.png",Тивиком
+http://tvcom.stream.intelema.ru/tvcom/studio/playlist.m3u8
 
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| Rest of channels" tvg-logo="https://i.imgur.com/EMwsDdd.png",Красная линия
 https://kprf-htlive.cdn.ngenix.net/live/stream_high/playlist.m3u8
@@ -808,14 +820,8 @@ http://nano.teleservice.su:8080/hls/nano.m3u8
 http://live-1.otcnet.ru/kaleidoskop/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| Rest of channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/3ABN_logo.svg",3ABN HD
 https://hls.tv.3angels.ru/stream/HQ.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| Rest of channels" tvg-logo="https://i.imgur.com/rxwTjuT.jpg",БСТ - Башкирское спутниковое телевидение
-https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8
 #EXTINF:-1 group-title="🇷🇺-🇰🇿-🇧🇾| RUSSIA-Kazakhstan-Belarus" tvg-logo="https://i.imgur.com/jiU4LHy.png",Новый мир
 http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺-🇰🇿-🇧🇾| RUSSIA-Kazakhstan-Belarus" tvg-logo="https://i.imgur.com/KHKNYNe.png",Тивиком
-http://tvcom.stream.intelema.ru/tvcom/studio/playlist.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| Rest of channels" tvg-logo="https://www.lyngsat.com/logo/tv/num/24_krim_ua.png",Крым 24
-http://mr2live.1tvcrimea.ru:8080/24tvcrimea.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wG8KyeG.png" group-title="🇻🇳-🇷🇺| Music",Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
@@ -875,7 +881,7 @@ http://ott-cdn.ucom.am/s71/04.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| Science & Lifestyle" tvg-logo="https://i.imgur.com/7fZXK7y.png",История - History HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s40/04.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| Science & Lifestyle" tvg-logo="https://i.imgur.com/BLFXTL1.png",Наука 
+#EXTINF:-1 group-title="🇻🇳-🇷🇺| Science & Lifestyle" tvg-logo="https://i.imgur.com/sQuWOgM.png",Наука 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s98/04.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| Science & Lifestyle" tvg-logo="https://i.imgur.com/k1Gt1Rc.png",Охотник и Рыболов 
@@ -930,13 +936,13 @@ http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
 https://kzkhtv.ultraiptv.com/kzkhtv/master.m3u8
 #EXTINF:-1 group-title="🇷🇺-🇰🇿-🇧🇾| RUSSIA-Kazakhstan-Belarus" tvg-logo="https://i.imgur.com/Dh1pUNW.png",Беларусь 24
 http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺-🇰🇿-🇧🇾| RUSSIA-Kazakhstan-Belarus" tvg-logo="https://i.imgur.com/xVO2kPj.png",Хабар 24 HD
+#EXTINF:-1 group-title="🇷🇺-🇰🇿-🇧🇾| RUSSIA-Kazakhstan-Belarus" tvg-logo="https://i.imgur.com/x89nJgB.png",Хабар 24 HD
 http://serv30.vintera.tv:8081/habar/habar24/chunks.m3u8
 #EXTINF:-1 group-title="🇷🇺-🇰🇿-🇧🇾| RUSSIA-Kazakhstan-Belarus" tvg-logo="https://i.imgur.com/exdDHml.png",Надежда HD
 https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
 #EXTINF:0 group-title="🇷🇺-🇰🇿-🇧🇾| RUSSIA-Kazakhstan-Belarus" tvg-logo="https://i.imgur.com/gn8Gb98.png",БелРос
 http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
-#EXTINF:-1 group-title="🇷🇺-🇰🇿-🇧🇾| RUSSIA-Kazakhstan-Belarus" tvg-logo="https://i.imgur.com/HLiv5Hq.jpg",Новое ТВ
+#EXTINF:-1 group-title="🇷🇺-🇰🇿-🇧🇾| RUSSIA-Kazakhstan-Belarus" tvg-logo="https://i.imgur.com/HLiv5Hq.jpg",Новое телевидение
 http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png",F Event 1
