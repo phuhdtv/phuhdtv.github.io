@@ -744,7 +744,9 @@ http://185.161.224.216/dash/Ce_SD.ism/playlist.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/STS_Love_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="🇷🇺-🇰🇿-🇧🇾| RUSSIA-Kazakhstan-Belarus" tvg-logo="https://i.imgur.com/qWRVbLW.png",ТНТ4
+#EXTINF:-1 group-title="🇷🇺-🇰🇿-🇧🇾| RUSSIA-Kazakhstan-Belarus" tvg-logo="https://i.imgur.com/qWRVbLW.png",Любимый HD/ТНТ4
+http://92.245.103.126:1935/live/live.stream/playlist.m3u8
+#EXTINF:-1 group-title="🇷🇺-🇰🇿-🇧🇾| RUSSIA-Kazakhstan-Belarus" tvg-logo="https://i.imgur.com/qWRVbLW.png",ТНТ4 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://bl.uma.media/live/317849/HLS/4614144_3,2883584/2/1/playlist.m3u8
 #EXTINF:0 group-title="🇷🇺-🇰🇿-🇧🇾| RUSSIA-Kazakhstan-Belarus" tvg-logo="https://i.imgur.com/fhQFLEl.png",2x2
@@ -785,6 +787,8 @@ https://vmvideo.gcdn.co/streams/1503_161/playlist.m3u8
 http://62.32.67.187:1935/WEB_Vera24/Vera24.stream/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| KENH KHAC" tvg-logo="https://i.imgur.com/rxwTjuT.jpg",БСТ - Башкирское спутниковое телевидение
 https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Novorussia-tv.png" group-title="🇻🇳-🇷🇺| TIN TUC - KINH TE",Соловьев Live
+http://ott.inmart.tv:8081/19/index.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| KENH KHAC" tvg-logo="http://img.vintera.tv/img/ico/enisey.png",Енисей
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/svJXsxD.png" group-title="🇷🇺-🇰🇿-🇧🇾| RUSSIA-Kazakhstan-Belarus",Губерния 33
@@ -803,6 +807,12 @@ https://lifetv.bitflip.ee/live/stream1.m3u8
 http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8
 #EXTINF:-1 group-title="🇷🇺-🇰🇿-🇧🇾| RUSSIA-Kazakhstan-Belarus" tvg-logo="https://i.imgur.com/BOry400.png",Москва 24
 https://radio-live-mg.rtr-vesti.ru/hls/moscow_24/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRyjFWu.png" group-title="🇷🇺-🇰🇿-🇧🇾| RUSSIA-Kazakhstan-Belarus",Оплот 2
+http://ott.inmart.tv:8081/17/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRyjFWu.png" group-title="🇷🇺-🇰🇿-🇧🇾| RUSSIA-Kazakhstan-Belarus",Оплот ТВ
+http://ott.inmart.tv:8081/54/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hrdq55E.png" group-title="🇷🇺-🇰🇿-🇧🇾| RUSSIA-Kazakhstan-Belarus",Первый республиканский
+http://ott.inmart.tv:8081/18/index.m3u8
 #EXTINF:-1 group-title="🇷🇺-🇰🇿-🇧🇾| RUSSIA-Kazakhstan-Belarus" tvg-logo="http://img.ss-iptv.com/?action=getChannelLogo&id=356",ТВК
 http://air.tvk6.ru/tvk24/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GHUJeZH.png" group-title="🇷🇺-🇰🇿-🇧🇾| RUSSIA-Kazakhstan-Belarus",ТВ Экстра
