@@ -654,18 +654,11 @@ https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rsYbFE8.png" group-title="🇻🇳-🇷🇺| TIN TUC - KINH TE",Каббала ТВ-66 канал
 http://edge3.uk.kab.tv/live/tv66-rus-high/chunks.m3u8
 
-#EXTINF:0 group-title="🇷🇺-🇰🇿-🇧🇾| RUSSIA-Kazakhstan-Belarus" tvg-logo="https://i.imgur.com/r8qjcs4.png",Первый (СНГ)
+#EXTINF:0 group-title="🇷🇺-🇰🇿-🇧🇾| RUSSIA-Kazakhstan-Belarus" tvg-logo="https://i.imgur.com/kzUwi5x.png",Первый СНГ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s14/04.m3u8
-#EXTINF:0 group-title="🇷🇺-🇰🇿-🇧🇾| RUSSIA-Kazakhstan-Belarus" tvg-logo="https://i.imgur.com/r8qjcs4.png",Первый HD
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.is_realtime_stream=true
-http://185.161.224.216/dash/Perviy_Kanal_HD.ism/playlist.mpd
-#EXTINF:0 group-title="🇷🇺-🇰🇿-🇧🇾| RUSSIA-Kazakhstan-Belarus" tvg-logo="https://i.imgur.com/5D1gwiv.png",Россия РТР СНГ
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s15/index.m3u8
+#EXTINF:0 group-title="🇷🇺-🇰🇿-🇧🇾| RUSSIA-Kazakhstan-Belarus" tvg-logo="https://i.imgur.com/5D1gwiv.png",Россия РТР Азия
+https://radio-live-mg.rtr-vesti.ru/hls/planeta_rtr_asia/playlist_3.m3u8
 #EXTINF:-1 group-title="🇷🇺-🇰🇿-🇧🇾| RUSSIA-Kazakhstan-Belarus" tvg-logo="https://i.imgur.com/DtQX5P2.png",НТВ МИР
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s17/04.m3u8
@@ -787,8 +780,8 @@ http://tnv.bonus-tv.ru/cdn/tnvplanet/playlist.m3u8
 http://uiptv.do.am/1ufc/701293058/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| TIN TUC - KINH TE" tvg-logo="https://i.imgur.com/AGj8EJF.png",РБК (HD)
 https://live-rbc.gcdn.co/gcore/rbctvhd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iwWxkl6.png" group-title="🇻🇳-🇷🇺| TIN TUC - KINH TE",Сочи 24 ТВ HD
-https://serv30.vintera.tv/sochi/sochi24/playlist.m3u8
+#EXTINF:-1 group-title="🇻🇳-🇷🇺| TIN TUC - KINH TE" tvg-logo="https://i.imgur.com/n5vWRjT.png",IZ.RU HD
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| TIN TUC - KINH TE" tvg-logo="https://i.imgur.com/aMOLqMW.png",МИР 24 HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:0 group-title="🇷🇺-🇰🇿-🇧🇾| RUSSIA-Kazakhstan-Belarus" tvg-logo="https://i.imgur.com/nNNKLwF.png",360
@@ -826,6 +819,8 @@ https://radio-live-mg.rtr-vesti.ru/hls/moscow_24/playlist.m3u8
 http://ott.inmart.tv:8081/17/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rRyjFWu.png" group-title="🇷🇺-🇰🇿-🇧🇾| RUSSIA-Kazakhstan-Belarus",Оплот ТВ
 http://ott.inmart.tv:8081/54/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iwWxkl6.png" group-title="🇻🇳-🇷🇺| TIN TUC - KINH TE",Сочи 24 ТВ HD
+https://serv30.vintera.tv/sochi/sochi24/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hrdq55E.png" group-title="🇷🇺-🇰🇿-🇧🇾| RUSSIA-Kazakhstan-Belarus",Первый республиканский
 http://ott.inmart.tv:8081/18/index.m3u8
 #EXTINF:-1 group-title="🇷🇺-🇰🇿-🇧🇾| RUSSIA-Kazakhstan-Belarus" tvg-logo="http://img.ss-iptv.com/?action=getChannelLogo&id=356",ТВК
@@ -1076,8 +1071,8 @@ https://strm.voh.com.vn/radio/channel1/playlist.m3u8
 #EXTINF:0 group-title="🇻🇳-🇷🇺| RADIO" tvg-logo="https://image.ibb.co/eTNs59/r_voh99.png",VOH4 - 99.9Mhz
 https://strm.voh.com.vn/radio/channel3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yMLnaHk.png" group-title="🇻🇳-🇷🇺| RADIO",Радио Вести FM
-https://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/rtmp_vestifm_480/chunklist.m3u8
+http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| RADIO" tvg-logo="http://img.vintera.tv/img/ico/mayak.png",Радио Маяк
-https://radio-live-mg.rtr-vesti.ru/live/smil:mayak.smil/chunklist_b1600000.m3u8
+http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| RADIO" tvg-logo="https://i.imgur.com/sbhkIE5.jpg",Радио России
-https://radio-live-mg.rtr-vesti.ru/hls/radio_rus/playlist_3.m3u8
+http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_128kbps
