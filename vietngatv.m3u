@@ -576,6 +576,9 @@ https://euronews.alteox.app/hls/ru_stream.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCFzJjgVicCtFxJ5B0P_ei8A/live
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| GIAI TRI" tvg-logo="https://i.imgur.com/Dk6Rz7T.png",FTV - Fashion TV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://ott-cdn.ucom.am/s30/index.m3u8
+#EXTINF:-1 group-title="🇻🇳-🇷🇺| GIAI TRI" tvg-logo="https://i.imgur.com/Dk6Rz7T.png",FTV HD - Fashion TV HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="france24eng" group-title="🌏| International" tvg-logo="https://i.imgur.com/zdze6Iq.png",FRANCE 24 English
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
@@ -612,8 +615,6 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 #EXTINF:-1 tvg-id="outdoor_channel" group-title="🇻🇳-🇷🇺| KHOA HOC - DOI SONG" tvg-logo="https://i.imgur.com/RJwaiHH.png",Outdoor Channel HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="🌏| International" tvg-logo="https://i.imgur.com/ZsYvvwL.png",H1 International - Public TV Of Armenia
-http://serv24.vintera.tv:8081/test/h1_arm/index.m3u8
 #EXTINF:-1 group-title="🌏| International" tvg-logo="https://i.imgur.com/3jY6dQU.png",Rai Italia Asia
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s29/04.m3u8
@@ -653,11 +654,84 @@ https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rsYbFE8.png" group-title="🇻🇳-🇷🇺| TIN TUC - KINH TE",Каббала ТВ-66 канал
 http://edge3.uk.kab.tv/live/tv66-rus-high/chunks.m3u8
 
+#EXTINF:-1 group-title="🇦🇲| Armenia" tvg-logo="https://i.imgur.com/ZsYvvwL.png",Առաջին ալիք
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s1/index.m3u8
+#EXTINF:-1 group-title="🇦🇲| Armenia" tvg-logo="https://i.imgur.com/ZsYvvwL.png",Առաջին ալիք HD
+https://amtv1.livestreamingcdn.com/am2abr/index.m3u8
+#EXTINF:-1 group-title="🇦🇲| Armenia" tvg-logo="https://i.imgur.com/fMOopjK.png",Հ2
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s2/index.m3u8
+#EXTINF:-1 group-title="🇦🇲| Armenia" tvg-logo="https://i.imgur.com/tUQ8vQT.png",Շանթ
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s3/index.m3u8
+#EXTINF:-1 group-title="🇦🇲| Armenia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/ArmeniaTV-English-Logo.svg/512px-ArmeniaTV-English-Logo.svg.png",Արմենիա TV (1080p)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s4/index.m3u8
+#EXTINF:-1 group-title="🇦🇲| Armenia" tvg-logo="https://i.imgur.com/SrHncfk.png",Կենտրոն
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s5/index.m3u8
+#EXTINF:-1 group-title="🇦🇲| Armenia" tvg-logo="https://resizer.mail.ru/p/1dea41da-2cae-5daf-bd7f-2f93d9ffb30b/AAACQPjiNISxXL0M7OJyayH5_bpIH05R2UmPyBSONVnjUP92ICAhtQd7uIhMG2A2DSUSiEpSiwIExtkC7R5Lfkn4zSo.png",5-րդ ալիք
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s6/index.m3u8
+#EXTINF:-1 group-title="🇦🇲| Armenia" tvg-logo="https://i.imgur.com/FKpxkVH.png",Երկիր Մեդիա
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s7/index.m3u8
+#EXTINF:-1 group-title="🇦🇲| Armenia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Atvnew.png/512px-Atvnew.png",ATV Armenia
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s8/index.m3u8
+#EXTINF:-1 group-title="🇦🇲| Armenia" tvg-logo="https://i.imgur.com/NV6ZeW9.png",21TV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s10/index.m3u8
+#EXTINF:-1 group-title="🇦🇲| Armenia" tvg-logo="https://i.imgur.com/0vrFGY5.png",Արմնյուզ
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s11/index.m3u8
+#EXTINF:-1 group-title="🇦🇲| Armenia" tvg-logo="https://i.imgur.com/EmOsMTC.png",Նոր Հայաստան
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s12/index.m3u8
+#EXTINF:-1 group-title="🇦🇲| Armenia" tvg-logo="https://i.imgur.com/e4VxCnn.png",Շողակաթ
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s13/index.m3u8
+#EXTINF:-1 group-title="🇦🇲| Armenia" tvg-logo="https://i.imgur.com/IxOFvqz.png",Armenia Premium
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s83/index.m3u8
+#EXTINF:-1 group-title="🇦🇲| Armenia" tvg-logo="https://i.imgur.com/XwbLfqd.png",Armenia Հայ Կինո
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s22/index.m3u8
+#EXTINF:-1 group-title="🇦🇲| Armenia" tvg-logo="https://i.imgur.com/AhX46e5.png",Armenia Ջան TV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s42/index.m3u8
+#EXTINF:-1 group-title="🇦🇲| Armenia" tvg-logo="https://i.imgur.com/fRfGuQg.png",Armenia Սինեմաքս
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s66/index.m3u8
+#EXTINF:-1 group-title="🇦🇲| Armenia" tvg-logo="https://i.imgur.com/XjhkUXy.png",Armenia Տուն Թունիկ
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s46/index.m3u8
+#EXTINF:-1 group-title="🇦🇲| Armenia" tvg-logo="https://i.imgur.com/pvF7dGN.png",Armenia Քոմեդի
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s32/index.m3u8
+#EXTINF:-1 group-title="🇦🇲| Armenia" tvg-logo="https://i.imgur.com/cndJCRU.png",ATV Թավա TV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s53/index.m3u8
+#EXTINF:-1 group-title="🇦🇲| Armenia" tvg-logo="https://i.imgur.com/mrfm9uY.png",ATV ԽաղԱլիք 
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s74/index.m3u8
+#EXTINF:-1 group-title="🇦🇲| Armenia" tvg-logo="https://i.imgur.com/lidNHkH.png",ATV Կինոման 
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s94/index.m3u8
+#EXTINF:-1 group-title="🇦🇲| Armenia" tvg-logo="https://i.imgur.com/KCkzU5R.png",ATV Հայ TV 
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s73/index.m3u8
+#EXTINF:-1 group-title="🇦🇲| Armenia" tvg-logo="https://i.imgur.com/uWBrDpV.png",ATV Ֆիլմզոն
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s48/index.m3u8
+
 #EXTINF:0 group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan" tvg-logo="https://i.imgur.com/kzUwi5x.png",Первый СНГ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s14/04.m3u8
-#EXTINF:0 group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan" tvg-logo="https://i.imgur.com/5D1gwiv.png",Россия РТР Азия
-https://radio-live-mg.rtr-vesti.ru/hls/planeta_rtr_asia/playlist_3.m3u8
+#EXTINF:0 group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan" tvg-logo="https://i.imgur.com/5D1gwiv.png",Россия Планета
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s15/index.m3u8
 #EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan" tvg-logo="https://i.imgur.com/DtQX5P2.png",НТВ МИР
 http://92.46.127.146:8080/ntv/index.m3u8
 #EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan" tvg-logo="https://i.imgur.com/DtQX5P2.png",НТВ МИР (480p)
@@ -796,8 +870,6 @@ https://vmvideo.gcdn.co/streams/1503_161/playlist.m3u8
 http://62.32.67.187:1935/WEB_Vera24/Vera24.stream/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| KENH KHAC" tvg-logo="https://i.imgur.com/rxwTjuT.jpg",БСТ - Башкирское спутниковое телевидение
 https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9l9uPKj.jpg" group-title="🇻🇳-🇷🇺| TIN TUC - KINH TE",Соловьев Live
-http://ott.inmart.tv:8081/19/index.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| KENH KHAC" tvg-logo="http://img.vintera.tv/img/ico/enisey.png",Енисей
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/svJXsxD.png" group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan",Губерния 33
@@ -816,14 +888,8 @@ https://lifetv.bitflip.ee/live/stream1.m3u8
 http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8
 #EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan" tvg-logo="https://i.imgur.com/BOry400.png",Москва 24
 https://radio-live-mg.rtr-vesti.ru/hls/moscow_24/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rRyjFWu.png" group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan",Оплот 2
-http://ott.inmart.tv:8081/17/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rRyjFWu.png" group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan",Оплот ТВ
-http://ott.inmart.tv:8081/54/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iwWxkl6.png" group-title="🇻🇳-🇷🇺| TIN TUC - KINH TE",Сочи 24 ТВ HD
 https://serv30.vintera.tv/sochi/sochi24/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hrdq55E.png" group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan",Первый республиканский
-http://ott.inmart.tv:8081/18/index.m3u8
 #EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan" tvg-logo="https://iptvz.cf/tvk-krasnoyarsk.png",ТВК
 http://air.tvk6.ru/tvk24/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GHUJeZH.png" group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan",ТВ Экстра
