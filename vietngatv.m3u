@@ -49,7 +49,6 @@ https://livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="sctv8hd" group-title="🇻🇳-🇷🇺| TIN TUC - KINH TE" tvg-logo="https://i.imgur.com/DZ0Gv8i.png",SCTV8 - VITV
 http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 
-
 #EXTINF:-1 tvg-id="vtc1" group-title="🇻🇳| KENH CO BAN" tvg-logo="https://imgur.com/8jgYSbN.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC1 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b5000000.m3u8
@@ -632,6 +631,8 @@ http://ott-cdn.ucom.am/s96/04.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| KHOA HOC - DOI SONG" tvg-logo="https://i.imgur.com/C6fylkt.png",RTД - Russia Today Documentary RUSSIAN
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s93/04.m3u8
+#EXTINF:-1 group-title="🇻🇳-🇷🇺| TIN TUC - KINH TE" tvg-logo="",Russian Jarmarka TV
+http://api.alpaca.t62a.com/hls/9104/stream0.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| CA NHAC" tvg-logo="https://i.imgur.com/pH3Q1jn.png",Sochi Live HD
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 #EXTINF:-1 tvg-id="tv5monde_asie" group-title="🌏| International" tvg-logo="https://imgur.com/BD2PW2Q.png",TV5 Monde HD
@@ -853,8 +854,10 @@ https://brics.bonus-tv.ru/cdn/brics/russian/playlist.m3u8
 http://nano.teleservice.su:8080/hls/nano.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| GIAI TRI" tvg-logo="https://i.imgur.com/oxaWl1I.png",Калейдскоп ТВ
 http://live-1.otcnet.ru/kaleidoskop/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| KENH KHAC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/3ABN_logo.svg",3ABN HD
+#EXTINF:-1 group-title="🇻🇳-🇷🇺| KENH KHAC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/3ABN_logo.svg",3ABN Russia-CIS
 https://hls.tv.3angels.ru/stream/HQ.m3u8
+#EXTINF:-1 group-title="🇻🇳-🇷🇺| KENH KHAC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/3ABN_logo.svg",3ABN International
+https://3abn-live.akamaized.net/hls/live/2010544/International/HQs/chunklist.m3u8
 #EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan" tvg-logo="https://i.imgur.com/jiU4LHy.png",Новый мир
 http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
 
