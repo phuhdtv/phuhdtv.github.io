@@ -594,6 +594,8 @@ https://livecdn.fptplay.net/sdb/france24_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="france24eng" group-title="🌏| International" tvg-logo="https://i.imgur.com/zdze6Iq.png",France 24 English HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.vthanhtivi.pw/v1/getlink/vieon/france-24-english-hd
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="🌏| International",Hadi TV Azeri and Russian
+https://live.ishiacloud.com/haditv.co.uk/haditv3.m3u8
 #EXTINF:-1 tvg-id="hbohd" group-title="🇻🇳-🇷🇺| PHIM" tvg-logo="https://i.imgur.com/UmfhBQU.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",HBO HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
@@ -859,7 +861,7 @@ https://bl.uma.media/live/317805/HLS/4614144_3/2/1/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/Disney_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan" tvg-logo="http://epg.it999.ru/img/2288.png",Суббота HD
+#EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan" tvg-logo="https://i.imgur.com/rIWoJMv.png",Суббота HD
 https://bl.uma.media/live/317845/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZKGC5i0.png" group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan",ТНВ-Планета
 http://tnv.bonus-tv.ru/cdn/tnvplanet/playlist.m3u8
