@@ -95,7 +95,7 @@ https://livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="vovtvhd" group-title="🇻🇳| KENH CO BAN" tvg-logo="https://i.imgur.com/133s2Sc.png",VOV TV
+#EXTINF:-1 tvg-id="vovtvhd" group-title="🇻🇳| KENH CO BAN" tvg-logo="https://vanhiptv.tk/vovtv.png",VOV TV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/vovtvsd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vovtvhd" group-title="🇻🇳| VOV" tvg-logo="https://i.imgur.com/yyftSZg.png",VOV TV HD
@@ -573,6 +573,8 @@ https://livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="🌏| International" tvg-logo="https://i.imgur.com/0x1fWbw.png",Deutsche Welle Deutsch
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s26/04.m3u8
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="🌏| International",DW Español (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="dreamworks" group-title="🇻🇳-🇷🇺| HOAT ANH" tvg-logo="https://i.imgur.com/WTO8O0N.png",DreamWorks HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
@@ -772,7 +774,7 @@ http://185.161.224.216/dash/Karusel_SD.ism/playlist.mpd
 http://ott-cdn.ucom.am/s54/index.m3u8
 #EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan" tvg-logo="https://i.imgur.com/18TAzYV.png",РЕН ТВ HD
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan" tvg-logo="http://img.vintera.tv/img/ico/spas.png",СПАС
+#EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan" tvg-logo="https://i.imgur.com/GdkpQOT.png",СПАС
 http://spas.mediacdn.ru/cdn/spas/playlist.m3u8
 #EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan" tvg-logo="https://i.imgur.com/pJNWVAz.png",СТС HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
@@ -814,12 +816,12 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 http://ott-cdn.ucom.am/s39/04.m3u8
 #EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan" tvg-logo="https://i.imgur.com/myDcDzY.png",МИР HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan" tvg-logo="https://i.imgur.com/vkWnUR8.png",ТНТ (I.)
+#EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan" tvg-logo="https://i.imgur.com/l0RGbRI.png",ТНТ (I.)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s19/04.m3u8
-#EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan" tvg-logo="https://i.imgur.com/vkWnUR8.png",ТНТ HD
+#EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan" tvg-logo="https://i.imgur.com/T4A6rEI.png",ТНТ HD
 https://bl.uma.media/live/410338/HLS/6307840_7/2/1/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan" tvg-logo="https://i.imgur.com/n7bGFXj.png",МУЗ ТВ
+#EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan" tvg-logo="https://i.imgur.com/BtqrHmz.png",МУЗ ТВ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -876,11 +878,11 @@ https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m
 http://80.65.18.213/8kanal/vintera/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hLD874K.jpg" group-title="🇻🇳-🇷🇺| BAO CHI",Вечерняя Москва
 https://vmvideo.gcdn.co/streams/1503_161/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vera24.tv/wp-content/uploads/2020/03/VERA_theme@2x.png" group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan",Вера 24
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GXYpLVS.png" group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan",Вера 24
 http://62.32.67.187:1935/WEB_Vera24/Vera24.stream/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| KENH KHAC" tvg-logo="https://i.imgur.com/rxwTjuT.jpg",БСТ - Башкирское спутниковое телевидение
 https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| KENH KHAC" tvg-logo="http://img.vintera.tv/img/ico/enisey.png",Енисей
+#EXTINF:-1 group-title="🇻🇳-🇷🇺| KENH KHAC" tvg-logo="https://i.imgur.com/GTXkAUu.png",Енисей
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/svJXsxD.png" group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan",Губерния 33
 https://live-trc33.cdnvideo.ru/trc33/trc33.sdp/playlist.m3u8
@@ -896,7 +898,7 @@ http://mr2live.1tvcrimea.ru:8080/24tvcrimea.m3u8
 https://lifetv.bitflip.ee/live/stream1.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| KENH KHAC" tvg-logo="https://i.imgur.com/xQc3UoJ.png",Между.Net
 http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan" tvg-logo="https://i.imgur.com/BOry400.png",Москва 24
+#EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan" tvg-logo="https://i.imgur.com/HI1f5Ve.png",Москва 24
 https://radio-live-mg.rtr-vesti.ru/hls/moscow_24/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iwWxkl6.png" group-title="🇻🇳-🇷🇺| TIN TUC - KINH TE",Сочи 24 ТВ HD
 https://serv30.vintera.tv/sochi/sochi24/playlist.m3u8
@@ -928,9 +930,9 @@ https://brics.bonus-tv.ru/cdn/brics/russian/playlist.m3u8
 http://nano.teleservice.su:8080/hls/nano.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| GIAI TRI" tvg-logo="https://i.imgur.com/oxaWl1I.png",Калейдскоп ТВ
 http://live-1.otcnet.ru/kaleidoskop/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| KENH KHAC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/3ABN_logo.svg",3ABN Russia-CIS
+#EXTINF:-1 group-title="🇻🇳-🇷🇺| KENH KHAC" tvg-logo="https://i.imgur.com/8fKWpo3.png",3ABN Russia-CIS
 https://hls.tv.3angels.ru/stream/HQ.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| KENH KHAC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/3ABN_logo.svg",3ABN International
+#EXTINF:-1 group-title="🇻🇳-🇷🇺| KENH KHAC" tvg-logo="https://i.imgur.com/vhb8zvB.png",3ABN International
 https://3abn-live.akamaized.net/hls/live/2010544/International/HQs/chunklist.m3u8
 #EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan" tvg-logo="https://i.imgur.com/jiU4LHy.png",Новый мир
 http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
@@ -946,8 +948,12 @@ http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3
 http://ott-cdn.ucom.am/s35/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NwuwdPS.png" group-title="🇻🇳-🇷🇺| CA NHAC",Радио Шансон
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| CA NHAC" tvg-logo="https://i.imgur.com/RU7jA3I.png",Первый Музыкальный International
-http://rtmp.one.by:1200
+#EXTINF:-1 group-title="🇻🇳-🇷🇺| CA NHAC" tvg-logo="https://i.imgur.com/RU7jA3I.png",Первый Музыкальный
+http://hz1.teleport.cc/HLS/SD.m3u8
+#EXTINF:-1 group-title="🇻🇳-🇷🇺| CA NHAC" tvg-logo="https://i.imgur.com/RU7jA3I.png",Первый Музыкальный HD
+http://rtmp.one.by:1300
+#EXTINF:-1 group-title="🇻🇳-🇷🇺| CA NHAC" tvg-logo="https://i.imgur.com/3Z6GjxM.png",Первый Музыкальный Россия
+http://rtmp.one.by:2200
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| CA NHAC" tvg-logo="https://i.imgur.com/3Z6GjxM.png",Первый Музыкальный Россия HD
 http://rtmp.one.by:2300
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| CA NHAC" tvg-logo="https://i.imgur.com/bx3LmCG.jpg",Первый Музыкальный 4K
@@ -1052,7 +1058,7 @@ http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
 http://serv30.vintera.tv:8081/habar/habar24/chunks.m3u8
 #EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan" tvg-logo="https://i.imgur.com/exdDHml.png",Надежда HD
 https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
-#EXTINF:0 group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan" tvg-logo="https://i.imgur.com/gn8Gb98.png",БелРос
+#EXTINF:0 group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan" tvg-logo="https://i.imgur.com/RsWPoAq.png",БелРос
 http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 #EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan" tvg-logo="https://i.imgur.com/HLiv5Hq.jpg",Новое телевидение
 http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
