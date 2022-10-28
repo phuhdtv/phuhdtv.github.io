@@ -407,6 +407,9 @@ https://livecdn.fptplay.net/sda/quangbinh_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="quangtri" group-title="🇻🇳| ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/xl4m2mn.png",QRTV - QUẢNG TRỊ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/quangtri_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="quangtri" group-title="🇻🇳| ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/9ppMtcU.png",QRTV HD - QUẢNG TRỊ HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://103.90.220.236/qrtvlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="quangnam" group-title="🇻🇳| ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/eRpyJmO.png",QRT - QUẢNG NAM
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/quangnam_hls.smil/chunklist_b2500000.m3u8
@@ -507,6 +510,8 @@ https://vips-livecdn.fptplay.net/hda3/australiaplus_vhls.smil/chunklist_b5000000
 #EXTINF:-1 tvg-id="bloomberg" group-title="🇻🇳-🇷🇺| TIN TỨC - KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/idRFfhY.png",Bloomberg Television
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://vips-livecdn.fptplay.net/hda3/bloomberg_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="🇻🇳-🇷🇺| GIẢI TRÍ TỔNG HỢP" tvg-logo="https://i.imgur.com/VrfSOF4.png",Box Hits
+http://live.vthanhtivi.pw:8080/boxhits
 #EXTINF:-1 tvg-id="boomerang" group-title="🇻🇳-🇷🇺| Thiếu Nhi - Giáo Dục" tvg-logo="https://i.imgur.com/id8XNtI.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/boomerang_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",BOOMERANG Asia HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
@@ -578,8 +583,6 @@ https://livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u8
 http://ott-cdn.ucom.am/s26/04.m3u8
 #EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="🌏| Quốc Tế",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/88.jpg",DTX
-http://213.172.73.170:8081/nimble_live/1146__DTX/playlist.m3u8
 #EXTINF:-1 tvg-id="dreamworks" group-title="🇻🇳-🇷🇺| Thiếu Nhi - Giáo Dục" tvg-logo="https://i.imgur.com/WTO8O0N.png",DreamWorks HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
@@ -604,8 +607,6 @@ https://livecdn.fptplay.net/sdb/france24_hls.smil/chunklist_b2500000.m3u8
 https://api.vthanhtivi.pw/v1/getlink/vieon/france-24-english-hd
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="🌏| Quốc Tế",Hadi TV Azeri and Russian
 https://live.ishiacloud.com/haditv.co.uk/haditv3.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/15.png",History CIS & Asia
-http://213.172.73.170:8081/nimble_live/1028__History/playlist.m3u8
 #EXTINF:-1 tvg-id="hbohd" group-title="🇻🇳-🇷🇺| PHIM" tvg-logo="https://i.imgur.com/UmfhBQU.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",HBO HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
