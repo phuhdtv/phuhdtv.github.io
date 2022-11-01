@@ -622,6 +622,8 @@ https://vips-livecdn.fptplay.net/hda3/kbs_4000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="nhkworld" group-title="🌏| Quốc Tế" tvg-logo="https://i.imgur.com/DNuFsVE.png",NHK WORLD HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="NHKWorldPremium.jp" group-title="🌏| Quốc Tế" tvg-logo="https://nhkworldpremium.com/img/common/logo.png",NHK World Premium
+https://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index_1M.m3u8
 #EXTINF:-1 tvg-id="ngchd" group-title="🇻🇳-🇷🇺| KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://i.imgur.com/O13uMvJ.png",NGC - National Geographic HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
@@ -765,7 +767,7 @@ http://ott-cdn.ucom.am/s15/index.m3u8
 #EXTINF:0 group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan" tvg-logo="https://i.imgur.com/8LL8kp8.png",Матч ТВ
 http://iptv.ktkru.ru:8003/index.m3u8
 #EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan" tvg-logo="https://i.imgur.com/DtQX5P2.png",НТВ МИР
-http://92.46.127.146:8080/ntv/index.m3u8
+http://92.46.127.146:8080/ntv-L3-TRANS/index.m3u8
 #EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan" tvg-logo="https://i.imgur.com/DtQX5P2.png",НТВ МИР (480p)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s17/index.m3u8
@@ -791,11 +793,11 @@ http://iptv.ktkru.ru:8009/index.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s54/index.m3u8
 #EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan" tvg-logo="https://i.imgur.com/18TAzYV.png",РЕН ТВ
-http://213.172.73.170:8081/nimble_live/1108__РЕНТВ/playlist.m3u8
+https://sc.id-tv.kz/RenTV.m3u8
 #EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan" tvg-logo="https://i.imgur.com/JBDdOqq.jpg",СПАС
 http://spas.mediacdn.ru/cdn/spas/playlist.m3u8
 #EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan" tvg-logo="https://i.imgur.com/pJNWVAz.png",СТС
-http://213.172.73.170:8081/nimble_live/1087__STS/playlist.m3u8
+https://sc.id-tv.kz/STS.m3u8
 #EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan" tvg-logo="https://i.imgur.com/jBnjxGR.png",Домашний
 http://213.172.73.170:8081/nimble_live/1021__Domashniy/playlist.m3u8
 #EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan" tvg-logo="https://i.imgur.com/zvhT8JO.png",ТВ3
@@ -813,11 +815,8 @@ https://bl.uma.media/live/410336/HLS/6307840_7/2/1/playlist.m3u8
 http://213.172.73.170:8081/nimble_live/1076__Zvezda/playlist.m3u8
 #EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan" tvg-logo="https://i.imgur.com/n9zLVyR.png",Звезда HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan" tvg-logo="https://i.imgur.com/myDcDzY.png",МИР
-http://213.172.73.170:8081/nimble_live/1115__Mir/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan" tvg-logo="https://i.imgur.com/myDcDzY.png",МИР (480p)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s39/04.m3u8
+#EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan" tvg-logo="https://i.imgur.com/myDcDzY.png",МИР (+3)
+https://sc.id-tv.kz/Mir.m3u8
 #EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan" tvg-logo="https://i.imgur.com/myDcDzY.png",МИР HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan" tvg-logo="https://i.imgur.com/l0RGbRI.png",ТНТ (I.)
@@ -859,6 +858,8 @@ http://213.172.73.170:8081/nimble_live/1096__RBK/playlist.m3u8
 https://live-rbc.gcdn.co/gcore/rbctvhd.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| BÁO CHÍ" tvg-logo="https://i.imgur.com/n5vWRjT.png",IZ.RU HD
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 group-title="🇻🇳-🇷🇺| TIN TỨC - KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/aMOLqMW.png",МИР 24
+http://92.46.127.146:8080/Mir-L3-TRANS/index.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| TIN TỨC - KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/aMOLqMW.png",МИР 24 HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:0 group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan" tvg-logo="https://i.imgur.com/VTJqdoX.png",360
@@ -922,6 +923,8 @@ https://hls.tv.3angels.ru/stream/HQ.m3u8
 #EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan" tvg-logo="https://i.imgur.com/jiU4LHy.png",Новый мир
 http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6TjLUuF.png" group-title="Music",1HD Music Television
+https://sc.id-tv.kz/1hd.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| CA NHẠC - THỜI TRANG" tvg-logo="https://i.imgur.com/v6KNZms.png",МузСоюз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| CA NHẠC - THỜI TRANG" tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/10.jpg",BRIDGE TV
@@ -933,8 +936,6 @@ http://ott-cdn.ucom.am/s78/index.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| CA NHẠC - THỜI TRANG" tvg-logo="https://i.imgur.com/GLc4qrc.png",Europa Plus TV
 http://213.172.73.170:8081/nimble_live/1081__Evropa_Plus_Tv/playlist.m3u8
 #EXTINF:-1 tvg-id="mezzolivehd" group-title="🇻🇳-🇷🇺| CA NHẠC - THỜI TRANG" tvg-logo="https://i.imgur.com/ejEcufH.png",Mezzo Live
-http://213.172.73.170:8081/nimble_live/1091__Mezzo/playlist.m3u8
-#EXTINF:-1 tvg-id="mezzolivehd" group-title="🇻🇳-🇷🇺| CA NHẠC - THỜI TRANG" tvg-logo="https://i.imgur.com/ejEcufH.png",Mezzo Live (480p)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s35/04.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| CA NHẠC - THỜI TRANG" tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/104.png",Музыка Первого
@@ -956,8 +957,6 @@ http://213.172.73.170:8081/nimble_live/1088__RU_Tv/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| CA NHẠC - THỜI TRANG" tvg-logo="https://i.imgur.com/RenuH4S.png",ТНТ Music HD
 https://bl.uma.media/live/619345/HLS/619345_3/1/1/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| CA NHẠC - THỜI TRANG" tvg-logo="https://i.imgur.com/NBWyJJQ.png",Шансон ТВ
-http://213.172.73.170:8081/nimble_live/1104__Shanson/playlist.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| CA NHẠC - THỜI TRANG" tvg-logo="https://i.imgur.com/NBWyJJQ.png",Шансон ТВ (480p)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s43/index.m3u8
 
@@ -976,16 +975,6 @@ http://ott-cdn.ucom.am/s37/04.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình" tvg-logo="https://i.imgur.com/QlncxbD.png",Рыжий
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s57/04.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình" tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/40.jpg",Мама
-http://213.172.73.170:8081/nimble_live/1052__MAMA/playlist.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình" tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/130.png",Мульт
-http://213.172.73.170:8081/nimble_live/1084__Mult/playlist.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình" tvg-logo="http://epg.it999.ru/img/2138.png",BOLT
-http://213.172.73.170:8081/nimble_live/1128__MTV_Hits/playlist.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình" tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/101.png",Детский
-http://213.172.73.170:8081/nimble_live/1027__Detskiy/playlist.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình" tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/13.png",Детский Мир
-http://213.172.73.170:8081/nimble_live/1097__Detskiy_Mir/playlist.m3u8
 
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| PHIM" tvg-logo="https://i.imgur.com/lXlwfyw.png",Amedia 1
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
@@ -993,43 +982,13 @@ http://ott-cdn.ucom.am/s45/04.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| PHIM" tvg-logo="https://i.imgur.com/GwQgT6X.png",Amedia 2
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s33/04.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| PHIM" tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/55.jpg",Cinema
-http://213.172.73.170:8081/nimble_live/1142__Sinema/playlist.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| PHIM" tvg-logo="http://epg.it999.ru/img/934.png",Hollywood HD
-http://213.172.73.171:8081/nimble_live/1179__MGM_HD/playlist.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| PHIM" tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/100.png",TV1000
-http://213.172.73.170:8081/nimble_live/1073__Tv_1000/playlist.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| PHIM" tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/64.jpg",TV1000 Action
-http://213.172.73.170:8081/nimble_live/1072__Tv_1000_Action/playlist.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| PHIM" tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/118.png",TV1000 Русское Кино
-http://213.172.73.170:8081/nimble_live/1075__Tv_1000_Russkoye_Kino/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UHo6cwX.png" group-title="🇻🇳-🇷🇺| PHIM",Amedia Premium 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s64/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M0OR92h.png" group-title="🇻🇳-🇷🇺| PHIM",Дорама
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s95/04.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| PHIM" tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/113.png",Родное Кино
-http://213.172.73.170:8081/nimble_live/1110__Rodnoye_kino/playlist.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| PHIM" tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/52.jpg",Русский Бестселлер
-http://213.172.73.170:8081/nimble_live/1062__Russkiy_Bestseller/playlist.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| PHIM" tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/160.png",Русский Иллюзион
-http://213.172.73.170:8081/nimble_live/1141__Russkiy_Illyuzion/playlist.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| PHIM" tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/69.png",НСТ
-http://213.172.73.170:8081/nimble_live/1051__NST/playlist.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| PHIM" tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/349.jpg",Остросюжетное HD
-http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| PHIM" tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/11.png",Еврокино
-http://213.172.73.170:8081/nimble_live/1139__EvroKino/playlist.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| PHIM" tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/178.png",TV XXI
-http://213.172.73.171:8081/nimble_live/1169__TV_21M/playlist.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| PHIM" tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/75.png",Дом Кино
-http://213.172.73.170:8081/nimble_live/1127__Dom_Kino/playlist.m3u8
 
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/32.jpg",Совершенно Секретно
-http://213.172.73.170:8081/nimble_live/1016__Sovershenno_Sekretno/playlist.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/149.jpg",Техно 24
-http://213.172.73.170:8081/nimble_live/1056__24_Texno/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://i.imgur.com/RAfV5p7.png",Загородный
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s31/04.m3u8
@@ -1042,15 +1001,9 @@ http://ott-cdn.ucom.am/s40/04.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://i.imgur.com/sQuWOgM.png",Наука 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s98/04.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/106.png",Наука 2.0
-http://213.172.73.170:8081/nimble_live/1134__Nauka_2_0/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://i.imgur.com/k1Gt1Rc.png",Охотник и Рыболов 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s62/04.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/21.jpg",Охота и Рыбалка
-http://213.172.73.170:8081/nimble_live/1040__Oxota_i_Ribalka/playlist.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/168.jpg",365 Дней
-http://213.172.73.170:8081/nimble_live/1058__365_Dney/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xjFRs5h/arsenaltv.png" group-title="🇻🇳-🇷🇺| KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG",Арсенал
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s68/04.m3u8
@@ -1063,17 +1016,7 @@ http://ott-cdn.ucom.am/s92/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MqJUSQu.png" group-title="🇻🇳-🇷🇺| KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG",Тонус
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s90/04.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/167.png",Viasat History
-http://213.172.73.170:8081/nimble_live/1074__ViaSat_History/playlist.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/23.png",Кухня ТВ
-http://213.172.73.170:8081/nimble_live/1086__Kuxya_Tv/playlist.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG",Доктор
-http://213.172.73.170:8081/nimble_live/1145__GalaxyTV/playlist.m3u8
 
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| GIẢI TRÍ TỔNG HỢP" tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/155.png",Авто 24
-http://213.172.73.170:8081/nimble_live/1054__Avto_24/playlist.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| GIẢI TRÍ TỔNG HỢP" tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/84.png",Авто плюс
-http://213.172.73.170:8081/nimble_live/1015__Avto_Plyus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9bH6PBu.png" group-title="🇻🇳-🇷🇺| GIẢI TRÍ TỔNG HỢP",Fast&Fun Box
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s79/04.m3u8
@@ -1113,8 +1056,6 @@ https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
 http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 #EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan" tvg-logo="https://i.imgur.com/HLiv5Hq.jpg",Новое телевидение
 http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan" tvg-logo="https://i.imgur.com/X5QA7tA.png",7 канал (KZ)
-http://92.46.127.146:8080/7Channel/index.m3u8
 
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png",F Event 1
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
@@ -1144,6 +1085,8 @@ http://ott-cdn.ucom.am/s41/04.m3u8
 https://rtv.facecast.io/rtv/0.m3u8
 #EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan" tvg-logo="https://i.imgur.com/GXlYCXz.jpg",Almaty tv
 https://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan" tvg-logo="https://i.imgur.com/X5QA7tA.png",7 канал (KZ)
+http://92.46.127.146:8080/7Channel/index.m3u8
 
 #EXTINF:-1 group-title="Livestream" tvg-logo="https://i.ibb.co/4NY75KS/fpt-sport.jpg", FSPORT 1
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
@@ -1204,18 +1147,36 @@ https://vips-livecdn.fptplay.net/schedule/wbc02_vhls.smil/chunklist_b5000000.m3u
 
 #EXTINF:0 group-title="🇻🇳| VOV" tvg-logo="https://i.imgur.com/mbPvLmS.png",VOV1
 http://media.kythuatvov.vn:7001
+#EXTINF:0 group-title="🇻🇳| VOV" tvg-logo="https://i.imgur.com/mbPvLmS.png",VOV1 [sv2]
+https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
 #EXTINF:0 group-title="🇻🇳| VOV" tvg-logo="https://i.imgur.com/rS7TG49.png",VOV2
 http://media.kythuatvov.vn:7003
+#EXTINF:0 group-title="🇻🇳| VOV" tvg-logo="https://i.imgur.com/rS7TG49.png",VOV2 [sv2]
+https://str.vov.gov.vn/vovlive/vov2.sdp_aac/playlist.m3u8
 #EXTINF:0 group-title="🇻🇳| VOV" tvg-logo="https://i.imgur.com/1ZfyuG0.png",VOV3
 http://media.kythuatvov.vn:10005
-#EXTINF:0 group-title="🇻🇳| VOV" tvg-logo="https://i.imgur.com/gU6k2dJ.png",VOV4 TÂY BẮC-Hà Nội & Trung Bộ
+#EXTINF:0 group-title="🇻🇳| VOV" tvg-logo="https://i.imgur.com/1ZfyuG0.png",VOV3 [sv2]
+https://str.vov.gov.vn/vovlive/vov3.sdp_aac/playlist.m3u8
+#EXTINF:0 group-title="🇻🇳| VOV" tvg-logo="https://i.imgur.com/gU6k2dJ.png",VOV4 TÂY BẮC BỘ
 http://media.kythuatvov.vn:1936/live/VOV4_TB.sdp/chunklist.m3u8
+#EXTINF:0 group-title="🇻🇳| VOV" tvg-logo="https://i.imgur.com/gU6k2dJ.png",VOV4 TÂY BẮC BỘ [sv2]
+http://media.kythuatvov.vn:7037
+#EXTINF:0 group-title="🇻🇳| VOV" tvg-logo="https://i.imgur.com/gU6k2dJ.png",VOV4 Miền TRUNG
+http://media.kythuatvov.vn:7035
+#EXTINF:0 group-title="🇻🇳| VOV" tvg-logo="https://i.imgur.com/gU6k2dJ.png",VOV4 Miền TRUNG [sv2]
+https://str.vov.gov.vn/vovlive/vov4.MienTrung.sdp_aac/playlist.m3u8
 #EXTINF:0 group-title="🇻🇳| VOV" tvg-logo="https://i.imgur.com/gU6k2dJ.png",VOV4 TÂY NGUYÊN
 http://media.kythuatvov.vn:1936/live/VOV4_TN.sdp/chunklist.m3u8
-#EXTINF:0 group-title="🇻🇳| VOV" tvg-logo="https://i.imgur.com/gU6k2dJ.png",VOV4 ĐỒNG BẰNG SÔNG MÊ KÔNG
+#EXTINF:0 group-title="🇻🇳| VOV" tvg-logo="https://i.imgur.com/gU6k2dJ.png",VOV4 TÂY NGUYÊN [sv2]
+http://media.kythuatvov.vn:7039
+#EXTINF:0 group-title="🇻🇳| VOV" tvg-logo="https://i.imgur.com/gU6k2dJ.png",VOV4 Cần Thơ
 http://media.kythuatvov.vn:1936/live/VOV4_CT.sdp/chunklist.m3u8
-#EXTINF:0 group-title="🇻🇳| VOV" tvg-logo="https://i.imgur.com/gU6k2dJ.png",VOV4 ĐÔNG NAM BỘ
+#EXTINF:0 group-title="🇻🇳| VOV" tvg-logo="https://i.imgur.com/gU6k2dJ.png",VOV4 Cần Thơ [sv2]
+http://media.kythuatvov.vn:7031
+#EXTINF:0 group-title="🇻🇳| VOV" tvg-logo="https://i.imgur.com/gU6k2dJ.png",VOV4 Thành Phố Hồ Chí Minh
 http://media.kythuatvov.vn:1936/live/VOV4_HCM.sdp/chunklist.m3u8
+#EXTINF:0 group-title="🇻🇳| VOV" tvg-logo="https://i.imgur.com/gU6k2dJ.png",VOV4 Thành Phố Hồ Chí Minh [sv2]
+http://media.kythuatvov.vn:7033
 #EXTINF:-1 group-title="🇻🇳| VOV" tvg-logo="https://i.imgur.com/7o7hkWq.png",VOV5 Russia
 http://media.kythuatvov.vn:7029
 #EXTINF:-1 group-title="🇻🇳| VOV" tvg-logo="https://i.imgur.com/OIzhtBi.png",VOV Giao Thông Hà Nội & Hà Tây Cũ
