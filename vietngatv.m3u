@@ -259,7 +259,7 @@ https://livecdn.fptplay.net/sdb/backan_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="bacninh" group-title="🇻🇳| ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/Ju7lwHi.png",BTV HD - Bắc Ninh HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/bacninh_hls.smil/chunklist_b2800000.m3u8
-#EXTINF:-1 tvg-id="camau" group-title="🇻🇳| ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/Zft3fPI.png",CTV HD - CÀ Mau HD
+#EXTINF:-1 tvg-id="camau" group-title="🇻🇳| ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/YkEommU.png",CTV HD - CÀ Mau HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/camau_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="caobang" group-title="🇻🇳| ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/kETe9LN.png",CRTV - Cao Bằng
@@ -911,6 +911,8 @@ http://tvcom.stream.intelema.ru/tvcom/studio/playlist.m3u8
 https://bsttv.bonus-tv.ru/cdn/tamyr/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2410.png" group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan",Курай TV
 https://bsttv.bonus-tv.ru/cdn/kurai/playlist_sdhigh.m3u8
+#EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan" tvg-logo="https://i.imgur.com/8fKWpo3.png",Три Ангела
+https://hls.tv.3angels.ru/stream/HQ.m3u8
 
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| KÊNH KHÁC" tvg-logo="https://i.imgur.com/EMwsDdd.png",Красная линия
 https://kprf-htlive.cdn.ngenix.net/live/stream_high/playlist.m3u8
@@ -1227,8 +1229,6 @@ http://118.107.85.4:1935/radio/lamdong_aac/playlist.m3u8
 https://live.baobinhphuoc.com.vn/bptvlive/radio.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| RADIO" tvg-logo="https://i.imgur.com/ykiiXBV.png",THĐT Radio - Phát Thanh Đồng Tháp
 http://202.43.109.144:1935/thdtradio/thdtradio/chunklist.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| RADIO" tvg-logo="https://i.imgur.com/YkEommU.png",CTV Radio - Phát Thanh Cà Mau
-http://tv.ctvcamau.vn/live/radio/radio.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yMLnaHk.png" group-title="🇻🇳-🇷🇺| RADIO",Радио Вести FM
 http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| RADIO" tvg-logo="http://img.vintera.tv/img/ico/mayak.png",Радио Маяк
