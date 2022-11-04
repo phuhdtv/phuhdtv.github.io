@@ -378,6 +378,8 @@ http://118.107.85.5:1935/live/smil:LTV.smil/chunklist_b1384000.m3u8
 https://livecdn.fptplay.net/sdc/longan_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="longan" group-title="🇻🇳| ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/FHFfPXS.png",LA34 HD - Long An TV HD
 https://la34.vncdn.vn/live/LA34AAA/playlist.m3u8
+#EXTINF:-1 tvg-id="dongthap2" group-title="🇻🇳| ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/FsCTf6v.png",THĐT2 - MIỀN TÂY
+http://202.43.109.144:1935/thdt2/thdt2/chunklist.m3u8
 #EXTINF:-1 tvg-id="dongthap2" group-title="🇻🇳| ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/FsCTf6v.png",THĐT2 - MIỀN TÂY HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/dongthaphd_2000.stream/playlist.m3u8
@@ -613,8 +615,6 @@ https://live.ishiacloud.com/haditv.co.uk/haditv3.m3u8
 #EXTINF:-1 tvg-id="hbohd" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC" tvg-logo="https://i.imgur.com/w5u4IrO.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",HBO HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="ISTV.la" tvg-logo="https://i.imgur.com/TGAKFcV.jpg" group-title="🌏| Quốc Tế",ISTV
-https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="kix" group-title="🇻🇳-🇷🇺| GIẢI TRÍ TỔNG HỢP" tvg-logo="https://i.imgur.com/SvRrcXy.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",KIX HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
@@ -623,13 +623,14 @@ https://tv.nknews.org/tvdash/stream.mpd
 #EXTINF:-1 tvg-id="kbsworld" group-title="🌏| Quốc Tế" tvg-logo="https://i.imgur.com/zPSO1up.png",KBS World HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://vips-livecdn.fptplay.net/hda3/kbs_4000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="nhkworld" group-title="🌏| Quốc Tế" tvg-logo="https://i.imgur.com/DNuFsVE.png",NHK WORLD HD (ENG)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 #EXTINF:-1 tvg-id="nhkworld" group-title="🌏| Quốc Tế" tvg-logo="https://i.imgur.com/DNuFsVE.png",NHK WORLD HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="NHKWorldPremium.jp" group-title="🌏| Quốc Tế" tvg-logo="https://nhkworldpremium.com/img/common/logo.png",NHK World Premium
 https://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index_1M.m3u8
-#EXTINF:-1 tvg-id="NingTV.la" tvg-logo="https://i.imgur.com/Kgccf1f.png" group-title="🌏| Quốc Tế",Ning TV
-https://livefta.malimarcdn.com/ftaedge00/ningtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ngchd" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://i.imgur.com/O13uMvJ.png",NGC - National Geographic HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
