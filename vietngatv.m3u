@@ -671,6 +671,10 @@ https://livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="tlchd" group-title="🇻🇳-🇷🇺| KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://i.imgur.com/ELjuMyU.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",TLC HD - Travel Living Channel HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="🌏| Quốc Tế" tvg-logo="https://i.imgur.com/vhb8zvB.png",Three Angels Broadcasting Network International
+https://3abn-live.akamaized.net/hls/live/2010544/International/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6bRRKgY.png" group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình",Three Angels Broadcasting Network Kids Network
+https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/512px-TRT_T%C3%BCrk_logo.svg.png" group-title="🌏| Quốc Tế",TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="🌏| Quốc Tế" tvg-logo="https://i.imgur.com/F7P8nYV.png",TRT World HD
@@ -928,8 +932,6 @@ https://brics.bonus-tv.ru/cdn/brics/russian/playlist.m3u8
 http://nano.teleservice.su:8080/hls/nano.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| GIẢI TRÍ TỔNG HỢP" tvg-logo="http://epg.it999.ru/img/1035.png",Travel+Adventure HD
 http://live-1.otcnet.ru/tadtmf/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| KÊNH KHÁC" tvg-logo="https://i.imgur.com/8fKWpo3.png",3ABN Russia-CIS
-https://hls.tv.3angels.ru/stream/HQ.m3u8
 #EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan" tvg-logo="https://i.imgur.com/jiU4LHy.png",Новый мир
 http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
 
@@ -1215,8 +1217,6 @@ https://livept.hanoitv.vn/hntvRadio/fm96.sdp_aac/chunklist.m3u8
 https://live.thhp.vn/937/index.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| RADIO" tvg-logo="https://i.ibb.co/xJ0y2Vw/HAIPHONG-BEARTV.png",THP FM 102.2Mhz - PHÁT THANH Hải Phòng 2
 https://live.thhp.vn/radio/102/index.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| RADIO" tvg-logo="https://i.imgur.com/5Ys78oI.png",BGTV Radio - Phát Thanh Bắc Giang
-http://103.90.220.236/bgtvlive/radio.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| RADIO" tvg-logo="https://i.imgur.com/q47WFaS.png",HTTV Radio - Phát Thanh Hà Tĩnh
 https://wse.hatinhtv.net/radio/voht/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| RADIO" tvg-logo="https://i.imgur.com/ivnlf5e.png",BTV Radio - Phát Thanh Bình Thuận
