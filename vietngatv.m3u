@@ -523,6 +523,8 @@ http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/rPzH88J.png",BBC News HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://vips-livecdn.fptplay.net/hda3/bbcnews_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="🌏| Quốc Tế" tvg-logo="https://i.ibb.co/zG1DTmj/BTVNews-BEARTV.png",BTV News
+https://livefta.malimarcdn.com/tvkedge/btv.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="bbcearth" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://i.imgur.com/xXM60fa.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",BBC Earth HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
@@ -611,6 +613,8 @@ https://live.ishiacloud.com/haditv.co.uk/haditv3.m3u8
 #EXTINF:-1 tvg-id="hbohd" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC" tvg-logo="https://i.imgur.com/w5u4IrO.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",HBO HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="ISTV.la" tvg-logo="https://i.imgur.com/TGAKFcV.jpg" group-title="🌏| Quốc Tế",ISTV
+https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="kix" group-title="🇻🇳-🇷🇺| GIẢI TRÍ TỔNG HỢP" tvg-logo="https://i.imgur.com/SvRrcXy.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",KIX HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
@@ -624,6 +628,8 @@ https://vips-livecdn.fptplay.net/hda3/kbs_4000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="NHKWorldPremium.jp" group-title="🌏| Quốc Tế" tvg-logo="https://nhkworldpremium.com/img/common/logo.png",NHK World Premium
 https://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index_1M.m3u8
+#EXTINF:-1 tvg-id="NingTV.la" tvg-logo="https://i.imgur.com/Kgccf1f.png" group-title="🌏| Quốc Tế",Ning TV
+https://livefta.malimarcdn.com/ftaedge00/ningtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ngchd" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://i.imgur.com/O13uMvJ.png",NGC - National Geographic HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
@@ -679,6 +685,10 @@ https://tv-trtturk.medya.trt.com.tr/master.m3u8
 http://tv-trtworld.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="🌏| Quốc Tế" tvg-logo="https://i.imgur.com/h2JhC6o.png",TVE Internacional
 http://210.210.155.37/uq2663/h/h158/index2.m3u8
+#EXTINF:-1 tvg-id="TVK.kh" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvk_kh.png" group-title="🌏| Quốc Tế",TVK
+https://livefta.malimarcdn.com/tvkedge/tvkhd.stream/master.m3u8
+#EXTINF:-1 tvg-id="TVK2.kh" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvk_kh.png" group-title="🌏| Quốc Tế",TVK2
+https://livefta.malimarcdn.com/tvkedge/tvk2.stream/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uYrOLPY.png" group-title="🇦🇲-🇰🇬| Armenia & Kyrgyzstan",TV1 KG
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRIWorld.id" tvg-logo="https://i.imgur.com/h3RldTO.png" group-title="🌏| Quốc Tế",TVRI3 - TVRI World
