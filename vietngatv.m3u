@@ -463,7 +463,7 @@ https://livecdn.fptplay.net/sdc/hue_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sda/tiengiang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="tiengiang" group-title="🇻🇳| ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/81U4Jvv.png",THTG HD - TIỀN GIANG HD
 http://123.25.238.45:1935/live/thtg/chunklist.m3u8
-#EXTINF:0 tvg-id="travinh" group-title="🇻🇳| ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/tE10QDW.jpg",THTV HD - TRÀ VINH HD
+#EXTINF:0 tvg-id="travinh" group-title="🇻🇳| ĐỊA PHƯƠNG" tvg-logo="https://chemotactic-bang.000webhostapp.com/logovanhtv/diaphuong/travinh.png",THTV HD - TRÀ VINH HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/travinh_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="tuyenquang" group-title="🇻🇳| ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/Jfi89Zl.png",TTV HD - TUYÊN QUANG HD
@@ -791,8 +791,6 @@ http://213.172.73.170:8081/nimble_live/1059__Rossiya_Kultura/playlist.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s16/index.m3u8
 #EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan" tvg-logo="https://i.imgur.com/wu7O85f.png",Россия 24
-http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
-#EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan" tvg-logo="https://i.imgur.com/wu7O85f.png",Россия 24 [24/7]
 http://213.172.73.170:8081/nimble_live/1071__Rossiya_24/playlist.m3u8
 #EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| RUSSIA-Belarus-Kazakhstan" tvg-logo="https://i.imgur.com/wu7O85f.png",Россия 24 (480p)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
@@ -1209,14 +1207,16 @@ http://118.107.85.5:1935/radio/sonla_aac/chunklist.m3u8
 http://103.90.220.236/qtvlive/qnr1.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| RADIO" tvg-logo="https://cdn.hqth.me/logo/thumbs/254.png",QNR2 - PHÁT THANH Quảng Ninh 2
 http://103.90.220.236/qtvlive/qnr2.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| RADIO" tvg-logo="https://i.imgur.com/OzqxrQ0.png",HTV FM 90 - PHÁT THANH HÀ NỘI 1
+#EXTINF:-1 group-title="🇻🇳-🇷🇺| RADIO" tvg-logo="https://i.imgur.com/zkigXd4.png",Hanoi Radio 1 - PHÁT THANH HÀ NỘI 1
 https://livept.hanoitv.vn/hntvRadio/fm90.sdp_aac/chunklist.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| RADIO" tvg-logo="https://i.imgur.com/OzqxrQ0.png",HTV FM 96 - PHÁT THANH HÀ NỘI 2
+#EXTINF:-1 group-title="🇻🇳-🇷🇺| RADIO" tvg-logo="https://i.imgur.com/97VIVBi.png",Hanoi Radio 2 - PHÁT THANH HÀ NỘI 2
 https://livept.hanoitv.vn/hntvRadio/fm96.sdp_aac/chunklist.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| RADIO" tvg-logo="https://i.ibb.co/xJ0y2Vw/HAIPHONG-BEARTV.png",THP FM 93.7Mhz - PHÁT THANH Hải Phòng 1
 https://live.thhp.vn/937/index.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| RADIO" tvg-logo="https://i.ibb.co/xJ0y2Vw/HAIPHONG-BEARTV.png",THP FM 102.2Mhz - PHÁT THANH Hải Phòng 2
 https://live.thhp.vn/radio/102/index.m3u8
+#EXTINF:-1 group-title="🇻🇳-🇷🇺| RADIO" tvg-logo="https://i.imgur.com/5Ys78oI.png",BGTV Radio - Phát Thanh Bắc Giang
+http://103.90.220.236/bgtvlive/radio.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| RADIO" tvg-logo="https://i.imgur.com/q47WFaS.png",HTTV Radio - Phát Thanh Hà Tĩnh
 https://wse.hatinhtv.net/radio/voht/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| RADIO" tvg-logo="https://i.imgur.com/ivnlf5e.png",BTV Radio - Phát Thanh Bình Thuận
