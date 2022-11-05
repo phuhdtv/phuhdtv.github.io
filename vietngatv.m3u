@@ -203,7 +203,7 @@ https://livecdn.fptplay.net/sdc/bariavungtau_hls.smil/chunklist_b2800000.m3u8
 #EXTINF:-1 tvg-id="baclieu" group-title="🇻🇳| ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/ATG11ql.png",BLTV HD - BẠC LIÊU
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/baclieu_hls.smil/chunklist_b2800000.m3u8
-#EXTINF:-1 tvg-id="bentre" group-title="🇻🇳| ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/l8Ae26m.png",THBT - BẾN TRE
+#EXTINF:-1 tvg-id="bentre" group-title="🇻🇳| ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/l8Ae26m.png",THBT HD - BẾN TRE
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/bentre_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="binhduong1" group-title="🇻🇳| ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/Soe6MC8.png",BTV1 HD - Bình Dương 1
@@ -242,11 +242,9 @@ http://103.90.220.236/bptvlive/tv1live.m3u8
 https://livecdn.fptplay.net/sdc/binhphuoc2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="hometvbptv2" group-title="🇻🇳| ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/UwxLugU.png",BPTV2 HD - BÁO BÌNH PHƯỚC 2 HD
 http://103.90.220.236/bptvlive/tv2live.m3u8
-#EXTINF:-1 tvg-id="binhthuan" group-title="🇻🇳| ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/1TWIKHe.png",BTV - BÌnh ThuẬn
+#EXTINF:-1 tvg-id="binhthuan" group-title="🇻🇳| ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/1TWIKHe.png",BTV HD - BÌnh ThuẬn
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/binhthuan_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="binhthuan" group-title="🇻🇳| ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/1TWIKHe.png",BTV HD - BÌnh ThuẬn
-http://202.43.109.144:1935/thbttv/bttv/chunklist.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| Quảng Cáo" tvg-logo="https://i.imgur.com/3bKWKPm.png",BTV6 - Quê Hương Shop
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdb/quehuongshop_hls.smil/chunklist_b2500000.m3u8
@@ -580,6 +578,9 @@ https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="discovery_asia" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://i.imgur.com/lD13h2Y.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/discoveryasia_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Discovery Asia HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="dw" group-title="🌏| Quốc Tế" tvg-logo="https://i.imgur.com/0x1fWbw.png",Deutsche Welle English (ENG)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="dw" group-title="🌏| Quốc Tế" tvg-logo="https://i.imgur.com/0x1fWbw.png",Deutsche Welle English
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u8
@@ -622,6 +623,9 @@ https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
 https://tv.nknews.org/tvdash/stream.mpd
 #EXTINF:-1 tvg-id="kbsworld" group-title="🌏| Quốc Tế" tvg-logo="https://i.imgur.com/zPSO1up.png",KBS World HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:-1 tvg-id="kbsworld" group-title="🌏| Quốc Tế" tvg-logo="https://i.imgur.com/zPSO1up.png",KBS World HD (FPT)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://vips-livecdn.fptplay.net/hda3/kbs_4000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="nhkworld" group-title="🌏| Quốc Tế" tvg-logo="https://i.imgur.com/DNuFsVE.png",NHK WORLD HD (ENG)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
@@ -647,6 +651,8 @@ https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
 https://thainews.prd.go.th/lv/live/ch1_L_L.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kb3tCYf.png" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH",NDTV 24X7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+#EXTINF:-1 tvg-id="MNBWorld.mn" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mnb-world-mn.png" group-title="🌏| Quốc Tế",MNB world
+https://live.mnb.mn/live/mnb_world.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="outdoor_channel" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://i.imgur.com/RJwaiHH.png",Outdoor Channel HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
