@@ -583,6 +583,8 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 https://livefr.cgtn.com/1000f/prog_index.m3u8
 #EXTINF:-1 group-title="🌏| Quốc Tế" tvg-logo="https://i.imgur.com/L2yv24j.png",CGTN Русский
 http://liveru.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:-1 tvg-id="DaystarTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Daystar_TV.PNG/512px-Daystar_TV.PNG" group-title="🌏| Quốc Tế",Daystar TV
+https://hls-live-media.cdn01.net/dvr/stream_37099_1.m3u8
 #EXTINF:-1 tvg-id="davincihd" group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình" tvg-logo="https://i.imgur.com/iBx7K1M.png",Da Vinci HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
@@ -690,6 +692,8 @@ http://ott-cdn.ucom.am/s93/04.m3u8
 http://uiptv.do.am/1ufc/300663722/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://i.imgur.com/pH3Q1jn.png",Sochi Live HD
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
+#EXTINF:-1 tvg-id="SupremeMasterTV.tw" tvg-logo="https://i.imgur.com/CiFGi8J.png"group-title="🌏| Quốc Tế",Supreme Master TV
+https://lbs-us1.suprememastertv.com/720p.m3u8
 #EXTINF:-1 tvg-id="tv5monde_asie" group-title="🌏| Quốc Tế" tvg-logo="https://i.imgur.com/v1ERmdk.png",TV5 Monde HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist_b2500000.m3u8
@@ -1013,8 +1017,6 @@ http://ott-cdn.ucom.am/s37/04.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình" tvg-logo="https://i.imgur.com/QlncxbD.png",Рыжий
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s57/04.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình" tvg-logo="https://i.imgur.com/04Btu5f.png",Балапан ТВ
-http://92.46.127.146:8080/balapan/index.m3u8
 #EXTINF:-1  group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mult_ru.png",Мульт
 https://autopilot.catcast.tv/content/38850/index.m3u8
 
@@ -1103,18 +1105,8 @@ http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
 #EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| NGA - Belarus & Kazakhstan" tvg-logo="https://i.imgur.com/oUbjl18.png",Jibek Joly TV
 https://kzkhtv.ultraiptv.com/kzkhtv/master.m3u8
-#EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| NGA - Belarus & Kazakhstan" tvg-logo="https://www.lyngsat.com/logo/tv/tt/turan-tv-kz.png",Туран ТВ
-http://92.46.127.146:8080/TuranTV-L3-TRANS/index.m3u8
 #EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| NGA - Belarus & Kazakhstan" tvg-logo="https://i.imgur.com/X5QA7tA.png",7 канал
 http://92.46.127.146:8080/7Channel/index.m3u8
-#EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| NGA - Belarus & Kazakhstan" tvg-logo="https://i.imgur.com/xG3HxId.png",Хабар
-http://92.46.127.146:8080/Khabar-L3-TRANS/index.m3u8
-#EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| NGA - Belarus & Kazakhstan" tvg-logo="https://i.imgur.com/r5OooXc.png",31 канал
-http://92.46.127.146:8080/31Channel/index.m3u8
-#EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| NGA - Belarus & Kazakhstan" tvg-logo="https://i.imgur.com/4P7oOL7.png",Ел Арна
-http://92.46.127.146:8080/elarna/index.m3u8
-#EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| NGA - Belarus & Kazakhstan" tvg-logo="https://i.imgur.com/fGcVRmo.png",КТК
-http://92.46.127.146:8080/KTK/index.m3u8
 #EXTINF:-1 tvg-id="TBN.ru" tvg-logo="https://i.imgur.com/QUk38hq.png" group-title="🇷🇺-🇧🇾-🇰🇿| NGA - Belarus & Kazakhstan",ТБН
 http://62.32.67.187:1935/WEB_TBN/TBN.stream/playlist.m3u8
 
