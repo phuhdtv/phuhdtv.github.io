@@ -248,7 +248,7 @@ http://103.90.220.236/bptvlive/tv1live.m3u8
 https://livecdn.fptplay.net/sdc/binhphuoc2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="hometvbptv2" group-title="🇻🇳| ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/UwxLugU.png",BPTV2 HD - BÁO BÌNH PHƯỚC 2 HD
 http://103.90.220.236/bptvlive/tv2live.m3u8
-#EXTINF:-1 tvg-id="binhthuan" group-title="🇻🇳| ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/1TWIKHe.png",BTV - BÌnh ThuẬn
+#EXTINF:-1 tvg-id="binhthuan" group-title="🇻🇳| ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/Eb8zguH.png",BTV - BÌnh ThuẬn
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/binhthuan_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="binhthuan" group-title="🇻🇳| ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/1TWIKHe.png",BTV HD - BÌnh ThuẬn HD
@@ -808,7 +808,7 @@ http://ott-cdn.ucom.am/s48/index.m3u8
 http://ott-cdn.ucom.am/s14/04.m3u8
 #EXTINF:0 group-title="🇷🇺-🇧🇾-🇰🇿| NGA - Belarus & Kazakhstan" tvg-logo="https://i.imgur.com/5D1gwiv.png",Россия РТР (МСК)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s15/index.m3u8
+http://ott-cdn.ucom.am/s15/04.m3u8
 #EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| NGA - Belarus & Kazakhstan" tvg-logo="https://i.imgur.com/DtQX5P2.png",НТВ МИР
 http://92.46.127.146:8080/ntv/index.m3u8
 #EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| NGA - Belarus & Kazakhstan" tvg-logo="https://i.imgur.com/DtQX5P2.png",НТВ МИР (480p)
@@ -833,12 +833,14 @@ http://iptv.ktkru.ru:8009/index.m3u8
 #EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| NGA - Belarus & Kazakhstan" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВ Центр (int.)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s54/index.m3u8
-#EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| NGA - Belarus & Kazakhstan" tvg-logo="https://i.imgur.com/18TAzYV.png",РЕН ТВ (+2)
-http://109.194.62.29:8080
+#EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| NGA - Belarus & Kazakhstan" tvg-logo="https://i.imgur.com/18TAzYV.png",РЕН ТВ
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s85/04.m3u8
 #EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| NGA - Belarus & Kazakhstan" tvg-logo="https://i.imgur.com/JBDdOqq.jpg",СПАС
 http://spas.mediacdn.ru/cdn/spas/playlist.m3u8
 #EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| NGA - Belarus & Kazakhstan" tvg-logo="https://i.imgur.com/pJNWVAz.png",СТС
-http://213.172.73.170:8081/nimble_live/1087__STS/playlist.m3u8
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s52/04.m3u8
 #EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| NGA - Belarus & Kazakhstan" tvg-logo="https://i.imgur.com/jBnjxGR.png",Домашний
 http://213.172.73.170:8081/nimble_live/1021__Domashniy/playlist.m3u8
 #EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| NGA - Belarus & Kazakhstan" tvg-logo="https://i.imgur.com/zvhT8JO.png",ТВ3
@@ -920,7 +922,7 @@ https://www.10kanal.ru:1443/10kanal/k24/playlist.m3u8
 http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8
 #EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| NGA - Belarus & Kazakhstan" tvg-logo="https://i.imgur.com/HI1f5Ve.png",Москва 24
 https://radio-live-mg.rtr-vesti.ru/hls/moscow_24/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| NGA - Belarus & Kazakhstan" tvg-logo="https://i.imgur.com/hLD874K.jpg",Вечерка ТВ HD
+#EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| NGA - Belarus & Kazakhstan" tvg-logo="https://i.imgur.com/hLD874K.jpg",Вечерняя Москва HD
 https://vmvideo.gcdn.co/streams/1503_161/1080n/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iwWxkl6.png" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH",Сочи 24 ТВ HD
 https://serv30.vintera.tv/sochi/sochi24/playlist.m3u8
@@ -958,6 +960,8 @@ http://nano.teleservice.su:8080/hls/nano.m3u8
 http://live-1.otcnet.ru/tadtmf/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| NGA - Belarus & Kazakhstan" tvg-logo="https://i.imgur.com/jiU4LHy.png",Новый мир
 http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
+#EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| NGA - Belarus & Kazakhstan" tvg-logo="https://i.imgur.com/y1xT87R.png",Univer TV HD
+https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6TjLUuF.png" group-title="Music",1HD Music Television
 https://sc.id-tv.kz/1hd.m3u8
@@ -1015,6 +1019,8 @@ http://ott-cdn.ucom.am/s37/04.m3u8
 http://ott-cdn.ucom.am/s57/04.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình" tvg-logo="https://i.imgur.com/04Btu5f.png",Балапан ТВ
 http://92.46.127.146:8080/balapan/index.m3u8
+#EXTINF:-1  group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình" tvg-logo="",Мульт
+https://autopilot.catcast.tv/content/38850/index.m3u8
 
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC" tvg-logo="https://i.imgur.com/lXlwfyw.png",Amedia 1
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
@@ -1271,7 +1277,7 @@ https://live.thhp.vn/937/index.m3u8
 https://live.thhp.vn/radio/102/index.m3u8
 #EXTINF:-1 group-title="📻| Phát thanh" tvg-logo="https://i.imgur.com/q47WFaS.png",HTTV Radio - Phát Thanh Hà Tĩnh
 https://wse.hatinhtv.net/radio/voht/playlist.m3u8
-#EXTINF:-1 group-title="📻| Phát thanh" tvg-logo="https://i.imgur.com/ivnlf5e.png",BTV Radio - Phát Thanh Bình Thuận
+#EXTINF:-1 group-title="📻| Phát thanh" tvg-logo="https://i.imgur.com/Eb8zguH.png",BTV Radio - Phát Thanh Bình Thuận
 http://202.43.109.142:1935/thbtradio/btradio/chunklist.m3u8
 #EXTINF:-1 group-title="📻| Phát thanh" tvg-logo="https://i.imgur.com/WM7ddLv.png",LTV Radio - Phát Thanh Lâm Đồng
 http://118.107.85.4:1935/radio/lamdong_aac/playlist.m3u8
