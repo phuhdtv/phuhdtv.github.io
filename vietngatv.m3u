@@ -537,8 +537,6 @@ http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/rPzH88J.png",BBC News HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://vips-livecdn.fptplay.net/hda3/bbcnews_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://i.ibb.co/zG1DTmj/BTVNews-BEARTV.png",BTV News (Campuchia)
-https://livefta.malimarcdn.com/tvkedge/btv.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="bbcearth" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://i.imgur.com/xXM60fa.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",BBC Earth HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
@@ -637,15 +635,12 @@ https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="🌏| Quốc Tế" tvg-logo="https://i.imgur.com/O6G4tJ8.png",KCTV
 https://tv.nknews.org/tvdash/stream.mpd
+#EXTINF:-1 tvg-id="kbsworld" group-title="🌏| Quốc Tế" tvg-logo="https://i.imgur.com/zPSO1up.png",KBS World
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="kbsworld" group-title="🌏| Quốc Tế" tvg-logo="https://i.imgur.com/zPSO1up.png",KBS World HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-#EXTINF:-1 tvg-id="kbsworld" group-title="🌏| Quốc Tế" tvg-logo="https://i.imgur.com/zPSO1up.png",KBS World HD (FPT)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://vips-livecdn.fptplay.net/hda3/kbs_4000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="nhkworld" group-title="🌏| Quốc Tế" tvg-logo="https://i.imgur.com/DNuFsVE.png",NHK WORLD HD (ENG)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 #EXTINF:-1 tvg-id="nhkworld" group-title="🌏| Quốc Tế" tvg-logo="https://i.imgur.com/DNuFsVE.png",NHK WORLD HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
@@ -731,81 +726,6 @@ http://210.210.155.37/uq2663/h/h91/index.m3u8
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rsYbFE8.png" group-title="🇻🇳-🇷🇺| KÊNH KHÁC",Каббала ТВ-66 канал
 http://edge3.uk.kab.tv/live/tv66-rus-high/chunks.m3u8
-
-#EXTINF:-1 group-title="🇦🇲-🇰🇬| Armenia & Kyrgyzstan" tvg-logo="https://i.imgur.com/ZsYvvwL.png",H1 - Առաջին ալիք
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s1/index.m3u8
-#EXTINF:-1 group-title="🇦🇲-🇰🇬| Armenia & Kyrgyzstan" tvg-logo="https://i.imgur.com/ZsYvvwL.png",H1 - Առաջին ալիք HD
-https://amtv1.livestreamingcdn.com/am2abr/index.m3u8
-#EXTINF:-1 group-title="🇦🇲-🇰🇬| Armenia & Kyrgyzstan" tvg-logo="https://i.imgur.com/fMOopjK.png",H2 - Հ2
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s2/index.m3u8
-#EXTINF:-1 group-title="🇦🇲-🇰🇬| Armenia & Kyrgyzstan" tvg-logo="https://i.imgur.com/tUQ8vQT.png",Shant - Շանթ
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s3/index.m3u8
-#EXTINF:-1 group-title="🇦🇲-🇰🇬| Armenia & Kyrgyzstan" tvg-logo="https://i.imgur.com/EqkF0O8.jpg",Armenia TV - Արմենիա
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s4/index.m3u8
-#EXTINF:-1 group-title="🇦🇲-🇰🇬| Armenia & Kyrgyzstan" tvg-logo="https://i.imgur.com/SrHncfk.png",Center - Կենտրոն
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s5/index.m3u8
-#EXTINF:-1 group-title="🇦🇲-🇰🇬| Armenia & Kyrgyzstan" tvg-logo="https://i.imgur.com/TejnGpV.jpg",Channel 5 - 5-րդ ալիք
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s6/index.m3u8
-#EXTINF:-1 group-title="🇦🇲-🇰🇬| Armenia & Kyrgyzstan" tvg-logo="https://i.imgur.com/FKpxkVH.png",Country Media - Երկիր Մեդիա
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s7/index.m3u8
-#EXTINF:-1 group-title="🇦🇲-🇰🇬| Armenia & Kyrgyzstan" tvg-logo="https://i.imgur.com/A3bmTWO.png",ATV Armenia
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s8/index.m3u8
-#EXTINF:-1 group-title="🇦🇲-🇰🇬| Armenia & Kyrgyzstan" tvg-logo="https://i.imgur.com/hDYsq04.png",5 TV Plus (AR TV)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s9/04.m3u8
-#EXTINF:-1 group-title="🇦🇲-🇰🇬| Armenia & Kyrgyzstan" tvg-logo="https://i.imgur.com/NV6ZeW9.png",21TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s10/index.m3u8
-#EXTINF:-1 group-title="🇦🇲-🇰🇬| Armenia & Kyrgyzstan" tvg-logo="https://i.imgur.com/0vrFGY5.png",ARM News - Արմնյուզ
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s11/index.m3u8
-#EXTINF:-1 group-title="🇦🇲-🇰🇬| Armenia & Kyrgyzstan" tvg-logo="https://i.imgur.com/AMUR14B.png",H3
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s12/index.m3u8
-#EXTINF:-1 group-title="🇦🇲-🇰🇬| Armenia & Kyrgyzstan" tvg-logo="https://i.imgur.com/e4VxCnn.png",Shine - Շողակաթ
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s13/index.m3u8
-#EXTINF:-1 group-title="🇦🇲-🇰🇬| Armenia & Kyrgyzstan" tvg-logo="https://i.imgur.com/IxOFvqz.png",Armenia Premium
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s83/index.m3u8
-#EXTINF:-1 group-title="🇦🇲-🇰🇬| Armenia & Kyrgyzstan" tvg-logo="https://i.imgur.com/XwbLfqd.png",Armenian Cinema - Հայ Կինո
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s22/index.m3u8
-#EXTINF:-1 group-title="🇦🇲-🇰🇬| Armenia & Kyrgyzstan" tvg-logo="https://i.imgur.com/AhX46e5.png",Armenia Dear - Ջան TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s42/index.m3u8
-#EXTINF:-1 group-title="🇦🇲-🇰🇬| Armenia & Kyrgyzstan" tvg-logo="https://i.imgur.com/fRfGuQg.png",Armenia Cinemax - Սինեմաքս
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s66/index.m3u8
-#EXTINF:-1 group-title="🇦🇲-🇰🇬| Armenia & Kyrgyzstan" tvg-logo="https://i.imgur.com/XjhkUXy.png",Armenia Home Tunic - Տուն Թունիկ
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s46/index.m3u8
-#EXTINF:-1 group-title="🇦🇲-🇰🇬| Armenia & Kyrgyzstan" tvg-logo="https://i.imgur.com/pvF7dGN.png",Armenia Comedy - Քոմեդի
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s32/index.m3u8
-#EXTINF:-1 group-title="🇦🇲-🇰🇬| Armenia & Kyrgyzstan" tvg-logo="https://i.imgur.com/cndJCRU.png",ATV Pan - Թավա TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s53/index.m3u8
-#EXTINF:-1 group-title="🇦🇲-🇰🇬| Armenia & Kyrgyzstan" tvg-logo="https://i.imgur.com/mrfm9uY.png",ATV Game Channel - ԽաղԱլիք TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s74/index.m3u8
-#EXTINF:-1 group-title="🇦🇲-🇰🇬| Armenia & Kyrgyzstan" tvg-logo="https://i.imgur.com/lidNHkH.png",ATV The cinema - Կինոման TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s94/index.m3u8
-#EXTINF:-1 group-title="🇦🇲-🇰🇬| Armenia & Kyrgyzstan" tvg-logo="https://i.imgur.com/KCkzU5R.png",ATV Armenian - Հայ TV 
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s73/index.m3u8
-#EXTINF:-1 group-title="🇦🇲-🇰🇬| Armenia & Kyrgyzstan" tvg-logo="https://i.imgur.com/uWBrDpV.png",ATV Filmzone - Ֆիլմզոն
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s48/index.m3u8
 
 #EXTINF:0 group-title="🇷🇺-🇧🇾-🇰🇿| NGA - Belarus & Kazakhstan" tvg-logo="https://i.imgur.com/doB5MlE.png",Первый канал.Всемирная сеть (+3)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
@@ -1109,6 +1029,8 @@ https://kzkhtv.ultraiptv.com/kzkhtv/master.m3u8
 http://92.46.127.146:8080/7Channel/index.m3u8
 #EXTINF:-1 tvg-id="TBN.ru" tvg-logo="https://i.imgur.com/QUk38hq.png" group-title="🇷🇺-🇧🇾-🇰🇿| NGA - Belarus & Kazakhstan",ТБН
 http://62.32.67.187:1935/WEB_TBN/TBN.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="HuzurTV.tj" tvg-logo="https://i.imgur.com/Abg1fct.png" group-title="🇷🇺-🇧🇾-🇰🇿| NGA - Belarus & Kazakhstan",Хузур ТВ
+https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
 
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png",F Event 1
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
@@ -1122,9 +1044,6 @@ https://livecdn.fptplay.net/schedule/sukien03_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png",F Event 4
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/schedule/sukien04_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="https://i.postimg.cc/V669QzBb/Pladio-FPT.png",Pladio
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://vips-livecdn.fptplay.net/hda3/pladio_4000.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="https://i.ibb.co/488srb1/Golf-News-BEARTV.png",GolfNews
 https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
@@ -1140,6 +1059,81 @@ https://rtv.facecast.io/rtv/0.m3u8
 http://92.46.127.146:8080/Almaty/index.m3u8
 #EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| NGA - Belarus & Kazakhstan" tvg-logo="https://i.imgur.com/GXlYCXz.jpg",Almaty tv HD
 https://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="🇦🇲-🇰🇬| Armenia & Kyrgyzstan" tvg-logo="https://i.imgur.com/ZsYvvwL.png",H1 - Առաջին ալիք
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s1/index.m3u8
+#EXTINF:-1 group-title="🇦🇲-🇰🇬| Armenia & Kyrgyzstan" tvg-logo="https://i.imgur.com/ZsYvvwL.png",H1 - Առաջին ալիք HD
+https://amtv1.livestreamingcdn.com/am2abr/index.m3u8
+#EXTINF:-1 group-title="🇦🇲-🇰🇬| Armenia & Kyrgyzstan" tvg-logo="https://i.imgur.com/fMOopjK.png",H2 - Հ2
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s2/index.m3u8
+#EXTINF:-1 group-title="🇦🇲-🇰🇬| Armenia & Kyrgyzstan" tvg-logo="https://i.imgur.com/tUQ8vQT.png",Shant - Շանթ
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s3/index.m3u8
+#EXTINF:-1 group-title="🇦🇲-🇰🇬| Armenia & Kyrgyzstan" tvg-logo="https://i.imgur.com/EqkF0O8.jpg",Armenia TV - Արմենիա
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s4/index.m3u8
+#EXTINF:-1 group-title="🇦🇲-🇰🇬| Armenia & Kyrgyzstan" tvg-logo="https://i.imgur.com/SrHncfk.png",Center - Կենտրոն
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s5/index.m3u8
+#EXTINF:-1 group-title="🇦🇲-🇰🇬| Armenia & Kyrgyzstan" tvg-logo="https://i.imgur.com/TejnGpV.jpg",Channel 5 - 5-րդ ալիք
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s6/index.m3u8
+#EXTINF:-1 group-title="🇦🇲-🇰🇬| Armenia & Kyrgyzstan" tvg-logo="https://i.imgur.com/FKpxkVH.png",Country Media - Երկիր Մեդիա
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s7/index.m3u8
+#EXTINF:-1 group-title="🇦🇲-🇰🇬| Armenia & Kyrgyzstan" tvg-logo="https://i.imgur.com/A3bmTWO.png",ATV Armenia
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s8/index.m3u8
+#EXTINF:-1 group-title="🇦🇲-🇰🇬| Armenia & Kyrgyzstan" tvg-logo="https://i.imgur.com/hDYsq04.png",5 TV Plus (AR TV)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s9/04.m3u8
+#EXTINF:-1 group-title="🇦🇲-🇰🇬| Armenia & Kyrgyzstan" tvg-logo="https://i.imgur.com/NV6ZeW9.png",21TV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s10/index.m3u8
+#EXTINF:-1 group-title="🇦🇲-🇰🇬| Armenia & Kyrgyzstan" tvg-logo="https://i.imgur.com/0vrFGY5.png",ARM News - Արմնյուզ
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s11/index.m3u8
+#EXTINF:-1 group-title="🇦🇲-🇰🇬| Armenia & Kyrgyzstan" tvg-logo="https://i.imgur.com/AMUR14B.png",H3
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s12/index.m3u8
+#EXTINF:-1 group-title="🇦🇲-🇰🇬| Armenia & Kyrgyzstan" tvg-logo="https://i.imgur.com/e4VxCnn.png",Shine - Շողակաթ
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s13/index.m3u8
+#EXTINF:-1 group-title="🇦🇲-🇰🇬| Armenia & Kyrgyzstan" tvg-logo="https://i.imgur.com/IxOFvqz.png",Armenia Premium
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s83/index.m3u8
+#EXTINF:-1 group-title="🇦🇲-🇰🇬| Armenia & Kyrgyzstan" tvg-logo="https://i.imgur.com/XwbLfqd.png",Armenian Cinema - Հայ Կինո
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s22/index.m3u8
+#EXTINF:-1 group-title="🇦🇲-🇰🇬| Armenia & Kyrgyzstan" tvg-logo="https://i.imgur.com/AhX46e5.png",Armenia Dear - Ջան TV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s42/index.m3u8
+#EXTINF:-1 group-title="🇦🇲-🇰🇬| Armenia & Kyrgyzstan" tvg-logo="https://i.imgur.com/fRfGuQg.png",Armenia Cinemax - Սինեմաքս
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s66/index.m3u8
+#EXTINF:-1 group-title="🇦🇲-🇰🇬| Armenia & Kyrgyzstan" tvg-logo="https://i.imgur.com/XjhkUXy.png",Armenia Home Tunic - Տուն Թունիկ
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s46/index.m3u8
+#EXTINF:-1 group-title="🇦🇲-🇰🇬| Armenia & Kyrgyzstan" tvg-logo="https://i.imgur.com/pvF7dGN.png",Armenia Comedy - Քոմեդի
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s32/index.m3u8
+#EXTINF:-1 group-title="🇦🇲-🇰🇬| Armenia & Kyrgyzstan" tvg-logo="https://i.imgur.com/cndJCRU.png",ATV Pan - Թավա TV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s53/index.m3u8
+#EXTINF:-1 group-title="🇦🇲-🇰🇬| Armenia & Kyrgyzstan" tvg-logo="https://i.imgur.com/mrfm9uY.png",ATV Game Channel - ԽաղԱլիք TV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s74/index.m3u8
+#EXTINF:-1 group-title="🇦🇲-🇰🇬| Armenia & Kyrgyzstan" tvg-logo="https://i.imgur.com/lidNHkH.png",ATV The cinema - Կինոման TV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s94/index.m3u8
+#EXTINF:-1 group-title="🇦🇲-🇰🇬| Armenia & Kyrgyzstan" tvg-logo="https://i.imgur.com/KCkzU5R.png",ATV Armenian - Հայ TV 
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s73/index.m3u8
+#EXTINF:-1 group-title="🇦🇲-🇰🇬| Armenia & Kyrgyzstan" tvg-logo="https://i.imgur.com/uWBrDpV.png",ATV Filmzone - Ֆիլմզոն
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s48/index.m3u8
 
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="https://i.ibb.co/4NY75KS/fpt-sport.jpg", FSPORT 1
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
@@ -1274,6 +1268,9 @@ http://118.107.85.4:1935/radio/lamdong_aac/playlist.m3u8
 https://live.baobinhphuoc.com.vn/bptvlive/radio.m3u8
 #EXTINF:-1 group-title="📻| Phát thanh" tvg-logo="https://i.imgur.com/ykiiXBV.png",THĐT Radio - Phát Thanh Đồng Tháp
 http://202.43.109.144:1935/thdtradio/thdtradio/chunklist.m3u8
+#EXTINF:-1 group-title="📻| Phát thanh" tvg-logo="https://i.postimg.cc/V669QzBb/Pladio-FPT.png",Pladio
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://vips-livecdn.fptplay.net/hda3/pladio_4000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yMLnaHk.png" group-title="📻| Phát thanh",Радио Вести FM
 http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
 #EXTINF:-1 group-title="📻| Phát thanh" tvg-logo="http://img.vintera.tv/img/ico/mayak.png",Радио Маяк
