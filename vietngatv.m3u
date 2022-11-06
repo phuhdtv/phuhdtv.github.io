@@ -833,8 +833,8 @@ http://iptv.ktkru.ru:8009/index.m3u8
 #EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| NGA - Belarus & Kazakhstan" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВ Центр (int.)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s54/index.m3u8
-#EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| NGA - Belarus & Kazakhstan" tvg-logo="https://i.imgur.com/18TAzYV.png",РЕН ТВ
-https://sc.id-tv.kz/RenTV.m3u8
+#EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| NGA - Belarus & Kazakhstan" tvg-logo="https://i.imgur.com/18TAzYV.png",РЕН ТВ (+2)
+http://109.194.62.29:8080
 #EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| NGA - Belarus & Kazakhstan" tvg-logo="https://i.imgur.com/JBDdOqq.jpg",СПАС
 http://spas.mediacdn.ru/cdn/spas/playlist.m3u8
 #EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| NGA - Belarus & Kazakhstan" tvg-logo="https://i.imgur.com/pJNWVAz.png",СТС
@@ -891,12 +891,10 @@ https://bl.uma.media/live/317805/HLS/4614144_3/2/1/playlist.m3u8
 http://213.172.73.170:8081/nimble_live/1061__Kanal_Disney_ru/playlist.m3u8
 #EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| NGA - Belarus & Kazakhstan" tvg-logo="https://i.imgur.com/rIWoJMv.png",Суббота HD
 https://bl.uma.media/live/317845/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZKGC5i0.png" group-title="🇷🇺-🇧🇾-🇰🇿| NGA - Belarus & Kazakhstan",ТНВ-Планета
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ijA1zDw.png" group-title="🇷🇺-🇧🇾-🇰🇿| NGA - Belarus & Kazakhstan",ТНВ-Планета
 http://tnv.bonus-tv.ru/cdn/tnvplanet/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/AGj8EJF.png",РБК
-http://uiptv.do.am/1ufc/701293058/playlist.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/AGj8EJF.png",РБК (HD)
-https://live-rbc.gcdn.co/gcore/rbctvhd.m3u8
+http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| BÁO CHÍ" tvg-logo="https://i.imgur.com/n5vWRjT.png",IZ.RU HD
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/aMOLqMW.png",МИР 24
@@ -1085,7 +1083,7 @@ http://ott-cdn.ucom.am/s61/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z9E3DBW.png" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH",Настоящее время HD
 http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TW6Ap71.png" group-title="🇷🇺-🇧🇾-🇰🇿| NGA - Belarus & Kazakhstan",Беларусь 4
-https://flu.vtv.by/bt4-non-by/index.m3u8
+http://95.46.208.8:26258/belarus4
 #EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| NGA - Belarus & Kazakhstan" tvg-logo="https://i.imgur.com/iVIlgrj.png",Беларусь 24
 http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
 #EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| NGA - Belarus & Kazakhstan" tvg-logo="https://i.imgur.com/iVIlgrj.png",Беларусь 24 HD
@@ -1114,6 +1112,8 @@ http://92.46.127.146:8080/31Channel/index.m3u8
 http://92.46.127.146:8080/elarna/index.m3u8
 #EXTINF:-1 group-title="🇷🇺-🇧🇾-🇰🇿| NGA - Belarus & Kazakhstan" tvg-logo="https://i.imgur.com/fGcVRmo.png",КТК
 http://92.46.127.146:8080/KTK/index.m3u8
+#EXTINF:-1 tvg-id="TBN.ru" tvg-logo="https://i.imgur.com/QUk38hq.png" group-title="🇷🇺-🇧🇾-🇰🇿| NGA - Belarus & Kazakhstan",ТБН
+http://62.32.67.187:1935/WEB_TBN/TBN.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png",F Event 1
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
