@@ -801,7 +801,11 @@ http://213.172.73.170:8081/nimble_live/1022__4e/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yNmno0h.png" group-title="🇷🇺| Nga và khối SNG",Ю
 http://213.172.73.171:8081/nimble_live/1172__U_Tv/playlist.m3u8
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/MfNHR0L.png",СТС Love (+2)
-http://194.143.148.28:8080/CTCLove/mpegts
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://185.161.224.216/dash/STS_Love_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/qWRVbLW.png",ТНТ4
 http://213.172.73.170:8081/nimble_live/1031__TNT4/playlist.m3u8
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/qWRVbLW.png",ТНТ4 HD
@@ -950,9 +954,8 @@ http://ott-cdn.ucom.am/s33/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UHo6cwX.png" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC",Amedia Premium 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s64/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M0OR92h.png" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC",Дорама
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s95/04.m3u8
+#EXTINF:-1 tvg-id="Doctor.ru" tvg-logo="https://i.imgur.com/VNirxxn.png" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG",Доктор
+http://213.172.73.170:8081/nimble_live/1145__GalaxyTV/playlist.m3u8
 
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://i.imgur.com/RAfV5p7.png",Загородный
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
