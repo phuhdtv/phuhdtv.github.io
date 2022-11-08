@@ -505,7 +505,7 @@ https://live-hls-web-aja.getaj.net/AJA/01.m3u8
 http://ott-cdn.ucom.am/s23/04.m3u8
 #EXTINF:-1 group-title="🌏| Quốc Tế" tvg-logo="https://i.imgur.com/dQrdh2F.png",Aljazeera English HD
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-id="axnhd" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ" tvg-logo="https://i.imgur.com/3bLRZzC.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",AXN HD
+#EXTINF:-1 tvg-id="axnhd" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ" tvg-logo="https://i.imgur.com/3bLRZzC.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",AXN Asia HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="arirang" group-title="🌏| Quốc Tế" tvg-logo="https://i.imgur.com/fyOjHZ8.png",ARIRANG Korea
@@ -597,16 +597,16 @@ https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="discovery_asia" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://i.imgur.com/lD13h2Y.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/discoveryasia_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Discovery Asia HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="dw" group-title="🌏| Quốc Tế" tvg-logo="https://i.imgur.com/ZhUBsy8.png",Deutsche Welle English (WEB)
+#EXTINF:-1 tvg-id="dw" group-title="🌏| Quốc Tế" tvg-logo="https://i.imgur.com/ZhUBsy8.png",DW - Deutsche Welle English (WEB)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id="dw" group-title="🌏| Quốc Tế" tvg-logo="https://i.imgur.com/ZhUBsy8.png",Deutsche Welle English (FPT)
+#EXTINF:-1 tvg-id="dw" group-title="🌏| Quốc Tế" tvg-logo="https://i.imgur.com/ZhUBsy8.png",DW - Deutsche Welle English (FPT)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="🌏| Quốc Tế" tvg-logo="https://i.imgur.com/ZhUBsy8.png",Deutsche Welle Deutsch
+#EXTINF:-1 group-title="🌏| Quốc Tế" tvg-logo="https://i.imgur.com/ZhUBsy8.png",DW - Deutsche Welle Deutsch
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s26/04.m3u8
-#EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="🌏| Quốc Tế",Deutsche Welle Español
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="🌏| Quốc Tế",DW - Deutsche Welle Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="dreamworks" group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình" tvg-logo="https://i.imgur.com/WTO8O0N.png",DreamWorks HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
@@ -1256,9 +1256,9 @@ http://118.107.85.5:1935/radio/sonla_aac/chunklist.m3u8
 http://103.90.220.236/qtvlive/qnr1.m3u8
 #EXTINF:-1 group-title="📻| Phát thanh" tvg-logo="https://cdn.hqth.me/logo/thumbs/254.png",QNR2 - PHÁT THANH Quảng Ninh 2
 http://103.90.220.236/qtvlive/qnr2.m3u8
-#EXTINF:-1 group-title="📻| Phát thanh" tvg-logo="https://i.imgur.com/zkigXd4.png",Hanoi Radio 1 - PHÁT THANH HÀ NỘI 1
+#EXTINF:-1 group-title="📻| Phát thanh" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/6/6a/Hanoitv.png",HNR1 - PHÁT THANH HÀ NỘI 1
 https://livept.hanoitv.vn/hntvRadio/fm90.sdp_aac/chunklist.m3u8
-#EXTINF:-1 group-title="📻| Phát thanh" tvg-logo="https://i.imgur.com/97VIVBi.png",Hanoi Radio 2 - PHÁT THANH HÀ NỘI 2
+#EXTINF:-1 group-title="📻| Phát thanh" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/6/6a/Hanoitv.png",HNR2 - PHÁT THANH HÀ NỘI 2
 https://livept.hanoitv.vn/hntvRadio/fm96.sdp_aac/chunklist.m3u8
 #EXTINF:-1 group-title="📻| Phát thanh" tvg-logo="https://i.ibb.co/xJ0y2Vw/HAIPHONG-BEARTV.png",THP FM 93.7Mhz - PHÁT THANH Hải Phòng 1
 https://live.thhp.vn/937/index.m3u8
