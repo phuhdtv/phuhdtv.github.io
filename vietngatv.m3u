@@ -504,16 +504,12 @@ https://livecdn.fptplay.net/sdc/yenbai_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/a8XG12r.png",YTV HD - YÊN BÁI HD
 https://yenbaitv.org.vn/hls/livestream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DBJTZaS.png" group-title="🌏| Quốc tế",Aljazeera Arabic
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s69/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DBJTZaS.png" group-title="🌏| Quốc tế",Aljazeera Arabic HD
-https://live-hls-web-aja.getaj.net/AJA/01.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/dQrdh2F.png",Aljazeera English
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s23/04.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/dQrdh2F.png",Aljazeera English HD
-http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraChannel.qa" tvg-logo="https://i.imgur.com/DBJTZaS.png" group-title="🌏| Quốc tế",Aljazeera Arabic HD
+https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/dQrdh2F.png",Aljazeera English HD
+https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Al_Jazeera_Mubasher_logo.png" group-title="🌏| Quốc tế",Aljazeera Mubasher
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ" tvg-logo="https://i.imgur.com/3bLRZzC.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",AXN Asia HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
@@ -756,9 +752,9 @@ http://ott-cdn.ucom.am/s17/index.m3u8
 http://213.172.73.170:8081/nimble_live/1034__5_kanal/playlist.m3u8
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/Q5XxFQi.png",Россия Культура (+4)
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k_dubl2/playlist_3.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/wu7O85f.png",Россия 24
+#EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/C1JktKX.png",Россия 24
 http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/wu7O85f.png",Россия 24 (480p)
+#EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/C1JktKX.png",Россия 24 (480p)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s21/index.m3u8
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/4fFMlVq.png",Карусель
@@ -904,7 +900,7 @@ https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
 https://sc.id-tv.kz/1hd.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://i.imgur.com/v6KNZms.png",МузСоюз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="http://ott.aet.az/stalker_portal/misc/logos/320/10.jpg",BRIDGE TV
+#EXTINF:-1 group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://i.imgur.com/VhXCx7h.png",BRIDGE TV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s35/index.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://i.imgur.com/GLc4qrc.png",Europa Plus TV
@@ -956,7 +952,7 @@ http://ott-cdn.ucom.am/s45/04.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC" tvg-logo="https://i.imgur.com/GwQgT6X.png",Amedia 2
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s33/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UHo6cwX.png" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC",Amedia Premium 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L3c9gNk.png" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC",Amedia Premium 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s64/04.m3u8
 
@@ -1286,6 +1282,8 @@ http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
 http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
 #EXTINF:-1 group-title="📻| Phát thanh" tvg-logo="https://i.imgur.com/sbhkIE5.jpg",Радио России
 http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_128kbps
+#EXTINF:-1 group-title="📻| Phát thanh" tvg-logo="https://www.lyngsat.com/logo/radio/ss/sputnik_international_ru.png",Sputnik
+http://icecast-rian.cdnvideo.ru/voiceenghi
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bEShc7Y.jpg" group-title="📻| Phát thanh",Радио 10
 http://langate.tv/acc/playlist.m3u8
 #EXTINF:-1 tvg-id="Radio1018.ru" tvg-logo="https://i.imgur.com/YS70xcA.png" group-title="📻| Phát thanh",Радио 101.8
@@ -1296,7 +1294,7 @@ https://video.govoritmoskva.ru/rufm/index.m3u8
 https://pilotfm.ru/cam/hls/pilothd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NwuwdPS.png" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG",Радио Шансон
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5xKqV1s.png" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG",Хит ТВ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5xKqV1s.png" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG",Радио Хит ТВ
 http://lova.me/hls/hithd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wG8KyeG.png" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG",Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
