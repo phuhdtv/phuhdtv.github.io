@@ -293,10 +293,10 @@ http://118.107.85.4:1935/live/smil:CRTV.smil/chunklist_b1384000.m3u8
 https://livecdn.fptplay.net/sda/cantho_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="cantho" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/Nm6tCCA.png",THTPCT HD - Cần Thơ 43 HD
 https://tv.tchgroup.vn/live/tv_web/chunklist.m3u8
-#EXTINF:-1 tvg-id="danang1" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/EdXvjrH.png",DaNangTV1 HD
+#EXTINF:-1 tvg-id="danang1" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/EdXvjrH.png",DaNang TV1 - Đà Nẵng 1 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/danang1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="danang2" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/6SujuqZ.png",DaNangTV2 HD
+#EXTINF:-1 tvg-id="danang2" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/6SujuqZ.png",DaNang TV2 - Đà Nẵng 2 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/danang2_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="dongnai1" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/x7NLopc.png",ĐNRTV1 HD - ĐỒNG NAI 1 HD
@@ -332,10 +332,10 @@ https://livecdn.fptplay.net/sda/hagiang_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sda/hanam_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="hanam" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/TGjEKP7.png",THHN HD - HÀ Nam
 http://103.90.220.236/thhnlive/tv1live.m3u8
-#EXTINF:-1 tvg-id="hanoi1" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/zkigXd4.png",HanoiTV1 HD
+#EXTINF:-1 tvg-id="hanoi1" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/RDhIBea.png",HanoiTV1 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/hanoitv1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="hanoi2" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/97VIVBi.png",HanoiTV2 HD (HaTayTV)
+#EXTINF:-1 tvg-id="hanoi2" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/UAt0Xe2.png",HanoiTV2 HD (HaTayTV)
 https://livecdn.fptplay.net/sdc/hanoitv2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="hatinh" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/5Vgbggw.png",HTTV HD - HÀ TĨNH HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
@@ -511,7 +511,7 @@ https://yenbaitv.org.vn/hls/livestream.m3u8
 https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/dQrdh2F.png",Aljazeera English HD
 https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Al_Jazeera_Mubasher_logo.png" group-title="🌏| Quốc tế",Aljazeera Mubasher
+#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa" tvg-logo="https://i.imgur.com/WjQy58a.png" group-title="🌏| Quốc tế",Aljazeera Mubasher
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ" tvg-logo="https://i.imgur.com/3bLRZzC.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",AXN Asia HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
@@ -1268,6 +1268,8 @@ https://live.thhp.vn/937/index.m3u8
 https://live.thhp.vn/radio/102/index.m3u8
 #EXTINF:-1 group-title="📻| Phát thanh" tvg-logo="https://i.imgur.com/q47WFaS.png",HTTV Radio - Phát Thanh Hà Tĩnh
 https://wse.hatinhtv.net/radio/voht/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9I4gX5Y.png" group-title="📻| Phát thanh",DaNang TV Radio - PHÁT THANH Đà Nẵng
+http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 #EXTINF:-1 group-title="📻| Phát thanh" tvg-logo="https://i.imgur.com/tW0pGBM.png",BTV Radio - Phát Thanh Bình Thuận
 http://202.43.109.142:1935/thbtradio/btradio/chunklist.m3u8
 #EXTINF:-1 group-title="📻| Phát thanh" tvg-logo="https://i.imgur.com/WM7ddLv.png",LTV Radio - Phát Thanh Lâm Đồng
