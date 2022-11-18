@@ -750,9 +750,13 @@ http://ott-cdn.ucom.am/s14/04.m3u8
 #EXTINF:0 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/5D1gwiv.png",Россия РТР СНГ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s15/04.m3u8
+#EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Rtr-belarus.jpg/800px-Rtr-belarus.jpg",РТР Беларусь
+http://86.57.219.146:8000/play/a074
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/DtQX5P2.png",НТВ МИР
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s17/04.m3u8
+#EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/НТВ-Беларусь.png",НТВ Беларусь
+http://86.57.219.146:8000/play/a075
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/qswopzO.png",Пятый канал
 http://213.172.73.170:8081/nimble_live/1034__5_kanal/playlist.m3u8
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/Q5XxFQi.png",Россия Культура (+4)
@@ -792,8 +796,8 @@ http://bl.uma.media/live/410336/HLS/6307840_7/2/1/playlist.m3u8
 http://213.172.73.170:8081/nimble_live/1076__Zvezda/playlist.m3u8
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/n9zLVyR.png",Звезда HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/myDcDzY.png",МИР Казахстан
-https://sc.id-tv.kz/Mir.m3u8
+#EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/myDcDzY.png",МИР Беларусь
+http://86.57.219.146:8000/play/a073
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/l0RGbRI.png",ТНТ i
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s19/04.m3u8
@@ -1017,12 +1021,22 @@ http://ott-cdn.ucom.am/s61/04.m3u8
 http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
 #EXTINF:-1 tvg-id="CNLEurope.kz" tvg-logo="https://i.imgur.com/lozzdS7.png" group-title="🇷🇺| Nga và khối SNG",CNL Европа
 http://hls-live-media.cdn01.net/default/stream_10429_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sUD9t5j.png" group-title="🇷🇺| Nga và khối SNG",Беларусь 1
+http://86.57.219.146:8000/play/a070
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/ChannelBelarus2.png" group-title="🇷🇺| Nga và khối SNG",Беларусь 2
+http://86.57.219.146:8000/play/a076
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JkcDycn.png" group-title="🇷🇺| Nga và khối SNG",Беларусь 3
+http://86.57.219.146:8000/play/a077
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TW6Ap71.png" group-title="🇷🇺| Nga và khối SNG",Беларусь 4
 http://95.46.208.8:26258/belarus4
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/iVIlgrj.png",Беларусь 24
 http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/iVIlgrj.png",Беларусь 24 HD
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Логотип_телеканала_«ОНТ».svg/512px-Логотип_телеканала_«ОНТ».svg.png" group-title="🇷🇺| Nga và khối SNG",ОНТ
+http://86.57.219.146:8000/play/a071
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Логотип_белорусского_телеканала_«СТВ».svg/512px-Логотип_белорусского_телеканала_«СТВ».svg.png" group-title="🇷🇺| Nga và khối SNG",ОНТ
+http://86.57.219.146:8000/play/a072
 #EXTINF:-1 tvg-name="Белсат" tvg-logo="https://i.imgur.com/kaSpMw9.png" group-title="🇷🇺| Nga và khối SNG",Белсат
 http://f1.stream.devkom.pro:1063/ramowka/video.m3u8
 #EXTINF:0 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/RsWPoAq.png",БелРос
