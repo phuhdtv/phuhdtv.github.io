@@ -1,26 +1,34 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,http://trada.info/epg.xml"
 
-#EXTINF:-1 tvg-id="vtv2hd" group-title="ĐIỂM HẸN FIFA WORLD CUP 2022" tvg-logo="https://i.imgur.com/Aepz56c.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV2 HD FPT Play
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="ĐIỂM HẸN FIFA WORLD CUP 2022" tvg-logo="https://i.imgur.com/Aepz56c.png",VTV2 HD VTVgo
-https://nvzoftzsvflivcf.vcdn.com.vn/vtv2/vtv2@high.m3u8
-#EXTINF:-1 tvg-id="vtv3hd" group-title="ĐIỂM HẸN FIFA WORLD CUP 2022" tvg-logo="https://i.imgur.com/yybRDKn.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV3 HD FPT Play
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv3hd" group-title="ĐIỂM HẸN FIFA WORLD CUP 2022" tvg-logo="https://i.imgur.com/yybRDKn.png",VTV3 HD VTVgo
-https://nvzoftzsvflivcf.vcdn.com.vn/vtv3/vtv3@high.m3u8
-#EXTINF:-1 tvg-id="vtv5hd" group-title="ĐIỂM HẸN FIFA WORLD CUP 2022" tvg-logo="https://i.imgur.com/KfPiaKG.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV5 HD FPT Play
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv5hd" group-title="ĐIỂM HẸN FIFA WORLD CUP 2022" tvg-logo="https://i.imgur.com/KfPiaKG.png",VTV5 HD VTVgo
-https://nvzoftzsvflivcf.vcdn.com.vn/vtv5/vtv5@high.m3u8
-#EXTINF:-1 tvg-id="vtv6hd" group-title="ĐIỂM HẸN FIFA WORLD CUP 2022" tvg-logo="https://i.imgur.com/skwFJCc.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV Cần Thơ FPT Play
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv6hd" group-title="ĐIỂM HẸN FIFA WORLD CUP 2022" tvg-logo="https://i.imgur.com/skwFJCc.png",VTV Cần Thơ VTVgo
-https://nvzoftzsvflivcf.vcdn.com.vn/vtv6/vtv6@high.m3u8
-#EXTINF:0 tvg-id="vtv5hdtnb" group-title="ĐIỂM HẸN FIFA WORLD CUP 2022" tvg-logo="https://i.imgur.com/SYMAJx5.png",VTV5 TÂY NAM BỘ
+#EXTINF:-1 tvg-id="vtv1hd" group-title="ĐIỂM HẸN FIFA WORLD CUP 2022" tvg-logo="https://i.imgur.com/EHjW7mC.png",VTV1 SV1
+http://live.vthanhtivi.pw:8080/vtv1
+#EXTINF:-1 tvg-id="vtv2hd" group-title="ĐIỂM HẸN FIFA WORLD CUP 2022" tvg-logo="https://i.imgur.com/Aepz56c.png",VTV2 SV1
+http://live.vthanhtivi.pw:8080/vtv2
+#EXTINF:-1 tvg-id="vtv3hd" group-title="ĐIỂM HẸN FIFA WORLD CUP 2022" tvg-logo="https://i.imgur.com/yybRDKn.png",VTV3 SV1
+http://live.vthanhtivi.pw:8080/vtv3
+#EXTINF:-1 tvg-id="vtv5hd" group-title="ĐIỂM HẸN FIFA WORLD CUP 2022" tvg-logo="https://i.imgur.com/KfPiaKG.png",VTV5 SV1
+http://live.vthanhtivi.pw:8080/vtv5
+
+#EXTINF:-1 tvg-id="vtv1hd" group-title="ĐIỂM HẸN FIFA WORLD CUP 2022" tvg-logo="https://i.imgur.com/EHjW7mC.png",VTV1 SV2
+http://vn1.cvacetv.ga:8080/vtv1
+#EXTINF:-1 tvg-id="vtv2hd" group-title="ĐIỂM HẸN FIFA WORLD CUP 2022" tvg-logo="https://i.imgur.com/Aepz56c.png",VTV2 SV2
+http://vn1.cvacetv.ga:8080/vtv2
+#EXTINF:-1 tvg-id="vtv3hd" group-title="ĐIỂM HẸN FIFA WORLD CUP 2022" tvg-logo="https://i.imgur.com/yybRDKn.png",VTV3 SV2
+http://vn1.cvacetv.ga:8080/vtv3
+#EXTINF:-1 tvg-id="vtv5hd" group-title="ĐIỂM HẸN FIFA WORLD CUP 2022" tvg-logo="https://i.imgur.com/KfPiaKG.png",VTV5 SV2
+http://vn1.cvacetv.ga:8080/vtv5
+
+#EXTINF:-1 tvg-id="vtv1hd" group-title="ĐIỂM HẸN FIFA WORLD CUP 2022" tvg-logo="https://i.imgur.com/EHjW7mC.png",VTV1 SV3
+https://anttv.xyz/vtv1
+#EXTINF:-1 tvg-id="vtv2hd" group-title="ĐIỂM HẸN FIFA WORLD CUP 2022" tvg-logo="https://i.imgur.com/Aepz56c.png",VTV2 SV3
+https://anttv.xyz/vtv2
+#EXTINF:-1 tvg-id="vtv3hd" group-title="ĐIỂM HẸN FIFA WORLD CUP 2022" tvg-logo="https://i.imgur.com/yybRDKn.png",VTV3 SV3
+https://anttv.xyz/vtv3
+#EXTINF:-1 tvg-id="vtv5hd" group-title="ĐIỂM HẸN FIFA WORLD CUP 2022" tvg-logo="https://i.imgur.com/KfPiaKG.png",VTV5 SV3
+https://anttv.xyz/vtv5
+#EXTINF:-1 tvg-id="vtv6hd" group-title="ĐIỂM HẸN FIFA WORLD CUP 2022" tvg-logo="https://i.imgur.com/skwFJCc.png",VTV CẦN THƠ
+https://anttv.xyz/vtvct
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="ĐIỂM HẸN FIFA WORLD CUP 2022" tvg-logo="https://i.imgur.com/SYMAJx5.png",VTV5 TÂY NAM BỘ
 https://nvzoftzsvflivcf.vcdn.com.vn/vtv5tnb/vtv5tnb@high.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtn" group-title="ĐIỂM HẸN FIFA WORLD CUP 2022" tvg-logo="https://i.imgur.com/gUYbJS7.png",VTV5 TÂY NGUYÊN
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="ĐIỂM HẸN FIFA WORLD CUP 2022" tvg-logo="https://i.imgur.com/SYMAJx5.png",VTV5 TÂY NGUYÊN
 https://nvzoftzsvflivcf.vcdn.com.vn/vtv5tn/vtv5tn@high.m3u8
