@@ -611,7 +611,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="dreamworks" group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình" tvg-logo="https://i.imgur.com/WTO8O0N.png",DreamWorks Asia HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/7ENpOTr.png",EURONEWS - Евроновости
+#EXTINF:-1 group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/8t9mdg9.png",EURONEWS - Евроновости
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://euronews.alteox.app/hls/ru_stream.m3u8
@@ -691,10 +691,10 @@ https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/H4NjQUJ.png",RTP Internacional
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8|user-agent=Opera
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/3E4KGqG.png",RT - Russia Today News
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://i.imgur.com/C6fylkt.png",RTД - Russia Today Documentary English
@@ -728,7 +728,7 @@ https://livefta.malimarcdn.com/tvkedge/tvk2.stream/master.m3u8
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KWg9F4c.png" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG",VIVA HD
 https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| KÊNH KHÁC" tvg-logo="https://i.imgur.com/aVWTorO.png",VOA - Voice of America
+#EXTINF:-1 group-title="🇻🇳-🇷🇺| KÊNH KHÁC" tvg-logo="https://i.imgur.com/aVWTorO.png",VOA TV - Voice of America
 https://voa-ingest.akamaized.net/hls/live/2033866/tvmc01/VOA-TVMC01_1080/chunklist.m3u8
 #EXTINF:-1 tvg-id="warnertvhd" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC" tvg-logo="https://i.imgur.com/kj250WZ.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/warnertv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",WB - Warner Bros TV HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
