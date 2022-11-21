@@ -307,11 +307,9 @@ https://livecdn.fptplay.net/sdc/dongthap_2000.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="dienbien" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/hMDRDxN.png",ĐTV HD - ĐIỆN BIÊN
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/dienbien_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="daklak" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/jtyDVU5.png",DRT - ĐẮK LẮK
+#EXTINF:-1 tvg-id="daklak" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/jtyDVU5.png",DRT HD - ĐẮK LẮK
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/daklak_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="daklak" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/jtyDVU5.png",DRT HD - ĐẮK LẮK HD
-http://103.90.220.236/drtlive/tv1live-transmux.m3u8
 #EXTINF:-1 tvg-id="daknong" tvg-logo="https://i.imgur.com/XIXZD36.png" group-title="🇻🇳| Địa phương" catchup="append" catchup-days="2" catchup-source="https://16371223541843.vnns.net/daknong_abr/vtc130121/daknong-480p/playlist_dvr_range-${start}-${offset}.m3u8",PTD HD - ĐẮK NÔNG
 https://16371213858134.vnns.net/daknong_abr/vtc130121/daknong-1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="gialai" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/ZEAxzoF.png",THGL - Gia Lai
@@ -611,7 +609,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="dreamworks" group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình" tvg-logo="https://i.imgur.com/WTO8O0N.png",DreamWorks Asia HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/8t9mdg9.png",EURONEWS - Евроновости
+#EXTINF:-1 group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/Zpf2ykM.png",EURONEWS - Евроновости
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://euronews.alteox.app/hls/ru_stream.m3u8
@@ -788,8 +786,10 @@ http://bl.uma.media/live/410336/HLS/6307840_7/2/1/playlist.m3u8
 http://iptv.ktkru.ru:8017/index.m3u8
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/n9zLVyR.png",Звезда HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/myDcDzY.png",МИР (+3)
-https://sc.id-tv.kz/Mir.m3u8
+#EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/myDcDzY.png",МИР
+http://iptv.ktkru.ru:8018/index.m3u8
+#EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/myDcDzY.png",МИР HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/l0RGbRI.png",ТНТ (i)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s19/04.m3u8
@@ -811,7 +811,6 @@ http://185.161.224.216/dash/STS_Love_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/qWRVbLW.png",ТНТ4
 http://213.172.73.170:8081/nimble_live/1031__TNT4/playlist.m3u8
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/qWRVbLW.png",ТНТ4 HD
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://bl.uma.media/live/317849/HLS/4614144_3,2883584/2/1/playlist.m3u8
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/fhQFLEl.png",2x2
 http://213.172.73.171:8081/nimble_live/1162__2x2/playlist.m3u8
