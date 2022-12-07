@@ -735,8 +735,8 @@ http://c2.manasat.com:1935/tserkov-online/russo3/playlist.m3u8
 https://livefta.malimarcdn.com/tvkedge/tvkhd.stream/master.m3u8
 #EXTINF:-1 tvg-id="TVK2.kh" tvg-logo="https://i.ibb.co/nCPKFtV/tvk2-BEARTV.jpg" group-title="🌏| Quốc tế",TVK2 Cambodia
 https://livefta.malimarcdn.com/tvkedge/tvk2.stream/master.m3u8
-#EXTINF:-1 tvg-id="TVRIWorld.id" tvg-logo="https://i.imgur.com/RIwYxS9.png" group-title="🌏| Quốc tế",TVRI Kanal 3
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
+#EXTINF:-1 tvg-id="TVRIWorld.id" tvg-logo="https://i.imgur.com/h3RldTO.png" group-title="🌏| Quốc tế",TVRI World
+http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KWg9F4c.png" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG",VIVA HD
 https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| KÊNH KHÁC" tvg-logo="https://i.imgur.com/aVWTorO.png",VOA TV - Voice of America
@@ -759,13 +759,21 @@ http://ott-cdn.ucom.am/s15/04.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s17/04.m3u8
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/qswopzO.png",Петербург 5 канал
-http://iptv.ktkru.ru:8005/index.m3u8
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://mfe.cliptv.az/dash/5_Kanal_SD.ism/playlist.mpd?checkedby:iptvcat.net
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/Q5XxFQi.png",Россия Культура (+4)
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k_dubl2/playlist_3.m3u8
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/C1JktKX.png",Россия 24
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r24.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/4fFMlVq.png",Карусель Int.
-http://iptv.ktkru.ru:8008/index.m3u8
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://mfe.cliptv.az/dash/Karusel_SD.ism/playlist.mpd?checkedby:iptvcat.net
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/6ot2Nlh.png",ОБЩЕСТВЕННОЕ ТВ РОССИИ
 http://iptv.ktkru.ru:8009/index.m3u8
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВЦ Int.
@@ -815,7 +823,7 @@ http://ott-cdn.ucom.am/s28/04.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/Ce_SD.ism/playlist.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yNmno0h.png" group-title="🇷🇺| Nga và khối SNG",Ю
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yNmno0h.png" group-title="🇷🇺| Nga và khối SNG",Ю ТВ
 http://95.183.43.237:8080/20/index.m3u8
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/MfNHR0L.png",СТС Love (+2)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
@@ -848,7 +856,7 @@ https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m
 http://95.46.208.8:24433/art
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GXYpLVS.png" group-title="🇷🇺| Nga và khối SNG",Вера 24
 http://62.32.67.187:1935/WEB_Vera24/Vera24.stream/playlist.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| KÊNH KHÁC" tvg-logo="https://i.imgur.com/rxwTjuT.jpg",БСТ - Башкирское спутниковое телевидение
+#EXTINF:-1 group-title="🇻🇳-🇷🇺| KÊNH KHÁC" tvg-logo="https://i.imgur.com/IDotHmQ.png",БСТ - Башкирское спутниковое телевидение
 https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| KÊNH KHÁC" tvg-logo="https://i.imgur.com/GTXkAUu.png",Енисей регион
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
@@ -905,7 +913,7 @@ https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
 https://sc.id-tv.kz/1hd.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://i.imgur.com/v6KNZms.png",МузСоюз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://i.imgur.com/VhXCx7h.png",BRIDGE TV
+#EXTINF:-1 group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://i.imgur.com/VhXCx7h.png",BRIDGE
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s35/index.m3u8
 #EXTINF:-1 tvg-id="mezzolivehd" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://i.imgur.com/ejEcufH.png",Mezzo Live
@@ -976,7 +984,7 @@ http://ott-cdn.ucom.am/s98/04.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://i.imgur.com/k1Gt1Rc.png",Охотник и Рыболов 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s62/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xjFRs5h/arsenaltv.png" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG",Арсенал
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uhrfA7Y.png" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG",Арсенал
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s68/04.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://i.imgur.com/UhqjlAF.png",Рыболов
@@ -1033,9 +1041,13 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Белсат" tvg-logo="https://i.imgur.com/kaSpMw9.png" group-title="🇷🇺| Nga và khối SNG",Белсат
 http://f1.stream.devkom.pro:1063/ramowka/video.m3u8
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/RsWPoAq.png",БелРос
-http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 #EXTINF:-1 tvg-id="AzadTV.az" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="🇷🇺| Nga và khối SNG",Azad TV
-http://85.132.81.184:8080/atv/index.m3u8
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://mfe.cliptv.az/dash/ATV_SD.ism/playlist.mpd?checkedby:iptvcat.net
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/x89nJgB.png",Хабар 24 HD
 http://serv30.vintera.tv:8081/habar/habar24/chunks.m3u8
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/HLiv5Hq.jpg",Новое телевидение
