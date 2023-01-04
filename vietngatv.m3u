@@ -15,10 +15,6 @@ https://livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/KfPiaKG.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV5 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/fCpZa6a.png",VTV5 TÂY NAM BỘ
-https://api.sugustv.tk/get/vtvgo/tv/h/7
-#EXTINF:-1 tvg-id="vtv5hdtn" group-title="🇻🇳| VTV" tvg-logo="https://i.ibb.co/zVJz2CQ/VTV5-TN-DakLakIPTV.png",VTV5 TÂY NGUYÊN
-https://api.sugustv.tk/get/vtvgo/tv/h/163
 #EXTINF:-1 tvg-id="vtv6hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/aWRIULy.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtvcantho_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV Cần Thơ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
@@ -457,9 +453,6 @@ http://103.90.220.236/nbtvlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="ninhthuan" group-title="Đài tỉnh - Thành phố" tvg-logo="https://i.imgur.com/9bFk5Lj.png",NTV - NINH THUẬN
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sda/ninhthuan_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="ninhthuan" group-title="Đài tỉnh - Thành phố" tvg-logo="https://i.imgur.com/4tOxerj.png",NTV HD - NINH THUẬN HD
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://60acee235f4d5.streamlock.net/live/mystream/chunklist.m3u8
 #EXTINF:-1 tvg-id="phutho" group-title="Đài tỉnh - Thành phố" tvg-logo="https://i.imgur.com/LXuRwJY.png",PTV - PHÚ THỌ HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sda/phutho_hls.smil/chunklist_b2500000.m3u8
@@ -744,8 +737,6 @@ http://uiptv.do.am/1ufc/300663722/playlist.m3u8
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 #EXTINF:-1 tvg-id="SupremeMasterTV.tw" tvg-logo="https://i.imgur.com/CiFGi8J.png" group-title="🌏| Quốc tế",Supreme Master TV
 https://lbs-us1.suprememastertv.com/1080p.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/nFllIgD.png",TDM Macau
-https://live4.tdm.com.mo/ch3/ch3.live/chunklist_w1765131561.m3u8
 #EXTINF:-1 tvg-id="tv5monde_asie" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/1cVjCTw.png",TV5 Monde Asie HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist_b2500000.m3u8
@@ -841,11 +832,6 @@ http://bl.uma.media/live/407373/HLS/6307840_7/2/1/playlist.m3u8
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/N2z3EZC.png",Пятница Int.
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s50/index.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/CNOYAUN.png",Пятница HD
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://bl.uma.media/live/410336/HLS/6307840_7/2/1/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/n9zLVyR.png",Звезда
-http://188.191.160.238:9099/channel/Zvezda.ts
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/n9zLVyR.png",Звезда HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/myDcDzY.png",МИР
@@ -855,12 +841,10 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/l0RGbRI.png",ТНТ Int.
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s19/04.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/T4A6rEI.png",ТНТ HD
-http://bl.uma.media/live/410338/HLS/6307840_7/2/1/playlist.m3u8
 #EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/BtqrHmz.png",МУЗ ТВ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s28/04.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/MfNHR0L.png",СТС Love (+2)
+#EXTINF:-1 group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/MfNHR0L.png",СТС Love
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -885,7 +869,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="360deg.ru" group-title="🇷🇺| Nga và khối SNG" tvg-logo="https://i.imgur.com/VTJqdoX.png",360 HD
 https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qn8ArfT.png" group-title="Đài tỉnh - Thành phố",8 канал (Витебск, Беларусь)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qn8ArfT.png" group-title="Đài tỉnh - Thành phố",8 канал Витебск
 http://95.46.208.8:24433/art
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GXYpLVS.png" group-title="🇷🇺| Nga và khối SNG",Вера 24
 http://62.32.67.187:1935/WEB_Vera24/Vera24.stream/playlist.m3u8
