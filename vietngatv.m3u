@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,http://trada.info/epg.xml"
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,http://trada.info/epg.xml,https://iptvx.one/epg/epg.xml.gz,https://iptvx.one/epg/epg_lite.xml.gz"
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/EHjW7mC.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV1 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
@@ -726,8 +726,6 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8|user-age
 https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-30/ngrp:srak-wx8r_all/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://i.imgur.com/C6fylkt.png",RTД - Russia Today Documentary
 http://uiptv.do.am/1ufc/300663722/playlist.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://i.imgur.com/pH3Q1jn.png",Sochi Live HD
-http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 #EXTINF:-1 tvg-id="SupremeMasterTV.tw" tvg-logo="https://i.imgur.com/CiFGi8J.png" group-title="🌏| Quốc tế",Supreme Master TV
 https://lbs-us1.suprememastertv.com/1080p.m3u8
 #EXTINF:-1 tvg-id="tv5monde_asie" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/1cVjCTw.png",TV5 Monde Asie HD
@@ -785,280 +783,282 @@ https://vtsstr7.tv24.vn/live/smil:Planet_Earth.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="woman" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/ePYXLBQ.png",Woman
 https://vtsstr7.tv24.vn/live/smil:Woman.smil/chunklist.m3u8
 
-#EXTINF:-1 group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/doB5MlE.png",Первый канал.Всемирная сеть (+3)
+#EXTINF:-1 tvg-id="pervy-kanal-csi" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/RUSX0rX.png",1 канал СНГ (+3)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s14/04.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/5D1gwiv.png",Россия РТР
+#EXTINF:-1 tvg-id="rtr-planeta-arm" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/5D1gwiv.png",Россия РТР
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s15/04.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/I1puHKA.png",НТВ МИР
+#EXTINF:-1 tvg-id="ntv-mir" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/I1puHKA.png",НТВ МИР
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s17/04.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/qswopzO.png",Петербург 5 канал
+#EXTINF:-1 tvg-id="5kanal-ru" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/qswopzO.png",Петербург 5 канал
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/5_Kanal_SD.ism/playlist.mpd?checkedby:iptvcat.net
-#EXTINF:-1 group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/Qebn4Ud.png",Россия К
+#EXTINF:-1 tvg-id="kultura" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/Qebn4Ud.png",Россия К
 https://radio-live-mg.rtr-vesti.ru/hls/russia_k/playlist_3.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/C1JktKX.png",Россия 24
+#EXTINF:-1 tvg-id="rossia-24" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/C1JktKX.png",Россия 24
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r24.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/4fFMlVq.png",Карусель Int.
+#EXTINF:-1 tvg-id="karusel-int" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/4fFMlVq.png",Карусель Int.
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Karusel_SD.ism/playlist.mpd?checkedby:iptvcat.net
-#EXTINF:-1 group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВЦ Int.
+#EXTINF:-1 tvg-id="tvci" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВЦ Int.
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s54/04.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/0Tu5lte.png",РЕН Int.
+#EXTINF:-1 tvg-id="rentv-int" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/0Tu5lte.png",РЕН Int.
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s85/04.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/JBDdOqq.jpg",СПАС ТВ
+#EXTINF:-1 tvg-id="spas" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/JBDdOqq.jpg",СПАС ТВ
 http://spas.mediacdn.ru/cdn/spas/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/F6j6xWc.jpg",СТС Int.
+#EXTINF:-1 tvg-id="sts-int" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/F6j6xWc.jpg",СТС Int.
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s52/04.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/hnh3Say.png",Домашний Int.
+#EXTINF:-1 tvg-id="domashny-int" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/XVRwgom.png",Домашний Int.
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s88/04.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/zvhT8JO.png",ТВ3
+#EXTINF:-1 tvg-id="tv3-ru" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/zvhT8JO.png",ТВ3
 http://bl.uma.media/live/407373/HLS/6307840_7/2/1/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/N2z3EZC.png",Пятница Int.
+#EXTINF:-1 tvg-id="piatnica-int" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/N2z3EZC.png",Пятница Int.
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s50/index.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/n9zLVyR.png",Звезда HD
+#EXTINF:-1 tvg-id="zvezda" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/n9zLVyR.png",Звезда HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/Kia8OEO.png",МИР
+#EXTINF:-1 tvg-id="mir" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/Kia8OEO.png",МИР
 http://iptv.ktkru.ru:8018/index.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/Kia8OEO.png",МИР HD
+#EXTINF:-1 tvg-id="mir" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/Kia8OEO.png",МИР HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/l0RGbRI.png",ТНТ Int.
+#EXTINF:-1 tvg-id="tnt-int-cis" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/l0RGbRI.png",ТНТ Int.
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s19/04.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/BtqrHmz.png",МУЗ ТВ
+#EXTINF:-1 tvg-id="muztv" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/BtqrHmz.png",МУЗ ТВ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s28/04.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/MfNHR0L.png",СТС Love
+#EXTINF:-1 tvg-id="sts-love" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/MfNHR0L.png",СТС Love
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/STS_Love_SD.ism/playlist.mpd?checkedby:iptvcat.net
-#EXTINF:-1 group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://imgur.com/0FB5Pxu.png",ТНТ4
+#EXTINF:-1 tvg-id="tnt4-international" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://imgur.com/0FB5Pxu.png",ТНТ4
 http://bl.uma.media/live/317849/HLS/4614144_3,2883584/2/1/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/fhQFLEl.png",2x2
+#EXTINF:-1 tvg-id="2na2" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/fhQFLEl.png",2x2
 http://bl.uma.media/live/317805/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hadi_tv_pk.png" group-title="🇷🇺| Nga - Bắc Á và khối SNG",Hadi TV Azeri and Russian
 https://live.ishiacloud.com/haditv.co.uk/haditv3.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/rIWoJMv.png",Суббота HD
+#EXTINF:-1 tvg-id="super" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/rIWoJMv.png",Суббота HD
 http://bl.uma.media/live/317845/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ijA1zDw.png" group-title="🇻🇳| Địa phương",ТНВ-Планета
+#EXTINF:-1 tvg-id="tnv-planeta" tvg-logo="https://i.imgur.com/ijA1zDw.png" group-title="🇷🇺| Nga - Bắc Á và khối SNG",ТНВ-Планета
 http://tnv.bonus-tv.ru/cdn/tnvplanet/playlist.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/AGj8EJF.png",РБК
+#EXTINF:-1 tvg-id="rbk" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/AGj8EJF.png",РБК
 http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/n5vWRjT.png",Известия ТВ
+#EXTINF:-1 tvg-id="izvestia" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/n5vWRjT.png",Известия ТВ
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/aMOLqMW.png",МИР 24 HD
+#EXTINF:-1 tvg-id="mir-24" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/aMOLqMW.png",МИР 24 HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 tvg-id="360deg.ru" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/VTJqdoX.png",360 HD
+#EXTINF:-1 tvg-id="360-int" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/VTJqdoX.png",360 HD
 https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qn8ArfT.png" group-title="🇷🇺| Nga - Bắc Á và khối SNG",8 канал Витебск
+#EXTINF:-1 tvg-id="8kanal-by" tvg-logo="https://i.imgur.com/Qn8ArfT.png" group-title="🇷🇺| Nga - Bắc Á và khối SNG",8 канал Витебск
 http://95.46.208.8:24433/art
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GXYpLVS.png" group-title="🇷🇺| Nga - Bắc Á và khối SNG",Вера 24
 http://62.32.67.187:1935/WEB_Vera24/Vera24.stream/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/IDotHmQ.png",БСТ - Башкирское спутниковое телевидение
+#EXTINF:-1 tvg-id="bst" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/IDotHmQ.png",БСТ - Башкирское спутниковое телевидение
 https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/GTXkAUu.png",Енисей регион
+#EXTINF:-1 tvg-id="enisey-region" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/GTXkAUu.png",Енисей регион
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FaQQdzz.png" group-title="🌏| Quốc tế",Небеса ТВ7
+#EXTINF:-1 tvg-id="nebesa-tv7" tvg-logo="https://i.imgur.com/FaQQdzz.png" group-title="🌏| Quốc tế",Небеса ТВ7
 https://vod.tv7.fi/tv7-ru/tv7-ru.smil/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/ARh6WSf.png",Кузбасс 1 HD
+#EXTINF:-1 tvg-id="no_epg" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/ARh6WSf.png",Кузбасс 1 HD
 https://www.10kanal.ru:1443/10kanal/k24/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/lFwhJJU.png",Между.Net
+#EXTINF:-1 tvg-id="no_epg" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/lFwhJJU.png",Между.Net
 http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/hLD874K.jpg",Вечерняя Москва HD
+#EXTINF:-1 tvg-id="no_epg" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/hLD874K.jpg",Вечерняя Москва HD
 https://vmvideo.gcdn.co/streams/1503_161/1080n/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iwWxkl6.png" group-title="🇷🇺| Nga - Bắc Á và khối SNG",Сочи 24 ТВ HD
+#EXTINF:-1 tvg-id="sochi24" tvg-logo="https://i.imgur.com/iwWxkl6.png" group-title="🇷🇺| Nga - Bắc Á và khối SNG",Сочи 24 ТВ HD
 https://serv30.vintera.tv/sochi/sochi24/playlist.m3u8
+#EXTINF:-1 tvg-id="sochi-live" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/pH3Q1jn.png",Sochi Live HD
+http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Tivikom.ru" tvg-logo="https://i.imgur.com/JMYpdgW.png" group-title="🇷🇺| Nga - Bắc Á và khối SNG",Тивиком (Улан-Удэ)
 http://tvcom.stream.intelema.ru/tvcom/studio/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://ttv.run/uploads/YOVi9TL5gnslIOTjXgvI9nIvQgWGtL.png",ТВК HD
+#EXTINF:-1 tvg-id="tvk-krasnoyarsk" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://ttv.run/uploads/YOVi9TL5gnslIOTjXgvI9nIvQgWGtL.png",ТВК HD
 http://air.tvk6.ru/tvk24/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GHUJeZH.png" group-title="🇷🇺| Nga - Bắc Á và khối SNG",ТВ Экстра
 http://live-1.otcnet.ru/tvextra720b/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UpDPAEq.png" group-title="🇷🇺| Nga - Bắc Á và khối SNG",Югра
+#EXTINF:-1 tvg-id="yugra" tvg-id="" tvg-logo="https://i.imgur.com/UpDPAEq.png" group-title="🇷🇺| Nga - Bắc Á và khối SNG",Югра
 http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ia3acCB.png" group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình",Тамыр
+#EXTINF:-1 tvg-id="tamyr" tvg-logo="https://i.imgur.com/Ia3acCB.png" group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình",Тамыр
 https://bsttv.bonus-tv.ru/cdn/tamyr/playlist_sdhigh.m3u8
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2410.png" group-title="🇷🇺| Nga - Bắc Á và khối SNG",Курай TV
+#EXTINF:-1 tvg-id="kuraj" tvg-logo="http://epg.it999.ru/img/2410.png" group-title="🇷🇺| Nga - Bắc Á và khối SNG",Курай TV
 https://bsttv.bonus-tv.ru/cdn/kurai/playlist_sdhigh.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/8fKWpo3.png",Три Ангела
+#EXTINF:-1 tvg-id="tri-angela" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/8fKWpo3.png",Три Ангела
 https://hls.tv.3angels.ru/stream.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| KÊNH KHÁC" tvg-logo="https://i.imgur.com/0StosQm.png",ЛДПР ТВ HD
+#EXTINF:-1 tvg-id="ldpr-tv" group-title="🇻🇳-🇷🇺| KÊNH KHÁC" tvg-logo="https://i.imgur.com/0StosQm.png",ЛДПР ТВ HD
 http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cenLmbr.png" group-title="🇻🇳-🇷🇺| KÊNH KHÁC",ПРНК HD
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.imgur.com/cenLmbr.png" group-title="🇻🇳-🇷🇺| KÊNH KHÁC",ПРНК HD
 http://serv25.vintera.tv:8081/1pnk/1pnk/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/w3OewHc.png",Союз
+#EXTINF:-1 tvg-id="soyuz" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/w3OewHc.png",Союз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/vLpm8tN.png",TV BRICS Chinese
+#EXTINF:-1 tvg-id="tv-brics" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/vLpm8tN.png",TV BRICS Chinese
 https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/vLpm8tN.png",TV BRICS English
+#EXTINF:-1 tvg-id="tv-brics" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/vLpm8tN.png",TV BRICS English
 https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/vLpm8tN.png",TV BRICS Portuguese
+#EXTINF:-1  tvg-id="tv-brics"group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/vLpm8tN.png",TV BRICS Portuguese
 https://brics.bonus-tv.ru/cdn/brics/portuguese/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/vLpm8tN.png",TV BRICS Russian
+#EXTINF:-1 tvg-id="tv-brics" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/vLpm8tN.png",TV BRICS Russian
 https://brics.bonus-tv.ru/cdn/brics/russian/playlist.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://i.imgur.com/IgFmj3L.png",NANO TV
+#EXTINF:-1 tvg-id="nano-tv" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://i.imgur.com/IgFmj3L.png",NANO TV
 http://nano.teleservice.su:8080/hls/nano.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/jiU4LHy.png",Новый мир
+#EXTINF:-1 tvg-id="novy-mir" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/jiU4LHy.png",Новый мир
 http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/y1xT87R.png",Univer TV HD
+#EXTINF:-1 tvg-id="univer-tv" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/y1xT87R.png",Univer TV HD
 https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Salyam.ru" tvg-logo="https://i.imgur.com/vPvULj7.png" group-title="🇷🇺| Nga - Bắc Á và khối SNG",Салям
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.imgur.com/vPvULj7.png" group-title="🇷🇺| Nga - Bắc Á và khối SNG",Салям
 https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6TjLUuF.png" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG",1HD Music Television
+#EXTINF:-1 tvg-id="1hd" tvg-logo="https://i.imgur.com/6TjLUuF.png" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG",1HD Music Television
 https://sc.id-tv.kz/1hd.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://i.imgur.com/v6KNZms.png",МузСоюз
+#EXTINF:-1 tvg-id="muzsoyuz" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://i.imgur.com/v6KNZms.png",МузСоюз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://i.imgur.com/VhXCx7h.png",BRIDGE
+#EXTINF:-1 tvg-id="bridge-tv" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://i.imgur.com/VhXCx7h.png",BRIDGE
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s35/index.m3u8
 #EXTINF:-1 tvg-id="mezzolivehd" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://i.imgur.com/ejEcufH.png",Mezzo Live
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s35/04.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://i.imgur.com/RU7jA3I.png",Первый Музыкальный
+#EXTINF:-1 tvg-id="onemuz" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://i.imgur.com/RU7jA3I.png",Первый Музыкальный
 http://rtmp.one.by:1200
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://i.imgur.com/RU7jA3I.png",Первый Музыкальный HD
+#EXTINF:-1 tvg-id="onemuz" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://i.imgur.com/RU7jA3I.png",Первый Музыкальный HD
 http://rtmp.one.by:1300
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://i.imgur.com/3Z6GjxM.png",Первый Музыкальный Россия
+#EXTINF:-1 tvg-id="no_epg_music" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://i.imgur.com/3Z6GjxM.png",Первый Музыкальный Россия
 http://rtmp.one.by:2200
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://i.imgur.com/3Z6GjxM.png",Первый Музыкальный Россия HD
+#EXTINF:-1 tvg-id="no_epg_music" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://i.imgur.com/3Z6GjxM.png",Первый Музыкальный Россия HD
 http://rtmp.one.by:2300
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://i.imgur.com/RU7jA3I.png",Первый Музыкальный канал UHD
+#EXTINF:-1 tvg-id="onemuz" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://i.imgur.com/RU7jA3I.png",Первый Музыкальный канал UHD
 http://rtmp.one.by:1499
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://i.imgur.com/NBWyJJQ.png",Шансон ТВ
+#EXTINF:-1 tvg-id="shanson-tv" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://i.imgur.com/NBWyJJQ.png",Шансон ТВ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s43/index.m3u8
 #EXTINF:-1 tvg-id="MTVmix.ru" tvg-logo="https://i.imgur.com/FfrQy4o.png" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG",MTVmix
 http://81.30.182.82:18092/hls/live.m3u8
 
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| Quảng Cáo" tvg-logo="https://i.imgur.com/qU9ohQu.png",Leomax 24 HD
+#EXTINF:-1 tvg-id="shop24" group-title="🇻🇳-🇷🇺| Quảng Cáo" tvg-logo="https://i.imgur.com/qU9ohQu.png",Leomax 24 HD
 http://tvshops.bonus-tv.ru:80/cdn/shop24/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| Quảng Cáo" tvg-logo="https://i.imgur.com/1KzGSke.png",Shopping Live
+#EXTINF:-1 tvg-id="leomax" group-title="🇻🇳-🇷🇺| Quảng Cáo" tvg-logo="https://i.imgur.com/1KzGSke.png",Shopping Live
 http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| Quảng Cáo" tvg-logo="https://i.imgur.com/VpgEPoM.png",Ювелирочка ТВ HD
+#EXTINF:-1 tvg-id="yuvelirochka" group-title="🇻🇳-🇷🇺| Quảng Cáo" tvg-logo="https://i.imgur.com/VpgEPoM.png",Ювелирочка ТВ HD
 http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://i.imgur.com/9FMvaRK.png",English Club TV
+#EXTINF:-1 tvg-id="english-club-tv" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://i.imgur.com/9FMvaRK.png",English Club TV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s37/04.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình" tvg-logo="https://i.imgur.com/QlncxbD.png",Рыжий
+#EXTINF:-1 tvg-id="ryzhy" group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình" tvg-logo="https://i.imgur.com/QlncxbD.png",Рыжий
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s57/04.m3u8
-#EXTINF:-1  group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình" tvg-logo="https://i.imgur.com/ZgU9fin.png",Мульт
+#EXTINF:-1 tvg-id="mult" group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình" tvg-logo="https://i.imgur.com/ZgU9fin.png",Мульт
 https://autopilot.catcast.tv/content/38850/index.m3u8
 
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC" tvg-logo="https://i.imgur.com/lXlwfyw.png",Amedia 1
+#EXTINF:-1 tvg-id="amedia1" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC" tvg-logo="https://i.imgur.com/lXlwfyw.png",Amedia 1
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s45/04.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC" tvg-logo="https://i.imgur.com/GwQgT6X.png",Amedia 2
+#EXTINF:-1 tvg-id="amedia2" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC" tvg-logo="https://i.imgur.com/GwQgT6X.png",Amedia 2
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s33/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L3c9gNk.png" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC",Amedia Premium 
+#EXTINF:-1 tvg-id="amedia-premium" tvg-logo="https://i.imgur.com/L3c9gNk.png" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC",Amedia Premium 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s64/04.m3u8
-#EXTINF:-1 tvg-id="MirSeriala.ru" tvg-logo="https://i.imgur.com/uzj7wVp.png" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC",Мир Сериала
+#EXTINF:-1 tvg-id="mir-seriala" tvg-logo="https://i.imgur.com/uzj7wVp.png" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC",Мир Сериала
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://185.161.224.216/dash/Mir_seriala_SD.ism/playlist.mpd
 
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://i.imgur.com/YGqO3Us.png",Загородный
+#EXTINF:-1 tvg-id="zagorodny-int" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://i.imgur.com/YGqO3Us.png",Загородный
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s31/04.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://i.imgur.com/eXJm1n3.png",Телепутешествия 
+#EXTINF:-1 tvg-id="teleputeshestvia" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://i.imgur.com/eXJm1n3.png",Телепутешествия 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s71/04.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://i.imgur.com/7fZXK7y.png",История HD
+#EXTINF:-1 tvg-id="istoria" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://i.imgur.com/7fZXK7y.png",История HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s40/04.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://i.imgur.com/sQuWOgM.png",Наука 
+#EXTINF:-1 tvg-id="nauka" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://i.imgur.com/sQuWOgM.png",Наука 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s98/04.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://i.imgur.com/k1Gt1Rc.png",Охотник и Рыболов 
+#EXTINF:-1 tvg-id="oxotnik-i-rybolov-int" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://i.imgur.com/k1Gt1Rc.png",Охотник и Рыболов 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s62/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uhrfA7Y.png" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG",Арсенал
+#EXTINF:-1 tvg-id="arsenaltv" tvg-logo="https://i.imgur.com/uhrfA7Y.png" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG",Арсенал
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s68/04.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://i.imgur.com/UhqjlAF.png",Рыболов
+#EXTINF:-1 tvg-id="no_epg" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://i.imgur.com/UhqjlAF.png",Рыболов
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s55/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yy0YpWT.png" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG",Зоо ТВ
+#EXTINF:-1 tvg-id="zoo-tv" tvg-logo="https://i.imgur.com/yy0YpWT.png" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG",Зоо ТВ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s92/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MqJUSQu.png" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG",Тонус
+#EXTINF:-1 tvg-id="tonus-tv" tvg-logo="https://i.imgur.com/MqJUSQu.png" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG",Тонус
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s90/04.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/priklyucheniya-ru.png",Приключения
+#EXTINF:-1 tvg-id="prikluchenia-hd" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/priklyucheniya-ru.png",Приключения
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s99/04.m3u8
-#EXTINF:-1 tvg-id="MosObrTV.ru" tvg-logo="https://i.imgur.com/iHhlkDT.png" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG",MOSOBR.TV
+#EXTINF:-1 tvg-id="moskovsky-obrazovatelny" tvg-logo="https://i.imgur.com/iHhlkDT.png" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG",MOSOBR.TV
 http://retc.educom.ru/mosobrtv/tv1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YkvX94D.png" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG",Viasat History
+#EXTINF:-1 tvg-id="viasat-history" tvg-logo="https://i.imgur.com/YkvX94D.png" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG",Viasat History
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s23/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9bH6PBu.png" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ",Fast&Fun Box
+#EXTINF:-1 tvg-id="fastfunbox-hd" tvg-logo="https://i.imgur.com/9bH6PBu.png" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ",Fast&Fun Box
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s79/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x3IE7sE.png" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG",RTG
+#EXTINF:-1 tvg-id="rtg-int" tvg-logo="https://i.imgur.com/x3IE7sE.png" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG",RTG
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s80/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NymtU1E.png" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG",RTG HD
+#EXTINF:-1 tvg-id="rtg-hd" tvg-logo="https://i.imgur.com/NymtU1E.png" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG",RTG HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s63/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2Ydfgw4.png" group-title="🇻🇳-🇷🇺| KÊNH KHÁC",Центральное телевидение
+#EXTINF:-1 tvg-id="centralnoye-tv" tvg-logo="https://i.imgur.com/2Ydfgw4.png" group-title="🇻🇳-🇷🇺| KÊNH KHÁC",Центральное телевидение
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s20/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rX6K6qT.png" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ",НТВ Стиль
+#EXTINF:-1 tvg-id="ntv-style" tvg-logo="https://i.imgur.com/rX6K6qT.png" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ",НТВ Стиль
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s77/04.m3u8
 
-#EXTINF:-1 tvg-id="GlobalStarTV.ru" tvg-logo="https://i.imgur.com/UPtq6Ft.png" group-title="🇷🇺| Nga - Bắc Á và khối SNG",Global Star TV
+#EXTINF:-1 tvg-id="globalstar" tvg-id="GlobalStarTV.ru" tvg-logo="https://i.imgur.com/UPtq6Ft.png" group-title="🇷🇺| Nga - Bắc Á và khối SNG",Global Star TV
 http://stream2.hardlife.tv:8134/hls-live/hlsGS/_definst_/liveevent/gs.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rsYbFE8.png" group-title="🇷🇺| Nga - Bắc Á và khối SNG",Каббала ТВ
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.imgur.com/rsYbFE8.png" group-title="🇷🇺| Nga - Bắc Á và khối SNG",Каббала ТВ
 https://edge2.uk.kab.tv/live/tvrus-rus-medium/playlist.m3u8
-#EXTINF:-1 tvg-id="TBN.ru" tvg-logo="https://i.imgur.com/QUk38hq.png" group-title="🇷🇺| Nga - Bắc Á và khối SNG",ТБН
+#EXTINF:-1 tvg-id="tbn-ru" tvg-logo="https://i.imgur.com/QUk38hq.png" group-title="🇷🇺| Nga - Bắc Á và khối SNG",ТБН
 http://62.32.67.187:1935/WEB_TBN/TBN.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/z9E3DBW.png" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH",Настоящее время - Current Time TV
+#EXTINF:-1 tvg-id="nastoyaschee-vremia" tvg-logo="https://i.imgur.com/z9E3DBW.png" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH",Настоящее время - Current Time TV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s61/04.m3u8
-#EXTINF:-1 tvg-id="CNLEurope.kz" tvg-logo="https://i.imgur.com/lozzdS7.png" group-title="🇷🇺| Nga - Bắc Á và khối SNG",CNL Европа
+#EXTINF:-1 tvg-id="cnl-sibir" tvg-logo="https://i.imgur.com/lozzdS7.png" group-title="🇷🇺| Nga - Bắc Á và khối SNG",CNL Int.
 http://hls-live-media.cdn01.net/default/stream_10429_1.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/iVIlgrj.png",Беларусь 24 HD
+#EXTINF:-1 tvg-id="belarus24" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/iVIlgrj.png",Беларусь 24 HD
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/RsWPoAq.png",БелРос
+#EXTINF:-1 tvg-id="tro" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/RsWPoAq.png",БелРос
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
-#EXTINF:-1 tvg-id="AzadTV.az" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="🇷🇺| Nga - Bắc Á và khối SNG",Azad TV
+#EXTINF:-1 tvg-id="aztv" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="🇷🇺| Nga - Bắc Á và khối SNG",Azad TV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/ATV_SD.ism/playlist.mpd?checkedby:iptvcat.net
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/x89nJgB.png",Хабар 24 HD
-http://serv30.vintera.tv:8081/habar/habar24/chunks.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/HLiv5Hq.jpg",Новое телевидение
+#EXTINF:-1 tvg-id="xabar24" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/x89nJgB.png",Хабар 24 HD
+http://live-24kz.cdnvideo.ru/24kz/24kz.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="novoe-televidenie" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/HLiv5Hq.jpg",Новое телевидение
 http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/mlLH0sM.png",Jibek Joly TV World
+#EXTINF:-1 tvg-id="kazakh-tv" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/mlLH0sM.png",Jibek Joly TV World
 https://kzkhtv.ultraiptv.com/kzkhtv/master.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/Usviin0.png",Atameken Business HD
+#EXTINF:-1 tvg-id="atameken-business" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/Usviin0.png",Atameken Business HD
 http://live.atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="HuzurTV.tj" tvg-logo="https://i.imgur.com/Abg1fct.png" group-title="🇷🇺| Nga - Bắc Á và khối SNG",Хузур ТВ
 https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
@@ -1092,15 +1092,15 @@ https://livecdn.fptplay.net/schedule/sukien03_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/schedule/sukien04_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="https://i.ibb.co/488srb1/Golf-News-BEARTV.png",GolfNews
+#EXTINF:-1 tvg-id="no_epg_sport" group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="https://i.ibb.co/488srb1/Golf-News-BEARTV.png",GolfNews
 https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="https://i.ibb.co/tL4Rytq/fightbox-hd.png",FightBox HD
+#EXTINF:-1 tvg-id="fightbox-hd" group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="https://i.ibb.co/tL4Rytq/fightbox-hd.png",FightBox HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s86/04.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="https://i.imgur.com/pEuaZVx.png",Футбол
+#EXTINF:-1 tvg-id="football-ru" group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="https://i.imgur.com/pEuaZVx.png",Футбол
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s41/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CB7tFpw.png" group-title="🇷🇺| Nga - Bắc Á và khối SNG",Раменское ТВ
+#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://i.imgur.com/CB7tFpw.png" group-title="🇷🇺| Nga - Bắc Á và khối SNG",Раменское ТВ
 https://rtv.facecast.io/rtv/0.m3u8
 
 #EXTINF:-1 group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/ZsYvvwL.png",H1 - Հայաստան 1
@@ -1126,7 +1126,7 @@ http://ott-cdn.ucom.am/s6/index.m3u8
 #EXTINF:-1 group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/FKpxkVH.png",Country Media - Երկիր Մեդիա
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s7/index.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/A3bmTWO.png",ATV Armenia
+#EXTINF:-1 tvg-id="atv-armenia" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/A3bmTWO.png",ATV Armenia
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s8/index.m3u8
 #EXTINF:-1 group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/NV6ZeW9.png",21TV
@@ -1175,155 +1175,155 @@ http://ott-cdn.ucom.am/s73/index.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s48/index.m3u8
 
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/4NY75KS/fpt-sport.jpg",FSPORT 1
+#EXTINF:-1 tvg-id="no_epg_sport" group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/4NY75KS/fpt-sport.jpg",FSPORT 1
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://vips-livecdn.fptplay.net/hdevent/fsport01_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/4NY75KS/fpt-sport.jpg",FSPORT 2
+#EXTINF:-1 tvg-id="no_epg_sport" group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/4NY75KS/fpt-sport.jpg",FSPORT 2
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://vips-livecdn.fptplay.net/hdevent/fsport02_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/4NY75KS/fpt-sport.jpg",FSPORT 3
+#EXTINF:-1 tvg-id="no_epg_sport" group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/4NY75KS/fpt-sport.jpg",FSPORT 3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://vips-livecdn.fptplay.net/hdevent/fsport03_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/4NY75KS/fpt-sport.jpg",FSPORT 4
+#EXTINF:-1 tvg-id="no_epg_sport" group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/4NY75KS/fpt-sport.jpg",FSPORT 4
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://vips-livecdn.fptplay.net/hdevent/fsport04_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/4NY75KS/fpt-sport.jpg",FSPORT 5
+#EXTINF:-1 tvg-id="no_epg_sport" group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/4NY75KS/fpt-sport.jpg",FSPORT 5
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://vips-livecdn.fptplay.net/hdevent/fsport05_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/4NY75KS/fpt-sport.jpg",FSPORT 6
+#EXTINF:-1 tvg-id="no_epg_sport" group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/4NY75KS/fpt-sport.jpg",FSPORT 6
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://vips-livecdn.fptplay.net/hdevent/fsport06_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/4NY75KS/fpt-sport.jpg",FSPORT 7
+#EXTINF:-1 tvg-id="no_epg_sport" group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/4NY75KS/fpt-sport.jpg",FSPORT 7
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://vips-livecdn.fptplay.net/hdevent/fsport07_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/4NY75KS/fpt-sport.jpg",FSPORT 8
+#EXTINF:-1 tvg-id="no_epg_sport" group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/4NY75KS/fpt-sport.jpg",FSPORT 8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://vips-livecdn.fptplay.net/hdevent/fsport08_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/4NY75KS/fpt-sport.jpg",FSPORT 9
+#EXTINF:-1 tvg-id="no_epg_sport" group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/4NY75KS/fpt-sport.jpg",FSPORT 9
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://vips-livecdn.fptplay.net/hdevent/fsport09_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/4NY75KS/fpt-sport.jpg",FSPORT 10
+#EXTINF:-1 tvg-id="no_epg_sport" group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/4NY75KS/fpt-sport.jpg",FSPORT 10
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://vips-livecdn.fptplay.net/hdevent/fsport10_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/VHVDsmy/cconsportstv.png",ON SPORT 1
+#EXTINF:-1 tvg-id="no_epg_sport" group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/VHVDsmy/cconsportstv.png",ON SPORT 1
 https://livevlive.vtvcab.vn/hls/OS_ONSPORT1/sc-gaFEAA/m40_index.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/VHVDsmy/cconsportstv.png",ON SPORT 2
+#EXTINF:-1 tvg-id="no_epg_sport" group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/VHVDsmy/cconsportstv.png",ON SPORT 2
 https://livevlive.vtvcab.vn/hls/OS_ONSPORT2/sc-gaFEAA/m40_index.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/VHVDsmy/cconsportstv.png",ON SPORT 3
+#EXTINF:-1 tvg-id="no_epg_sport" group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/VHVDsmy/cconsportstv.png",ON SPORT 3
 https://livevlive.vtvcab.vn/hls/OS_ONSPORT3/sc-gaFEAA/m40_index.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/VHVDsmy/cconsportstv.png",ON SPORT 4
+#EXTINF:-1 tvg-id="no_epg_sport" group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/VHVDsmy/cconsportstv.png",ON SPORT 4
 https://livevlive.vtvcab.vn/hls/OS_ONSPORT4/sc-gaFEAA/m40_index.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/VHVDsmy/cconsportstv.png",ON SPORT 5
+#EXTINF:-1 tvg-id="no_epg_sport" group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/VHVDsmy/cconsportstv.png",ON SPORT 5
 https://livevlive.vtvcab.vn/hls/OS_ONSPORT5/sc-gaFEAA/m40_index.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/VHVDsmy/cconsportstv.png",ON SPORT 6
+#EXTINF:-1 tvg-id="no_epg_sport" group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/VHVDsmy/cconsportstv.png",ON SPORT 6
 https://livevlive.vtvcab.vn/hls/OS_ONSPORT6/sc-gaFEAA/m40_index.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/VHVDsmy/cconsportstv.png",ON SPORT 7
+#EXTINF:-1 tvg-id="no_epg_sport" group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/VHVDsmy/cconsportstv.png",ON SPORT 7
 https://livevlive.vtvcab.vn/hls/OS_ONSPORT7/sc-gaFEAA/m40_index.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/VHVDsmy/cconsportstv.png",ON SPORT 8
+#EXTINF:-1 tvg-id="no_epg_sport" group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/VHVDsmy/cconsportstv.png",ON SPORT 8
 https://livevlive.vtvcab.vn/hls/OS_ONSPORT8/sc-gaFEAA/m40_index.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/VHVDsmy/cconsportstv.png",ON SPORT 9
+#EXTINF:-1 tvg-id="no_epg_sport" group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/VHVDsmy/cconsportstv.png",ON SPORT 9
 https://livevlive.vtvcab.vn/hls/OS_ONSPORT9/sc-gaFEAA/m40_index.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/VHVDsmy/cconsportstv.png",ON SPORT 10
+#EXTINF:-1 tvg-id="no_epg_sport" group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/VHVDsmy/cconsportstv.png",ON SPORT 10
 https://livevlive.vtvcab.vn/hls/OS_ONSPORT10/sc-gaFEAA/m40_index.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/DRc2SNG/fpt-play-sport-BEARTV.png",WBC 01
+#EXTINF:-1 tvg-id="no_epg_sport" group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/DRc2SNG/fpt-play-sport-BEARTV.png",WBC 01
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://vips-livecdn.fptplay.net/schedule/wbc01_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/DRc2SNG/fpt-play-sport-BEARTV.png",WBC 02
+#EXTINF:-1 tvg-id="no_epg_sport" group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/DRc2SNG/fpt-play-sport-BEARTV.png",WBC 02
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://vips-livecdn.fptplay.net/schedule/wbc02_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.imgur.com/vM4qb8k.png",FPT Play Pladio
+#EXTINF:-1 tvg-id="no_epg" group-title="🔴| Livestream" tvg-logo="https://i.imgur.com/vM4qb8k.png",FPT Play Pladio
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://vips-livecdn.fptplay.net/hda3/pladio_4000.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/mbPvLmS.png",VOV1
+#EXTINF:-1 group-title="📻| Radio" tvg-id="" tvg-logo="https://i.imgur.com/mbPvLmS.png",VOV1
 https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/rS7TG49.png",VOV2
+#EXTINF:-1 group-title="📻| Radio" tvg-id="" tvg-logo="https://i.imgur.com/rS7TG49.png",VOV2
 https://str.vov.gov.vn/vovlive/vov2.sdp_aac/playlist.m3u8
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/1ZfyuG0.png",VOV3
+#EXTINF:-1 group-title="📻| Radio" tvg-id="" tvg-logo="https://i.imgur.com/1ZfyuG0.png",VOV3
 https://str.vov.gov.vn/vovlive/vov3.sdp_aac/playlist.m3u8
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/gU6k2dJ.png",VOV4 TÂY BẮC BỘ
+#EXTINF:-1 group-title="📻| Radio" tvg-id="" tvg-logo="https://i.imgur.com/gU6k2dJ.png",VOV4 TÂY BẮC BỘ
 http://media.kythuatvov.vn:1936/live/VOV4_TB.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/gU6k2dJ.png",VOV4 TÂY NGUYÊN
+#EXTINF:-1 group-title="📻| Radio" tvg-id="" tvg-logo="https://i.imgur.com/gU6k2dJ.png",VOV4 TÂY NGUYÊN
 http://media.kythuatvov.vn:1936/live/VOV4_TN.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/gU6k2dJ.png",VOV4 Cần Thơ
+#EXTINF:-1 group-title="📻| Radio" tvg-id="" tvg-logo="https://i.imgur.com/gU6k2dJ.png",VOV4 Cần Thơ
 http://media.kythuatvov.vn:1936/live/VOV4_CT.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/gU6k2dJ.png",VOV4 Thành Phố Hồ Chí Minh
+#EXTINF:-1 group-title="📻| Radio" tvg-id="" tvg-logo="https://i.imgur.com/gU6k2dJ.png",VOV4 Thành Phố Hồ Chí Minh
 http://media.kythuatvov.vn:1936/live/VOV4_HCM.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/7o7hkWq.png",VOV5 Russia & CIS
+#EXTINF:-1 group-title="📻| Radio" tvg-id="" tvg-logo="https://i.imgur.com/7o7hkWq.png",VOV5 Russia & CIS
 http://media.kythuatvov.vn:7029
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/OIzhtBi.png",VOV Giao Thông Hà Nội & Hà Tây Cũ
+#EXTINF:-1 group-title="📻| Radio" tvg-id="" tvg-logo="https://i.imgur.com/OIzhtBi.png",VOV Giao Thông Hà Nội & Hà Tây Cũ
 https://str.vov.gov.vn/vovlive/vovGTHN.sdp_aac/chunklist_w601606653.m3u8
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/OIzhtBi.png",VOV Giao Thông Thành Phố Hồ Chí Minh
+#EXTINF:-1 group-title="📻| Radio" tvg-id="" tvg-logo="https://i.imgur.com/OIzhtBi.png",VOV Giao Thông Thành Phố Hồ Chí Minh
 https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist_w1213978008.m3u8
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VOV_Mekong.png",VOV GT MEKONG
+#EXTINF:-1 group-title="📻| Radio" tvg-id="" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VOV_Mekong.png",VOV GT MEKONG
 https://str.vov.gov.vn/vovlive/vovgtMeKong.sdp_aac/playlist.m3u8
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VOV_SucKhoe.png",VOV FM 89Mhz
+#EXTINF:-1 group-title="📻| Radio" tvg-id="" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VOV_SucKhoe.png",VOV FM 89Mhz
 http://media.kythuatvov.vn:7021/;stream/
-#EXTINF:0 group-title="📻| Radio" tvg-logo="https://i.ibb.co/RTqj6Y9/voh610.png",VOH1 - 610Khz
+#EXTINF:0 tvg-id="" group-title="📻| Radio" tvg-logo="https://i.ibb.co/RTqj6Y9/voh610.png",VOH1 - 610Khz
 https://strm.voh.com.vn/radio/channel2/playlist.m3u8
-#EXTINF:0 group-title="📻| Radio" tvg-logo="https://i.ibb.co/LYGM648/r-voh87.png",VOH2 - 87.7Mhz
+#EXTINF:0 tvg-id="" group-title="📻| Radio" tvg-logo="https://i.ibb.co/LYGM648/r-voh87.png",VOH2 - 87.7Mhz
 https://strm.voh.com.vn/radio/channel5/playlist.m3u8
-#EXTINF:0 group-title="📻| Radio" tvg-logo="https://image.ibb.co/i3ZuJU/r_voh95.png",VOH3 - 95.6Mhz
+#EXTINF:0 tvg-id="" group-title="📻| Radio" tvg-logo="https://image.ibb.co/i3ZuJU/r_voh95.png",VOH3 - 95.6Mhz
 https://strm.voh.com.vn/radio/channel1/playlist.m3u8
-#EXTINF:0 group-title="📻| Radio" tvg-logo="https://image.ibb.co/eTNs59/r_voh99.png",VOH4 - 99.9Mhz
+#EXTINF:0 tvg-id="" group-title="📻| Radio" tvg-logo="https://image.ibb.co/eTNs59/r_voh99.png",VOH4 - 99.9Mhz
 https://strm.voh.com.vn/radio/channel3/playlist.m3u8
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/251.png",Xone FM
+#EXTINF:-1 group-title="📻| Radio" tvg-id="" tvg-logo="https://cdn.hqth.me/logo/thumbs/251.png",Xone FM
 https://mplaylist-zmp3.zmdcdn.me/99YFw722aFg/zhls/live/855a669d5ad8b386eac9/index.m3u8
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/252.png",The One Radio
+#EXTINF:-1 group-title="📻| Radio" tvg-id="" tvg-logo="https://cdn.hqth.me/logo/thumbs/252.png",The One Radio
 https://vnno-pt-6-tf-playlist-live-zmp3.zadn.vn/C0ti9DKXaS4/zhls/live/standard-audio/5c0872cf4e8aa7d4fe9b/standard-audio.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/rbaIoe1.png" group-title="📻| Radio",Радио Вести FM
+#EXTINF:-1 tvg-id="vesti-fm" tvg-logo="https://imgur.com/rbaIoe1.png" group-title="📻| Radio",Радио Вести FM
 http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://imgur.com/UFIHZZT.png",Радио Маяк
+#EXTINF:-1 tvg-id="" group-title="📻| Radio" tvg-id="no_epg" tvg-logo="https://imgur.com/UFIHZZT.png",Радио Маяк
 http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://imgur.com/GcIK43W.png",Радио России
+#EXTINF:-1 tvg-id="" group-title="📻| Radio" tvg-id="radio-rossii" tvg-logo="https://imgur.com/GcIK43W.png",Радио России
 http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_128kbps
-#EXTINF:-1 tvg-id="" tvg-logo="https://hatscripts.github.io/circle-flags/flags/ru.svg" group-title="📻| Radio",Радио 10
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="https://hatscripts.github.io/circle-flags/flags/ru.svg" group-title="📻| Radio",Радио 10
 http://langate.tv/acc/playlist.m3u8
-#EXTINF:-1 tvg-id="Radio1018.ru" tvg-logo="https://i.imgur.com/YS70xcA.png" group-title="📻| Radio",Радио 101.8
+#EXTINF:-1 tvg-id="" tvg-id="Radio1018.ru" tvg-logo="https://i.imgur.com/YS70xcA.png" group-title="📻| Radio",Радио 101.8
 https://video.penzainform.ru/e/r1018.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://hatscripts.github.io/circle-flags/flags/ru.svg" group-title="📻| Radio",Радио Говорит Москва
 https://video.govoritmoskva.ru/rufm/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://hatscripts.github.io/circle-flags/flags/ru.svg" group-title="📻| Radio",Радио Пилот HD
 https://pilotfm.ru/cam/hls/pilothd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NwuwdPS.png" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG",Радио Шансон
+#EXTINF:-1 tvg-id="radio-shanson" tvg-logo="https://i.imgur.com/NwuwdPS.png" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG",Радио Шансон
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5xKqV1s.png" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG",Радио Хит ТВ
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5xKqV1s.png" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG",Радио Хит ТВ
 http://lova.me/hls/hithd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wG8KyeG.png" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG",Страна FM
+#EXTINF:-1 tvg-id="radio-strana-fm-tv" tvg-logo="https://i.imgur.com/wG8KyeG.png" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG",Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Radio_Free_Asia_Logo_2021.png/220px-Radio_Free_Asia_Logo_2021.png" group-title="📻| Radio",RFA - Radio Free Asia
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Radio_Free_Asia_Logo_2021.png/220px-Radio_Free_Asia_Logo_2021.png" group-title="📻| Radio",RFA - Radio Free Asia
 https://rfahls-i.akamaihd.net/hls/live/226233/RFALive_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s209673/images/logod.png" group-title="📻| Radio",RFI - Radio France Internationale
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn-profiles.tunein.com/s209673/images/logod.png" group-title="📻| Radio",RFI - Radio France Internationale
 https://rfivietnamien96k.ice.infomaniak.ch/rfivietnamien-96k.mp3
 
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/UdDg2vx.png",M Radio Việt Nam
+#EXTINF:-1 group-title="📻| Radio" tvg-id="no_epg_music" tvg-logo="https://i.imgur.com/UdDg2vx.png",M Radio Việt Nam
 https://stream.zeno.fm/4q7y9hvkp2zuv
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/9Yo1uQK.png",Cải Lương Việt Nam
+#EXTINF:-1 group-title="📻| Radio" tvg-id="no_epg_music" tvg-logo="https://i.imgur.com/9Yo1uQK.png",Cải Lương Việt Nam
 https://stream.zeno.fm/0trm6wrnga0uv
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgICQ7brTsQgMogEEemVubw/image/",Radio Nhạc Vàng Xưa
+#EXTINF:-1 group-title="📻| Radio" tvg-id="no_epg_music" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgICQ7brTsQgMogEEemVubw/image/",Radio Nhạc Vàng Xưa
 https://stream.zeno.fm/x2z45v7d84zuv
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgIDQidjS_wkMogEEemVubw/image/",Radio DJ
+#EXTINF:-1 group-title="📻| Radio" tvg-id="no_epg_music" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgIDQidjS_wkMogEEemVubw/image/",Radio DJ
 https://stream.zeno.fm/ehbutdfccm0uv
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/A9kxU5m.png",Radio Phật Giáo
+#EXTINF:-1 group-title="📻| Radio" tvg-id="no_epg_music" tvg-logo="https://i.imgur.com/A9kxU5m.png",Radio Phật Giáo
 https://stream.zeno.fm/8456uy0bcm0uv
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgICw0ILTsQoMogEEemVubw/image/",Radio Nhạc Dân Ca
+#EXTINF:-1 group-title="📻| Radio" tvg-id="no_epg_music" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgICw0ILTsQoMogEEemVubw/image/",Radio Nhạc Dân Ca
 https://stream.zeno.fm/a2dbs2tq1p8uv
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/DcciD6c.jpg",Radio Nhạc Xuân
+#EXTINF:-1 group-title="📻| Radio" tvg-id="no_epg_music" tvg-logo="https://i.imgur.com/DcciD6c.jpg",Radio Nhạc Xuân
 https://stream.zeno.fm/hvtxgd85rm0uv
 
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://photo-zmp3.zadn.vn/avatars/8/5/4/0/854010f76bddeefd5f13305a1d6cc8be.jpg",Zing MP3 - On Air
+#EXTINF:-1 group-title="📻| Radio" tvg-id="no_epg_music" tvg-logo="https://photo-zmp3.zadn.vn/avatars/8/5/4/0/854010f76bddeefd5f13305a1d6cc8be.jpg",Zing MP3 - On Air
 https://multi-playlist-zmp3.zadn.vn/9tPzLPYORS8/zhls/playback-realtime/a07d79b945fcaca2f5ed/index.m3u8
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/4Yn7ubH.jpg",Zing MP3 - Chạm
+#EXTINF:-1 group-title="📻| Radio" tvg-id="no_epg_music" tvg-logo="https://i.imgur.com/4Yn7ubH.jpg",Zing MP3 - Chạm
 https://multi-playlist-zmp3.zadn.vn/62YE6lXdY4w/zhls/playback-realtime/db68d4afe8ea01b458fb/index.m3u8
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/CBi2ZzC.jpg",Zing MP3 - Vpop
+#EXTINF:-1 group-title="📻| Radio" tvg-id="no_epg_music" tvg-logo="https://i.imgur.com/CBi2ZzC.jpg",Zing MP3 - Vpop
 https://multi-playlist-zmp3.zadn.vn/wTSwRIGOON0/zhls/playback-realtime/6eeb692c5569bc37e578/index.m3u8
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/ihJeepG.jpg",Zing MP3 - Acoustic
+#EXTINF:-1 group-title="📻| Radio" tvg-id="no_epg_music" tvg-logo="https://i.imgur.com/ihJeepG.jpg",Zing MP3 - Acoustic
 https://multi-playlist-zmp3.zadn.vn/ktkT8IgzcQQ/zhls/playback-realtime/08aae96dd5283c766539/index.m3u8
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/Clwi2Ea.jpg",Zing MP3 - Bolero
+#EXTINF:-1 group-title="📻| Radio" tvg-id="no_epg_music" tvg-logo="https://i.imgur.com/Clwi2Ea.jpg",Zing MP3 - Bolero
 https://multi-playlist-zmp3.zadn.vn/BtRvAOtW5jk/zhls/playback-realtime/e3b9f87ec43b2d65742a/index.m3u8
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://photo-zmp3.zadn.vn/avatars/b/f/3/b/bf3bf87a788a5d0b8719c6feee774a2e.jpg",Zing MP3 - Rap Việt
+#EXTINF:-1 group-title="📻| Radio" tvg-id="no_epg_music" tvg-logo="https://photo-zmp3.zadn.vn/avatars/b/f/3/b/bf3bf87a788a5d0b8719c6feee774a2e.jpg",Zing MP3 - Rap Việt
 https://multi-playlist-zmp3.zadn.vn/Itsn5VCb5Uo/zhls/playback-realtime/4f2980eebcab55f50cba/index.m3u8
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://photo-zmp3.zadn.vn/avatars/c/f/2/4/cf2428f7e56a8c2a52d84cb106891de2.jpg",Zing MP3 - Kpop
+#EXTINF:-1 group-title="📻| Radio" tvg-id="no_epg_music" tvg-logo="https://photo-zmp3.zadn.vn/avatars/c/f/2/4/cf2428f7e56a8c2a52d84cb106891de2.jpg",Zing MP3 - Kpop
 https://multi-playlist-zmp3.zadn.vn/94rxZ-Dfzro/zhls/playback-realtime/ff294ded71a898f6c1b9/index.m3u8
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://photo-zmp3.zadn.vn/avatars/b/0/d/a/b0da7c8ecd6521337682f3a86fa0170f.jpg",Zing MP3 - USUK
+#EXTINF:-1 group-title="📻| Radio" tvg-id="no_epg_music" tvg-logo="https://photo-zmp3.zadn.vn/avatars/b/0/d/a/b0da7c8ecd6521337682f3a86fa0170f.jpg",Zing MP3 - USUK
 https://multi-playlist-zmp3.zadn.vn/RckDo1XPsU4/zhls/playback-realtime/111c87d8bb9d52c30b8c/index.m3u8
