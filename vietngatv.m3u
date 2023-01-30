@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml,http://lichphatsong.xyz/schedule/epg.xml,http://trada.info/epg.xml,https://iptvx.one/epg/epg.xml.gz,https://iptvx.one/epg/epg_lite.xml.gz,http://epg.it999.ru/epg.xml.gz,https://iptv-org.github.io/epg/guides/en/epg.i-cable.com.xml,https://iptv-org.github.io/epg/guides/zh/nowplayer.now.com.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.xml,https://iptv-org.github.io/epg/guides/pt/rtp.pt.xml,https://iptv-org.github.io/epg/guides/id/mncvision.id.xml,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.xml,https://iptv-org.github.io/epg/guides/hy/tv.mail.ru.xml,https://iptv-org.github.io/epg/guides/ko/wavve.com.xml,https://iptv-org.github.io/epg/guides/en/mncvision.id.xml,https://iptv-org.github.io/epg/guides/fr/m.tv.sms.cz.xml,https://iptv-org.github.io/epg/guides/cs/m.tv.sms.cz.xml,https://iptv-org.github.io/epg/guides/es/directv.com.ar.xml,https://iptv-org.github.io/epg/guides/hr/tvprofil.com.xml,https://iptv-org.github.io/epg/guides/en/dishtv.in.xml,https://iptv-org.github.io/epg/guides/en/tv.blue.ch.xml,https://iptv-org.github.io/epg/guides/en/mujtvprogram.cz.xml,https://iptv-org.github.io/epg/guides/fr/programme-tv.net.xml,https://iptv-org.github.io/epg/guides/en/sky.com.xml"
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml,http://lichphatsong.xyz/schedule/epg.xml,http://trada.info/epg.xml,https://iptvx.one/epg/epg.xml.gz,https://iptvx.one/epg/epg_lite.xml.gz,http://iptvx.one/EPG,http://epg.it999.ru/epg.xml.gz,https://iptv-org.github.io/epg/guides/en/epg.i-cable.com.xml,https://iptv-org.github.io/epg/guides/zh/nowplayer.now.com.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.xml,https://iptv-org.github.io/epg/guides/pt/rtp.pt.xml,https://iptv-org.github.io/epg/guides/id/mncvision.id.xml,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.xml,https://iptv-org.github.io/epg/guides/hy/tv.mail.ru.xml,https://iptv-org.github.io/epg/guides/ko/wavve.com.xml,https://iptv-org.github.io/epg/guides/en/mncvision.id.xml,https://iptv-org.github.io/epg/guides/fr/m.tv.sms.cz.xml,https://iptv-org.github.io/epg/guides/cs/m.tv.sms.cz.xml,https://iptv-org.github.io/epg/guides/es/directv.com.ar.xml,https://iptv-org.github.io/epg/guides/hr/tvprofil.com.xml,https://iptv-org.github.io/epg/guides/en/dishtv.in.xml,https://iptv-org.github.io/epg/guides/en/tv.blue.ch.xml,https://iptv-org.github.io/epg/guides/en/mujtvprogram.cz.xml,https://iptv-org.github.io/epg/guides/fr/programme-tv.net.xml,https://iptv-org.github.io/epg/guides/en/sky.com.xml"
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/vZYlGIW.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV1 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
@@ -622,7 +622,7 @@ https://live.cgtn.com/1000/prog_index.m3u8
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227238/index.m3u8
 #EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-logo="https://i.imgur.com/g2qz3Fh.png" group-title="🌏| Quốc tế",CGTN Français
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227220/index.m3u8
-#EXTINF:-1 tvg-id="2268" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/L2yv24j.png",CGTN Русский
+#EXTINF:-1 tvg-id="CGTNRussian.cn" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/L2yv24j.png",CGTN Русский
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227103/index.m3u8
 #EXTINF:-1 tvg-id="CGNTV.kr" tvg-logo="https://i.imgur.com/rXrSsiI.jpg" group-title="🌏| Quốc tế",Christian Global Network Television
 https://cgntvlive-998.acs.wecandeo.com/ms/2850/998/index_1.m3u8
@@ -755,7 +755,7 @@ https://voa-ingest.akamaized.net/hls/live/2033866/tvmc01/VOA-TVMC01_1080/chunkli
 http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="WION.in" tvg-logo="https://i.imgur.com/tnXba28.png" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH",Wion
 https://d2xqcdx4c8vu9s.cloudfront.net/out/v1/15b8393e9a9240b8bedd4c79ccefb301/index_4.m3u8
-#EXTINF:-1 tvg-id="2242" tvg-logo="https://i.imgur.com/D46u7eW.png" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG",WFC TV International
+#EXTINF:-1 tvg-id="world-fashion-channel tvg-logo="https://i.imgur.com/D46u7eW.png" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG",WFC TV International
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/leWw1zz.png",Box Movie 1
@@ -789,7 +789,7 @@ http://livehlsvgtrkrf.cdnvideo.ru/hls/planeta_rtr_asia/playlist_3.m3u8
 #EXTINF:-1 tvg-id="ntv-mir" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/pUcV46F.png",НТВ МИР
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s17/04.m3u8
-#EXTINF:-1 tvg-id="5kanal-ru-pl2" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/qswopzO.png",Петербург 5 канал (+2)
+#EXTINF:-1 tvg-id="piaty-int" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/qswopzO.png",5 канал Int. (+2)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -805,7 +805,7 @@ http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r24.smil/chunklist_b1200000.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe.cliptv.az/dash/Karusel_SD.ism/playlist.mpd?checkedby:iptvcat.net
-#EXTINF:-1 tvg-id="5691" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВЦ Int.
+#EXTINF:-1 tvg-id="tvci" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВЦ Int.
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s54/04.m3u8
 #EXTINF:-1 tvg-id="rentv-int" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/uxK7dGH.png",РЕН Int.
@@ -828,7 +828,7 @@ http://ott-cdn.ucom.am/s50/index.m3u8
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1 tvg-id="mir" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/Kia8OEO.png",МИР HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 tvg-id="5692" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/l0RGbRI.png",ТНТ Int.
+#EXTINF:-1 tvg-id="tnt-int-cis" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/l0RGbRI.png",ТНТ Int.
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s19/04.m3u8
 #EXTINF:-1 tvg-id="muztv" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/BtqrHmz.png",МУЗ ТВ
@@ -871,7 +871,7 @@ https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="nebesa-tv7" tvg-logo="https://i.imgur.com/FaQQdzz.png" group-title="🌏| Quốc tế",Небеса ТВ7
 https://vod.tv7.fi/tv7-ru/tv7-ru.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Kuzbass1.ru" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/ARh6WSf.png",Кузбасс 1 HD
+#EXTINF:-1 tvg-id="kuzbas1" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/ARh6WSf.png",Кузбасс 1 HD
 https://www.10kanal.ru:1443/10kanal/k24/playlist.m3u8
 #EXTINF:-1 tvg-id="Mezhdunet.ru" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/lFwhJJU.png",Между.Net
 http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8
@@ -897,7 +897,7 @@ https://bsttv.bonus-tv.ru/cdn/kurai/playlist_sdhigh.m3u8
 https://hls.tv.3angels.ru/stream.m3u8
 #EXTINF:-1 tvg-id="ldpr-tv" group-title="🇻🇳-🇷🇺| KÊNH KHÁC" tvg-logo="https://i.imgur.com/0StosQm.png",ЛДПР ТВ HD
 http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="6029" tvg-logo="https://i.imgur.com/cenLmbr.png" group-title="🇻🇳-🇷🇺| KÊNH KHÁC",Первый российский национальный канал HD
+#EXTINF:-1 tvg-id="prnk-tv" tvg-logo="https://i.imgur.com/sDsP1xG.png" group-title="🇻🇳-🇷🇺| KÊNH KHÁC",Первый российский национальный канал HD
 http://serv25.vintera.tv:8081/1pnk/1pnk/playlist.m3u8
 #EXTINF:-1 tvg-id="soyuz" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/w3OewHc.png",Союз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
@@ -928,9 +928,9 @@ http://ott-cdn.ucom.am/s35/index.m3u8
 #EXTINF:-1 tvg-id="mezzolivehd" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://i.imgur.com/ejEcufH.png",Mezzo Live
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s35/04.m3u8
-#EXTINF:-1 tvg-id="5365" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://i.imgur.com/RU7jA3I.png",Первый Музыкальный
+#EXTINF:-1 tvg-id="onemuz" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://i.imgur.com/RU7jA3I.png",Первый Музыкальный
 http://rtmp.one.by:1200
-#EXTINF:-1 tvg-id="5365" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://i.imgur.com/RU7jA3I.png",Первый Музыкальный HD
+#EXTINF:-1 tvg-id="onemuz" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://i.imgur.com/RU7jA3I.png",Первый Музыкальный HD
 http://rtmp.one.by:1300
 #EXTINF:-1 tvg-id="5364" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://i.imgur.com/3Z6GjxM.png",Первый Музыкальный Россия
 http://rtmp.one.by:2200
@@ -1053,7 +1053,7 @@ http://mfe.cliptv.az/dash/ATV_SD.ism/playlist.mpd?checkedby:iptvcat.net
 http://live-24kz.cdnvideo.ru/24kz/24kz.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="novoe-televidenie" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/HLiv5Hq.jpg",Новое телевидение
 http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="kazakh-tv" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/k5iuvE7.png",Qazaq TV
+#EXTINF:-1 tvg-id="kazakh-tv" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/2tqJO01.png",Jibek Joly
 https://kzkhtv.ultraiptv.com/kzkhtv/master.m3u8
 #EXTINF:-1 tvg-id="atameken-business" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/Usviin0.png",Atameken Business HD
 http://live.atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8
