@@ -764,8 +764,8 @@ https://voa-ingest.akamaized.net/hls/live/2033866/tvmc01/VOA-TVMC01_1080/chunkli
 http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="WION.in" tvg-logo="https://i.imgur.com/tnXba28.png" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH",Wion
 https://d2xqcdx4c8vu9s.cloudfront.net/out/v1/15b8393e9a9240b8bedd4c79ccefb301/index_4.m3u8
-#EXTINF:-1 tvg-id="world-fashion-channel tvg-logo="https://i.imgur.com/D46u7eW.png" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG",WFC TV International
-https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
+#EXTINF:-1 tvg-id="world-fashion-channel-en" tvg-logo="https://i.imgur.com/D46u7eW.png" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG",WFC TV International
+http://live-3.otcnet.ru/wfcint/index.m3u8
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/leWw1zz.png",Box Movie 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -843,7 +843,7 @@ http://ott-cdn.ucom.am/s19/04.m3u8
 #EXTINF:-1 tvg-id="muztv" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/BtqrHmz.png",МУЗ ТВ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s28/04.m3u8
-#EXTINF:-1 tvg-id="sts-love" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/MfNHR0L.png",СТС Love
+#EXTINF:-1 tvg-id="sts-love-pl2" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/MfNHR0L.png",СТС Love
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
