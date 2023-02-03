@@ -807,7 +807,11 @@ http://livehlsvgtrkrf.cdnvideo.ru/hls/russia_k/playlist_3.m3u8
 #EXTINF:-1 tvg-id="rossia-24" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/C1JktKX.png",Россия 24
 http://livehlsvgtrkrf.cdnvideo.ru/hls/russia_24/playlist_3.m3u8
 #EXTINF:-1 tvg-id="karusel-int" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/4fFMlVq.png",Карусель Int.
-https://sc.id-tv.kz/Karusel_36_37.m3u8
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://mfe.cliptv.az/dash/Karusel_SD.ism/playlist.mpd?checkedby:iptvcat.net
 #EXTINF:-1 tvg-id="tvci" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВЦ Int.
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s54/04.m3u8
@@ -860,7 +864,7 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 tvg-id="mir-24" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/aMOLqMW.png",МИР 24 HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="360-int" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/VTJqdoX.png",360° International
-https://sc.id-tv.kz/360_34_35.m3u8
+https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
 
 #EXTINF:-1 tvg-id="8kanal-krasnoyarsk" tvg-logo="https://i.imgur.com/Qn8ArfT.png" group-title="🇷🇺| Nga - Bắc Á và khối SNG",8 канал
 http://80.65.18.213/8kanal/vintera/playlist.m3u8
