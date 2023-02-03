@@ -725,6 +725,10 @@ http://210.210.155.37/qwr9ew/s/s38/index.m3u8
 #EXTINF:-1 tvg-id="russia-today" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/3E4KGqG.png",RT - Russia Today
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s96/index.m3u8
+#EXTINF:-1 tvg-id="russia-today" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/3E4KGqG.png",RT HD - Russia Today HD
+https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-30/ngrp:srak-wx8r_all/playlist.m3u8
+#EXTINF:-1 tvg-id="rtd-ru" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://i.imgur.com/C6fylkt.png",RT Документальный HD
+https://hls.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 tvg-id="SupremeMasterTV.tw" tvg-logo="https://i.imgur.com/CiFGi8J.png" group-title="🌏| Quốc tế",Supreme Master TV
 https://lbs-us1.suprememastertv.com/1080p.m3u8
 #EXTINF:-1 tvg-id="TV5MondeAsia.fr" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/1cVjCTw.png",TV5 Monde Asie HD
@@ -756,8 +760,6 @@ http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
 https://d2xqcdx4c8vu9s.cloudfront.net/out/v1/15b8393e9a9240b8bedd4c79ccefb301/index_4.m3u8
 #EXTINF:-1 tvg-id="world-fashion-channel" tvg-logo="https://i.imgur.com/D46u7eW.png" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG",WFC TV International
 http://live-3.otcnet.ru/wfcint/index.m3u8
-#EXTINF:-1 tvg-ID="ZeeTVAsiaPacific.sg" group-title="Giải trí Quốc tế" tvg-logo="https://i.imgur.com/g3eT2vP.png",Zee TV HD Asia Pacific
-http://tv.googledrivelinks.com/live.php?c=Zee_TV_HD&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/leWw1zz.png",Box Movie 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -962,8 +964,6 @@ http://ott-cdn.ucom.am/s37/04.m3u8
 #EXTINF:-1 tvg-id="ryzhy" group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình" tvg-logo="https://i.imgur.com/QlncxbD.png",Рыжий
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s57/04.m3u8
-#EXTINF:-1 tvg-id="mult" group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình" tvg-logo="https://i.imgur.com/ZgU9fin.png",Мульт
-https://autopilot.catcast.tv/content/38850/index.m3u8
 
 #EXTINF:-1 tvg-id="amedia1" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC" tvg-logo="https://i.imgur.com/lXlwfyw.png",Amedia 1
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
@@ -1067,19 +1067,19 @@ http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Milliy.uz" tvg-logo="https://i.imgur.com/rAjhLkx.png" group-title="🇷🇺| Nga - Bắc Á và khối SNG",Milliy
 http://milliy.tv/hls/index.m3u8
 #EXTINF:-1 tvg-id="AltynAsyr.tm" tvg-logo="https://i.imgur.com/9Dx5KS2.png" group-title="🇷🇺| Nga - Bắc Á và khối SNG",Altyn Asyr
-https://alpha.tv.online.tm/hls/ch001.m3u8
-#EXTINF:-1 tvg-id="Yaslyk.tm" tvg-logo="https://turkmentv.gov.tm/assets/img/live-imgs/yaslyk.png" group-title="🇷🇺| Nga - Bắc Á và khối SNG",Ýaşlyk
-https://alpha.tv.online.tm/hls/ch002.m3u8
+http://217.174.225.146/legacyhls/ch001_720/index.m3u8
+#EXTINF:-1 tvg-id="Yaslyk.tm" tvg-logo="https://turkmentv.gov.tm/assets/img/live-imgs/yaslyk.png" group-title="🇷🇺| Nga - Bắc Á và khối SNG",Yaslyk
+http://217.174.225.146/legacyhls/ch002_720/index.m3u8
 #EXTINF:-1 tvg-id="Miras.tm" tvg-logo="https://i.imgur.com/ckZK4ak.png" group-title="🇷🇺| Nga - Bắc Á và khối SNG",Miras
-https://alpha.tv.online.tm/hls/ch003.m3u8
+http://217.174.225.146/legacyhls/ch003_720/index.m3u8
 #EXTINF:-1 tvg-id="TurkmenOwazy.tm" tvg-logo="https://i.imgur.com/NqSPAsq.png" group-title="🇷🇺| Nga - Bắc Á và khối SNG",Türkmen Owazy
-https://alpha.tv.online.tm/hls/ch005.m3u8
+http://217.174.225.146/legacyhls/ch005_720/index.m3u8
 #EXTINF:-1 tvg-id="Asgabat.tm" tvg-logo="https://turkmentv.gov.tm/assets/img/live-imgs/ashgabat.png" group-title="🇷🇺| Nga - Bắc Á và khối SNG",Aşgabat
-https://alpha.tv.online.tm/hls/ch006.m3u8
+http://217.174.225.146/legacyhls/ch006_720/index.m3u8
 #EXTINF:-1 tvg-id="Turkmenistan.tm" tvg-logo="https://i.imgur.com/zKWfwAw.png" group-title="🇷🇺| Nga - Bắc Á và khối SNG",Turkmenistan
-https://alpha.tv.online.tm/hls/ch007.m3u8
+http://217.174.225.146/legacyhls/ch007_720/index.m3u8
 
-#EXTINF:-1 tvg-id="Armenia1.am" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/aFy3soi.png",Առաջին Ալիք
+#EXTINF:-1 tvg-id="Armenia1.am" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/aFy3soi.png",Առաջին Ալիք HD
 https://amtv1.livestreamingcdn.com/am2abr/index.m3u8
 #EXTINF:-1 tvg-id="H2.am" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/fMOopjK.png",Հ2
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
