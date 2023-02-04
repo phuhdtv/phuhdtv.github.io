@@ -53,7 +53,7 @@ https://api.vthanhtivi.pw/v2/getlink/vieon2/f5729e7e-bf42-4e7d-988e-6204f94062b4
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="https://i.imgur.com/eEXU8nf.png",VTVcab 6 - ON Sports+
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.vthanhtivi.pw/v2/getlink/vieon2/7e6b8c87-e49f-4c5c-b15a-01ae21856286/playlist.m3u8
-#EXTINF:-1 tvg-id="vtvcab7hd" group-title="TÈO 🇻🇳-🇷🇺 TV" tvg-logo="https://i.imgur.com/D5skbO9.png",VTVcab 7 - ON O2TV
+#EXTINF:-1 tvg-id="vtvcab7hd" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://i.imgur.com/D5skbO9.png",VTVcab 7 - ON O2TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.vthanhtivi.pw/v2/getlink/vieon2/a374ffd7-9910-4dcc-9c58-cd3f0e803226/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab8hd" group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình" tvg-logo="https://i.imgur.com/pVgwxIQ.png",VTVcab 8 - ON BiBi
@@ -908,7 +908,7 @@ http://bsttv.bonus-tv.ru:80/cdn/tamyr/playlist_sdhigh.m3u8
 http://bsttv.bonus-tv.ru:80/cdn/kurai/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-id="tri-angela" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/8fKWpo3.png",Три Ангела
 https://3abn-live.akamaized.net//hls/live/2010548/Russia/HQs/chunklist.m3u8
-#EXTINF:-1 tvg-id="ldpr-tv" group-title="TÈO 🇻🇳-🇷🇺 TV" tvg-logo="https://i.imgur.com/0StosQm.png",ЛДПР ТВ HD
+#EXTINF:-1 tvg-id="ldpr-tv" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/0StosQm.png",ЛДПР ТВ HD
 http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="soyuz" group-title="🇷🇺| Nga - Bắc Á và khối SNG" tvg-logo="https://i.imgur.com/w3OewHc.png",Союз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
@@ -1152,6 +1152,68 @@ http://ott-cdn.ucom.am/s73/index.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s48/index.m3u8
 
+#EXTINF:-1 tvg-id="no_epg_sport" group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="https://i.ibb.co/488srb1/Golf-News-BEARTV.png",GolfNews
+https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
+#EXTINF:-1 tvg-id="fightbox-hd" group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="https://i.imgur.com/mRsnztA.png",FightBox HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s86/04.m3u8
+#EXTINF:-1 tvg-id="football-ru" group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="https://i.imgur.com/pEuaZVx.png",Футбол
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s41/04.m3u8
+#EXTINF:-1 tvg-id="ramenskoe-tv" tvg-logo="https://i.imgur.com/CB7tFpw.png" group-title="🇷🇺| Nga - Bắc Á và khối SNG",Раменское ТВ
+https://rtv.facecast.io/rtv/0.m3u8
+
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 1
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://vips-livecdn.fptplay.net/hdevent/fsport01_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 2
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://vips-livecdn.fptplay.net/hdevent/fsport02_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 3
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://vips-livecdn.fptplay.net/hdevent/fsport03_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 4
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://vips-livecdn.fptplay.net/hdevent/fsport04_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 5
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://vips-livecdn.fptplay.net/hdevent/fsport05_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 6
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://vips-livecdn.fptplay.net/hdevent/fsport06_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 7
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://vips-livecdn.fptplay.net/hdevent/fsport07_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 8
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://vips-livecdn.fptplay.net/hdevent/fsport08_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 9
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://vips-livecdn.fptplay.net/hdevent/fsport09_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 10
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://vips-livecdn.fptplay.net/hdevent/fsport10_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 14
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://vips-livecdn.fptplay.net/fnxsport/thethao14_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 15
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://vips-livecdn.fptplay.net/fnxsport/thethao15_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 16
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://vips-livecdn.fptplay.net/fnxsport/thethao16_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 17
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://vips-livecdn.fptplay.net/fnxsport/thethao17_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 18
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://vips-livecdn.fptplay.net/fnxsport/thethao18_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 19
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://vips-livecdn.fptplay.net/fnxsport/thethao19_vhls.smil/chunklist_b5500000.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg", F Sports 20
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://vips-livecdn.fptplay.net/fnxsport/thethao20_vhls.smil/chunklist_b5500000.m3u8
 #EXTINF:-1 tvg-id="no_epg" group-title="🔴| Livestream" tvg-logo="https://fptplay.vn/images/logo-2.png",F Event 1
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/schedule/sukien01_vhls.smil/chunklist_b5000000.m3u8
@@ -1164,48 +1226,16 @@ https://livecdn.fptplay.net/schedule/sukien03_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="no_epg" group-title="🔴| Livestream" tvg-logo="https://fptplay.vn/images/logo-2.png",F Event 4
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/schedule/sukien04_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="no_epg_sport" group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/DRc2SNG/fpt-play-sport-BEARTV.png",WBC 01
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://vips-livecdn.fptplay.net/schedule/wbc01_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="no_epg_sport" group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/DRc2SNG/fpt-play-sport-BEARTV.png",WBC 02
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://vips-livecdn.fptplay.net/schedule/wbc02_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="🔴| Livestream" tvg-logo="https://i.imgur.com/vM4qb8k.png",FPT Play Pladio
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://vips-livecdn.fptplay.net/hda3/pladio_4000.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_sport" group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="https://i.ibb.co/488srb1/Golf-News-BEARTV.png",GolfNews
-https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
-#EXTINF:-1 tvg-id="fightbox-hd" group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="https://i.imgur.com/mRsnztA.png",FightBox HD
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s86/04.m3u8
-#EXTINF:-1 tvg-id="football-ru" group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="https://i.imgur.com/pEuaZVx.png",Футбол
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s41/04.m3u8
-#EXTINF:-1 tvg-id="ramenskoe-tv" tvg-logo="https://i.imgur.com/CB7tFpw.png" group-title="🇷🇺| Nga - Bắc Á và khối SNG",Раменское ТВ
-https://rtv.facecast.io/rtv/0.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_sport" group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/4NY75KS/fpt-sport.jpg",FSPORT 1
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://vips-livecdn.fptplay.net/hdevent/fsport01_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="no_epg_sport" group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/4NY75KS/fpt-sport.jpg",FSPORT 2
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://vips-livecdn.fptplay.net/hdevent/fsport02_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="no_epg_sport" group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/4NY75KS/fpt-sport.jpg",FSPORT 3
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://vips-livecdn.fptplay.net/hdevent/fsport03_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="no_epg_sport" group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/4NY75KS/fpt-sport.jpg",FSPORT 4
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://vips-livecdn.fptplay.net/hdevent/fsport04_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="no_epg_sport" group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/4NY75KS/fpt-sport.jpg",FSPORT 5
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://vips-livecdn.fptplay.net/hdevent/fsport05_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="no_epg_sport" group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/4NY75KS/fpt-sport.jpg",FSPORT 6
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://vips-livecdn.fptplay.net/hdevent/fsport06_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="no_epg_sport" group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/4NY75KS/fpt-sport.jpg",FSPORT 7
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://vips-livecdn.fptplay.net/hdevent/fsport07_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="no_epg_sport" group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/4NY75KS/fpt-sport.jpg",FSPORT 8
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://vips-livecdn.fptplay.net/hdevent/fsport08_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="no_epg_sport" group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/4NY75KS/fpt-sport.jpg",FSPORT 9
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://vips-livecdn.fptplay.net/hdevent/fsport09_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="no_epg_sport" group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/4NY75KS/fpt-sport.jpg",FSPORT 10
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://vips-livecdn.fptplay.net/hdevent/fsport10_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="no_epg_sport" group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/VHVDsmy/cconsportstv.png",ON Plus 1
 https://livevlive.vtvcab.vn/hls/OS_ONSPORT1/sc-gaFEAA/m40_index.m3u8
 #EXTINF:-1 tvg-id="no_epg_sport" group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/VHVDsmy/cconsportstv.png",ON Plus 2
@@ -1226,15 +1256,6 @@ https://livevlive.vtvcab.vn/hls/OS_ONSPORT8/sc-gaFEAA/m40_index.m3u8
 https://livevlive.vtvcab.vn/hls/OS_ONSPORT9/sc-gaFEAA/m40_index.m3u8
 #EXTINF:-1 tvg-id="no_epg_sport" group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/VHVDsmy/cconsportstv.png",ON Plus 10
 https://livevlive.vtvcab.vn/hls/OS_ONSPORT10/sc-gaFEAA/m40_index.m3u8
-#EXTINF:-1 tvg-id="no_epg_sport" group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/DRc2SNG/fpt-play-sport-BEARTV.png",WBC 01
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://vips-livecdn.fptplay.net/schedule/wbc01_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="no_epg_sport" group-title="🔴| Livestream" tvg-logo="https://i.ibb.co/DRc2SNG/fpt-play-sport-BEARTV.png",WBC 02
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://vips-livecdn.fptplay.net/schedule/wbc02_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="no_epg" group-title="🔴| Livestream" tvg-logo="https://i.imgur.com/vM4qb8k.png",FPT Play Pladio
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://vips-livecdn.fptplay.net/hda3/pladio_4000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="no_epg" group-title="📻| Radio" tvg-logo="https://i.imgur.com/mbPvLmS.png",VOV1
 https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
