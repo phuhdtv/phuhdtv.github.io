@@ -111,10 +111,10 @@ https://livevlive.vtvcab.vn/hls/OS_ONSPORTNEWSTA/sc-gaFEAA/m30_index.m3u8
 #EXTINF:-1 tvg-id="no_epg_sport" group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="https://i.imgur.com/TOftsxb.png" catchup="append" catchup-days="2" catchup-source="https://856175157.r.vtvcdn.com/ondrm/ONGOLFTA/sc-gaFEAA/m40_index.m3u8?startTime=${start}&stopTime=${end}",VTVcab 29 - ON Golf ᵉⁿᵍ
 https://livevlive.vtvcab.vn/hls/OS_ONGOLFTA/sc-gaFEAA/m30_index.m3u8
 
-#EXTINF:0 tvg-id="sctv6hd" group-title="🇻🇳| SCTV - HCA TV" tvg-logo="https://i.imgur.com/5XwO0Ql.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",SCTV6
+#EXTINF:-1 tvg-id="sctv6hd" group-title="🇻🇳| SCTV - HCA TV" tvg-logo="https://i.imgur.com/5XwO0Ql.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",SCTV6
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="sctv8hd" group-title="🇻🇳| SCTV - HCA TV" tvg-logo="https://i.imgur.com/CpKaru2.png",SCTV8
+#EXTINF:-1 tvg-id="sctv8hd" group-title="🇻🇳| SCTV - HCA TV" tvg-logo="https://i.imgur.com/CpKaru2.png",SCTV8
 http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 tvg-id="youtv" group-title="🇻🇳| SCTV - HCA TV" tvg-logo="https://i.imgur.com/vMjChPH.png",YouTV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
@@ -277,7 +277,7 @@ https://livecdn.fptplay.net/sdb/binhduong3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="binhduong4" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/s84z1mZ.png",BTV4 - Bình Dương 4 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda2/btv4hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="btv5hd" group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="https://i.imgur.com/F76DEc9.png",BTV5 - Bình Dương 5 HD
+#EXTINF:-1 tvg-id="btv5hd" group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="https://i.imgur.com/F76DEc9.png",BTV5 - Bình Dương 5 HD
 https://vtsstr4.tv24.vn/live/btv5_HD_new.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="binhduong6" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/fDZIkFv.png",BTV6 - Bình Dương 6
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
@@ -676,7 +676,7 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="nadezhda" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/pLeCUEV.png",Hope Channel HD
 https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
-#EXTINF:0 tvg-id="HistoryAsia.us" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png",History Asia HD
+#EXTINF:-1 tvg-id="HistoryAsia.us" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png",History Asia HD
 http://api.vthanhtivi.pw/v2/getlink/vtvcabon/HISTORY_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="kix" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ" tvg-logo="https://i.imgur.com/yAlxcWI.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",KIX HD Asia
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
@@ -1266,13 +1266,13 @@ https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist_w1213978008.m3u8
 https://str.vov.gov.vn/vovlive/vovgtMeKong.sdp_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="no_epg" group-title="📻| Radio" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VOV_SucKhoe.png",VOV FM 89Mhz
 http://media.kythuatvov.vn:7021/;stream/
-#EXTINF:0 tvg-id="no_epg" group-title="📻| Radio" tvg-logo="https://i.ibb.co/RTqj6Y9/voh610.png",VOH1 - 610Khz
+#EXTINF:-1 tvg-id="no_epg" group-title="📻| Radio" tvg-logo="https://i.ibb.co/RTqj6Y9/voh610.png",VOH1 - 610Khz
 https://strm.voh.com.vn/radio/channel2/playlist.m3u8
-#EXTINF:0 tvg-id="no_epg" group-title="📻| Radio" tvg-logo="https://i.ibb.co/LYGM648/r-voh87.png",VOH2 - 87.7Mhz
+#EXTINF:-1 tvg-id="no_epg" group-title="📻| Radio" tvg-logo="https://i.ibb.co/LYGM648/r-voh87.png",VOH2 - 87.7Mhz
 https://strm.voh.com.vn/radio/channel5/playlist.m3u8
-#EXTINF:0 tvg-id="no_epg" group-title="📻| Radio" tvg-logo="https://image.ibb.co/i3ZuJU/r_voh95.png",VOH3 - 95.6Mhz
+#EXTINF:-1 tvg-id="no_epg" group-title="📻| Radio" tvg-logo="https://image.ibb.co/i3ZuJU/r_voh95.png",VOH3 - 95.6Mhz
 https://strm.voh.com.vn/radio/channel1/playlist.m3u8
-#EXTINF:0 tvg-id="no_epg" group-title="📻| Radio" tvg-logo="https://image.ibb.co/eTNs59/r_voh99.png",VOH4 - 99.9Mhz
+#EXTINF:-1 tvg-id="no_epg" group-title="📻| Radio" tvg-logo="https://image.ibb.co/eTNs59/r_voh99.png",VOH4 - 99.9Mhz
 https://strm.voh.com.vn/radio/channel3/playlist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-id="no_epg" tvg-logo="https://cdn.hqth.me/logo/thumbs/251.png",Xone FM
 https://mplaylist-zmp3.zmdcdn.me/99YFw722aFg/zhls/live/855a669d5ad8b386eac9/index.m3u8
