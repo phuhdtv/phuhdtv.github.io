@@ -1,24 +1,4 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=0
-#EXTM3U url-tvg="https://iptvx.one/EPG" tvg-shift=0 m3uautoload=0
-#EXTM3U url-tvg="http://epg.it999.ru/epg.xml.gz" tvg-shift=0 m3uautoload=0
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/en/epg.i-cable.com.xml" deinterlace=0
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/th/tv.trueid.net.xml" cache=500 deinterlace=1 aspect-ratio=16:9 tvg-shift=0 m3uautoload=1
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/pt/rtp.pt.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=3
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=4
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/indihometv.com.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=5
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/ko/wavve.com.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=6
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/en/mncvision.id.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=7
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/fr/m.tv.sms.cz.xml" tvg-shift=0 m3uautoload=8
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/cs/m.tv.sms.cz.xml" tvg-shift=0 m3uautoload=9
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/en/dishtv.in.xml" tvg-shift=0 m3uautoload=10
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/en/tv.blue.ch.xml" tvg-shift=0 m3uautoload=11
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/en/mujtvprogram.cz.xml" tvg-shift=0 m3uautoload=12
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/en/starhubtvplus.com.xml" tvg-shift=0 m3uautoload=13
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/en/unifi.com.my.xml" tvg-shift=0 m3uautoload=14
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/en/tapdmv.com.xml tvg-shift=0 m3uautoload=15
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/en/nowplayer.now.com.xml tvg-shift=0 m3uautoload=16
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/en/singtel.com.xml tvg-shift=0 m3uautoload=17
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/zh/tv.cctv.com.xml tvg-shift=0 m3uautoload=18
+#EXTM3U x-tvg-url="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml,http://lichphatsong.xyz/schedule/epg.xml,http://trada.info/epg.xml,https://iptvx.one/epg/epg.xml.gz,https://iptvx.one/epg/epg_lite.xml.gz,http://epgtut.tk/epg.xml.gz,http://iptvx.one/EPG,http://epg.it999.ru/epg.xml.gz,https://iptv-org.github.io/epg/guides/en/epg.i-cable.com.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.xml,https://iptv-org.github.io/epg/guides/pt/rtp.pt.xml,https://iptv-org.github.io/epg/guides/id/mncvision.id.xml,https://iptv-org.github.io/epg/guides/id/indihometv.com.xml,https://iptv-org.github.io/epg/guides/ko/wavve.com.xml,https://iptv-org.github.io/epg/guides/en/mncvision.id.xml,https://iptv-org.github.io/epg/guides/fr/m.tv.sms.cz.xml,https://iptv-org.github.io/epg/guides/cs/m.tv.sms.cz.xml,https://iptv-org.github.io/epg/guides/es/directv.com.ar.xml,https://iptv-org.github.io/epg/guides/en/dishtv.in.xml,https://iptv-org.github.io/epg/guides/en/tv.blue.ch.xml,https://iptv-org.github.io/epg/guides/en/mujtvprogram.cz.xml,https://iptv-org.github.io/epg/guides/en/starhubtvplus.com.xml,https://iptv-org.github.io/epg/guides/en/unifi.com.my.xml,https://iptv-org.github.io/epg/guides/en/tapdmv.com.xml,https://iptv-org.github.io/epg/guides/en/nowplayer.now.com.xml,https://iptv-org.github.io/epg/guides/en/singtel.com.xml,https://iptv-org.github.io/epg/guides/zh/tv.cctv.com.xml,https://iptv-org.github.io/epg/guides/hy/tv.mail.ru.xml"
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/vZYlGIW.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV1
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
