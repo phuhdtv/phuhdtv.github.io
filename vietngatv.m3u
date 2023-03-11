@@ -534,7 +534,7 @@ http://123.25.238.45:1935/live/thtg/chunklist.m3u8
 #EXTINF:-1 tvg-id="travinh" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/IhAFIHH.png",THTV - Trà Vinh HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdc/travinh_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="no_epg" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/FVmICGp.png",THTV2 - Trà Vinh 2
+#EXTINF:-1 tvg-name="TraVinhTV" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/FVmICGp.png",THTV2 - Trà Vinh 2
 https://618b88f69e53b.streamlock.net:443/THTV2/travinhtv2/chunklist.m3u8
 #EXTINF:-1 tvg-id="tuyenquang" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/qPZeGPa.png",TTV - TUYÊN QUANG
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
@@ -1268,37 +1268,37 @@ http://code.vthanhtivi.pw/getlink/onplus/ONSPORT9/m30_index.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://1.bp.blogspot.com/-tY_KSD4Gkgk/YNwOwQ8pj1I/AAAAAAAAMZ0/HxSq5zi1IOslwdwg9KiH2E_BLj6G1tDHACNcBGAsYHQ/s0/ung-dung-on-plus-logo.png",ON Plus Live 10
 http://code.vthanhtivi.pw/getlink/onplus/ONSPORT10/m30_index.m3u8
 
-#EXTINF:-1 tvg-id="no_epg" group-title="📻| Radio" tvg-logo="https://i.imgur.com/mbPvLmS.png",VOV1
+#EXTINF:-1 tvg-name="VOV1" group-title="📻| Radio" tvg-logo="https://i.imgur.com/mbPvLmS.png",VOV1
 https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="no_epg" group-title="📻| Radio" tvg-logo="https://i.imgur.com/rS7TG49.png",VOV2
+#EXTINF:-1 tvg-name="VOV2" group-title="📻| Radio" tvg-logo="https://i.imgur.com/rS7TG49.png",VOV2
 https://str.vov.gov.vn/vovlive/vov2.sdp_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="no_epg" group-title="📻| Radio" tvg-logo="https://i.imgur.com/1ZfyuG0.png",VOV3
+#EXTINF:-1 tvg-name="VOV3" group-title="📻| Radio" tvg-logo="https://i.imgur.com/1ZfyuG0.png",VOV3
 https://str.vov.gov.vn/vovlive/vov3.sdp_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="no_epg" group-title="📻| Radio" tvg-logo="https://i.imgur.com/gU6k2dJ.png",VOV4 TÂY BẮC BỘ
+#EXTINF:-1 tvg-name="VOV4" group-title="📻| Radio" tvg-logo="https://i.imgur.com/gU6k2dJ.png",VOV4 TÂY BẮC BỘ
 http://media.kythuatvov.vn:1936/live/VOV4_TB.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-id="no_epg" group-title="📻| Radio" tvg-logo="https://i.imgur.com/gU6k2dJ.png",VOV4 TÂY NGUYÊN
+#EXTINF:-1 tvg-name="VOV4" group-title="📻| Radio" tvg-logo="https://i.imgur.com/gU6k2dJ.png",VOV4 TÂY NGUYÊN
 http://media.kythuatvov.vn:1936/live/VOV4_TN.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-id="no_epg" group-title="📻| Radio" tvg-logo="https://i.imgur.com/gU6k2dJ.png",VOV4 Cần Thơ
+#EXTINF:-1 tvg-name="VOV4" group-title="📻| Radio" tvg-logo="https://i.imgur.com/gU6k2dJ.png",VOV4 Cần Thơ
 http://media.kythuatvov.vn:1936/live/VOV4_CT.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-id="no_epg" group-title="📻| Radio" tvg-logo="https://i.imgur.com/gU6k2dJ.png",VOV4 Thành Phố Hồ Chí Minh
+#EXTINF:-1 tvg-name="VOV4" group-title="📻| Radio" tvg-logo="https://i.imgur.com/gU6k2dJ.png",VOV4 Thành Phố Hồ Chí Minh
 http://media.kythuatvov.vn:1936/live/VOV4_HCM.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-id="no_epg" group-title="📻| Radio" tvg-logo="https://phuhdtv.github.io/VOV5_Russian.png",VOV5 Russian
+#EXTINF:-1 tvg-name="VOV5" group-title="📻| Radio" tvg-logo="https://phuhdtv.github.io/VOV5_Russian.png",VOV5 Russian
 http://media.kythuatvov.vn:7029
-#EXTINF:-1 tvg-id="no_epg" group-title="📻| Radio" tvg-logo="https://i.imgur.com/OIzhtBi.png",VOV GT Hà Nội & Hà Tây Cũ
+#EXTINF:-1 tvg-name="VOV GT HN" group-title="📻| Radio" tvg-logo="https://i.imgur.com/OIzhtBi.png",VOV GT Hà Nội & Hà Tây Cũ
 https://str.vov.gov.vn/vovlive/vovGTHN.sdp_aac/chunklist_w601606653.m3u8
-#EXTINF:-1 tvg-id="no_epg" group-title="📻| Radio" tvg-logo="https://i.imgur.com/OIzhtBi.png",VOV GT Thành Phố Hồ Chí Minh
+#EXTINF:-1 tvg-name="VOV GT TP.HCM" group-title="📻| Radio" tvg-logo="https://i.imgur.com/OIzhtBi.png",VOV GT Thành Phố Hồ Chí Minh
 https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist_w1213978008.m3u8
-#EXTINF:-1 tvg-id="no_epg" group-title="📻| Radio" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VOV_Mekong.png",VOV GT MEKONG
+#EXTINF:-1 tvg-name="VOV GT TP.CT" group-title="📻| Radio" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VOV_Mekong.png",VOV GT MEKONG
 https://str.vov.gov.vn/vovlive/vovgtMeKong.sdp_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="no_epg" group-title="📻| Radio" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VOV_SucKhoe.png",VOV FM 89Mhz
+#EXTINF:-1 tvg-name="VOV FM 89" group-title="📻| Radio" tvg-logo="https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VOV_SucKhoe.png",VOV FM 89Mhz
 http://media.kythuatvov.vn:7021/;stream/
-#EXTINF:-1 tvg-id="no_epg" group-title="📻| Radio" tvg-logo="https://i.ibb.co/RTqj6Y9/voh610.png",610Khz
+#EXTINF:-1 tvg-name="VOH AM 610Khz" group-title="📻| Radio" tvg-logo="https://i.ibb.co/RTqj6Y9/voh610.png",VOH AM 610Khz
 https://strm.voh.com.vn/radio/channel2/playlist.m3u8
-#EXTINF:-1 tvg-id="no_epg" group-title="📻| Radio" tvg-logo="https://i.ibb.co/LYGM648/r-voh87.png",87.7Mhz
+#EXTINF:-1 tvg-name="VOH FM 87.7Mhz" group-title="📻| Radio" tvg-logo="https://i.ibb.co/LYGM648/r-voh87.png",VOH FM 87.7Mhz
 https://strm.voh.com.vn/radio/channel5/playlist.m3u8
-#EXTINF:-1 tvg-id="no_epg" group-title="📻| Radio" tvg-logo="https://image.ibb.co/i3ZuJU/r_voh95.png",95.6Mhz
+#EXTINF:-1 tvg-name="VOH FM 95.6Mhz" group-title="📻| Radio" tvg-logo="https://image.ibb.co/i3ZuJU/r_voh95.png",VOH FM 95.6Mhz
 https://strm.voh.com.vn/radio/channel1/playlist.m3u8
-#EXTINF:-1 tvg-id="no_epg" group-title="📻| Radio" tvg-logo="https://image.ibb.co/eTNs59/r_voh99.png",99.9Mhz
+#EXTINF:-1 tvg-name="VOH FM 99.9Mhz" group-title="📻| Radio" tvg-logo="https://image.ibb.co/eTNs59/r_voh99.png",VOH FM 99.9Mhz
 https://strm.voh.com.vn/radio/channel3/playlist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-id="no_epg" tvg-logo="https://cdn.hqth.me/logo/thumbs/251.png",Xone FM
 https://mplaylist-zmp3.zmdcdn.me/99YFw722aFg/zhls/live/855a669d5ad8b386eac9/index.m3u8
