@@ -127,16 +127,16 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv14_s2/index.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="vtc1hd" group-title="🇻🇳| VTC Digital - VOV" tvg-logo="https://i.imgur.com/g6rH1cs.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC1 HD
+#EXTINF:-1 tvg-id="vtc1hd" group-title="🇻🇳| VTC Digital - VOV" tvg-logo="https://i.imgur.com/g6rH1cs.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC1 HD (VTC HD1)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtc2" group-title="🇻🇳| VTC Digital - VOV" tvg-logo="https://i.imgur.com/PA12mGb.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc2_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC2
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc3hd" group-title="🇻🇳| VTC Digital - VOV" tvg-logo="https://i.imgur.com/iJ0haYq.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc3_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC3 HD
+#EXTINF:-1 tvg-id="vtc3hd" group-title="🇻🇳| VTC Digital - VOV" tvg-logo="https://i.imgur.com/iJ0haYq.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc3_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC3 HD (VTC HD Thể Thao)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtc4hd" group-title="🇻🇳| VTC Digital - VOV" tvg-logo="https://i.imgur.com/S4DYcF4.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc4_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC4 HD
+#EXTINF:-1 tvg-id="vtc4hd" group-title="🇻🇳| VTC Digital - VOV" tvg-logo="https://i.imgur.com/S4DYcF4.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc4_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC4 HD (VTC HD3)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda2/vtc4_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtc5hd" group-title="🇻🇳| VTC Digital - VOV" tvg-logo="https://i.imgur.com/HXkZtdX.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc5_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC5
@@ -678,7 +678,7 @@ https://livecdn.fptplay.net/sdb/france24_hls.smil/chunklist_b2500000.m3u8
 https://cocphil.akamaized.net/hls/live/2042846/inctv/playlist.m3u8
 #EXTINF:-1 tvg-id="HKSTV.hk" tvg-logo="https://i.imgur.com/UhwlxwL.png" group-title="🌏| Quốc tế",HKS TV
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 tvg-id="HBOAsia.sg" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC" tvg-logo="https://i.imgur.com/qPXF25a.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",HBO HD Asia
+#EXTINF:-1 tvg-id="HBOAsia.sg" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC" tvg-logo="https://i.imgur.com/qPXF25a.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",HBO Vietnam (VTC HD2)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="nadezhda" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/pLeCUEV.png",Hope Channel HD
@@ -1019,7 +1019,7 @@ http://ott-cdn.ucom.am/s90/04.m3u8
 http://ott-cdn.ucom.am/s99/04.m3u8
 #EXTINF:-1 tvg-id="moskovsky-obrazovatelny" tvg-logo="https://i.imgur.com/iHhlkDT.png" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG",Московский образовательный
 http://retc.educom.ru/mosobrtv/tv1/index.m3u8
-#EXTINF:-1 tvg-id="viasat-history" tvg-logo="https://i.imgur.com/wRP9XA7.png" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG",Viasat History
+#EXTINF:-1 tvg-id="viasat-history" tvg-logo="https://i.imgur.com/wRP9XA7.png" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG",VTC HD5
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s23/index.m3u8
 
