@@ -28,6 +28,7 @@ https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/xiuHjEQ.png",VTV5 Tây Nam Bộ
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://vips-livecdn.fptplay.net/hda3/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/Hlcnqqt.png",VTV5 Tây Nguyên
 https://nvzoftzsvflivcf.vcdn.com.vn/vtv5tn/vtv5tn@high.m3u8
@@ -113,11 +114,17 @@ http://code.vthanhtivi.pw/getlink/onplus/ONVFFTV/m30_index.m3u8
 #EXTINF:-1 tvg-id="" group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="https://stvinaprod.vtvcab.vn/720X405/72ac05ac-1ac3-4570-bb0b-ee698b251f0a.jpg",VTC HD VIP2 - Thể thao Việt
 http://code.vthanhtivi.pw/getlink/onplus/ONVOLLEYBALL/m30_index.m3u8
 
+#EXTINF:-1 tvg-id="sctv4hd" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ" tvg-logo="https://i.imgur.com/1RDaToZ.png",SCTV4 HD - Let's Viet
+#EXTVLCOPT:http-user-agent="KIIP"
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v1/e1.endpoint.cdn.sctvonline.vn/channel/sctv4.m3u8?kiptv|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv6hd" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC" tvg-logo="https://i.imgur.com/5XwO0Ql.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",SCTV6
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="sctv8hd" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ" tvg-logo="https://i.imgur.com/CpKaru2.png",SCTV8
 http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 tvg-id="SCTV20hd" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://i.imgur.com/7HSJzLg.png",SCTV20 HD - iTV
+#EXTVLCOPT:http-user-agent="KIIP"
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv20/index.m3u8?kiptv|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="youtv" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ" tvg-logo="https://i.imgur.com/vMjChPH.png",YouTV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
@@ -167,9 +174,6 @@ https://livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtc16" group-title="🇻🇳| VTC Digital - VOV" tvg-logo="https://i.imgur.com/jHJ0Qnp.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc16_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC16 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="no_epg" group-title="🇻🇳-🇷🇺| Quảng Cáo" tvg-logo="https://i.imgur.com/3bKWKPm.png",Quê Hương Homeshopping
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://livecdn.fptplay.net/sdb/quehuongshop_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vovtvhd" group-title="🇻🇳| VTC Digital - VOV" tvg-logo="https://i.imgur.com/QjJ0Ic4.png",VOV TV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
@@ -242,10 +246,10 @@ https://vips-livecdn.fptplay.net/hda3/htvcplus_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htvccanhachd" group-title="🇻🇳| HTV - HTVC" tvg-logo="https://i.imgur.com/PgOD7m8.png",HTVC CA NHẠC
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda3/htvcmusic_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="no_epg" group-title="🇻🇳-🇷🇺| Quảng Cáo" tvg-logo="https://imgur.com/byOpteB.png",HTVC Home Shopping - VGS SHOP
+#EXTINF:-1 tvg-id="no_epg" group-title="🇻🇳-🇷🇺| Quảng Cáo" tvg-logo="https://imgur.com/byOpteB.png",HTVC Home Shopping - GS SHOP
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdb/htvcshopping_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="no_epg" group-title="🇻🇳-🇷🇺| Quảng Cáo" tvg-logo="https://imgur.com/byOpteB.png",HTVC Home Shopping - VGS SHOP HD
+#EXTINF:-1 tvg-id="no_epg" group-title="🇻🇳-🇷🇺| Quảng Cáo" tvg-logo="https://imgur.com/byOpteB.png",HTVC Home Shopping - GS SHOP HD
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESHOPPING-SD-720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/q3fjpYc.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vinhlong1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",THVL1 HD - Vĩnh Long 1
@@ -718,12 +722,6 @@ http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u
 https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RaiItaliaAsia.it" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/Vg4MUGQ.png",Rai Italia Asia
 http://210.210.155.37/x6bnqe/s/s63/index2.m3u8
-#EXTINF:-1 tvg-id="ROCKEntertainment.sg" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ" tvg-logo="https://i.imgur.com/rDncFFu.png",Rock Entertainment HD
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="RockExtreme.sg" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ" tvg-logo="https://i.imgur.com/EP0H6HS.png",Rock Action HD
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="RTPiAsia.pt" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/H4NjQUJ.png",RTPi Asia
 http://210.210.155.37/qwr9ew/s/s38/index.m3u8
 #EXTINF:-1 tvg-id="russia-today" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/3E4KGqG.png",RT - Russia Today
@@ -820,6 +818,8 @@ http://ott-cdn.ucom.am/s52/04.m3u8
 #EXTINF:-1 tvg-id="domashny-int" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/nf7GRXb.png",Домашний International
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s88/04.m3u8
+#EXTINF:-1 tvg-id="tv3-int" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/MAVIP8e.png",ТВ3 International
+http://bl.uma.media/live/407373/HLS/6307840_7/2/1/playlist.m3u8
 #EXTINF:-1 tvg-id="piatnica-int" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/N2z3EZC.png",Пятница International
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s50/index.m3u8
@@ -833,12 +833,6 @@ http://ott-cdn.ucom.am/s19/04.m3u8
 #EXTINF:-1 tvg-id="muztv" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/BtqrHmz.png",МУЗ ТВ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s28/04.m3u8
-#EXTINF:-1 tvg-id="sts-love-pl2" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/MfNHR0L.png",СТС Love
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.is_realtime_stream=true
-http://mfe.cliptv.az/dash/STS_Love_SD.ism/playlist.mpd?checkedby:iptvcat.net
 #EXTINF:-1 tvg-id="2na2" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/fhQFLEl.png",2x2
 http://bl.uma.media/live/317805/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yce0NJB.png" group-title="Tây Á",Hadi TV Azeri and Russian
@@ -877,6 +871,8 @@ http://tvcom.stream.intelema.ru/tvcom/studio/playlist.m3u8
 http://air.tvk6.ru/tvk24/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="TVExtra.ru" tvg-logo="https://i.imgur.com/GHUJeZH.png" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿",ТВ Экстра
 http://live-1.otcnet.ru/tvextra720b/index.m3u8
+#EXTINF:-1 tvg-id="tivikom" tvg-logo="https://i.imgur.com/qcJ4EBl.png" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿",Тивиком
+http://tvcom.stream.intelema.ru/tvcom/studio/playlist.m3u8
 #EXTINF:-1 tvg-id="yugra" tvg-logo="https://i.imgur.com/UpDPAEq.png" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿",Югра
 http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="tamyr" tvg-logo="https://i.imgur.com/Ia3acCB.png" group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình",Тамыр
