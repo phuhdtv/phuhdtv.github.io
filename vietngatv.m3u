@@ -686,6 +686,9 @@ https://tv.nknews.org/tvdash/stream.mpd
 #EXTINF:-1 tvg-id="kbsworld" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/zPSO1up.png",KBS World
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="kbsworld" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/zPSO1up.png",KBS World HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://wms4-kortv.akamaized.net/a_live/63719963/20ch011.smil/.m3u8
 #EXTINF:-1 tvg-id="mcm-top" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://i.imgur.com/n2trOy5.png",MCM TOP
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s49/index.m3u8
@@ -715,12 +718,6 @@ http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u
 https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RaiItaliaAsia.it" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/Vg4MUGQ.png",Rai Italia Asia
 http://210.210.155.37/x6bnqe/s/s63/index2.m3u8
-#EXTINF:-1 tvg-id="ROCKEntertainment.sg" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ" tvg-logo="https://i.imgur.com/rDncFFu.png",Rock Entertainment HD
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="RockExtreme.sg" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ" tvg-logo="https://i.imgur.com/EP0H6HS.png",Rock Action HD
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="RTPiAsia.pt" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/H4NjQUJ.png",RTPi Asia
 http://210.210.155.37/qwr9ew/s/s38/index.m3u8
 #EXTINF:-1 tvg-id="russia-today" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/3E4KGqG.png",RT - Russia Today
@@ -795,6 +792,8 @@ http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u
 #EXTINF:-1 tvg-id="ntv-mir" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/pUcV46F.png",НТВ МИР
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s17/04.m3u8
+#EXTINF:-1 tvg-id="piaty-int" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/qswopzO.png",Петербург 5 канал
+http://31.40.149.157:9981/stream/channelid/43410647?ticket=21981437B20706EC2E768B743BE0354360DE2885&profile=pass
 #EXTINF:-1 tvg-id="kultura" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/Qebn4Ud.png",Россия К
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist_3.m3u8
 #EXTINF:-1 tvg-id="rossia-24" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/C1JktKX.png",Россия 24
