@@ -121,9 +121,6 @@ https://vtsstr4.tv24.vn/live/SCTV_HD_GiaiTri_new.smil/playlist.m3u8
 http://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="sctv8hd" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ" tvg-logo="https://i.imgur.com/CpKaru2.png",SCTV8
 http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
-#EXTINF:0 tvg-id="sctv20hd" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://i.imgur.com/7HSJzLg.png",iTV - SCTV20
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv20/index.m3u8
 #EXTINF:-1 tvg-id="youtv" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ" tvg-logo="https://i.imgur.com/vMjChPH.png",YouTV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
@@ -697,6 +694,8 @@ https://wms4-kortv.akamaized.net/a_live/63719963/20ch011.smil/.m3u8
 http://ott-cdn.ucom.am/s49/index.m3u8
 #EXTINF:-1 tvg-id="MongolynMedee.mn" tvg-logo="https://i.imgur.com/CQ62jLD.png" group-title="🌏| Quốc tế",Монголын Мэдээ (MNB)
 https://live.mnb.mn/live/mn2.stream/playlist.m3u8
+#EXTINF:0 tvg-id="musicbox" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://i.imgur.com/2UBIyT5.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/69/hd/dvr-${start}-${end}.m3u8", Music Box
+https://code.vthanhtivi.pw/getlink/mytv/69/hd.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/DNuFsVE.png",NHK WORLD HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
