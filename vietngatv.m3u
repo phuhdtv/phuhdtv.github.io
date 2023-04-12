@@ -722,8 +722,7 @@ https://hls.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 tvg-id="SupremeMasterTV.tw" tvg-logo="https://i.imgur.com/CiFGi8J.png" group-title="🌏| Quốc tế",Supreme Master TV
 https://lbs-us1.suprememastertv.com/1080p.m3u8
 #EXTINF:-1 tvg-id="TV5MondeAsia.fr" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/1cVjCTw.png",TV5 Monde Asie HD
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://103.56.156.30:8081/udp/225.1.1.200:30120
+https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 #EXTINF:-1 tvg-id="TLCSoutheastAsia.sg" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://i.imgur.com/LnGzp8D.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",TLC HD - Travel Living Channel HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://103.56.156.30:8081/udp/225.1.1.236:30120
@@ -775,19 +774,21 @@ https://vtsstr7.tv24.vn/live/smil:Planet_Earth.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="woman" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/ePYXLBQ.png",Woman
 https://vtsstr7.tv24.vn/live/smil:Woman.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="pervy-kanal-csi" group-title="Tây Á" tvg-logo="https://i.imgur.com/RUSX0rX.png",Первый канал Азия
+#EXTINF:-1 tvg-id="pervy-kanal-csi" group-title="Tây Á" tvg-logo="https://i.imgur.com/RUSX0rX.png",Первый канал Передняя Азия
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s14/04.m3u8
-#EXTINF:-1 tvg-id="pervy-kanal-eu" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/RUSX0rX.png",Первый канал EU
+#EXTINF:-1 tvg-id="pervy-kanal-eu" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/RUSX0rX.png",Первый канал Европа
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://31.40.149.157:9981/stream/channelid/1831918559?ticket=FD565E2D321270685F8AE707D4C9836D2A613D0E&profile=pass
 #EXTINF:-1 tvg-id="rtr-planeta-arm" group-title="Tây Á" tvg-logo="https://i.imgur.com/yOnSc4O.png",РТР-Планета Армения
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s15/index.m3u8
-#EXTINF:-1 tvg-id="rtr-planeta-eu" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://imgur.com/yOnSc4O.png",РТР Планета
+#EXTINF:-1 tvg-id="rtr-planeta-eu" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/yOnSc4O.png",РТР Планета
 http://31.40.149.157:9981/stream/channelid/444755065?ticket=6116BD5C8F782B3815020D969E571A8D2ABBDA65&profile=pass
-#EXTINF:-1 tvg-id="ntv-mir" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/pUcV46F.png",НТВ МИР
+#EXTINF:-1 tvg-id="ntv-mir" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/pUcV46F.png",НТВ МИР (480p)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s17/04.m3u8
+#EXTINF:-1 tvg-id="ntv-mir" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/pUcV46F.png",НТВ МИР (576p)
 http://31.40.149.157:9981/stream/channelid/199206041?ticket=2A1B70FE151C3791A3CD3F317667E01CC4316EC2&profile=pass
 #EXTINF:-1 tvg-id="piaty-int" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/qswopzO.png",Петербург 5 канал
 http://31.40.149.157:9981/stream/channelid/43410647?ticket=21981437B20706EC2E768B743BE0354360DE2885&profile=pass
@@ -799,11 +800,15 @@ http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 https://sc.id-tv.kz:443/Karusel_36_37.m3u8
 #EXTINF:-1 tvg-id="otr" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/VaWlnjZ.png",ОТР
 http://31.40.149.157:9981/stream/channelid/1863755455?ticket=4C2095492F56896A06005C8EDA9740EF74D75B8A&profile=pass
-#EXTINF:-1 tvg-id="tvci" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВ Центр Международный
+#EXTINF:-1 tvg-id="tvci" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВ Центр Международный (480p)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s54/04.m3u8
+#EXTINF:-1 tvg-id="tvci" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВ Центр Международный (576p)
 http://31.40.149.157:9981/stream/channelid/79349906?ticket=FBCFB23A327EA9DD08D7C9089B9628840A813594&profile=pass
-#EXTINF:-1 tvg-id="rentv-int" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/uxK7dGH.png",REN-TV
+#EXTINF:-1 tvg-id="rentv-int" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/uxK7dGH.png",REN-TV (480p)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s85/04.m3u8
+#EXTINF:-1 tvg-id="rentv-int" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/uxK7dGH.png",REN-TV (576p)
 http://31.40.149.157:9981/stream/channelid/2090004621?ticket=AEFBE635C81264314DFEDDF7B185A063F6FDC9BE&profile=pass
 #EXTINF:-1 tvg-id="spas" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/JBDdOqq.jpg",СПАС ТВ
 http://spas.mediacdn.ru/cdn/spas/playlist.m3u8
