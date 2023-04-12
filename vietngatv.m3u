@@ -802,9 +802,11 @@ http://ott-cdn.ucom.am/s85/04.m3u8
 http://31.40.149.157:9981/stream/channelid/2090004621?ticket=AEFBE635C81264314DFEDDF7B185A063F6FDC9BE&profile=pass
 #EXTINF:-1 tvg-id="spas" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/JBDdOqq.jpg",СПАС ТВ
 http://spas.mediacdn.ru/cdn/spas/playlist.m3u8
-#EXTINF:-1 tvg-id="sts-int" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/F6j6xWc.jpg",СТС International
+#EXTINF:-1 tvg-id="sts-int" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/F6j6xWc.jpg",СТС International (480p)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s52/04.m3u8
+#EXTINF:-1 tvg-id="sts-int" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/F6j6xWc.jpg",СТС International (576p)
+http://31.40.149.157:9981/stream/channelid/634313242?ticket=76784AD9C7EB29EB493327004EBA3DC2BDBD99DF&profile=pass
 #EXTINF:-1 tvg-id="domashny-int" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/nf7GRXb.png",Domashniy International (480p)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s88/04.m3u8
@@ -998,8 +1000,6 @@ http://ott-cdn.ucom.am/s20/04.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s77/04.m3u8
 
-#EXTINF:-1 tvg-id="globalstar" tvg-id="GlobalStarTV.ru" tvg-logo="https://i.imgur.com/UPtq6Ft.png" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿",Global Star TV
-http://stream2.hardlife.tv:8134/hls-live/hlsGS/_definst_/liveevent/gs.m3u8
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.imgur.com/rsYbFE8.png" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿",Каббала ТВ
 http://edge3.uk.kab.tv/live/tv66-rus-high/chunks.m3u8
 #EXTINF:-1 tvg-id="tbn-ru" tvg-logo="https://i.imgur.com/QUk38hq.png" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿",ТБН
