@@ -478,7 +478,7 @@ https://ancom.ga/fpt/axn/bitrate_5000.m3u8
 https://ancom.ga/fpt/australia-plus/bitrate_5000.m3u8
 #EXTINF:-1 tvg-id="AsianFoodNetwork.sg" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ" tvg-logo="https://i.imgur.com/tNnqNSz.png",Asian Food Network - AFN
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://ancom.ga/fpt/asian-food-channel/bitrate_5000.m3u8
+https://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="AniplusAsia.sg" group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình" tvg-logo="https://i.imgur.com/Im3MePy.png",Aniplus Asia
 http://210.210.155.37/dr9445/h/h02/index.m3u8
 #EXTINF:-1 tvg-id="arirang" group-title="ĐÔNG Á TV" tvg-logo="https://i.imgur.com/5Aoithj.png",ARIRANG World
@@ -583,8 +583,8 @@ http://ott-cdn.ucom.am/s30/index.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://ancom.ga/fpt/fashion-tv/bitrate_5000.m3u8
 #EXTINF:-1 tvg-id="france24eng" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/zdze6Iq.png",FRANCE 24 English
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://91.224.190.66:4285/bysid/55310
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/getlink/vieon/france-24-english-hd/playlist.m3u8
 #EXTINF:-1 tvg-id="INCTV.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/INCTV_Logo_With_Shadow.webp" group-title="ĐÔNG NAM Á TV",INC TV
 https://cocphil.akamaized.net/hls/live/2042846/inctv/playlist.m3u8
 #EXTINF:-1 tvg-id="HKSTV.hk" tvg-logo="https://i.imgur.com/UhwlxwL.png" group-title="ĐÔNG Á TV",HKS TV
@@ -613,15 +613,12 @@ http://ott-cdn.ucom.am/s49/index.m3u8
 https://live.mnb.mn/live/mn2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" group-title="ĐÔNG Á TV" tvg-logo="https://i.imgur.com/DNuFsVE.png",NHK WORLD HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+https://vips-livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="NHKWorldPremium.jp" group-title="ĐÔNG Á TV" tvg-logo="https://i.imgur.com/4ESi2La.png",NHK World Premium
 https://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index_1M.m3u8
 #EXTINF:-1 tvg-id="ngchd" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://i.imgur.com/O13uMvJ.png",NGC - National Geographic
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://ancom.ga/fpt/national-geographic-hd/bitrate_5000.m3u8
-#EXTINF:-1 tvg-id="ngwhd" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://i.imgur.com/AMyifk1.png",NGW - National Geographic Wild
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://103.56.156.30:8081/udp/225.1.1.211:30120
 #EXTINF:-1 tvg-id="NBT2HD.th" tvg-logo="https://i.imgur.com/50EIb6z.png" group-title="ĐÔNG NAM Á TV",NBT2 HD
 http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist_w1095195643.m3u8
 #EXTINF:-1 tvg-id="NDTV24x7.in" tvg-logo="https://i.imgur.com/4i15HFL.png" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH",NDTV
@@ -647,7 +644,8 @@ https://hls.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 tvg-id="SupremeMasterTV.tw" tvg-logo="https://i.imgur.com/CiFGi8J.png" group-title="🌏| Quốc tế",Supreme Master TV
 https://lbs-us1.suprememastertv.com/1080p.m3u8
 #EXTINF:-1 tvg-id="TV5MondeAsia.fr" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/1cVjCTw.png",TV5 Monde Asie HD
-https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="TLCSoutheastAsia.sg" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://i.imgur.com/LnGzp8D.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",TLC HD - Travel Living Channel HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://ancom.ga/fpt/travel-living/bitrate_5000.m3u8
