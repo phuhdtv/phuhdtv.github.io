@@ -685,24 +685,16 @@ http://live-3.otcnet.ru/wfcint/index.m3u8
 #EXTINF:0 group-title="ĐÔNG Á TV" tvg-logo="https://i.imgur.com/5gQn4uY.png",Zhejiang Satellite TV
 http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 
-#EXTINF:-1 group-title="ĐÔNG NAM Á TV" tvg-logo="https://i.imgur.com/P8oOR8I.png",Hangmeas TV
+#EXTINF:-1 group-title="ĐÔNG NAM Á TV" tvg-logo="https://i.imgur.com/P8oOR8I.png",Hang meas TV
 http://167.99.72.244:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/chunklist_w998573077_b1800000_sleng.m3u8
 #EXTINF:-1 group-title="ĐÔNG NAM Á TV" tvg-logo="https://i.imgur.com/EcqEMMg.png",Rasmey Hang Meas HDTV
 http://167.99.72.244:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/chunklist_w58865286_b1800000_sleng.m3u8
 #EXTINF:0 group-title="ĐÔNG NAM Á TV" tvg-logo="https://i.imgur.com/IJh6SHb.png",NBT 2 HD
 http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist_w1095195643.m3u8
-#EXTINF:0 group-title="ĐÔNG NAM Á TV" tvg-logo="https://i.imgur.com/wSyPmiY.png",RTM TV1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8?id=1
 #EXTINF:0 group-title="ĐÔNG NAM Á TV" tvg-logo="https://i.imgur.com/LGEdeyJ.png",RTM TV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=2
-#EXTINF:0 group-title="ĐÔNG NAM Á TV" tvg-logo="https://i.imgur.com/bK8UH9D.png",RTM TV6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8?id=6
 #EXTINF:0 group-title="ĐÔNG NAM Á TV" tvg-logo="https://i.imgur.com/V2jREQ5.png",TV OKEY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
@@ -711,10 +703,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8?id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b4596000_slENG.m3u8?id=4
-#EXTINF:0 group-title="ĐÔNG NAM Á TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Sukan_RTM_1_April.png",SUKAN RTM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8?id=5
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/leWw1zz.png",Box Movie 1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -998,72 +986,6 @@ http://milliy.tv/hls/index.m3u8
 
 #EXTINF:-1 tvg-id="Armenia1.am" group-title="Tây Á" tvg-logo="https://i.imgur.com/aFy3soi.png",Առաջին Ալիք HD
 https://amtv1.livestreamingcdn.com/am2abr/index.m3u8
-#EXTINF:-1 tvg-id="H2.am" group-title="Tây Á" tvg-logo="https://i.imgur.com/fMOopjK.png",Հ2
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s2/index.m3u8
-#EXTINF:-1 tvg-id="ShantTV.am" group-title="Tây Á" tvg-logo="https://i.imgur.com/tUQ8vQT.png",Շանթ
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s3/index.m3u8
-#EXTINF:-1 tvg-id="ArmeniaTV.am" group-title="Tây Á" tvg-logo="https://i.imgur.com/EqkF0O8.jpg",Արմենիա
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s4/index.m3u8
-#EXTINF:-1 tvg-id="KentronTV.am" group-title="Tây Á" tvg-logo="https://i.imgur.com/SrHncfk.png",Կենտրոն
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s5/index.m3u8
-#EXTINF:-1 tvg-id="5TVArmenia.am" group-title="Tây Á" tvg-logo="https://i.imgur.com/TejnGpV.jpg",5-րդ ալիք
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s6/index.m3u8
-#EXTINF:-1 tvg-id="YerkirMediaTV.am" group-title="Tây Á" tvg-logo="https://i.imgur.com/FKpxkVH.png",Երկիր Մեդիա
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s7/index.m3u8
-#EXTINF:-1 tvg-id="atv-armenia" group-title="Tây Á" tvg-logo="https://i.imgur.com/A3bmTWO.png",ATV Armenia
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s8/index.m3u8
-#EXTINF:-1 tvg-id="21TV.am" group-title="Tây Á" tvg-logo="https://i.imgur.com/NV6ZeW9.png",Դար 21
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s10/index.m3u8
-#EXTINF:-1 tvg-id="ArmNews.am" group-title="Tây Á" tvg-logo="https://i.imgur.com/0vrFGY5.png",Արմնյուզ
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s11/index.m3u8
-#EXTINF:-1 tvg-id="NorHayastanTV.am" group-title="Tây Á" tvg-logo="https://i.imgur.com/EmOsMTC.png",Նոր Հայաստան
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s12/index.m3u8
-#EXTINF:-1 tvg-id="ShoghakatTV.am" group-title="Tây Á" tvg-logo="https://i.imgur.com/e4VxCnn.png",Շողակաթ
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s13/index.m3u8
-#EXTINF:-1 tvg-id="ArmeniaPremium.am" group-title="Tây Á" tvg-logo="https://i.imgur.com/IxOFvqz.png",Armenia Premium
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s83/index.m3u8
-#EXTINF:-1 tvg-id="ArmeniaHayKino.am" group-title="Tây Á" tvg-logo="https://i.imgur.com/XwbLfqd.png",Հայ Կինո
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s22/index.m3u8
-#EXTINF:-1 tvg-id="ArmeniaJanTV.am" group-title="Tây Á" tvg-logo="https://i.imgur.com/AhX46e5.png",Ջան TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s42/index.m3u8
-#EXTINF:-1 tvg-id="ArmeniaKomedi.am" group-title="Tây Á" tvg-logo="https://i.imgur.com/pvF7dGN.png",Քոմեդի
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s32/index.m3u8
-#EXTINF:-1 tvg-id="ArmeniaTownTownik.am" group-title="Tây Á" tvg-logo="https://i.imgur.com/XjhkUXy.png",Տուն Թունիկ
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s46/index.m3u8
-#EXTINF:-1 tvg-id="ArmeniaSinemaks.am" group-title="Tây Á" tvg-logo="https://i.imgur.com/fRfGuQg.png",Սինեմաքս
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s66/index.m3u8
-#EXTINF:-1 tvg-id="ATVTavaTV.am" group-title="Tây Á" tvg-logo="https://i.imgur.com/cndJCRU.png",Թավա TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s53/index.m3u8
-#EXTINF:-1 tvg-id="ATVKhaghaliqTV.am" group-title="Tây Á" tvg-logo="https://i.imgur.com/mrfm9uY.png",ԽաղԱլիք TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s74/index.m3u8
-#EXTINF:-1 tvg-id="ATVKinoman.am" group-title="Tây Á" tvg-logo="https://i.imgur.com/lidNHkH.png",Կինոման TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s94/index.m3u8
-#EXTINF:-1 tvg-id="ATVHayTV.am" group-title="Tây Á" tvg-logo="https://i.imgur.com/KCkzU5R.png",Հայ TV 
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s73/index.m3u8
-#EXTINF:-1 tvg-id="ATVFilmzone.am" group-title="Tây Á" tvg-logo="https://i.imgur.com/uWBrDpV.png",Ֆիլմզոն
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s48/index.m3u8
 
 #EXTINF:-1 tvg-id="fightbox-hd" group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="https://i.imgur.com/mRsnztA.png",FightBox HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
