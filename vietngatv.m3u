@@ -30,7 +30,7 @@ https://livecdn.fptplay.net/hda1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/xiuHjEQ.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv5tnb_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV5 Tây Nam Bộ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://vips-livecdn.fptplay.net/hda3/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtn" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/Hlcnqqt.png",VTV5 Tây Nguyên
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/Hlcnqqt.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv5taynguyen_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV5 Tây Nguyên
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://vips-livecdn.fptplay.net/hda3/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| Quảng Cáo" tvg-logo="https://i.imgur.com/ms11bjD.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtvhyundai_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTVCab13 - VTV Huyndai Homeshopping
@@ -721,7 +721,6 @@ http://livehlsvgtrkrf.cdnvideo.ru/hls/planeta_rtr_asia/playlist_3.m3u8
 #EXTINF:-1 tvg-id="ntv-mir" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/pUcV46F.png",НТВ МИР
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s17/04.m3u8
-
 
 #EXTINF:-1 tvg-id="5kanal-ru" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/qswopzO.png",Петербург 5 канал
 http://31.40.149.157:9981/stream/channelid/1338962850?ticket=57B15F09C1776D626E81774FC67FAEEECE2027BB&profile=pass
