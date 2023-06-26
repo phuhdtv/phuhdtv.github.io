@@ -303,6 +303,8 @@ http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 http://210.210.155.37/dr9445/h/h02/index.m3u8
 #EXTINF:-1 tvg-id="arirang" group-title="ĐÔNG & NAM Á" tvg-logo="https://i.imgur.com/5Aoithj.png",ARIRANG World
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+#EXTINF:-1 tvg-id="bloomberg" group-title="KÊNH 4K" tvg-logo="https://i.imgur.com/idRFfhY.png",Bloomberg 4K
+https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/index.m3u8
 #EXTINF:-1 tvg-id="BTVWorld.bd" tvg-logo="https://i.imgur.com/sSnrg7o.png" group-title="ĐÔNG & NAM Á",BTV World
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC" tvg-logo="https://i.imgur.com/pjnAxys.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",Cinemax Asia HD
@@ -354,7 +356,7 @@ https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="fashion-tv" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://i.imgur.com/Zryq8k6.png",Fashion TV Asia
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://ott-cdn.ucom.am/s30/index.m3u8
-#EXTINF:-1 tvg-id="fashionhd" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://i.imgur.com/Zryq8k6.png",Fashion TV UHD
+#EXTINF:-1 tvg-id="fashionhd" group-title="KÊNH 4K" tvg-logo="https://i.imgur.com/Zryq8k6.png",Fashion TV UHD
 http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="france24eng" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/zdze6Iq.png",FRANCE 24 English
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -910,8 +912,10 @@ http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
 http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
 #EXTINF:-1 group-title="📻| Radio" tvg-id="radio-rossii" tvg-logo="https://imgur.com/GcIK43W.png",Радио России
 http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_128kbps
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/9YmM8Ar.png",Radio Sputnik International
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/9YmM8Ar.png",Radio Sputnik International (ENG)
 http://icecast-rian.cdnvideo.ru/voiceenghi
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/9YmM8Ar.png",Radio Sputnik International (RUS)
+http://icecast-rian.cdnvideo.ru/voicerushi
 #EXTINF:-1 tvg-id="retro-fm" group-title="📻| Radio" tvg-id="retro-fm" tvg-logo="https://www.lyngsat.com/logo/radio/rr/retro_fm_ru.png",Ретро FM (Красноярск)
 http://air.tvk6.ru/retro256/tracks-a1/mono.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-id="europa-plus-radio" tvg-logo="https://i.imgur.com/GLc4qrc.png",Европа Плюс
