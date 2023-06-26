@@ -297,19 +297,31 @@ http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="yenbai" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/WKneY2w.png",YTV - YÊN BÁI
 https://yenbaitv.org.vn/hls/livestream.m3u8
 
+#EXTINF:-1 tvg-id="afnhd" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/tNnqNSz.png",Asian Food Network
+https://code.vthanhtivi.pw/getlink/mytv/298/hd.m3u8
+#EXTINF:-1 tvg-id="axnhd" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ" tvg-logo="https://i.imgur.com/xOfuwnt.png",AXN Asia
+http://sg.tinchuanchuaanh.com:8080/AXN_HD/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" group-title="Tây Á" tvg-logo="https://i.imgur.com/dQrdh2F.png",Aljazeera International HD
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-id="AniplusAsia.sg" group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình" tvg-logo="https://i.imgur.com/Im3MePy.png",Aniplus Asia
-http://210.210.155.37/dr9445/h/h02/index.m3u8
+#EXTINF:-1 tvg-id="animaxhd" group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình" tvg-logo="https://i.imgur.com/dXLrJBR.png",Animax Asia
+http://sg.tinchuanchuaanh.com:8080/ANIMAX_HD/index.m3u8
+#EXTINF:-1 tvg-id="animalhd" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://i.imgur.com/AApqW63.jpg",Animal Planet SEA
+http://sg.tinchuanchuaanh.com:8080/ANIMAL_PLANET_HD/index.m3u8
 #EXTINF:-1 tvg-id="arirang" group-title="ĐÔNG & NAM Á" tvg-logo="https://i.imgur.com/5Aoithj.png",ARIRANG World
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-#EXTINF:-1 tvg-id="bloomberg" group-title="KÊNH 4K" tvg-logo="https://i.imgur.com/idRFfhY.png",Bloomberg 4K
-https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/index.m3u8
+#EXTINF:-1 tvg-id="bloomberg" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/idRFfhY.png",Bloomberg Asia
+http://210.210.155.37/dr9445/h/h03/index.m3u8
+#EXTINF:-1 tvg-id="bbcearth" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/N1f6dvA.png",BBC Earth
+http://sg.tinchuanchuaanh.com:8080/BBC_EARTH_HD/index.m3u8
 #EXTINF:-1 tvg-id="BTVWorld.bd" tvg-logo="https://i.imgur.com/sSnrg7o.png" group-title="ĐÔNG & NAM Á",BTV World
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="cartoonhd" group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình" tvg-logo="https://i.imgur.com/Bc6zxiA.png",Cartoon Network Asia
+http://sg.tinchuanchuaanh.com:8080/CARTOON_NETWORK_HD/index.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC" tvg-logo="https://i.imgur.com/pjnAxys.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",Cinemax Asia HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://live.vthanhtivi.pw/cinemax
+#EXTINF:-1 tvg-id="cinemaworldhd" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ" tvg-logo="https://i.imgur.com/D2qNVZ7.png",CinemaWorld
+http://sg.tinchuanchuaanh.com:8080/CINEMAWORLD_HD/index.m3u8
 #EXTINF:-1 tvg-id="cna" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/xWglicB.png",CNA International HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -342,7 +354,13 @@ https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 tvg-id="DaAi2.tw" tvg-logo="https://i.imgur.com/KdJi9af.png" group-title="ĐÔNG & NAM Á",DaAi2 - 大愛2
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1 tvg-id="davincihd" group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình" tvg-logo="https://i.imgur.com/iBx7K1M.png",Da Vinci Asia HD
-http://sc.id-tv.kz/DaVinci_38_39.m3u8
+https://code.vthanhtivi.pw/getlink/mytv/294/hd.m3u8
+#EXTINF:-1 tvg-id="discoveryhd" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://i.imgur.com/f0ZYQbB.png",Discovery Channel SEA
+http://sg.tinchuanchuaanh.com:8080/DISCOVERY_HD/index.m3u8
+#EXTINF:-1 tvg-id="discoveryasiahd" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://i.imgur.com/lD13h2Y.png",Discovery Asia
+http://sg.tinchuanchuaanh.com:8080/DISCOVERY_ASIA_HD/index.m3u8
+#EXTINF:-1 tvg-id="dmax" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ" tvg-logo="https://i.imgur.com/Pwd7fwo.png",DMAX SEA
+http://sg.tinchuanchuaanh.com:8080/DMAX/index.m3u8
 #EXTINF:-1 tvg-id="dw" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/ZhUBsy8.png",DW - Deutsche Welle
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="euronews" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/fxLdPk9.png",EURONEWS - Евроновости
@@ -372,8 +390,10 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 http://live.vthanhtivi.pw/hbo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yce0NJB.png" group-title="Tây Á",Hadi TV Azeri and Russian
 https://live.ishiacloud.com/haditv.co.uk/haditv3.m3u8
-#EXTINF:-1 tvg-id="nadezhda" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/pLeCUEV.png",Hope Channel HD
+#EXTINF:-1 tvg-id="nadezhda" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/pLeCUEV.png",Hope Channel Philippines
 https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+#EXTINF:-1 tvg-id="historyhd" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png",History Asia
+http://sg.tinchuanchuaanh.com:8080/HISTORY_HD/index.m3u8
 #EXTINF:0 tvg-id="KPlus.sg" tvg-logo="https://i.imgur.com/RbS0q71.png" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ",K-Plus
 http://210.210.155.37/uq2663/h/h08/index.m3u8
 #EXTINF:-1 tvg-id="kix" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ" tvg-logo="https://i.imgur.com/yAlxcWI.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",KIX HD Asia
@@ -423,8 +443,10 @@ https://lbs-us1.suprememastertv.com/1080p.m3u8
 https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Thrill.hk" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ" tvg-logo="https://i.imgur.com/Y282owj.png",Thrill
 http://210.210.155.37/qwr9ew/s/s34/index.m3u8
+#EXTINF:-1 tvg-id="tlchd" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ" tvg-logo="https://i.imgur.com/LnGzp8D.png",TLC SEA
+http://sg.tinchuanchuaanh.com:8080/TLC_HD/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeAsia.fr" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/1cVjCTw.png",TV5 Monde Asie
-https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
+https://code.vthanhtivi.pw/getlink/fptplay/tv5-monde/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr" group-title="Tây Á" tvg-logo="https://i.imgur.com/F7P8nYV.png",TRT World HD
 http://tv-trtworld.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalAsiaOceania.es" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/dwzOBZ1.png",TVE Internacional Asia
@@ -441,6 +463,8 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/index.m3u8
 https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
 #EXTINF:-1 tvg-id="VoATVGlobal.us" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/aVWTorO.png",VOA TV - Voice of America
 https://voa-ingest.akamaized.net/hls/live/2033866/tvmc01/playlist_1080.m3u8
+#EXTINF:-1 tvg-id="warnertvhd" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ" tvg-logo="https://i.imgur.com/kj250WZ.png",Warner TV
+http://sg.tinchuanchuaanh.com:8080/WARNER_TV_HD/index.m3u8
 #EXTINF:-1 tvg-id="WION.in" tvg-logo="https://i.imgur.com/tnXba28.png" group-title="ĐÔNG & NAM Á",Wion
 https://d2xqcdx4c8vu9s.cloudfront.net/out/v1/15b8393e9a9240b8bedd4c79ccefb301/index.m3u8
 #EXTINF:-1 tvg-id="world-fashion-channel" tvg-logo="https://i.imgur.com/D46u7eW.png" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG",World Fashion Channel
