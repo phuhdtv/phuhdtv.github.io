@@ -531,9 +531,11 @@ http://stream01.vnet.am/Rossia24/mono.m3u8
 http://176.107.250.4:8001/ch8
 #EXTINF:-1 tvg-id="otr" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/VaWlnjZ.png",ОТР
 http://176.107.250.4:8001/ch9
-#EXTINF:-1 tvg-id="tvci" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВ Центр Международный
+#EXTINF:-1 tvg-id="tvci" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВ Центр Международный (480p)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s54/04.m3u8
+#EXTINF:-1 tvg-id="tvci" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВ Центр Международный (576p)
+http://192.162.64.222:4000/play/a00z/index.m3u8
 #EXTINF:-1 tvg-id="rentv-int" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/uxK7dGH.png",REN-TV (480p)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s85/04.m3u8
@@ -550,7 +552,7 @@ https://sc.id-tv.kz/STS_36_37.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s88/04.m3u8
 #EXTINF:-1 tvg-id="tv3-ru" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/kjaxZms.png",ТВ3
-http://176.107.250.4:8001/ch15
+http://185.90.224.28:8080/15/index.m3u8
 #EXTINF:-1 tvg-id="piatnica-int" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/N2z3EZC.png",Пятница International (480p)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s50/index.m3u8
@@ -606,7 +608,7 @@ http://tvcom.stream.intelema.ru/tvcom/studio/playlist.m3u8
 http://air.tvk6.ru/tvk24/playlist.m3u8
 #EXTINF:-1 tvg-id="yugra" tvg-logo="https://i.imgur.com/UpDPAEq.png" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿",Югра
 http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8
-#EXTINF:-1 group-title="ĐÔNG NAM Á" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Logo_of_MITV.png/220px-Logo_of_MITV.png",MITV
+#EXTINF:-1 group-title="ĐÔNG NAM Á" tvg-logo="https://i.imgur.com/ClmWqE5.png",Myanmar International TV
 http://183.89.246.119:8881/play/a07r/index.m3u8
 #EXTINF:-1 tvg-id="tamyr" tvg-logo="https://i.imgur.com/Ia3acCB.png" group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình",Тамыр
 http://bsttv.bonus-tv.ru:80/cdn/tamyr/playlist_sdhigh.m3u8
@@ -657,11 +659,7 @@ http://rtmp.one.by:1499
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s43/index.m3u8
 #EXTINF:-1 tvg-id="zhara" tvg-logo="https://i.imgur.com/41K9Y2s.png" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG",Жара - #ZHARATV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.is_realtime_stream=true
-http://185.161.224.216/dash/JaraTv_SD.ism/playlist.mpd
+http://streamer1.ruslanatv.ru/russia/zhara_2023/playlist.m3u8
 
 #EXTINF:-1 tvg-id="shop24" group-title="🇻🇳-🇷🇺| Quảng Cáo" tvg-logo="https://i.imgur.com/qU9ohQu.png",Leomax 24 HD
 http://tvshops.bonus-tv.ru:80/cdn/shop24/tracks-v1a1/index.m3u8
