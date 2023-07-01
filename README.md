@@ -10,7 +10,7 @@ http://gg.gg/vtv1-2010-hom-nay
 
 http://gg.gg/vtv1-2010-tiep-theo
 
-http://gg.gg/vtv1-2010-ngay-mai
+http://gg.gg/vtv1-2k10-ngay-mai
 
 https://tinyurl.com/BIINN-OLD
 
