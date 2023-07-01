@@ -667,8 +667,12 @@ http://rtmp.one.by:1499
 #EXTINF:-1 tvg-id="shanson-tv" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://i.imgur.com/NBWyJJQ.png",Шансон ТВ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s43/index.m3u8
-#EXTINF:-1 tvg-id="zhara" tvg-logo="https://i.imgur.com/41K9Y2s.png" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG",Жара - #ZHARATV
-http://streamer1.ruslanatv.ru/russia/zhara_2023/playlist.m3u8
+#EXTINF:-1 tvg-id="zhara" tvg-logo="https://i.imgur.com/41K9Y2s.png" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG",Жара - #ZHARA
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://185.161.224.216/dash/JaraTv_SD.ism/playlist.mpd
 
 #EXTINF:-1 tvg-id="shop24" group-title="🇻🇳-🇷🇺| Quảng Cáo" tvg-logo="https://i.imgur.com/qU9ohQu.png",Leomax 24 HD
 http://tvshops.bonus-tv.ru:80/cdn/shop24/tracks-v1a1/index.m3u8
