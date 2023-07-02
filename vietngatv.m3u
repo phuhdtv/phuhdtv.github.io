@@ -969,14 +969,14 @@ http://icecast-rian.cdnvideo.ru/voiceenghi
 http://icecast-rian.cdnvideo.ru/voicerushi
 #EXTINF:-1 tvg-id="no_epg" group-title="📻| Radio" tvg-logo="https://www.lyngsat.com/logo/radio/kk/kuzbass_fm_ru.png",Кузбасс FM
 http://94.127.94.107:8000/KuzbassFM
-#EXTINF:-1 tvg-id="retro-fm" group-title="📻| Radio" tvg-id="retro-fm" tvg-logo="https://www.lyngsat.com/logo/radio/rr/retro_fm_ru.png",Ретро FM (Красноярск)
-http://air.tvk6.ru/retro256/tracks-a1/mono.m3u8
+#EXTINF:-1 tvg-id="retro-fm" group-title="📻| Radio" tvg-id="retro-fm" tvg-logo="https://www.lyngsat.com/logo/radio/rr/retro_fm_ru.png",Ретро FM
+http://retroserver.streamr.ru:8043/retro256.mp3
 #EXTINF:-1 tvg-id="radio-shanson" tvg-logo="https://i.imgur.com/lbqM3K2.png" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG",Радио Шансон
 http://chanson.hostingradio.ru:8041/chanson256.mp3
 #EXTINF:-1 tvg-id="radio-strana-fm-tv" tvg-logo="https://i.imgur.com/wG8KyeG.png" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG",Радио Страна FM
 http://icecast.stranafm.cdnvideo.ru/stranafm
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-id="europa-plus-radio" tvg-logo="https://i.imgur.com/GLc4qrc.png",Европа Плюс
-http://149.154.71.125:8000/europa_nsk_hq
+https://hls-01-regions.emgsound.ru/11_msk/96/playlist.m3u8
 #EXTINF:-1 tvg-id="avtoradio" tvg-logo="https://www.lyngsat.com/logo/radio/aa/avto_radio_ru.png" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG",Авторадио
 http://80.91.16.166:8000/ar_72_01
 #EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://i.imgur.com/ViOHdFW.png" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG",Орфей
