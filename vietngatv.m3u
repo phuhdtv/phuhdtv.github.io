@@ -540,14 +540,20 @@ https://code.vthanhtivi.pw/getlink/mytv/69/hd.m3u8
 #EXTINF:-1 tvg-id="pervy" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/RUSX0rX.png",Первый канал
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
+#EXTINF:-1 tvg-id="pervy-kanal-csi" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/RUSX0rX.png",Первый канал Азия
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s14/04.m3u8
 #EXTINF:-1 tvg-id="rossia1" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/WI6hKez.png",Россия 1
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
-#EXTINF:0 tvg-id="rtr-planeta-azia" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/yOnSc4O.png",РТР Планета Азия
+#EXTINF:0 tvg-id="rtr-planeta-azia" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/5D1gwiv.png",Россия РТР
 http://radio-live-mg.rtr-vesti.ru/hls/planeta_rtr_asia/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/DtQX5P2.png",НТВ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
+#EXTINF:-1 tvg-id="ntv-mir" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/pUcV46F.png",НТВ МИР
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s17/04.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/qswopzO.png",Петербург 5 канал
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
@@ -563,41 +569,41 @@ http://s18209.cdn.ngenix.net/hls/CH_R01_KARUSEL/playlist.m3u8
 #EXTINF:-1 tvg-id="otr" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/VaWlnjZ.png",ОТР
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
-#EXTINF:-1 tvg-id="tvcentr" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВ Центр (480p)
+#EXTINF:-1 tvg-id="tvci" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/fIkd01t.png",TVC INTERNATIONAL
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s54/04.m3u8
-#EXTINF:-1 tvg-id="tvcentr" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВ Центр (576p)
+#EXTINF:-1 tvg-id="tvcentr" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВ Центр
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://s18209.cdn.ngenix.net/hls/CH_R04_TVC/playlist.m3u8
-#EXTINF:-1 tvg-id="rentv" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/uxK7dGH.png",REN-TV (480p)
+#EXTINF:-1 tvg-id="rentv-int" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/uxK7dGH.png",REN-TV INTERNATIONAL
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s85/04.m3u8
-#EXTINF:-1 tvg-id="rentv" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/uxK7dGH.png",REN-TV (576p)
+#EXTINF:-1 tvg-id="rentv" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/0Tu5lte.png",РЕН ТВ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
 #EXTINF:-1 tvg-id="spas" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/JBDdOqq.jpg",СПАС ТВ
 http://spas.mediacdn.ru/cdn/spas/playlist.m3u8
-#EXTINF:-1 tvg-id="sts" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/ilUzAeb.png",СТС (480p)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s52/04.m3u8
-#EXTINF:-1 tvg-id="sts" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/ilUzAeb.png",СТС (576p)
+#EXTINF:-1 tvg-id="sts" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/ilUzAeb.png",СТС
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://s18209.cdn.ngenix.net/hls/CH_R02_STS/playlist.m3u8
-#EXTINF:-1 tvg-id="domashny" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/XVRwgom.png",Домашний (480p)
+#EXTINF:-1 tvg-id="sts-int" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/F6j6xWc.jpg",СТС INTERNATIONAL
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s88/04.m3u8
-#EXTINF:-1 tvg-id="domashny" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/XVRwgom.png",Домашний (576p)
+http://ott-cdn.ucom.am/s52/04.m3u8
+#EXTINF:-1 tvg-id="domashny" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/XVRwgom.png",Домашний
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://s18209.cdn.ngenix.net/hls/CH_R04_DOMASHNY/playlist.m3u8
+#EXTINF:-1 tvg-id="domashny" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/nf7GRXb.png",DOMASHNIY INTERNATIONAL
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s88/04.m3u8
 #EXTINF:-1 tvg-id="tv3-ru" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/kjaxZms.png",ТВ3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8
-#EXTINF:-1 tvg-id="piatnica-int" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/N2z3EZC.png",Пятница International (480p)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s50/index.m3u8
-#EXTINF:-1 tvg-id="piatnica-int" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/N2z3EZC.png",Пятница International (576p)
+#EXTINF:-1 tvg-id="piatnica" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/UfmlXxe.png",Пятница
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8
+#EXTINF:-1 tvg-id="piatnica-int" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/N2z3EZC.png",Пятница International
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s50/index.m3u8
 #EXTINF:-1 tvg-id="zvezda" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/n9zLVyR.png",Звезда
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://s18209.cdn.ngenix.net/hls/CH_R03_ZVEZDA/playlist.m3u8
@@ -607,10 +613,10 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 http://194.158.222.36:6104
 #EXTINF:-1 tvg-id="mir" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/Kia8OEO.png",МИР HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 tvg-id="tnt" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/T4A6rEI.png",ТНТ HD
+#EXTINF:-1 tvg-id="tnt" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/T4A6rEI.png",ТНТ
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
-#EXTINF:-1 tvg-id="tnt-int-cis" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/l0RGbRI.png",ТНТ International (Азия)
+#EXTINF:-1 tvg-id="tnt-int-cis" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/l0RGbRI.png",ТНТ International (Азия)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s19/04.m3u8
 #EXTINF:-1 tvg-id="muztv" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/BtqrHmz.png",МУЗ ТВ (480p)
