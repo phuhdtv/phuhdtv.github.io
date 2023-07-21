@@ -326,12 +326,14 @@ https://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
 https://e4.endpoint.cdn.sctvonline.vn/hls/abc/index.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ" tvg-logo="https://i.imgur.com/xOfuwnt.png",AXN Asia
 http://sg.tinchuanchuaanh.com:8080/AXN_HD/index.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" group-title="Tây Á" tvg-logo="https://i.imgur.com/dQrdh2F.png",Aljazeera International HD
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" group-title="TRUNG ĐÔNG" tvg-logo="https://i.imgur.com/dQrdh2F.png",Aljazeera International HD
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="animaxhd" group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình" tvg-logo="https://i.imgur.com/dXLrJBR.png",Animax Asia
 http://sg.tinchuanchuaanh.com:8080/ANIMAX_HD/index.m3u8
-#EXTINF:-1 tvg-id="AngelTVFarEast.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="ĐÔNG & NAM Á",Angel TV Far East
+#EXTINF:-1 tvg-id="AngelTVFarEast.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="ĐÔNG & NAM Á",Angel TV Far East (English)
 https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelfareast_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AngelTVRussian.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="ĐÔNG & NAM Á",Angel TV Far East (Russian)
+https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelrussia_all/playlist.m3u8
 #EXTINF:-1 tvg-id="animalhd" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://i.imgur.com/AApqW63.jpg",Animal Planet SEA
 http://sg.tinchuanchuaanh.com:8080/ANIMAL_PLANET_HD/index.m3u8
 #EXTINF:-1 tvg-id="arirang" group-title="ĐÔNG & NAM Á" tvg-logo="https://i.imgur.com/5Aoithj.png",ARIRANG World
@@ -392,7 +394,7 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227220/index.m3u8
 #EXTINF:-1 tvg-id="CGTNRussian.cn" group-title="ĐÔNG & NAM Á" tvg-logo="https://i.imgur.com/L2yv24j.png",CGTN Русский
 http://liveru.cgtn.com/200r/prog_index.m3u8
-#EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-logo="https://i.imgur.com/NR3DhDu.png" group-title="Tây Á",CGTN العربية
+#EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-logo="https://i.imgur.com/NR3DhDu.png" group-title="TRUNG ĐÔNG",CGTN العربية
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227224/index.m3u8
 #EXTINF:-1 tvg-id="CGNTV.kr" tvg-logo="https://i.imgur.com/rXrSsiI.jpg" group-title="ĐÔNG & NAM Á",Christian Global Network Television
 https://cgntvlive-998.acs.wecandeo.com/ms/2850/998/index_1.m3u8
@@ -449,7 +451,7 @@ https://livecdn.live247stream.com/grace/tv/playlist.m3u8
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
 #EXTINF:-1 tvg-id="HarvestTV.in" tvg-logo="https://i.imgur.com/Aoq6mpT.png" group-title="ĐÔNG & NAM Á",Harvest TV
 https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8
-#EXTINF:-1 tvg-id="HudaTV.eg" tvg-logo="https://i.imgur.com/1UUjU26.png" group-title="Tây Á",Huda TV
+#EXTINF:-1 tvg-id="HudaTV.eg" tvg-logo="https://i.imgur.com/1UUjU26.png" group-title="TRUNG ĐÔNG",Huda TV
 https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
 #EXTINF:-1 tvg-id="hbohd" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC" tvg-logo="https://i.imgur.com/qPXF25a.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",HBO
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
@@ -460,8 +462,8 @@ http://45.129.133.15:8080/3f6d5b2f/4b60123137/197055
 http://45.129.133.15:8080/3f6d5b2f/4b60123137/196480
 #EXTINF:-1 tvg-id="hbosignaturehd-asia" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC" tvg-logo="https://img.vnmedia.xyz/logo/hbosignaturehd-asia.png",HBO Signature
 http://45.129.133.15:8080/3f6d5b2f/4b60123137/221948
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yce0NJB.png" group-title="Tây Á",Hadi TV Azeri and Russian
-https://live.ishiacloud.com/haditv.co.uk/haditv3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yce0NJB.png" group-title="TRUNG ĐÔNG",Hadi TV English and Urdu
+https://live.ishiacloud.com/haditv.co.uk/haditv1.m3u8
 #EXTINF:-1 tvg-id="nadezhda" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/pLeCUEV.png",Hope Channel International
 https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
 #EXTINF:-1 tvg-id="historyhd" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png",History Asia
@@ -497,7 +499,7 @@ https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 #EXTINF:-1 tvg-name="贵州卫视" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/eSNdW3n.png",Phoenix Infonews HD
 https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
-#EXTINF:-1 tvg-id="PressTV.ir" tvg-logo="https://i.imgur.com/orZX92w.png" group-title="Tây Á",Press TV
+#EXTINF:-1 tvg-id="PressTV.ir" tvg-logo="https://i.imgur.com/orZX92w.png" group-title="TRUNG ĐÔNG",Press TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
@@ -526,7 +528,7 @@ http://210.210.155.37/qwr9ew/s/s34/index.m3u8
 http://sg.tinchuanchuaanh.com:8080/TLC_HD/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeAsia.fr" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/1cVjCTw.png",TV5 Monde Asie
 https://code.vthanhtivi.pw/getlink/fptplay/tv5-monde/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="TRTWorld.tr" group-title="Tây Á" tvg-logo="https://i.imgur.com/F7P8nYV.png",TRT World HD
+#EXTINF:-1 tvg-id="TRTWorld.tr" group-title="TRUNG ĐÔNG" tvg-logo="https://i.imgur.com/F7P8nYV.png",TRT World HD
 http://tv-trtworld.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalAsiaOceania.es" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/dwzOBZ1.png",TVE Internacional Asia
 http://210.210.155.37/uq2663/h/h158/index2.m3u8
@@ -853,7 +855,7 @@ https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="Milliy.uz" tvg-logo="https://i.imgur.com/rAjhLkx.png" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿",Milliy
 http://milliy.tv/hls/index.m3u8
 
-#EXTINF:-1 tvg-id="h1-am" group-title="Tây Á" tvg-logo="https://i.imgur.com/aFy3soi.png",Առաջին Ալիք HD
+#EXTINF:-1 tvg-id="h1-am" group-title="TRUNG ĐÔNG" tvg-logo="https://i.imgur.com/aFy3soi.png",Առաջին Ալիք HD
 https://amtv1.livestreamingcdn.com/am2abr/index.m3u8
 
 #EXTINF:-1 tvg-id="fightbox-hd" group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="https://i.imgur.com/mRsnztA.png",FightBox HD
