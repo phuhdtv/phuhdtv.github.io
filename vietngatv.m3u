@@ -325,22 +325,26 @@ http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="yenbai" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/WKneY2w.png",YTV - YÊN BÁI
 https://yenbaitv.org.vn/hls/livestream.m3u8
 
-#EXTINF:-1 tvg-id="afnhd" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/tNnqNSz.png",Asian Food Network
-https://code.vthanhtivi.pw/getlink/mytv/298/hd.m3u8
 #EXTINF:-1 tvg-id="abcaustralia" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/qQ33TVM.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/australiaplus_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",ABC Australia
 http://103.112.191.9:880/LAOSAT1093.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ" tvg-logo="https://i.imgur.com/xOfuwnt.png",AXN Asia
-http://sg.tinchuanchuaanh.com:8080/AXN_HD/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+https://code.vthanhtivi.pw/getlink/tvfree/axn/playlist.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" group-title="TÂY Á & TRUNG ĐÔNG" tvg-logo="https://i.imgur.com/dQrdh2F.png",Aljazeera International
+http://103.112.191.9:880/LAOSAT1021.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" group-title="TÂY Á & TRUNG ĐÔNG" tvg-logo="https://i.imgur.com/dQrdh2F.png",Aljazeera International HD
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="animaxhd" group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình" tvg-logo="https://i.imgur.com/dXLrJBR.png",Animax Asia
-http://sg.tinchuanchuaanh.com:8080/ANIMAX_HD/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+https://code.vthanhtivi.pw/getlink/tvfree/animax/playlist.m3u8
 #EXTINF:-1 tvg-id="AngelTVFarEast.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="ĐÔNG & NAM Á",Angel TV Far East (English)
 https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelfareast_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AngelTVRussian.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="ĐÔNG & NAM Á",Angel TV Far East (Russian)
 https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelrussia_all/playlist.m3u8
 #EXTINF:-1 tvg-id="animalhd" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://i.imgur.com/AApqW63.jpg",Animal Planet SEA
-http://sg.tinchuanchuaanh.com:8080/ANIMAL_PLANET_HD/index.m3u8
+http://103.112.191.9:880/LAOSAT1034.m3u8
+#EXTINF:-1 tvg-id="animalhd" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://i.imgur.com/AApqW63.jpg",Animal Planet SEA HD
+http://live-vnp.vthanhtivi.pw:18001/ANIMAL_PLANET_HD/index.m3u8
 #EXTINF:-1 tvg-id="arirang" group-title="ĐÔNG & NAM Á" tvg-logo="https://i.imgur.com/5Aoithj.png",ARIRANG World
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 tvg-id="bloomberg" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/idRFfhY.png",Bloomberg Asia
@@ -348,21 +352,24 @@ https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH"  tvg-logo="https://i.imgur.com/idRFfhY.png",Bloomberg Asia Event
 https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
 #EXTINF:-1 tvg-id="bbcearth" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/N1f6dvA.png",BBC Earth
-http://sg.tinchuanchuaanh.com:8080/BBC_EARTH_HD/index.m3u8
+http://live-vnp.vthanhtivi.pw:18001/BBC_EARTH_HD/index.m3u8
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/GjICLWN.png",BBC News Asia-Pacific
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/bbc/index.m3u8
 #EXTINF:-1 tvg-id="BTVWorld.bd" tvg-logo="https://i.imgur.com/sSnrg7o.png" group-title="ĐÔNG & NAM Á",BTV World
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="cartoonhd" group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình" tvg-logo="https://i.imgur.com/Bc6zxiA.png",Cartoon Network Asia
-http://sg.tinchuanchuaanh.com:8080/CARTOON_NETWORK_HD/index.m3u8
+http://103.112.191.9:880/LAOSAT1090.m3u8
+#EXTINF:-1 tvg-id="cartoonhd" group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình" tvg-logo="https://i.imgur.com/Bc6zxiA.png",Cartoon Network Asia HD
+http://live-vnp.vthanhtivi.pw:18001/CARTOON_NETWORK_HD/index.m3u8
 #EXTINF:-1 tvg-id="boomerang" group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png",Cartoonito Asia HD
-http://sg.tinchuanchuaanh.com:8080/BOOMERANG_HD/index.m3u8
+http://live-vnp.vthanhtivi.pw:18001/BOOMERANG_HD/index.m3u8
+#EXTINF:-1 group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://i.imgur.com/NR0ukWu.png",Channel [V] China
+http://103.112.191.9:880/LAOSAT1070.m3u8
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC" tvg-logo="https://i.imgur.com/pjnAxys.png",Cinemax Asia
+http://103.112.191.9:880/LAOSAT1031.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC" tvg-logo="https://i.imgur.com/pjnAxys.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",Cinemax Asia HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://code.vthanhtivi.pw/getlink/tvfree/cinemax/playlist.m3u8
-#EXTINF:-1 tvg-id="cinemaworldhd" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ" tvg-logo="https://i.imgur.com/D2qNVZ7.png",CinemaWorld
-http://sg.tinchuanchuaanh.com:8080/CINEMAWORLD_HD/index.m3u8
+http://live.vthanhtivi.pw/cinemax
 #EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://i.imgur.com/6sOHLq8.png" group-title="ĐÔNG & NAM Á",CETV1
 http://txycetvbl.centv.cn/cetv1/ypd.m3u8
 #EXTINF:-1 tvg-id="中国教育2台" tvg-name="中国教育2台" tvg-logo="https://i.imgur.com/ZD8XPmw.png" group-title="ĐÔNG & NAM Á",CETV2
@@ -372,21 +379,21 @@ http://txycetvbl.centv.cn/cetv4/zjpd.m3u8
 #EXTINF:-1 tvg-id="cna" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/xWglicB.png",CNA International HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="cnn" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/KacMcVa.png",CNN International HD
-http://stream.cvmtv.site/CNN?token=live
+http://103.112.191.9:880/LAOSAT1087.m3u8
 #EXTINF:-1 tvg-id="CCTV2" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/WODuqGT.png",CCTV2
-http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw3589111099_-1793408755/ott.mobaibox.com/PLTV/3/224/3221227543/index.m3u8?icpid=3&RTS=1668594088&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
+http://103.112.191.9:880/LAOSAT1058.m3u8
 #EXTINF:-1 tvg-id="CCTV4" group-title="ĐÔNG & NAM Á" tvg-logo="https://i.imgur.com/tWt4Wou.png",CCTV4 Asia
-http://210.210.155.37/qwr9ew/s/s19/index.m3u8
+http://103.112.191.9:880/LAOSAT1060.m3u8
 #EXTINF:-1 tvg-id="CCTV7" tvg-logo="https://i.imgur.com/g7nb3L0.png" group-title="ĐÔNG & NAM Á",CCTV7
-http://[2409:8087:2001:20:2800:0:df6e:eb26]/wh7f454c46tw3984282630_1427246842/ott.mobaibox.com/PLTV/3/224/3221228283/index.m3u8?icpid=3&RTS=1668594483&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
-#EXTINF:-1 tvg-id="CCTV10" tvg-logo="https://i.imgur.com/PKtBUL2_d.webp" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG",CCTV10
+http://103.112.191.9:880/LAOSAT1008.m3u8
+#EXTINF:-1 tvg-id="CCTV10" tvg-logo="https://i.imgur.com/wlCBFWu.png" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG",CCTV10
 http://[2409:8087:2001:20:2800:0:df6e:eb21]/wh7f454c46tw30319478_-185824076/ott.mobaibox.com/PLTV/3/224/3221228286/index.m3u8?icpid=3&RTS=1668594824&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="CCTV11" tvg-logo="https://i.imgur.com/YYcuZjn.png" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ",CCTV11
 http://[2409:8087:2001:20:2800:0:df6e:eb23]/wh7f454c46tw105619488_1866436632/ott.mobaibox.com/PLTV/3/224/3221228289/index.m3u8?icpid=3&RTS=1668594900&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="CCTV12" tvg-logo="https://i.imgur.com/8COTDdm.png" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG",CCTV12
 http://[2409:8087:2001:20:2800:0:df6e:eb23]/wh7f454c46tw185877003_-533945400/ott.mobaibox.com/PLTV/3/224/3221228401/index.m3u8?icpid=3&RTS=1668594980&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="CCTV13" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/GGHckoY.png",CCTV13 HD
-http://[2409:8087:2001:20:2800:0:df6e:eb16]/wh7f454c46tw259647455_-1559913959/ott.mobaibox.com/PLTV/3/224/3221228224/index.m3u8?icpid=3&RTS=1668595054&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
+http://103.112.191.9:880/LAOSAT1063.m3u8
 #EXTINF:-1 tvg-id="CCTV14" group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình" tvg-logo="https://i.imgur.com/Mct3fYK.png",CCTV14 HD
 http://[2409:8087:2001:20:2800:0:df6e:eb22]/wh7f454c46tw340147088_1594094424/ott.mobaibox.com/PLTV/3/224/3221228292/index.m3u8?icpid=3&RTS=1668595134&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="CCTV15" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://i.imgur.com/m2R60TJ.png",CCTV15 HD
@@ -394,10 +401,12 @@ http://[2409:8087:2001:20:2800:0:df6e:eb22]/wh7f454c46tw434828587_188325560/ott.
 #EXTINF:-1 tvg-id="CCTV17" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://i.imgur.com/vOPU9eu.png",CCTV17 HD
 http://[2409:8087:2001:20:2800:0:df6e:eb23]/wh7f454c46tw483903016_-67353299/ott.mobaibox.com/PLTV/3/224/3221228407/index.m3u8?icpid=3&RTS=1668595278&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="cnbc" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/KxxvR2X.png",CNBC Asia
-http://stream.cvmtv.site/CNBC?token=live
+http://103.112.191.9:880/LAOSAT1086.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn" group-title="ĐÔNG & NAM Á" tvg-logo="https://i.imgur.com/4wbZUfh.png",CGTN Documentary
 http://39.135.138.59:18890/PLTV/88888910/224/3221225645/index.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn" group-title="ĐÔNG & NAM Á" tvg-logo="https://i.imgur.com/GEUzSd4.png",CGTN English
+http://103.112.191.9:880/LAOSAT1074.m3u8
+#EXTINF:-1 tvg-id="CGTN.cn" group-title="ĐÔNG & NAM Á" tvg-logo="https://i.imgur.com/GEUzSd4.png",CGTN English HD
 https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/e8HG0D7.png" group-title="ĐÔNG & NAM Á",CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
@@ -425,28 +434,27 @@ https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1 tvg-id="davincihd" group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình" tvg-logo="https://i.imgur.com/iBx7K1M.png",Da Vinci Asia HD
 https://code.vthanhtivi.pw/getlink/mytv/294/hd.m3u8
 #EXTINF:-1 tvg-id="discoveryhd" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://i.imgur.com/f0ZYQbB.png",Discovery Channel SEA
-http://sg.tinchuanchuaanh.com:8080/DISCOVERY_HD/index.m3u8
-#EXTINF:-1 tvg-id="discoveryasiahd" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://i.imgur.com/lD13h2Y.png",Discovery Asia
-http://sg.tinchuanchuaanh.com:8080/DISCOVERY_ASIA_HD/index.m3u8
-#EXTINF:-1 tvg-id="dmax" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ" tvg-logo="https://i.imgur.com/Pwd7fwo.png",DMAX SEA
-http://sg.tinchuanchuaanh.com:8080/DMAX/index.m3u8
+http://103.112.191.9:880/LAOSAT1094.m3u8
+#EXTINF:-1 tvg-id="discoveryasiahd" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://i.imgur.com/lD13h2Y.png"Discovery Asia HD
+http://103.112.191.9:880/LAOSAT1095.m3u8
 #EXTINF:-1 tvg-id="dw" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/ZhUBsy8.png",DW - Deutsche Welle
+http://103.112.191.9:880/LAOSAT1072.m3u8
+#EXTINF:-1 tvg-id="dw" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/ZhUBsy8.png",DW - Deutsche Welle HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="EBCMovie.tw" tvg-logo="https://i.imgur.com/dMAS4Qa.png" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC",EBC Movies
 http://103.112.191.9:880/LAOSAT1017.m3u8
 #EXTINF:-1 tvg-id="EBCForeignMovie.tw" tvg-logo="https://i.imgur.com/ItNGE1z.png" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC",EBC Foreign Movies
 http://103.112.191.9:880/LAOSAT1018.m3u8
-#EXTINF:-1 tvg-id="euronews" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/fxLdPk9.png",EURONEWS - Евроновости
+#EXTINF:-1 tvg-id="euronews-en" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/fxLdPk9.png",EURONEWS English
+http://103.112.191.9:880/LAOSAT1073.m3u8
+#EXTINF:-1 tvg-id="euronews" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/fxLdPk9.png",EURONEWS Russian
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s89/index.m3u8
 #EXTINF:-1 tvg-id="EWTNAsiaPacific.us" tvg-logo="https://i.imgur.com/m4AvEqq.png" group-title="🌏| Quốc tế",EWTN Asia-Pacific
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="fashion-tv" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://i.imgur.com/Zryq8k6.png",Fashion TV Asia
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://ott-cdn.ucom.am/s30/index.m3u8
-#EXTINF:-1 tvg-id="fashionhd" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://i.imgur.com/Zryq8k6.png",Fashion TV Asia HD
-https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="fashionhd" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://i.imgur.com/Zryq8k6.png",Fashion TV Asia
+http://103.112.191.9:880/LAOSAT1088.m3u8
 #EXTINF:-1 tvg-id="fashionhd" group-title="KÊNH 4K" tvg-logo="https://i.imgur.com/Zryq8k6.png",Fashion TV UHD
 http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="france24eng" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/zdze6Iq.png",FRANCE 24 English
@@ -467,15 +475,18 @@ https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/
 https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8
 #EXTINF:-1 tvg-id="HudaTV.eg" tvg-logo="https://i.imgur.com/1UUjU26.png" group-title="TÂY Á & TRUNG ĐÔNG",Huda TV
 https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
-#EXTINF:-1 tvg-id="hbohd" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC" tvg-logo="https://i.imgur.com/qPXF25a.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",HBO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://code.vthanhtivi.pw/getlink/tvfree/hbo/playlist.m3u8
+#EXTINF:-1 tvg-id="hbohd" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC",HBO Asia
+http://103.112.191.9:880/LAOSAT1089.m3u8
+#EXTINF:-1 tvg-id="hbohd" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC" tvg-logo="https://i.imgur.com/qPXF25a.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",HBO Asia HD
+http://live.vthanhtivi.pw/hbo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yce0NJB.png" group-title="TÂY Á & TRUNG ĐÔNG",Hadi TV English and Urdu
 https://live.ishiacloud.com/haditv.co.uk/haditv1.m3u8
 #EXTINF:-1 tvg-id="nadezhda" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/pLeCUEV.png",Hope Channel International
 https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
 #EXTINF:-1 tvg-id="historyhd" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png",History Asia
-http://sg.tinchuanchuaanh.com:8080/HISTORY_HD/index.m3u8
+http://live-vnp.vthanhtivi.pw:18001/HISTORY_HD/index.m3u8
+#EXTINF:-1 group-title="ĐÔNG & NAM Á" tvg-logo="https://www.lyngsat.com/logo/tv/mm/macau_lotus_tv_mo.png",Macau Lotus TV
+http://103.112.191.9:880/LAOSAT1069.m3u8
 #EXTINF:0 tvg-id="KPlus.sg" tvg-logo="https://i.imgur.com/RbS0q71.png" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ",K-Plus
 http://210.210.155.37/uq2663/h/h08/index.m3u8
 #EXTINF:-1 tvg-id="kix" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ" tvg-logo="https://i.imgur.com/yAlxcWI.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",KIX HD Asia
@@ -489,6 +500,8 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 http://ott-cdn.ucom.am/s49/index.m3u8
 #EXTINF:-1 group-title="ĐÔNG & NAM Á" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/512px-NDTV_247.svg.png",NDTV 24x7
 http://tv.googledrivelinks.com/live.php?c=NDTV_24x7&q=1200&e=.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" group-title="ĐÔNG & NAM Á" tvg-logo="https://i.imgur.com/DNuFsVE.png",NHK WORLD
+http://103.112.191.9:880/LAOSAT1071.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" group-title="ĐÔNG & NAM Á" tvg-logo="https://i.imgur.com/DNuFsVE.png",NHK WORLD HD
 https://b-nhkwlive-xjp.nhkworld.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m3u8
 #EXTINF:-1 tvg-id="NHKWorldPremium.jp" group-title="ĐÔNG & NAM Á" tvg-logo="https://i.imgur.com/4ESi2La.png",NHK World Premium
@@ -528,10 +541,11 @@ http://103.112.191.9:880/LAOSAT1085.m3u8
 https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Thrill.hk" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ" tvg-logo="https://i.imgur.com/Y282owj.png",Thrill
 http://210.210.155.37/qwr9ew/s/s34/index.m3u8
-#EXTINF:-1 tvg-id="tlchd" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ" tvg-logo="https://i.imgur.com/LnGzp8D.png",TLC SEA
-http://sg.tinchuanchuaanh.com:8080/TLC_HD/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeAsia.fr" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/1cVjCTw.png",TV5 Monde Asie
-https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
+http://103.112.191.9:880/LAOSAT1032.m3u8
+#EXTINF:-1 tvg-id="TV5MondeAsia.fr" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/1cVjCTw.png",TV5 Monde Asie HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/getlink/vieon/tv5-monde-asie/playlist.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr" group-title="TÂY Á & TRUNG ĐÔNG" tvg-logo="https://i.imgur.com/F7P8nYV.png",TRT World HD
 http://tv-trtworld.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalAsiaOceania.es" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/dwzOBZ1.png",TVE Internacional Asia
@@ -544,24 +558,34 @@ https://live.kh.malimarcdn.com/live/tvk2.stream/chunklist.m3u8
 http://c2.manasat.com:1935/tserkov-online/russo3/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRIWorld.id" tvg-logo="https://i.imgur.com/h3RldTO.png" group-title="ĐÔNG NAM Á",TVRI World
 http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/index.m3u8
+#EXTINF:-1 group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC" tvg-logo="https://i.imgur.com/uf0bYFm.png",TVB Xing He
+http://103.112.191.9:880/LAOSAT1092.m3u8
 #EXTINF:-1 tvg-id="VIVARussia.ru" tvg-logo="https://i.imgur.com/KWg9F4c.png" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG",VIVA HD
 https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
 #EXTINF:-1 tvg-id="VoATVGlobal.us" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/aVWTorO.png",VOA TV
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/master.m3u8
-#EXTINF:-1 tvg-id="warnertvhd" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ" tvg-logo="https://i.imgur.com/kj250WZ.png",Warner TV
-http://sg.tinchuanchuaanh.com:8080/WARNER_TV_HD/index.m3u8
 #EXTINF:-1 tvg-id="WION.in" tvg-logo="https://i.imgur.com/tnXba28.png" group-title="ĐÔNG & NAM Á",Wion
 https://d1tdkdc0esjoxj.cloudfront.net/out/v1/f2054baeb8e94043bfc9c8cca2a0013d/index.m3u8
 #EXTINF:-1 tvg-id="world-fashion-channel-en" tvg-logo="https://i.imgur.com/D46u7eW.png" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG",World Fashion Channel
 http://live-3.otcnet.ru/wfcint/index.m3u8
 #EXTINF:-1 tvg-id="XingKongInternational.cn" tvg-logo="https://i.imgur.com/6zocaAM.png" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC",Xing Kong
 http://103.112.191.9:880/LAOSAT1016.m3u8
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" group-title="ĐÔNG & NAM Á" tvg-logo="https://i.imgur.com/Bg24eaH.png",天津卫视
+http://103.112.191.9:880/LAOSAT1066.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" group-title="ĐÔNG & NAM Á" tvg-logo="https://i.imgur.com/5gQn4uY.png",浙江卫视
+http://103.112.191.9:880/LAOSAT1010.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" group-title="ĐÔNG & NAM Á" tvg-logo="https://i.imgur.com/CA4F1rv.png",江苏卫视
+http://103.112.191.9:880/LAOSAT1009.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" group-title="ĐÔNG & NAM Á" tvg-logo="https://i.imgur.com/Ee8O9YN.png",东方卫视
+http://103.112.191.9:880/LAOSAT1011.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="凤凰中文" group-title="ĐÔNG & NAM Á" tvg-logo="https://i.imgur.com/vsktAez.png",北京卫视
+http://103.112.191.9:880/LAOSAT1065.m3u8
+#EXTINF:-1 tvg-name="卡酷少儿" group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình" tvg-logo="https://i.imgur.com/t8X4wPZ.png",卡酷少儿
+http://103.112.191.9:880/LAOSAT1075.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://i.imgur.com/2JLpv0q.png" group-title="ĐÔNG & NAM Á",湖南卫视
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001026/index.m3u8?
-#EXTINF:-1 tvg-id="HunanTVInternational.cn" tvg-logo="https://i.imgur.com/2JLpv0q.png" group-title="ĐÔNG & NAM Á",湖南卫视世界
 http://103.112.191.9:880/LAOSAT1064.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="https://i.imgur.com/FmMDNtJ.png" group-title="ĐÔNG & NAM Á",广东卫视
-http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw2917484419_-1632335828/ott.mobaibox.com/PLTV/3/224/3221227476/index.m3u8?icpid=3&RTS=1668597711&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
+http://103.112.191.9:880/LAOSAT1013.m3u8
 #EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="https://i.imgur.com/dpre5Qs_d.webp" group-title="ĐÔNG & NAM Á",广西卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb05]/wh7f454c46tw2325655923_1638953995/ott.mobaibox.com/PLTV/3/224/3221228183/index.m3u8?icpid=3&RTS=1669700926&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://i.imgur.com/j6kY8nh.png" group-title="ĐÔNG & NAM Á",海南卫视
@@ -571,11 +595,11 @@ http://[2409:8087:2001:20:2800:0:df6e:eb17]/wh7f454c46tw3143044227_-926148572/ot
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://i.imgur.com/CikxiyB.png" group-title="ĐÔNG & NAM Á",吉林卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1874077489_789689702/ott.mobaibox.com/PLTV/3/224/3221228130/index.m3u8?icpid=3&RTS=1669700475&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://i.imgur.com/XRfeNTd.png" group-title="ĐÔNG & NAM Á",辽宁卫视
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001035/index.m3u8?
+http://103.112.191.9:880/LAOSAT1014.m3u8
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://i.imgur.com/AnZjWm4.png" group-title="ĐÔNG & NAM Á",深圳卫视
-http://[2409:8087:2001:20:2800:0:df6e:eb11]/wh7f454c46tw3025923625_628894334/ott.mobaibox.com/PLTV/3/224/3221227555/index.m3u8?icpid=3&RTS=1668597820&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
+http://103.112.191.9:880/LAOSAT1012.m3u8
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://i.imgur.com/0sdDf2s.png" group-title="ĐÔNG & NAM Á",云南卫视
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001223/index.m3u8?
+http://103.112.191.9:880/LAOSAT1067.m3u8
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://i.imgur.com/ZdqKVeE.png" group-title="ĐÔNG & NAM Á",新疆卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw993550557_162751766/ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8?icpid=3&RTS=1668604377&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
 #EXTINF:0 tvg-id="CelestialMovies.Id" tvg-logo="https://i.imgur.com/Mb5ssnu.png" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC",天映频道
@@ -584,6 +608,14 @@ http://103.112.191.9:880/LAOSAT1029.m3u8
 http://103.112.191.9:880/LAOSAT1015.m3u8
 #EXTINF:-1 tvg-name="贵州卫视" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/eSNdW3n.png",贵州卫视
 http://103.112.191.9:880/LAOSAT1068.m3u8
+#EXTINF:-1 group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC" tvg-logo="https://www.laosat.la/en/images/logo.jpg",星卫电影台
+http://103.112.191.9:880/LAOSAT1082.m3u8
+#EXTINF:-1 group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC" tvg-logo="https://www.laosat.la/en/images/logo.jpg",龙翔电影台
+http://103.112.191.9:880/LAOSAT1084.m3u8
+#EXTINF:-1 group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC" tvg-logo="https://www.laosat.la/en/images/logo.jpg",卫视电影台
+http://103.112.191.9:880/LAOSAT1085.m3u8
+#EXTINF:-1 group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sportcast-golf-2-tw.png",博斯高球 I
+http://103.112.191.9:880/LAOSAT1081.m3u8
 
 #EXTINF:-1 group-title="ĐÔNG NAM Á" tvg-logo="https://i.imgur.com/P8oOR8I.png",Hang meas TV
 http://167.99.72.244:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/chunklist_w998573077_b1800000_sleng.m3u8
@@ -605,8 +637,16 @@ http://103.112.191.9:880/LAOSAT1040.m3u8
 http://103.112.191.9:880/LAOSAT1076.m3u8
 #EXTINF:-1 tvg-id="LaoStar.la" group-title="ĐÔNG NAM Á" tvg-logo="https://i.imgur.com/cQ24Z0v.png",Lao Star TV
 http://103.112.191.9:880/LAOSAT1041.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-1-in.png",Sony Sports Ten 1
+#EXTINF:-1 group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="https://i.imgur.com/BjUpaWw.png",BeIN Sports 1
 http://103.112.191.9:880/LAOSAT1052.m3u8
+#EXTINF:-1 group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="https://i.imgur.com/HevlAHf.png",BeIN Sports 2
+http://103.112.191.9:880/LAOSAT1078.m3u8
+#EXTINF:0 group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="https://i.imgur.com/Gr4PKgq.png",TRUE SPORTS 1 HD
+http://103.112.191.9:880/LAOSAT1020.m3u8
+#EXTINF:0 group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="https://i.imgur.com/OjpxRM2.png",TRUE SPORTS 2 HD
+http://103.112.191.9:880/LAOSAT1053.m3u8
+#EXTINF:0 group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="https://i.imgur.com/Yslav69.png",TRUE SPORTS 3 HD
+http://103.112.191.9:880/LAOSAT1054.m3u8
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/leWw1zz.png",Box Movie 1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
