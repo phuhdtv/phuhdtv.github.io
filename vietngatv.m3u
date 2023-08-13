@@ -505,9 +505,9 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 http://ott-cdn.ucom.am/s49/index.m3u8
 #EXTINF:-1 group-title="ĐÔNG & NAM Á" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/512px-NDTV_247.svg.png",NDTV 24x7
 http://tv.googledrivelinks.com/live.php?c=NDTV_24x7&q=1200&e=.m3u8
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp" group-title="ĐÔNG & NAM Á" tvg-logo="https://i.imgur.com/DNuFsVE.png",NHK WORLD
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" group-title="ĐÔNG & NAM Á" tvg-logo="https://i.imgur.com/OJd9r6E.png",NHK WORLD JAPAN
 http://103.112.191.9:880/LAOSAT1071.m3u8
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp" group-title="ĐÔNG & NAM Á" tvg-logo="https://i.imgur.com/DNuFsVE.png",NHK WORLD HD
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" group-title="ĐÔNG & NAM Á" tvg-logo="https://i.imgur.com/OJd9r6E.png",NHK WORLD JAPAN HD
 https://b-nhkwlive-xjp.nhkworld.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m3u8
 #EXTINF:-1 tvg-id="NHKWorldPremium.jp" group-title="ĐÔNG & NAM Á" tvg-logo="https://i.imgur.com/4ESi2La.png",NHK World Premium
 https://cdn2.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
@@ -664,9 +664,9 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/index.m3u8
 #EXTINF:-1 tvg-id="INCTV.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/INCTV_Logo_With_Shadow.webp" group-title="ĐÔNG NAM Á",INC TV
 https://cocphil.akamaized.net/hls/live/2042846/inctv/playlist.m3u8
 
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="https://i.imgur.com/BjUpaWw.png",BeIN Sports 1 Thailand
+#EXTINF:-1 group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="https://i.imgur.com/BjUpaWw.png",BeIN Sports 1 Thailand (English)
 http://103.112.191.9:880/LAOSAT1052.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="https://i.imgur.com/HevlAHf.png",BeIN Sports 2 Thailand
+#EXTINF:-1 group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="https://i.imgur.com/HevlAHf.png",BeIN Sports 2 Thailand (English)
 http://103.112.191.9:880/LAOSAT1078.m3u8
 #EXTINF:0 group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="https://i.imgur.com/Gr4PKgq.png",TRUE SPORTS 1 HD
 http://103.112.191.9:880/LAOSAT1020.m3u8
@@ -674,6 +674,10 @@ http://103.112.191.9:880/LAOSAT1020.m3u8
 http://103.112.191.9:880/LAOSAT1053.m3u8
 #EXTINF:0 group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="https://i.imgur.com/Yslav69.png",TRUE SPORTS 3 HD
 http://103.112.191.9:880/LAOSAT1054.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/goTVVel.png" group-title="🇻🇳-🇷🇺| Thể Thao",True Premiere Football 1
+http://103.112.191.9:880/LAOSAT1026.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EodqrAZ.png" group-title="🇻🇳-🇷🇺| Thể Thao",True Premiere Football 2
+http://103.112.191.9:880/LAOSAT1027.m3u8
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/leWw1zz.png",Box Movie 1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
