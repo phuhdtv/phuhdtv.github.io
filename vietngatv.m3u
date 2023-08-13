@@ -442,7 +442,7 @@ https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 https://code.vthanhtivi.pw/getlink/mytv/294/hd.m3u8
 #EXTINF:-1 tvg-id="discoveryhd" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://i.imgur.com/f0ZYQbB.png",Discovery Channel SEA
 http://103.112.191.9:880/LAOSAT1094.m3u8
-#EXTINF:-1 tvg-id="discoveryasiahd" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://i.imgur.com/lD13h2Y.png"Discovery Asia HD
+#EXTINF:-1 tvg-id="discoveryasiahd" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://i.imgur.com/lD13h2Y.png"Discovery Asia
 http://103.112.191.9:880/LAOSAT1095.m3u8
 #EXTINF:-1 tvg-id="dw" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/ZhUBsy8.png",DW - Deutsche Welle
 http://103.112.191.9:880/LAOSAT1072.m3u8
@@ -498,6 +498,8 @@ http://210.210.155.37/uq2663/h/h08/index.m3u8
 https://code.vthanhtivi.pw/getlink/fptplay/kix/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="KCTV.kp" group-title="ĐÔNG & NAM Á" tvg-logo="https://i.imgur.com/wN1cSDd.png",Korean Central Television
 https://tv.nknews.org/tvdash/stream.mpd
+#EXTINF:-1 tvg-id="kbsworld" group-title="ĐÔNG & NAM Á" tvg-logo="https://i.imgur.com/zPSO1up.png",KBS World
+http://103.112.191.9:880/LAOSAT1036.m3u8
 #EXTINF:-1 tvg-id="kbsworld" group-title="ĐÔNG & NAM Á" tvg-logo="https://i.imgur.com/zPSO1up.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kbs_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",KBS World HD
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 tvg-id="mcm-top" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://i.imgur.com/n2trOy5.png",MCM TOP
@@ -772,7 +774,10 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="tnt-int-cis" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/l0RGbRI.png",ТНТ International (Азия & СНГ)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s19/04.m3u8
-#EXTINF:-1 tvg-id="muztv" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/BtqrHmz.png",МУЗ ТВ
+#EXTINF:-1 tvg-id="muztv" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/BtqrHmz.png",МУЗ ТВ (480p)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://ott-cdn.ucom.am/s28/04.m3u8
+#EXTINF:-1 tvg-id="muztv" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://i.imgur.com/BtqrHmz.png",МУЗ ТВ (576p)
 http://stream01.vnet.am/MuzTv/mono.m3u8
 #EXTINF:-1 tvg-id="perec-int" tvg-logo="https://i.imgur.com/On6ggLe.png" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿",Перец International
 http://stream01.vnet.am/Perec/mono.m3u8
