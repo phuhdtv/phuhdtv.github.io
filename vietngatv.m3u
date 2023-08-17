@@ -11,7 +11,7 @@ http://stream.cvmtv.site/vtv3?token=live
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/4lJG1fu.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/211/hd/dvr-${start}-${end}.m3u8",VTV3 (Luồng 2)
 https://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-5M.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/WsLLmR2.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/378/hd/dvr-${start}-${offset}.m3u8",VTV4 - VTV INTERNATIONAL
-https://code.vthanhtivi.pw/getlink/tv360/108/2.m3u8
+https://dl.dropboxusercontent.com/s/wl8xauigusl7kt5/getlink/mytv/378/hd.m3u8?id=vtv4-hd
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/Vnnna1C.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/379/hd/dvr-${start}-${end}.m3u8",VTV5
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://stream.cvmtv.site/vtv5?token=live
@@ -26,9 +26,6 @@ https://code.vthanhtivi.pw/getlink/tv360/157/2.m3u8
 https://code.vthanhtivi.pw/getlink/tv360/207/2.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/Mqmbsj4.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtvcantho_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV6 Cần Thơ
 http://stream.cvmtv.site/vtvct?token=live
-#EXTINF:-1 tvg-id="vtv6hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/Mqmbsj4.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtvcantho_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV6 Cần Thơ (Luồng 2)
-#EXTVLCOPT:http-user-agent="Khanggne"
-http://live-zlr1.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/ZwoP823.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/459/hd/dvr-${start}-${offset}.m3u8",VTV7
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/vtv7-hd/playlist.m3u8
