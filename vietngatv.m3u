@@ -96,11 +96,9 @@ https://zjizeoupprliv.vcdn.cloud/live/vnews/chunklist_w1515940883.m3u8
 #EXTINF:-1 tvg-id="ttxvnhd" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/AAWIPHz.png",VNews - TTXVN HD (Luồng 2)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/vnews-hd/playlist.m3u8
-#EXTINF:-1 tvg-id="quochoi" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/YtZGuSy.png",Quốc Hội TV HD
-http://stream.cvmtv.site/qhtv?token=live
-#EXTINF:-1 tvg-id="quochoi" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/YtZGuSy.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/quochoivn_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Quốc Hội TV HD (Luồng 2)
+#EXTINF:-1 tvg-id="quochoi" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/YtZGuSy.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/quochoivn_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Quốc Hội TV HD
 http://113.164.225.140:1935/live/quochoitvlive.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="quochoi" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/YtZGuSy.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/quoc-hoi-viet-nam-hd/dvr-${start}-${offset}.m3u8",Quốc Hội TV HD (50fps)
+#EXTINF:-1 tvg-id="quochoi" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/YtZGuSy.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/quoc-hoi-viet-nam-hd/dvr-${start}-${offset}.m3u8",Quốc Hội TV HD (Luồng 2)
 https://16371213858134.vnns.net/quochoitv-abr-1028/tek4tv10281690202770/720p/chunks.m3u8
 #EXTINF:-1 tvg-id="nhandan" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/Ud78FHF.png",NHÂN DÂN TV HD
 https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1915921234.m3u8
@@ -513,7 +511,7 @@ http://live.vthanhtivi.pw/hbo
 https://live.ishiacloud.com/haditv.co.uk/haditv1.m3u8
 #EXTINF:-1 tvg-id="nadezhda" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/pLeCUEV.png",Hope Channel International
 https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
-#EXTINF:-1 tvg-id="historyhd" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png",History Asia
+#EXTINF:-1 tvg-id="historyhd" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://i.imgur.com/xW7gkWt.png",History Asia
 http://live-vnp.vthanhtivi.pw:18001/HISTORY_HD/index.m3u8
 #EXTINF:-1 group-title="ĐÔNG & NAM Á" tvg-logo="https://www.lyngsat.com/logo/tv/mm/macau_lotus_tv_mo.png",Macau Lotus TV
 http://103.112.191.9:880/LAOSAT1069.m3u8
