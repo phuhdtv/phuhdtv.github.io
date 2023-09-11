@@ -667,6 +667,14 @@ http://103.112.191.9:880/LAOSAT1054.m3u8
 http://103.112.191.9:880/LAOSAT1026.m3u8
 #EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://i.imgur.com/EodqrAZ.png" group-title="🇻🇳-🇷🇺| Thể Thao",True Premiere Football 2
 http://103.112.191.9:880/LAOSAT1027.m3u8
+#EXTINF:0 tvg-id="SPOTV.id" group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="https://phuhdtv.github.io/logo/Sport/Spotv.jpg",SPOTV Asia
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+#EXTINF:0 tvg-id="SPOTV2.id" group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="https://phuhdtv.github.io/logo/Sport/spotv2.jpg",SPOTV2 Asia
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/leWw1zz.png",Box Movie 1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
