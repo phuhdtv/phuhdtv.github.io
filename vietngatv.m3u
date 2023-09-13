@@ -327,7 +327,7 @@ https://yenbaitv.org.vn/hls/livestream.m3u8
 #EXTINF:-1 tvg-id="abcaustralia" group-title="🌏| Quốc tế" tvg-logo="https://phuhdtv.github.io/logo/International/ABC.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/australiaplus_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",ABC Australia
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/abc/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="axnhd" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ" tvg-logo="https://i.imgur.com/xOfuwnt.png",AXN Asia
+#EXTINF:-1 tvg-id="axnhd" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ" tvg-logo="https://raw.githubusercontent.com/phuhdtv/phuhdtv.github.io/master/logo/MSky_TV/AXN.png",AXN Asia
 http://live-vnp.vthanhtivi.pw:18001/AXN_HD/index.m3u8
 #EXTINF:-1 tvg-id="al-jazeera-int" group-title="TÂY Á & TRUNG ĐÔNG" tvg-logo="https://i.imgur.com/dQrdh2F.png",Aljazeera International
 http://103.112.191.9:880/LAOSAT1021.m3u8
@@ -347,16 +347,16 @@ http://103.112.191.9:880/LAOSAT1033.m3u8
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 tvg-id="bloomberg" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://phuhdtv.github.io/logo/International/bloomberg.png",Bloomberg Asia
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
-#EXTINF:-1 tvg-id="no_epg_news" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH"  tvg-logo="https://phuhdtv.github.io/logo/International/bloomberg.png",Bloomberg Asia Event
+#EXTINF:-1 tvg-id="no_epg_news" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://phuhdtv.github.io/logo/International/bloomberg.png",Bloomberg Asia Event
 https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
 #EXTINF:-1 tvg-id="bbcearth" group-title="🇬🇧| BBC" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/bbce.png",BBC Earth
 http://6.tcp.us-cal-1.ngrok.io:17801/bbcearth/index.m3u8
-#EXTINF:-1 tvg-id="bbclifestyle" group-title="🇬🇧| BBC" tvg-logo="https://cdn.hqth.me/logo/thumbs/211.png", BBC Lifestyle
+#EXTINF:-1 tvg-id="bbclifestyle" group-title="🇬🇧| BBC" tvg-logo="https://raw.githubusercontent.com/phuhdtv/phuhdtv.github.io/master/logo/MSky_TV/bbc-ls.png", BBC Lifestyle
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZqBqaZWnmsKcm6KZlqidmqJgYmVn&time=1694586387&vieon&id=bbc-lifestyle
 https://liveott.msky.vn/live_dzones/bbclifestyle.smil/manifest.mpd
-#EXTINF:-1 tvg-id="cbeebies" group-title="🇬🇧| BBC" tvg-logo="https://cdn.hqth.me/logo/thumbs/212.png", BBC Cbeebies
+#EXTINF:-1 tvg-id="cbeebies" group-title="🇬🇧| BBC" tvg-logo="https://raw.githubusercontent.com/phuhdtv/phuhdtv.github.io/master/logo/MSky_TV/BBC-cbeebies.png",BBC Cbeebies
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZqBqaZWnmsKcm6KZlqidmqJgYmVn&time=1694586387&vieon&id=cbeebies
