@@ -327,7 +327,7 @@ https://yenbaitv.org.vn/hls/livestream.m3u8
 #EXTINF:-1 tvg-id="abcaustralia" group-title="🌏| Quốc tế" tvg-logo="https://phuhdtv.github.io/logo/International/ABC.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/australiaplus_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",ABC Australia
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/abc/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="axnhd" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ" tvg-logo="https://raw.githubusercontent.com/phuhdtv/phuhdtv.github.io/master/logo/MSky_TV/AXN.png",AXN Asia
+#EXTINF:-1 tvg-id="axnhd" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/AXN.png",AXN Asia
 http://live-vnp.vthanhtivi.pw:18001/AXN_HD/index.m3u8
 #EXTINF:-1 tvg-id="al-jazeera-int" group-title="TÂY Á & TRUNG ĐÔNG" tvg-logo="https://i.imgur.com/dQrdh2F.png",Aljazeera International
 http://103.112.191.9:880/LAOSAT1021.m3u8
@@ -351,12 +351,12 @@ https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
 #EXTINF:-1 tvg-id="bbcearth" group-title="🇬🇧| BBC" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/bbce.png",BBC Earth
 http://6.tcp.us-cal-1.ngrok.io:17801/bbcearth/index.m3u8
-#EXTINF:-1 tvg-id="bbclifestyle" group-title="🇬🇧| BBC" tvg-logo="https://raw.githubusercontent.com/phuhdtv/phuhdtv.github.io/master/logo/MSky_TV/bbc-ls.png",BBC Lifestyle
+#EXTINF:-1 tvg-id="bbclifestyle" group-title="🇬🇧| BBC" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/bbc-ls.png",BBC Lifestyle
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZqBqaZWnmsKcm6KZlqidmqJgYmVn&time=1694586387&vieon&id=bbc-lifestyle
 https://liveott.msky.vn/live_dzones/bbclifestyle.smil/manifest.mpd
-#EXTINF:-1 tvg-id="cbeebies" group-title="🇬🇧| BBC" tvg-logo="https://raw.githubusercontent.com/phuhdtv/phuhdtv.github.io/master/logo/MSky_TV/BBC-cbeebies.png",BBC Cbeebies
+#EXTINF:-1 tvg-id="cbeebies" group-title="🇬🇧| BBC" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/BBC-cbeebies.png",BBC Cbeebies
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZqBqaZWnmsKcm6KZlqidmqJgYmVn&time=1694586387&vieon&id=cbeebies
@@ -466,7 +466,7 @@ https://code.vthanhtivi.pw/getlink/mytv/294/hd.m3u8
 http://103.112.191.9:880/LAOSAT1094.m3u8
 #EXTINF:-1 tvg-id="discoveryasiahd" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/discoveryasia.png",Discovery Asia
 http://103.112.191.9:880/LAOSAT1095.m3u8
-#EXTINF:-1 tvg-id="dmax" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://raw.githubusercontent.com/phuhdtv/phuhdtv.github.io/master/logo/MSky_TV/dmax.jpg",DMAX
+#EXTINF:-1 tvg-id="dmax" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/dmax.jpg",DMAX
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZqBqaZWnmsKcm6KZlqidmqJgYmVn&time=1694586387&vieon&id=dmax
@@ -1044,15 +1044,69 @@ http://103.195.238.135:8080/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="no_epg" group-title="B4TV" tvg-logo="http://b4tv.live/images/0ef23e2c33c966c5c76e2b5cca9428f8.png",B4CONNECT 2
 http://b4tv.live/b4tv/b4tv/76.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_sport" group-title="TV360" tvg-logo="http://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017184627/cd3d4c1e88ff_480_270.png",TV360+ 1
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_pladio_163947930147.png",FPT Play Pladio
+https://code.vthanhtivi.pw/getlink/fptplay/pladio/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://phuhdtv.github.io/logo/Other/fpt-play.png",F Sports 1
+https://code.vthanhtivi.pw/getlink/fptplay/the-thao-1/chunklist_b5500000.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://phuhdtv.github.io/logo/Other/fpt-play.png",F Sports 2
+https://code.vthanhtivi.pw/getlink/fptplay/the-thao-2/chunklist_b5500000.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://phuhdtv.github.io/logo/Other/fpt-play.png",F Sports 3
+https://code.vthanhtivi.pw/getlink/fptplay/the-thao-3/chunklist_b5500000.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://phuhdtv.github.io/logo/Other/fpt-play.png",F Sports 4
+https://code.vthanhtivi.pw/getlink/fptplay/the-thao-4/chunklist_b5500000.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://phuhdtv.github.io/logo/Other/fpt-play.png",F Sports 5
+https://code.vthanhtivi.pw/getlink/fptplay/the-thao-5/chunklist_b5500000.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://phuhdtv.github.io/logo/Other/fpt-play.png",F Sports 6
+https://code.vthanhtivi.pw/getlink/fptplay/the-thao-6/chunklist_b5500000.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://phuhdtv.github.io/logo/Other/fpt-play.png",F Sports 7
+https://code.vthanhtivi.pw/getlink/fptplay/the-thao-7/chunklist_b5500000.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://phuhdtv.github.io/logo/Other/fpt-play.png",F Sports 8
+https://code.vthanhtivi.pw/getlink/fptplay/the-thao-8/chunklist_b5500000.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://phuhdtv.github.io/logo/Other/fpt-play.png",F Sports 9
+https://code.vthanhtivi.pw/getlink/fptplay/the-thao-9/chunklist_b5500000.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://phuhdtv.github.io/logo/Other/fpt-play.png",F Sports 10
+https://code.vthanhtivi.pw/getlink/fptplay/the-thao-10/chunklist_b5500000.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://phuhdtv.github.io/logo/Other/fpt-play.png",F Sports 11
+https://code.vthanhtivi.pw/getlink/fptplay/the-thao-11/chunklist_b5500000.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://phuhdtv.github.io/logo/Other/fpt-play.png",F Sports 12
+https://code.vthanhtivi.pw/getlink/fptplay/the-thao-12/chunklist_b5500000.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://phuhdtv.github.io/logo/Other/fpt-play.png",F Sports 13
+https://code.vthanhtivi.pw/getlink/fptplay/the-thao-13/chunklist_b5500000.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://phuhdtv.github.io/logo/Other/fpt-play.png",F Sports 14
+https://code.vthanhtivi.pw/getlink/fptplay/the-thao-14/chunklist_b5500000.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://phuhdtv.github.io/logo/Other/fpt-play.png",F Sports 15
+https://code.vthanhtivi.pw/getlink/fptplay/the-thao-15/chunklist_b5500000.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://phuhdtv.github.io/logo/Other/fpt-play.png",F Sports 16
+https://code.vthanhtivi.pw/getlink/fptplay/the-thao-16/chunklist_b5500000.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://phuhdtv.github.io/logo/Other/fpt-play.png",F Sports 17
+https://code.vthanhtivi.pw/getlink/fptplay/the-thao-17/chunklist_b5500000.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://phuhdtv.github.io/logo/Other/fpt-play.png",F Sports 18
+https://code.vthanhtivi.pw/getlink/fptplay/the-thao-18/chunklist_b5500000.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://phuhdtv.github.io/logo/Other/fpt-play.png",F Sports 19
+https://code.vthanhtivi.pw/getlink/fptplay/the-thao-19/chunklist_b5500000.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://phuhdtv.github.io/logo/Other/fpt-play.png",F Sports 20
+https://code.vthanhtivi.pw/getlink/fptplay/the-thao-20/chunklist_b5500000.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://phuhdtv.github.io/logo/Other/fpt-play.png",F Sports 21
+https://code.vthanhtivi.pw/getlink/fptplay/the-thao-21/chunklist_b5500000.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://phuhdtv.github.io/logo/Other/fpt-play.png",F Sports 22
+https://code.vthanhtivi.pw/getlink/fptplay/the-thao-22/chunklist_b5500000.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://phuhdtv.github.io/logo/Other/fpt-play.png",F Sports 23
+https://code.vthanhtivi.pw/getlink/fptplay/the-thao-23/chunklist_b5500000.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://phuhdtv.github.io/logo/Other/fpt-play.png",F Sports 24
+https://code.vthanhtivi.pw/getlink/fptplay/the-thao-24/chunklist_b5500000.m3u8
+#EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://phuhdtv.github.io/logo/Other/fpt-play.png",F Sports 25
+https://code.vthanhtivi.pw/getlink/fptplay/the-thao-25/chunklist_b5500000.m3u8 
+
+#EXTINF:-1 tvg-id="no_epg_sport" group-title="TV360" tvg-logo="https://phuhdtv.github.io/logo/Other/tv-360-1.png",TV360+ 1
 http://live-ali2.tv360.vn/manifest/sukien/playlist_1080p-5M.m3u8
-#EXTINF:-1 tvg-id="no_epg_sport" group-title="TV360" tvg-logo="http://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017310434/c702b55e7aa8_480_270.png",TV360+ 2
+#EXTINF:-1 tvg-id="no_epg_sport" group-title="TV360" tvg-logo="https://phuhdtv.github.io/logo/Other/tv-360-2.png",TV360+ 2
 https://live-ali2.tv360.vn/manifest/u23-dubaicup2/playlist_U23-dubaicup2-720p.m3u8
-#EXTINF:-1 tvg-id="no_epg_sport" group-title="TV360" tvg-logo="http://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017385349/790530ec477b_480_270.png",TV360+ 3
+#EXTINF:-1 tvg-id="no_epg_sport" group-title="TV360" tvg-logo="https://phuhdtv.github.io/logo/Other/tv-360-3.png",TV360+ 3
 https://live-zlr1.tv360.vn/manifest/Su_Kien_3/playlist_1080p.m3u8
-#EXTINF:-1 tvg-id="no_epg_sport" group-title="TV360" tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/21/13/1679381719416/902f0862cc9b_480_270.png",TV360+ 4
+#EXTINF:-1 tvg-id="no_epg_sport" group-title="TV360" tvg-logo="https://phuhdtv.github.io/logo/Other/tv-360-4.png",TV360+ 4
 https://live-zlr1.tv360.vn/manifest/Su_Kien_4/playlist_1080p.m3u8
-#EXTINF:-1 tvg-id="no_epg" group-title="TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/07/10/1680838724438/c7c3f80ee314_640_360.png",TV360 Cửu Long
+#EXTINF:-1 tvg-id="no_epg" group-title="TV360" tvg-logo="https://phuhdtv.github.io/logo/Other/tv-360.png",TV360 Cửu Long
 http://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/test/playlist_1080p.m3u8
 
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://phuhdtv.github.io/logo/Radio/VOV1.png",VOV1
