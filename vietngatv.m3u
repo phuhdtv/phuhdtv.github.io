@@ -328,8 +328,9 @@ http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
 https://yenbaitv.org.vn/hls/livestream.m3u8
 
 #EXTINF:-1 tvg-id="abcaustralia" group-title="🌏| Quốc tế" tvg-logo="https://phuhdtv.github.io/logo/International/ABC.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/australiaplus_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",ABC Australia
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e4.endpoint.cdn.sctvonline.vn/hls/abc/index.m3u8|Referer=http://sctvonline.vn/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+https://nyanv-live-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
 #EXTINF:-1 tvg-id="axnhd" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/AXN.png",AXN Asia
 http://live-vnp.vthanhtivi.pw:18001/AXN_HD/index.m3u8
 #EXTINF:-1 tvg-id="al-jazeera-int" group-title="TÂY Á & TRUNG ĐÔNG" tvg-logo="https://i.imgur.com/dQrdh2F.png",Aljazeera International
@@ -381,7 +382,7 @@ http://103.112.191.9:880/LAOSAT1070.m3u8
 #KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=ibbXxNHQvd3ezuXUxuCRYWZvZqBqaZWnmsKcm6KZlqidmqJgYmVn&time=1694586387&vieon&id=cinema-world
 https://liveott.msky.vn/live_dzones/cinemaworld.smil/manifest.mpd
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/cinemaxhd.png",Cinemax Asia
-http://103.112.191.9:880/LAOSAT1031.m3u8
+http://vthanhtivi.pw:5000/cinemax/index.m3u8
 #EXTINF:-1 tvg-id="cetv1" tvg-name="CETV-1" tvg-logo="https://i.imgur.com/6sOHLq8.png" group-title="ĐÔNG & NAM Á",CETV1 - 中国教育1台
 http://txycetvbl.centv.cn/cetv1/ypd.m3u8
 #EXTINF:-1 tvg-id="cetv2" tvg-name="CETV-2" tvg-logo="https://i.imgur.com/ZD8XPmw.png" group-title="ĐÔNG & NAM Á",CETV2 - 中国教育2台
@@ -511,7 +512,7 @@ https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d51
 #EXTINF:-1 tvg-id="HudaTV.eg" tvg-logo="https://i.imgur.com/1UUjU26.png" group-title="TÂY Á & TRUNG ĐÔNG",Huda TV
 https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
 #EXTINF:-1 tvg-id="hbohd" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/HBO.png",HBO Asia
-http://103.112.191.9:880/LAOSAT1089.m3u8
+http://vthanhtivi.pw:5000/hbo/index.m3u8
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.imgur.com/yce0NJB.png" group-title="TÂY Á & TRUNG ĐÔNG",Hadi TV
 https://live.ishiacloud.com/haditv.co.uk/haditv1.m3u8
 #EXTINF:-1 tvg-id="nadezhda" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/pLeCUEV.png",Hope Channel International
@@ -552,11 +553,15 @@ https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RaiItaliaAsia.it" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/Vg4MUGQ.png",Rai Italia Asia
 http://210.210.155.37/x6bnqe/s/s63/index2.m3u8
 #EXTINF:0 tvg-id="blueantent" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/ROCK-Entertainment.png",Rock Entertainment
-#EXTVLCOPT:http-user-agent="KIIP"
-http://210.210.155.37/dr9445/h/h16/index.m3u8
+#EXTVLCOPT:http-user-agent="Khanggne"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://livecdn.khanggtivi.xyz/key/rock/01.php
+https://aqfadtv.xyz/live/mewatch/rockentertainment/index.mpd
 #EXTINF:0 tvg-id="no_epg" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/ROCK-ACTION.jpg",Rock Action
-#EXTVLCOPT:http-user-agent="KIIP"
-http://210.210.155.37/dr9445/h/h15/index.m3u8
+#EXTVLCOPT:http-user-agent="Khanggne"
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+https://nyanv-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
 #EXTINF:-1 tvg-id="russia-today" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://phuhdtv.github.io/logo/International/RT-HD.png",RT - Russia Today
 https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-2/vift-hm2v_1080p/chunklist_DVR.m3u8
 #EXTINF:-1 tvg-id="rtd-ru" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://phuhdtv.github.io/logo/International/RTD.png",RT DOC
@@ -878,6 +883,8 @@ http://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
 http://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
 #EXTINF:-1 tvg-id="rtvi" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/RTVi.png" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿",RTVI
 http://138.201.67.145:8081/rtvi/index.m3u8
+#EXTINF:-1 tvg-id="dozhd" group-title="🇷🇺- Nga và khối SNG" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/TVRAIN.png",Dozhd
+http://portal.ott.pink/watch/7319/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 
 #EXTINF:-1 tvg-id="bridge-tv" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/BRIDGE.png",BRIDGE TV (INTERNATIONAL)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
@@ -983,9 +990,11 @@ http://ott-cdn.ucom.am/s56/04.m3u8
 #EXTINF:-1 tvg-id="rtg-int" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/RTGTV.png" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG",RTG
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s80/04.m3u8
-#EXTINF:-1 tvg-id="rtg-hd" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/RTGHD.png" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG",RTG HD
+#EXTINF:-1 tvg-id="rtg-hd" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/RTGHD.png" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG",RTG HD (L)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s63/04.m3u8
+#EXTINF:-1 tvg-id="rtg-hd" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/RTGHD.png" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG",RTG HD (H)
+http://91.197.104.34:8080/RTGHD/video.m3u8
 #EXTINF:-1 tvg-id="centralnoye-tv" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/CTV.png" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿",Центральное телевидение
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s20/04.m3u8
