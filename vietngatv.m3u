@@ -771,10 +771,10 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8|Referer=http://sct
 http://ott-cdn.ucom.am/s14/04.m3u8
 #EXTINF:-1 tvg-id="pervy-kanal-csi" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/ORT.png",Первый канал. Всемирная сеть (576p)
 http://45.159.74.13:80/PerviyKanal/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="rtr-planeta-ua" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/RTRP.png",Россия РТР
+#EXTINF:0 tvg-id="rtr-planeta-ua" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/RTRP.png",Россия РТР (480p)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s15/04.m3u8
-#EXTINF:0 tvg-id="rtr-planeta-ua" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/RTRP.png",Россия РТР
+#EXTINF:0 tvg-id="rtr-planeta-ua" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/RTRP.png",Россия РТР (576p)
 http://45.159.74.13:80/RTRPlaneta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| Thể Thao" tvg-id="match-tv" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/Match.png",Матч! ТВ
 http://stream.cvmtv.site/Match?token=live
@@ -854,6 +854,12 @@ http://80.65.18.213/8kanal/vintera/playlist.m3u8
 http://bsttv.bonus-tv.ru:80/cdn/bst/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-id="enisey-region" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/EniseyTV.png",Енисей
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="kuzbas1" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/KUZ_PERVIY.png" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿",Кузбасс Первый
+http://192.162.37.3:8000/play/a005/index.m3u8
+#EXTINF:-1 tvg-id="kuzbas1" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/KUZ_PERVIY.png" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿",Кузбасс Первый HD
+http://192.162.37.3:8000/play/a00m/index.m3u8
+#EXTINF:-1 tvg-id="kuzbas1" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/KUZ_PERVIY.png" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿",Кузбасс Первый HD
+http://192.162.37.3:8000/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="Mezhdunet.ru" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/KVANT.png",ТРК Квант (Междуреченск)
 http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8
 #EXTINF:-1 tvg-id="yugra" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/YuzraTV.png" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿",Югра
@@ -896,8 +902,6 @@ http://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
 http://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
 #EXTINF:-1 tvg-id="rtvi" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/RTVi.png" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿",RTVI
 http://138.201.67.145:8081/rtvi/index.m3u8
-#EXTINF:-1 tvg-id="dozhd" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/TVRAIN.png",Дождь
-http://portal.ott.pink/watch/7319/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
 
 #EXTINF:-1 tvg-id="bridge-tv" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/BRIDGE.png",BRIDGE TV (INTERNATIONAL)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
