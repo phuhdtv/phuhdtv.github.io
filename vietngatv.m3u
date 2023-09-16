@@ -10,8 +10,8 @@ https://live-zlr1.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-5M.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" group-title="🇻🇳| VTV" tvg-logo="https://phuhdtv.github.io/logo/VTV/vtv-4.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/378/hd/dvr-${start}-${offset}.m3u8",VTV4 - VTV INTERNATIONAL
-#EXTVLCOPT:http-user-agent="Khanggne"
-https://livecdn.khanggtivi.xyz/getlink/tv360/2.m3u8?id=108
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/getlink/tv360/108/2.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🇻🇳| VTV" tvg-logo="https://phuhdtv.github.io/logo/VTV/vtv-5.png" catchup="append" catchup-days="2" catchup-source="https://live-zlr1.tv360.vn/manifest/6f862904-7894-4fbb-9707-f56e4fe10d63/catchup/VTV5-HD-50fps-1080P-65M/VTV5-HD-50fps-1080P-65M.m3u8?media=true&start=${start}&stop=${end}",VTV5
 #EXTVLCOPT:http-user-agent="Khanggne"
 https://live-ali2.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
@@ -21,7 +21,7 @@ https://live-zlr1.tv360.vn/manifest/VTV5-TNB/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="🇻🇳| VTV" tvg-logo="https://phuhdtv.github.io/logo/VTV/vtv-5-tn.png",VTV5 Tây Nguyên
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://live-ali2.tv360.vn/manifest/VTV5_Tay_Nguyen_HD/playlist_1080p.m3u8
-#EXTINF:-1 tvg-id="vtv6hd" group-title="🇻🇳| VTV" tvg-logo="https://phuhdtv.github.io/logo/VTV/vtv-can-tho.png" catchup="append" catchup-days="2" catchup-source="https://live-zlr1.tv360.vn/manifest/d055b75f-05c9-4799-8581-c46b60b878dd/catchup/1080p/1080p.m3u8?media=true&start=${start}&stop=${end}",VTV6 Cần Thơ
+#EXTINF:-1 tvg-id="vtv6hd" group-title="🇻🇳| VTV" tvg-logo="https://phuhdtv.github.io/logo/VTV/vtv-can-tho.png" catchup="append" catchup-days="2" catchup-source="https://live-zlr1.tv360.vn/manifest/d055b75f-05c9-4799-8581-c46b60b878dd/catchup/1080p/1080p.m3u8?media=true&start=${start}&stop=${end}",VTV Cần Thơ
 #EXTVLCOPT:http-user-agent="Khanggne"
 https://live-zlr1.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" group-title="🇻🇳| VTV" tvg-logo="https://phuhdtv.github.io/logo/VTV/vtv-7.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/459/hd/dvr-${start}-${offset}.m3u8",VTV7
@@ -200,7 +200,7 @@ http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8
 #EXTINF:-1 tvg-id="binhphuoc1" group-title="🇻🇳| Địa phương" tvg-logo="https://phuhdtv.github.io/logo/diaphuong/BinhPhuocTV1.png",BPTV1 HD - BÁO BÌNH PHƯỚC 1 HD
 http://103.90.220.236/bptvlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="binhphuoc2" group-title="🇻🇳| Địa phương" tvg-logo="https://phuhdtv.github.io/logo/diaphuong/BinhPhuocTV2.png",BPTV2 HD - BÁO BÌNH PHƯỚC 2 HD
-http://103.90.220.236/bptvlive/tv2live.m3u8
+https://cdn.baobinhphuoc.com.vn/live/28550d6213460634105b0bae21016f68bce/playlist.m3u8
 #EXTINF:-1 tvg-id="binhthuan" group-title="🇻🇳| Địa phương" tvg-logo="https://phuhdtv.github.io/logo/diaphuong/BinhThuanTV.png",BTV - BÌnh ThuẬn
 https://64d0d74b76158.streamlock.net/BTVTV/binhthuantv/chunklist.m3u8
 #EXTINF:-1 tvg-id="bacgiang" group-title="🇻🇳| Địa phương" tvg-logo="https://phuhdtv.github.io/logo/diaphuong/BacGiangTV.png",BGTV - Bắc Giang HD
@@ -227,7 +227,7 @@ https://code.vthanhtivi.pw/getlink/tv360/255/3.m3u8
 #EXTINF:-1 tvg-id="dongnai3" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/135.png",ĐNRTV3 - ĐỒNG NAI 3
 https://code.vthanhtivi.pw/getlink/dnlive/dnrtv3/playlist.m3u8
 #EXTINF:-1 tvg-id="dongthap" group-title="🇻🇳| Địa phương" tvg-logo="https://phuhdtv.github.io/logo/diaphuong/DongThapTV.png",THĐT - ĐỒNG THÁP HD
-http://118.69.169.41:1935/THDT/thdttv/chunklist.m3u8
+https://618b88f69e53b.streamlock.net/THDT/thdttv/chunklist_w1345752229.m3u8
 #EXTINF:-1 tvg-id="dienbien" group-title="🇻🇳| Địa phương" tvg-logo="https://phuhdtv.github.io/logo/diaphuong/DienBienTV.png",ĐTV - ĐIỆN BIÊN HD
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&q=high&type=tv&token=LX-ibJYRUq9pflRtYAxfYQ&time=1586395820&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1586309420781&pkg=pkg11.hni
 #EXTINF:-1 tvg-id="daklak" group-title="🇻🇳| Địa phương" tvg-logo="https://phuhdtv.github.io/logo/diaphuong/DakLakTV.png",DRT HD - ĐẮK LẮK
@@ -255,7 +255,7 @@ https://cdn.thhp.vn/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8
 #EXTINF:-1 tvg-id="haugiang" group-title="🇻🇳| Địa phương" tvg-logo="https://phuhdtv.github.io/logo/diaphuong/HauGiangTV.png",HGTV - HẬU GIANG
 https://60acee235f4d5.streamlock.net/HGTV/d1/chunklist_w1285809548.m3u8
 #EXTINF:-1 tvg-id="hoabinh" group-title="🇻🇳| Địa phương" tvg-logo="https://phuhdtv.github.io/logo/diaphuong/HoaBinhTV.png",HBTV HD - HÒA BÌNH
-http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
+https://hbtvlive.3ssoft.vn/hoabinhtv/playlist.m3u8
 #EXTINF:-1 tvg-id="hungyen" group-title="🇻🇳| Địa phương" tvg-logo="https://phuhdtv.github.io/logo/diaphuong/HungYenTV.png",HYTV - HƯNG YÊN
 https://cdn.hungyentv.vn/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/chunklist.m3u8
 #EXTINF:-1 tvg-id="khanhhoa" group-title="🇻🇳| Địa phương" tvg-logo="https://phuhdtv.github.io/logo/diaphuong/KhanhHoaTV.png",KTV HD - KHÁNH HOÀ HD
@@ -286,11 +286,11 @@ https://code.vthanhtivi.pw/getlink/tv360/73/0.m3u8
 #EXTINF:-1 tvg-id="nghean" group-title="🇻🇳| Địa phương" tvg-logo="https://phuhdtv.github.io/logo/diaphuong/NgheAnTV.png",NTV - NGHỆ AN
 https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/chunklist.m3u8
 #EXTINF:-1 tvg-id="ninhbinh" group-title="🇻🇳| Địa phương" tvg-logo="https://phuhdtv.github.io/logo/diaphuong/NinhBinhTV.png",NBTV - NINH BÌNH
-http://103.90.220.236/nbtvlive/tv1live.m3u8
+https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/playlist.m3u8
 #EXTINF:-1 tvg-id="ninhthuan" group-title="🇻🇳| Địa phương" tvg-logo="https://phuhdtv.github.io/logo/diaphuong/NinhThuanTV.png",NTV - NINH THUẬN
 https://60acee235f4d5.streamlock.net/live/mystream/chunklist_w1911661624.m3u8
 #EXTINF:-1 tvg-id="phutho" group-title="🇻🇳| Địa phương" tvg-logo="https://phuhdtv.github.io/logo/diaphuong/PhuThoTV.png",PTV - PHÚ THỌ HD
-https://cdn.3ssoft.vn/live/phuthotv/phuthotv/index.m3u8?t=9d4Wwey5G--NBCGeUnajXQ&e=1692020644
+https://cdn.3ssoft.vn/live/phuthotv/phuthotv/index.m3u8
 #EXTINF:-1 tvg-id="phuyen" group-title="🇻🇳| Địa phương" tvg-logo="https://phuhdtv.github.io/logo/diaphuong/PhuYenTV.png",PTP - PHÚ YÊN
 http://113.161.4.48:8080/phuyen/tv/index.m3u8
 #EXTINF:-1 tvg-id="quangbinh" group-title="🇻🇳| Địa phương" tvg-logo="https://phuhdtv.github.io/logo/diaphuong/QuangBinhTV.png",QBTV - QUẢNG BÌNH
@@ -298,7 +298,7 @@ https://code.vthanhtivi.pw/getlink/nethubtv/9359/1.m3u8
 #EXTINF:-1 tvg-id="quangtri" group-title="🇻🇳| Địa phương" tvg-logo="https://phuhdtv.github.io/logo/diaphuong/QuangTriTV.png",QRTV - QUẢNG TRỊ
 http://mediatech.vncdn.vn/qrtvlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="quangnam" group-title="🇻🇳| Địa phương" tvg-logo="https://phuhdtv.github.io/logo/diaphuong/QuangNamTV.png",QRT - QUẢNG NAM
-https://ppp.qrt.vn/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+https://beta.qrt.vn/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 tvg-id="quangngai" group-title="🇻🇳| Địa phương" tvg-logo="https://phuhdtv.github.io/logo/diaphuong/QuangNgaiTV.png",PTQ HD - QUẢNG NGÃI
 http://118.107.85.5:1935/live/smil:PTQ.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="quangninh1" group-title="🇻🇳| Địa phương" tvg-logo="https://phuhdtv.github.io/logo/diaphuong/QuangNinhTV1.png",QTV1 - QUẢNG NINH 1
@@ -318,7 +318,7 @@ https://stream.thaibinhtv.vn/live/285fe61ba73072f428d8a626d764222e744/chunklist.
 #EXTINF:-1 tvg-id="thainguyen" group-title="🇻🇳| Địa phương" tvg-logo="https://phuhdtv.github.io/logo/diaphuong/ThaiNguyenTV.png",TN HD - Thái Nguyên
 https://streaming.thainguyentv.vn/hls/livestream.m3u8
 #EXTINF:-1 tvg-id="thanhhoa" group-title="🇻🇳| Địa phương" tvg-logo="https://phuhdtv.github.io/logo/diaphuong/ThanhHoaTV.png",TTV - THANH HÓA
-https://code.vthanhtivi.pw/getlink/mytv/477/hd.m3u8
+https://code.vthanhtivi.pw/getlink/dp/ttv/playlist.m3u8
 #EXTINF:-1 tvg-id="hue" group-title="🇻🇳| Địa phương" tvg-logo="https://phuhdtv.github.io/logo/diaphuong/ThuaThienHueTV.png",TRT - THỪA THIÊN HUẾ
 https://live.trt.com.vn/TRT-Online/chunklist.m3u8
 #EXTINF:-1 tvg-id="tiengiang" group-title="🇻🇳| Địa phương" tvg-logo="https://phuhdtv.github.io/logo/diaphuong/TienGiangTV.png",THTG - TIỀN GIANG
