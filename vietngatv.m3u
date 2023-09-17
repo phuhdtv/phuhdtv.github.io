@@ -742,7 +742,7 @@ http://45.159.74.13:80/PerviyKanal/tracks-v1a1/mono.m3u8
 http://ott-cdn.ucom.am/s15/04.m3u8
 #EXTINF:0 tvg-id="rtr-planeta-ua" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/RTRP.png",Россия РТР (576p)
 http://45.159.74.13:80/RTRPlaneta/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| Thể Thao" tvg-id="match-tv" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/Match.png",Матч! ТВ
+#EXTINF:-1 group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-id="match-tv" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/Match.png",Матч! ТВ
 http://stream.cvmtv.site/Match?token=live
 #EXTINF:-1 tvg-id="ntv-mir" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/NTV.png",НТВ МИР (480p)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
@@ -818,8 +818,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 http://80.65.18.213/8kanal/vintera/playlist.m3u8
 #EXTINF:-1 tvg-id="bst" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/BST.png",БСТ - Башкирское спутниковое телевидение
 http://bsttv.bonus-tv.ru:80/cdn/bst/playlist_sdhigh.m3u8
-#EXTINF:-1 tvg-id="enisey-region" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/EniseyTV.png",Енисей
-http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="kuzbas1" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/KUZ_PERVIY.png" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿",Кузбасс Первый
 http://192.162.37.3:8000/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="kuzbas1" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/KUZ_PERVIY.png" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿",Кузбасс Первый HD
@@ -828,6 +826,8 @@ http://192.162.37.3:8000/play/a00m/index.m3u8
 http://192.162.37.3:8000/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="Mezhdunet.ru" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/KVANT.png",ТРК Квант (Междуреченск)
 http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8
+#EXTINF:-1 tvg-id="enisey-region" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/EniseyTV.png",Телеканал Енисей
+http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="yugra" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/YuzraTV.png" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿",Югра
 http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="sochi24" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/sochi24.png" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿",Сочи 24 ТВ HD
