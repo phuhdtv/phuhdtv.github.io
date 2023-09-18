@@ -713,18 +713,23 @@ http://stream.cvmtv.site/Match?token=live
 http://ott-cdn.ucom.am/s17/04.m3u8
 #EXTINF:-1 tvg-id="ntv-mir" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/NTV.png",НТВ МИР (576p)
 http://45.159.74.13:80/HTB/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="5kanal-ru-pl2" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/5-Kanal-SPB.png",Петербург 5 канал (+2)
-http://213.59.128.165:8888/play/Pyatyj_kanal/index.m3u8
-#EXTINF:-1 tvg-id="kultura" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/RK.png",Россия К
+#EXTINF:-1 tvg-id="5kanal-ru" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/5-Kanal-SPB.png",Петербург 5 канал
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
+#EXTINF:-1 tvg-id="kultura" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/RK.png",Россия К (480p)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s16/04.m3u8
+#EXTINF:-1 tvg-id="kultura" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/RK.png",Россия К (576p)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://s18209.cdn.ngenix.net/hls/CH_R02_ROSSIAK/playlist.m3u8
 #EXTINF:-1 tvg-id="rossia-24" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/R24.png",Россия 24
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s21/04.m3u8
 #EXTINF:-1 tvg-id="karusel-int" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/Karusel.png",Телеканал Карусель
 http://45.159.74.13:80/Karusel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="otr-pl2" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/OTR.png",Общественное Телевидение России (+2)
-http://94.230.240.17:8080/otp/index.m3u8
+#EXTINF:-1 tvg-id="otr" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/OTR.png",Общественное Телевидение России
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
 #EXTINF:-1 tvg-id="tvci" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/TVC.png",ТВ Центр International (480p)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s54/04.m3u8
@@ -745,14 +750,13 @@ http://45.159.74.13:80/CTC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="domashny-int" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/DOM.png",Домашний International
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s88/04.m3u8
-#EXTINF:-1 tvg-id="tv3-ru-pl2" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/TV3.png",ТВ3 (+2)
-http://213.59.128.165:8888/play/TV_3/index.m3u8
+#EXTINF:-1 tvg-id="tv3-ru" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/TV3.png",ТВ3
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8
 #EXTINF:-1 tvg-id="piatnica-int" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/FRIDAY-INT.png",Пятница International
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s50/index.m3u8
-#EXTINF:-1 tvg-id="zvezda-pl2" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/Zvezda.png",Телеканал Звезда (+2)
-http://213.59.128.165:8888/play/Zvezda/index.m3u8
-#EXTINF:-1 tvg-id="zvezda" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/Zvezda.png",Телеканал Звезда HD
+#EXTINF:-1 tvg-id="zvezda" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/Zvezda.png",Телеканал Звезда
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="mir" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/MIR.png",МИР
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
@@ -762,8 +766,9 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="tnt-int-cis" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/TNT-INT.png",ТНТ International
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s19/04.m3u8
-#EXTINF:-1 tvg-id="muztv-pl2" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/MUZ.png",МУЗ ТВ (+2)
-http://213.59.128.165:8888/play/Muz_TV/index.m3u8
+#EXTINF:-1 tvg-id="muztv" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/MUZ.png",МУЗ ТВ
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
+http://stream01.vnet.am/MuzTv/mono.m3u8
 #EXTINF:-1 tvg-id="rbk" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/RBK.png",РБК
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s36/04.m3u8
