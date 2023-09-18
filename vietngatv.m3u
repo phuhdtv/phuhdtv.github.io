@@ -337,9 +337,9 @@ https://yenbaitv.org.vn/hls/livestream.m3u8
 https://e4.endpoint.cdn.sctvonline.vn/hls/abc/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="axnhd" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/AXN.png",AXN Asia
 http://vthanhtivi.pw:5000/axn/index.m3u8
-#EXTINF:-1 tvg-id="al-jazeera-int" group-title="TÂY Á & TRUNG ĐÔNG" tvg-logo="https://i.imgur.com/dQrdh2F.png",Aljazeera International
+#EXTINF:-1 tvg-id="al-jazeera-int" group-title="TÂY Á & TRUNG ĐÔNG" tvg-logo="https://phuhdtv.github.io/logo/International/aljazeera.png",Aljazeera International
 http://103.112.191.9:880/LAOSAT1021.m3u8
-#EXTINF:-1 tvg-id="al-jazeera-int" group-title="TÂY Á & TRUNG ĐÔNG" tvg-logo="https://i.imgur.com/dQrdh2F.png",Aljazeera International HD
+#EXTINF:-1 tvg-id="al-jazeera-int" group-title="TÂY Á & TRUNG ĐÔNG" tvg-logo="https://phuhdtv.github.io/logo/International/aljazeera.png",Aljazeera International HD
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="animaxhd" group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/Animax.png",Animax Asia
 http://vthanhtivi.pw:5000/animax/index.m3u8
@@ -444,10 +444,8 @@ https://cgntvlive-998.acs.wecandeo.com/ms/2850/998/index_1.m3u8
 https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DaystarTV.us" tvg-logo="https://i.imgur.com/IjzCv8f.png" group-title="🌏| Quốc tế",Daystar TV
 https://hls-live-media.cdn01.net/dvr/stream_37099_1.m3u8
-#EXTINF:-1 tvg-id="DaAi1.tw" tvg-logo="https://i.imgur.com/KdJi9af.png" group-title="ĐÔNG & NAM Á",DaAi1 - 大愛1
-https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 tvg-id="DaAi2.tw" tvg-logo="https://i.imgur.com/KdJi9af.png" group-title="ĐÔNG & NAM Á",DaAi2 - 大愛2
-https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 tvg-id="DAAITV.id" tvg-logo="https://phuhdtv.github.io/logo/International/daai-tv.png" group-title="ĐÔNG & NAM Á",DaAi
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/index.m3u8
 #EXTINF:-1 tvg-id="davincihd" group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/davinci.png",Da Vinci Asia HD
 https://sc.id-tv.kz/DaVinci_34_35.m3u8
 #EXTINF:-1 tvg-id="discoveryhd" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/discovery-channel.png",Discovery Channel SEA
@@ -640,14 +638,14 @@ http://203.176.130.123:8989/live/seatv_480k.stream/playlist.m3u8
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b4596000_slENG.m3u8?id=4
 #EXTINF:-1 tvg-id="MaahTV.my" tvg-logo="https://i.imgur.com/FkyueH6.png" group-title="ĐÔNG NAM Á",Maah TV
 https://hls.maahtv.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="TVRIWorld.id" tvg-logo="https://i.imgur.com/h3RldTO.png" group-title="ĐÔNG NAM Á",TVRI World
+#EXTINF:-1 tvg-id="TVRIWorld.id" tvg-logo="https://phuhdtv.github.io/logo/International/tvri.png" group-title="ĐÔNG NAM Á",TVRI World
 http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/index.m3u8
 #EXTINF:-1 tvg-id="INCTV.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/INCTV_Logo_With_Shadow.webp" group-title="ĐÔNG NAM Á",INC TV
 https://cocphil.akamaized.net/hls/live/2042846/inctv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_sport" group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="https://i.imgur.com/BjUpaWw.png",BeIN Sports 1 Thailand (English)
+#EXTINF:-1 tvg-id="no_epg_sport" group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="https://phuhdtv.github.io/logo/Sport/bein-1.png",BeIN Sports 1 Thailand (English)
 http://103.112.191.9:880/LAOSAT1052.m3u8
-#EXTINF:-1 tvg-id="no_epg_sport" group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="https://i.imgur.com/HevlAHf.png",BeIN Sports 2 Thailand (English)
+#EXTINF:-1 tvg-id="no_epg_sport" group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="https://phuhdtv.github.io/logo/Sport/bein-2.png",BeIN Sports 2 Thailand (English)
 http://103.112.191.9:880/LAOSAT1078.m3u8
 #EXTINF:0 tvg-id="no_epg_sport" group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="https://i.imgur.com/Gr4PKgq.png",TRUE SPORTS 1 HD
 http://103.112.191.9:880/LAOSAT1020.m3u8
