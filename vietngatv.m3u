@@ -608,18 +608,21 @@ https://sc2022.stream-link.org/tv2306.php?id=h19
 #EXTINF:-1 tvg-name="贵州卫视" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/eSNdW3n.png",鳳凰衛視資訊台 - Phoenix InfoNews Channel
 https://sc2022.stream-link.org/tv2306.php?id=h18
 
-#EXTINF:-1 tvg-id="no_epg" group-title="ĐÔNG NAM Á" tvg-logo="https://i.imgur.com/ClmWqE5.png",Myanmar International TV
-http://183.89.246.119:8881/play/a07r/index.m3u8
-#EXTINF:-1 tvg-id="LNTV1.la" group-title="ĐÔNG NAM Á" tvg-logo="https://i.imgur.com/f48hczn.png",LNTV1
-http://103.112.191.9:880/LAOSAT1038.m3u8
-#EXTINF:-1 tvg-id="LNTV3.la" group-title="ĐÔNG NAM Á" tvg-logo="https://i.imgur.com/tdgyUHD.png",LNTV3
-http://103.112.191.9:880/LAOSAT1039.m3u8
-#EXTINF:-1 tvg-id="LaoPublicSecurityTV.la" group-title="ĐÔNG NAM Á" tvg-logo="https://i.imgur.com/e4c6Qks.png",Lao Public Security TV - Công An Lào
-http://103.112.191.9:880/LAOSAT1040.m3u8
-#EXTINF:-1 tvg-id="no_epg" group-title="ĐÔNG NAM Á" tvg-logo="https://www.lyngsat.com/logo/tv/ll/latv-la.png",LATV - Quân Đội Lào
-http://103.112.191.9:880/LAOSAT1076.m3u8
-#EXTINF:-1 tvg-id="LaoStar.la" group-title="ĐÔNG NAM Á" tvg-logo="https://i.imgur.com/cQ24Z0v.png",Lao Star TV
-http://103.112.191.9:880/LAOSAT1041.m3u8
+
+#EXTINF:-1 group-title="ĐÔNG NAM Á" tvg-logo="https://i.imgur.com/f48hczn.png",LNTV1
+https://ctrl.laotv.la/live/LNTV1/index.m3u8
+#EXTINF:-1 group-title="ĐÔNG NAM Á" tvg-logo="https://i.imgur.com/tdgyUHD.png",LNTV3
+https://ctrl.laotv.la/live/LNTV3/index.m3u8
+#EXTINF:-1 group-title="ĐÔNG NAM Á" tvg-logo="https://i.imgur.com/cQ24Z0v.png",LaoStar
+https://ctrl.laotv.la/live/LaoStar/index.m3u8
+#EXTINF:-1 group-title="ĐÔNG NAM Á" tvg-logo="https://i.imgur.com/8zOgt5H.png",VTE9
+https://ctrl.laotv.la/live/VTE9/index.m3u8
+#EXTINF:-1 group-title="ĐÔNG NAM Á" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230804/video/d632d48f-2850-44ff-9fd6-e859e6edbed3.png",LATV
+https://ctrl.laotv.la/live/LATV/index.m3u8
+#EXTINF:-1 group-title="ĐÔNG NAM Á" tvg-logo="https://i.imgur.com/e4c6Qks.png",PSTV
+https://ctrl.laotv.la/live/PSTV/index.m3u8
+#EXTINF:-1 group-title="ĐÔNG NAM Á" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230802/video/23dd1aba-312f-41fe-ab8d-6b928455af0a.png",Lao ESTV
+https://ctrl.laotv.la/live/LaoESTV/index.m3u8
 #EXTINF:-1 tvg-id="blueantext" tvg-logo="https://i.imgur.com/50EIb6z.png" group-title="ĐÔNG NAM Á",NBT2 HD
 http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist_w1095195643.m3u8
 #EXTINF:-1 tvg-id="TVK.kh" tvg-logo="https://i.imgur.com/BIBHaGo.jpg" group-title="ĐÔNG NAM Á",TVK Cambodia
