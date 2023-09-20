@@ -1,17 +1,41 @@
 #EXTM3U url-tvg="http://trada.info/epg.xml,https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml,http://epg.51zmt.top:8000/e.xml,http://iptvx.one/EPG,http://epg.it999.ru/epg.xml.gz,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.xml,https://iptv-org.github.io/epg/guides/pt/rtp.pt.xml,https://iptv-org.github.io/epg/guides/id/mncvision.id.xml,https://iptv-org.github.io/epg/guides/id/indihometv.com.xml,https://iptv-org.github.io/epg/guides/ko/wavve.com.xml,https://iptv-org.github.io/epg/guides/en/mncvision.id.xml,https://iptv-org.github.io/epg/guides/fr/m.tv.sms.cz.xml,https://iptv-org.github.io/epg/guides/cs/m.tv.sms.cz.xml,https://iptv-org.github.io/epg/guides/es/directv.com.ar.xml,https://iptv-org.github.io/epg/guides/en/dishtv.in.xml,https://iptv-org.github.io/epg/guides/en/tv.blue.ch.xml,https://iptv-org.github.io/epg/guides/en/mujtvprogram.cz.xml,https://iptv-org.github.io/epg/guides/en/starhubtvplus.com.xml,https://iptv-org.github.io/epg/guides/en/unifi.com.my.xml,https://iptv-org.github.io/epg/guides/en/tapdmv.com.xml,https://iptv-org.github.io/epg/guides/en/nowplayer.now.com.xml,https://iptv-org.github.io/epg/guides/en/singtel.com.xml,https://iptv-org.github.io/epg/guides/zh/tv.cctv.com.xml,https://iptv-org.github.io/epg/guides/hy/tv.mail.ru.xml,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml.gz"
 
-#EXTINF:-1 group-title="ASIAD 19" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",ASIAD Live 1
+#EXTINF:-1 group-title="19th Asian Games Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",Asian Games 1 (Server 01)
 http://stream.cvmtv.site:8002/EV01?token=asiad
-#EXTINF:-1 group-title="ASIAD 19" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",ASIAD Live 2
+#EXTINF:-1 group-title="19th Asian Games Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",Asian Games 1 (Server 02)
+http://asiad1.cvmtv.site:8002/EV01?token=asiad
+#EXTINF:-1 group-title="19th Asian Games Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",Asian Games 1 (Server 03)
+http://129.150.56.55:3456/asiad1/index.m3u8
+#EXTINF:-1 group-title="19th Asian Games Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",Asian Games 2 (Server 01)
 http://stream.cvmtv.site:8002/EV02?token=asiad
-#EXTINF:-1 group-title="ASIAD 19" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",ASIAD Live 3
+#EXTINF:-1 group-title="19th Asian Games Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",Asian Games 2 (Server 02)
+http://asiad1.cvmtv.site:8002/EV02?token=asiad
+#EXTINF:-1 group-title="19th Asian Games Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",Asian Games 2 (Server 03)
+http://129.150.56.55:3456/asiad2/index.m3u8
+#EXTINF:-1 group-title="19th Asian Games Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",Asian Games 3 (Server 01)
 http://stream.cvmtv.site:8002/EV03?token=asiad
-#EXTINF:-1 group-title="ASIAD 19" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",ASIAD Live 4
+#EXTINF:-1 group-title="19th Asian Games Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",Asian Games 3 (Server 02)
+http://asiad1.cvmtv.site:8002/EV03?token=asiad
+#EXTINF:-1 group-title="19th Asian Games Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",Asian Games 3 (Server 03)
+http://129.150.56.55:3456/asiad3/index.m3u8
+#EXTINF:-1 group-title="19th Asian Games Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",Asian Games 4 (Server 01)
 http://stream.cvmtv.site:8002/EV04?token=asiad
-#EXTINF:-1 group-title="ASIAD 19" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",ASIAD Live 5
+#EXTINF:-1 group-title="19th Asian Games Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",Asian Games 4 (Server 02)
+http://asiad1.cvmtv.site:8002/EV04?token=asiad
+#EXTINF:-1 group-title="19th Asian Games Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",Asian Games 4 (Server 03)
+http://129.150.56.55:3456/asiad4/index.m3u8
+#EXTINF:-1 group-title="19th Asian Games Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",Asian Games 5 (Server 01)
 http://stream.cvmtv.site:8002/EV05?token=asiad
-#EXTINF:-1 group-title="ASIAD 19" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",ASIAD Live 6
+#EXTINF:-1 group-title="19th Asian Games Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",Asian Games 5 (Server 02)
+http://asiad1.cvmtv.site:8002/EV05?token=asiad
+#EXTINF:-1 group-title="19th Asian Games Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",Asian Games 5 (Server 03)
+http://129.150.56.55:3456/asiad5/index.m3u8
+#EXTINF:-1 group-title="19th Asian Games Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",Asian Games 6 (Server 01)
 http://stream.cvmtv.site:8002/EV06?token=asiad
+#EXTINF:-1 group-title="19th Asian Games Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",Asian Games 6 (Server 02)
+http://asiad1.cvmtv.site:8002/EV06?token=asiad
+#EXTINF:-1 group-title="19th Asian Games Live" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",Asian Games 6 (Server 03)
+http://129.150.56.55:3456/asiad6/index.m3u8
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="🇻🇳| VTV" tvg-logo="https://phuhdtv.github.io/logo/VTV/vtv-1.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/210/hd/dvr-${start}-${end}.m3u8",VTV1
 http://stream.cvmtv.site:1000/VTV1HD?token=live
@@ -348,13 +372,12 @@ http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
 https://yenbaitv.org.vn/hls/livestream.m3u8
 
 #EXTINF:-1 tvg-id="abcaustralia" group-title="🌏| Quốc tế" tvg-logo="https://phuhdtv.github.io/logo/International/ABC.png",ABC Australia
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e4.endpoint.cdn.sctvonline.vn/hls/abc/index.m3u8|Referer=http://sctvonline.vn/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+https://nyanv-live-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
 #EXTINF:-1 tvg-id="axnhd" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/AXN.png",AXN Asia
 http://vthanhtivi.pw:5000/axn/index.m3u8
 #EXTINF:-1 tvg-id="al-jazeera-int" group-title="TÂY Á & TRUNG ĐÔNG" tvg-logo="https://phuhdtv.github.io/logo/International/aljazeera.png",Aljazeera International
-http://103.112.191.9:880/LAOSAT1021.m3u8
-#EXTINF:-1 tvg-id="al-jazeera-int" group-title="TÂY Á & TRUNG ĐÔNG" tvg-logo="https://phuhdtv.github.io/logo/International/aljazeera.png",Aljazeera International HD
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="animaxhd" group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/Animax.png",Animax Asia
 http://vthanhtivi.pw:5000/animax/index.m3u8
@@ -363,34 +386,23 @@ https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelfareast_all/pla
 #EXTINF:-1 tvg-id="AngelTVRussian.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="ĐÔNG & NAM Á",Angel TV Far East (Russian)
 https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelrussia_all/playlist.m3u8
 #EXTINF:-1 tvg-id="animalhd" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/animal-planet.png",Animal Planet SEA
-http://103.112.191.9:880/LAOSAT1034.m3u8
-#EXTINF:-1 tvg-id="animalhd" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/animal-planet.png",Animal Planet SEA HD
 http://vthanhtivi.pw:5000/animal/index.m3u8
 #EXTINF:-1 tvg-id="arirang" group-title="ĐÔNG & NAM Á" tvg-logo="https://phuhdtv.github.io/logo/International/Arirang.png",ARIRANG World
-http://103.112.191.9:880/LAOSAT1033.m3u8
-#EXTINF:-1 tvg-id="arirang" group-title="ĐÔNG & NAM Á" tvg-logo="https://phuhdtv.github.io/logo/International/Arirang.png",ARIRANG World HD
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 tvg-id="bloomberg" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://phuhdtv.github.io/logo/International/bloomberg.png",Bloomberg Asia
-https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+http://210.210.155.35/dr9445/h/h03/01.m3u8
 #EXTINF:-1 tvg-id="no_epg_news" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://phuhdtv.github.io/logo/International/bloomberg.png",Bloomberg Asia Event
 https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
 #EXTINF:-1 tvg-id="bbcearth" group-title="🇬🇧| BBC" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/bbce.png",BBC Earth
 http://vthanhtivi.pw:5000/bbcearth/index.m3u8
-#EXTINF:-1 tvg-id="bbcworldnews" group-title="🇬🇧| BBC" tvg-logo="https://phuhdtv.github.io/logo/International/BBCNews.png",BBC News Asia-Pacific
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e4.endpoint.cdn.sctvonline.vn/hls/bbc/index.m3u8
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="🇬🇧| BBC" tvg-logo="https://phuhdtv.github.io/logo/International/BBCNews.png",BBC News Asia-Pacific HD
 http://stream.cvmtv.site/BBCN?token=live
 #EXTINF:-1 tvg-id="BTVWorld.bd" tvg-logo="https://i.imgur.com/sSnrg7o.png" group-title="ĐÔNG & NAM Á",BTV World
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="cartoonhd" group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/CN.png",Cartoon Network Asia
-http://103.112.191.9:880/LAOSAT1090.m3u8
-#EXTINF:-1 tvg-id="cartoonhd" group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/CN.png",Cartoon Network Asia HD
 http://vthanhtivi.pw:5000/cartoon/index.m3u8
 #EXTINF:-1 tvg-name="Cartoonito" group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/Cartoonito.png",Cartoonito Asia HD
 http://vthanhtivi.pw:5000/boomerang/index.m3u8
-#EXTINF:-1 tvg-id="no_epg_music" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://phuhdtv.github.io/logo/International/channel-v.jpg",Channel [V] China
-http://103.112.191.9:880/LAOSAT1070.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/cinemaxhd.png",Cinemax Asia
 http://vthanhtivi.pw:5000/cinemax/index.m3u8
 #EXTINF:-1 tvg-id="cetv1" tvg-name="CETV-1" tvg-logo="https://i.imgur.com/6sOHLq8.png" group-title="ĐÔNG & NAM Á",CETV1 - 中国教育1台
@@ -405,9 +417,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/cna/index.m3u8|Referer=http://sctvonli
 #EXTINF:-1 tvg-id="cna" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://phuhdtv.github.io/logo/International/cna.png",CNA International HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="cnn" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://phuhdtv.github.io/logo/International/CNN.png",CNN International Asia
-http://103.112.191.9:880/LAOSAT1087.m3u8
-#EXTINF:-1 tvg-id="cnn" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://phuhdtv.github.io/logo/International/CNN.png",CNN International Asia HD
-http://stream.cvmtv.site/CNN?token=live
+https://d30x5vsa85tvmd.cloudfront.net/index_5.m3u8
 #EXTINF:-1 tvg-id="CCTV2" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://phuhdtv.github.io/logo/cn/zh-cctv-2.png",CCTV2
 https://cntv.sbs/tv?auth=2309081833&id=cctv2
 #EXTINF:-1 tvg-id="CCTV4" group-title="ĐÔNG & NAM Á" tvg-logo="https://phuhdtv.github.io/logo/cn/zh-cctv-4.png",CCTV4 Asia
@@ -442,8 +452,6 @@ https://code.vthanhtivi.pw/getlink/fptplay/cnbc/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn" group-title="ĐÔNG & NAM Á" tvg-logo="https://phuhdtv.github.io/logo/International/CGTN-D.png",CGTN Documentary
 http://39.135.138.59:18890/PLTV/88888910/224/3221225645/index.m3u8
 #EXTINF:-1 tvg-id="cgtn" group-title="ĐÔNG & NAM Á" tvg-logo="https://phuhdtv.github.io/logo/International/CGTN.png",CGTN English
-http://103.112.191.9:880/LAOSAT1074.m3u8
-#EXTINF:-1 tvg-id="cgtn" group-title="ĐÔNG & NAM Á" tvg-logo="https://phuhdtv.github.io/logo/International/CGTN.png",CGTN English HD
 https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://phuhdtv.github.io/logo/International/CGTN-E.png" group-title="ĐÔNG & NAM Á",CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
@@ -457,6 +465,8 @@ http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227224/index.m3u8
 https://cgntvlive-998.acs.wecandeo.com/ms/2850/998/index_1.m3u8
 #EXTINF:-1 tvg-id="clubbing-tv" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://i.imgur.com/pWWjld2.png",CLUBBING TV
 https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ" tvg-logo="https://aeci.s3.eu-west-2.amazonaws.com/s3fs-public/default_images/ciuk.jpg",CRIME+INVESTIGATION
+https://code.vthanhtivi.pw/getlink/eazie/242127/playlist.m3u8
 #EXTINF:-1 tvg-id="DaystarTV.us" tvg-logo="https://i.imgur.com/IjzCv8f.png" group-title="🌏| Quốc tế",Daystar TV
 https://hls-live-media.cdn01.net/dvr/stream_37099_1.m3u8
 #EXTINF:-1 tvg-id="DAAITV.id" tvg-logo="https://phuhdtv.github.io/logo/International/daai-tv.png" group-title="ĐÔNG & NAM Á",DaAi
@@ -464,14 +474,10 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/i
 #EXTINF:-1 tvg-id="davincihd" group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/davinci.png",Da Vinci Asia HD
 https://sc.id-tv.kz/DaVinci_34_35.m3u8
 #EXTINF:-1 tvg-id="discoveryhd" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/discovery-channel.png",Discovery Channel SEA
-http://103.112.191.9:880/LAOSAT1094.m3u8
-#EXTINF:-1 tvg-id="discoveryhd" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/discovery-channel.png",Discovery Channel SEA HD
 http://vthanhtivi.pw:5000/discovery/index.m3u8
 #EXTINF:-1 tvg-id="discoveryasiahd" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/discoveryasia.png",Discovery Asia
 http://103.112.191.9:880/LAOSAT1095.m3u8
 #EXTINF:-1 tvg-id="dw" group-title="🌏| Quốc tế" tvg-logo="https://phuhdtv.github.io/logo/International/dw.png",DW - Deutsche Welle
-http://103.112.191.9:880/LAOSAT1072.m3u8
-#EXTINF:-1 tvg-id="dw" group-title="🌏| Quốc tế" tvg-logo="https://phuhdtv.github.io/logo/International/dw.png",DW - Deutsche Welle HD
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="EBCMovie.tw" tvg-logo="https://i.imgur.com/dMAS4Qa.png" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC",EBC Movies
 http://103.112.191.9:880/LAOSAT1017.m3u8
@@ -485,7 +491,7 @@ http://ott-cdn.ucom.am/s89/index.m3u8
 #EXTINF:-1 tvg-id="EWTNAsiaPacific.us" tvg-logo="https://i.imgur.com/m4AvEqq.png" group-title="🌏| Quốc tế",EWTN Asia-Pacific
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="fashionhd" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/fashion.png",Fashion TV Asia
-http://103.112.191.9:880/LAOSAT1088.m3u8
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="fashionhd" group-title="KÊNH 4K" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/FTV-UHD.png",Fashion TV UHD
 http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="france24eng" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://phuhdtv.github.io/logo/International/france24eng.png",FRANCE 24 English
@@ -494,6 +500,10 @@ https://code.vthanhtivi.pw/getlink/vieon2/france-24-english/playlist.m3u8
 #EXTINF:-1 tvg-id="FoodNetworkAsia.sg" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ" tvg-logo="https://i.imgur.com/GYsKibK.png",Food Network Asia
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s18/04.m3u8
+#EXTINF:-1 group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ" tvg-logo="https://images.squarespace-cdn.com/content/v1/54b32958e4b08972957c461b/1615504400122-FLJAAPMSITVB96CD2Y06/image-asset.png?format=1500w",GEM
+https://code.vthanhtivi.pw/getlink/eazie/242918/playlist.m3u8
+#EXTINF:-1 group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ" tvg-logo="https://images.squarespace-cdn.com/content/v1/5f0399e5b096b01cd79e8ac5/1594936869834-MBPKYN93MFD8IFBS1SU9/ONE_26_LogoIdent_08.png",ONE
+https://code.vthanhtivi.pw/getlink/eazie/243114/playlist.m3u8
 #EXTINF:-1 tvg-id="GoodTV.tw" tvg-logo="https://i.imgur.com/k28Kc3o.png" group-title="ĐÔNG & NAM Á",GOOD TV
 https://live.streamingfast.net/osmflivech1.m3u8
 #EXTINF:-1 tvg-id="GraceFamilyTV.in" tvg-logo="https://i.imgur.com/srOoujm.png" group-title="ĐÔNG & NAM Á",Grace Family TV
@@ -523,17 +533,14 @@ https://code.vthanhtivi.pw/getlink/fptplay/kix/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="KCTV.kp" group-title="ĐÔNG & NAM Á" tvg-logo="https://i.imgur.com/wN1cSDd.png",Korean Central Television
 https://tv.nknews.org/tvdash/stream.mpd
 #EXTINF:-1 tvg-id="kbsworld" group-title="ĐÔNG & NAM Á" tvg-logo="https://phuhdtv.github.io/logo/International/kbs.png",KBS World
-http://103.112.191.9:880/LAOSAT1036.m3u8
-#EXTINF:-1 tvg-id="kbsworld" group-title="ĐÔNG & NAM Á" tvg-logo="https://phuhdtv.github.io/logo/International/kbs.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kbs_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",KBS World HD
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/getlink/vieon/kbs-world/playlist.m3u8
 #EXTINF:-1 tvg-id="love-nature-4k" group-title="KÊNH 4K" tvg-logo="https://phuhdtv.github.io/logo/Science/Love-Nature-4K.jpg",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="mcm-top" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://phuhdtv.github.io/logo/International/mcm-top.png",MCM TOP
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s49/index.m3u8
 #EXTINF:-1 tvg-id="nhk-world" group-title="ĐÔNG & NAM Á" tvg-logo="https://phuhdtv.github.io/logo/International/NHK.png",NHK WORLD JAPAN
-http://103.112.191.9:880/LAOSAT1071.m3u8
-#EXTINF:-1 tvg-id="nhk-world" group-title="ĐÔNG & NAM Á" tvg-logo="https://phuhdtv.github.io/logo/International/NHK.png",NHK WORLD JAPAN HD
 https://b-nhkwlive-xjp.nhkworld.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m3u8
 #EXTINF:-1 tvg-id="NHKWorldPremium.jp" group-title="ĐÔNG & NAM Á" tvg-logo="https://i.imgur.com/FjjQTgY.png",NHK World Premium
 https://cdn2.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
@@ -550,6 +557,10 @@ https://code.vthanhtivi.pw/getlink/tv360/216/2.m3u8
 https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RaiItaliaAsia.it" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/Vg4MUGQ.png",Rai Italia Asia
 http://210.210.155.37/x6bnqe/s/s63/index2.m3u8
+#EXTINF:-1 tvg-id="blueantent" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/ROCK-Entertainment.png",Rock Entertainment
+http://210.210.155.35:80/dr9445/h/h16/01.m3u8
+#EXTINF:-1 tvg-id="blueantext" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/rock-action.png",Rock Action
+http://210.210.155.35:80/dr9445/h/h15/01.m3u8
 #EXTINF:-1 tvg-id="russia-today" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://phuhdtv.github.io/logo/International/RT-HD.png",RT - Russia Today
 https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-2/vift-hm2v_1080p/chunklist_DVR.m3u8
 #EXTINF:-1 tvg-id="rtd-ru" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://phuhdtv.github.io/logo/International/RTD.png",RT DOC
@@ -559,11 +570,11 @@ http://ott-cdn.ucom.am/s93/04.m3u8
 https://hls.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 tvg-id="SupremeMasterTV.tw" tvg-logo="https://i.imgur.com/CiFGi8J.png" group-title="🌏| Quốc tế",Supreme Master TV
 https://lbs-us1.suprememastertv.com/1080p.m3u8
+#EXTINF:-1 group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC" tvg-logo="https://phuhdtv.github.io/logo/Flim-Series/Thrill.png",Thrill
+https://code.vthanhtivi.pw/getlink/eazie/242921/playlist.m3u8
 #EXTINF:-1 tvg-id="TelesurEnglish.ve" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/P50VjRX.png",Telesur English
 https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="tv5monde" group-title="🌏| Quốc tế" tvg-logo="https://phuhdtv.github.io/logo/International/tv5monde.png",TV5 Monde Asie
-http://103.112.191.9:880/LAOSAT1032.m3u8
-#EXTINF:-1 tvg-id="tv5monde" group-title="🌏| Quốc tế" tvg-logo="https://phuhdtv.github.io/logo/International/tv5monde.png",TV5 Monde Asie HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/tv5-monde-asie/playlist.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr" group-title="TÂY Á & TRUNG ĐÔNG" tvg-logo="https://phuhdtv.github.io/logo/International/TRT.png",TRT World HD
@@ -614,10 +625,8 @@ https://cntv.sbs/tv?auth=2309081833&id=szws
 https://cntv.sbs/tv?auth=2309081833&id=ynws
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://phuhdtv.github.io/logo/cn/Xinjiang.png" group-title="ĐÔNG & NAM Á",新疆卫视 (Xinjiang)
 https://cntv.sbs/tv?auth=2309081833&id=xjws
-#EXTINF:0 tvg-id="CelestialMovies.Id" tvg-logo="https://i.imgur.com/Mb5ssnu.png" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC",天映频道 - Celestial Movies
-http://103.112.191.9:880/LAOSAT1029.m3u8
-#EXTINF:-1 tvg-id="StarChineseMovies.hk" tvg-logo="https://i.imgur.com/XaLt7JH.png" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC",衛視電影台 - Star Chinese Movies
-http://103.112.191.9:880/LAOSAT1085.m3u8
+#EXTINF:0 tvg-id="CelestialMovies.Id" tvg-logo="https://phuhdtv.github.io/logo/Flim-Series/Celestial-Movies.jpg" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC",天映频道 - Celestial Movies
+https://code.vthanhtivi.pw/getlink/eazie/243113/playlist.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" group-title="ĐÔNG & NAM Á" tvg-logo="https://i.imgur.com/rwY7FHT.png",凤凰中文 - Phoenix Chinese
 https://sc2022.stream-link.org/tv2306.php?id=h19
 #EXTINF:-1 tvg-name="贵州卫视" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/eSNdW3n.png",鳳凰衛視資訊台 - Phoenix InfoNews Channel
