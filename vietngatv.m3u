@@ -1,5 +1,18 @@
 #EXTM3U url-tvg="http://trada.info/epg.xml,https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml,http://epg.51zmt.top:8000/e.xml,http://iptvx.one/EPG,http://epg.it999.ru/epg.xml.gz,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.xml,https://iptv-org.github.io/epg/guides/pt/rtp.pt.xml,https://iptv-org.github.io/epg/guides/id/mncvision.id.xml,https://iptv-org.github.io/epg/guides/id/indihometv.com.xml,https://iptv-org.github.io/epg/guides/ko/wavve.com.xml,https://iptv-org.github.io/epg/guides/en/mncvision.id.xml,https://iptv-org.github.io/epg/guides/fr/m.tv.sms.cz.xml,https://iptv-org.github.io/epg/guides/cs/m.tv.sms.cz.xml,https://iptv-org.github.io/epg/guides/es/directv.com.ar.xml,https://iptv-org.github.io/epg/guides/en/dishtv.in.xml,https://iptv-org.github.io/epg/guides/en/tv.blue.ch.xml,https://iptv-org.github.io/epg/guides/en/mujtvprogram.cz.xml,https://iptv-org.github.io/epg/guides/en/starhubtvplus.com.xml,https://iptv-org.github.io/epg/guides/en/unifi.com.my.xml,https://iptv-org.github.io/epg/guides/en/tapdmv.com.xml,https://iptv-org.github.io/epg/guides/en/nowplayer.now.com.xml,https://iptv-org.github.io/epg/guides/en/singtel.com.xml,https://iptv-org.github.io/epg/guides/zh/tv.cctv.com.xml,https://iptv-org.github.io/epg/guides/hy/tv.mail.ru.xml,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml.gz"
 
+#EXTINF:-1 group-title="ASIAD 19" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",ASIAD Live 1
+http://stream.cvmtv.site:8002/EV01?token=asiad
+#EXTINF:-1 group-title="ASIAD 19" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",ASIAD Live 2
+http://stream.cvmtv.site:8002/EV02?token=asiad
+#EXTINF:-1 group-title="ASIAD 19" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",ASIAD Live 3
+http://stream.cvmtv.site:8002/EV03?token=asiad
+#EXTINF:-1 group-title="ASIAD 19" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",ASIAD Live 4
+http://stream.cvmtv.site:8002/EV04?token=asiad
+#EXTINF:-1 group-title="ASIAD 19" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",ASIAD Live 5
+http://stream.cvmtv.site:8002/EV05?token=asiad
+#EXTINF:-1 group-title="ASIAD 19" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",ASIAD Live 6
+http://stream.cvmtv.site:8002/EV06?token=asiad
+
 #EXTINF:-1 tvg-id="vtv1hd" group-title="🇻🇳| VTV" tvg-logo="https://phuhdtv.github.io/logo/VTV/vtv-1.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/210/hd/dvr-${start}-${end}.m3u8",VTV1
 http://stream.cvmtv.site:1000/VTV1HD?token=live
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🇻🇳| VTV" tvg-logo="https://phuhdtv.github.io/logo/VTV/vtv-2.png" catchup="append" catchup-days="2" catchup-source="https://live-zlr1.tv360.vn/manifest/dac12e23-ebcc-4c69-aaf5-5b2b8d47c41f/catchup/VTV2-1080-3_6M/VTV2-1080-3_6M.m3u8?media=true&start=${start}&stop=${end}",VTV2
@@ -610,7 +623,6 @@ https://sc2022.stream-link.org/tv2306.php?id=h19
 #EXTINF:-1 tvg-name="贵州卫视" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/eSNdW3n.png",鳳凰衛視資訊台 - Phoenix InfoNews Channel
 https://sc2022.stream-link.org/tv2306.php?id=h18
 
-
 #EXTINF:-1 group-title="ĐÔNG NAM Á" tvg-logo="https://i.imgur.com/f48hczn.png",LNTV1
 https://ctrl.laotv.la/live/LNTV1/index.m3u8
 #EXTINF:-1 group-title="ĐÔNG NAM Á" tvg-logo="https://i.imgur.com/tdgyUHD.png",LNTV3
@@ -1077,19 +1089,6 @@ https://code.vthanhtivi.pw/getlink/fptplay/the-thao-23/chunklist_b5500000.m3u8
 https://code.vthanhtivi.pw/getlink/fptplay/the-thao-24/chunklist_b5500000.m3u8
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://phuhdtv.github.io/logo/Other/fpt-play.png",F Sports 25
 https://code.vthanhtivi.pw/getlink/fptplay/the-thao-25/chunklist_b5500000.m3u8 
-
-#EXTINF:-1 group-title="ASIAD 19" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",ASIAD Live 1
-http://stream.cvmtv.site:8002/EV01?token=asiad
-#EXTINF:-1 group-title="ASIAD 19" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",ASIAD Live 2
-http://stream.cvmtv.site:8002/EV02?token=asiad
-#EXTINF:-1 group-title="ASIAD 19" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",ASIAD Live 3
-http://stream.cvmtv.site:8002/EV03?token=asiad
-#EXTINF:-1 group-title="ASIAD 19" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",ASIAD Live 4
-http://stream.cvmtv.site:8002/EV04?token=asiad
-#EXTINF:-1 group-title="ASIAD 19" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",ASIAD Live 5
-http://stream.cvmtv.site:8002/EV05?token=asiad
-#EXTINF:-1 group-title="ASIAD 19" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",ASIAD Live 6
-http://stream.cvmtv.site:8002/EV06?token=asiad
 
 #EXTINF:-1 tvg-id="no_epg_sport" group-title="TV360" tvg-logo="https://phuhdtv.github.io/logo/Other/tv-360-1.png",TV360+ 1
 http://live-ali2.tv360.vn/manifest/sukien/playlist_1080p-5M.m3u8
