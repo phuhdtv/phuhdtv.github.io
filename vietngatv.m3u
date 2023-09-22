@@ -392,7 +392,9 @@ http://vthanhtivi.pw:5000/axn/index.m3u8
 #EXTINF:-1 tvg-id="al-jazeera-int" group-title="TÂY Á & TRUNG ĐÔNG" tvg-logo="https://phuhdtv.github.io/logo/International/aljazeera.png",Aljazeera International
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="animaxhd" group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/Animax.png",Animax Asia
-http://vthanhtivi.pw:5000/animax/index.m3u8
+https://code.vthanhtivi.pw/getlink/eazie/241430/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="🌈| Hoạt hình" tvg-logo="https://phuhdtv.github.io/logo/children/Aniplus.jpg",Aniplus
+https://code.vthanhtivi.pw/getlink/eazie/241430/playlist.m3u8
 #EXTINF:-1 tvg-id="AngelTVFarEast.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="ĐÔNG & NAM Á",Angel TV Far East (English)
 https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelfareast_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AngelTVRussian.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="ĐÔNG & NAM Á",Angel TV Far East (Russian)
@@ -459,9 +461,6 @@ https://cntv.sbs/tv?auth=2309081833&id=cctv15
 #EXTINF:-1 tvg-id="CCTV17" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://phuhdtv.github.io/logo/cn/CCTV17.png",CCTV17 HD
 https://cntv.sbs/tv?auth=2309081833&id=cctv17
 #EXTINF:-1 tvg-id="cnbc" group-title="🌏| Quốc tế" tvg-logo="https://phuhdtv.github.io/logo/International/CNBC.png",CNBC Asia
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
-http://ott-cdn.ucom.am/s65/index.m3u8
-#EXTINF:-1 tvg-id="cnbc" group-title="🌏| Quốc tế" tvg-logo="https://phuhdtv.github.io/logo/International/CNBC.png",CNBC Asia HD
 https://code.vthanhtivi.pw/getlink/fptplay/cnbc/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn" group-title="ĐÔNG & NAM Á" tvg-logo="https://phuhdtv.github.io/logo/International/CGTN-D.jpg",CGTN Documentary
 http://39.135.138.59:18890/PLTV/88888910/224/3221225645/index.m3u8
@@ -490,13 +489,10 @@ https://sc.id-tv.kz/DaVinci_34_35.m3u8
 #EXTINF:-1 tvg-id="discoveryhd" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/discovery-channel.png",Discovery Channel SEA
 http://vthanhtivi.pw:5000/discovery/index.m3u8
 #EXTINF:-1 tvg-id="discoveryasiahd" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/discoveryasia.png",Discovery Asia
-http://103.112.191.9:880/LAOSAT1095.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/hd-discovery.stream/playlist.m3u8|Referer=https://streaming.livescorethai.net
 #EXTINF:-1 tvg-id="dw" group-title="🌏| Quốc tế" tvg-logo="https://phuhdtv.github.io/logo/International/dw.png",DW - Deutsche Welle
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id="EBCMovie.tw" tvg-logo="https://i.imgur.com/dMAS4Qa.png" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC",EBC Movies
-http://103.112.191.9:880/LAOSAT1017.m3u8
-#EXTINF:-1 tvg-id="EBCForeignMovie.tw" tvg-logo="https://i.imgur.com/ItNGE1z.png" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC",EBC Foreign Movies
-http://103.112.191.9:880/LAOSAT1018.m3u8
 #EXTINF:-1 tvg-id="euronews-en" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://phuhdtv.github.io/logo/International/euronews.png",EURONEWS English
 https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="euronews" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://phuhdtv.github.io/logo/International/euronews.png",EURONEWS по-русски
@@ -539,8 +535,9 @@ https://live.ishiacloud.com/haditv.co.uk/haditv1.m3u8
 https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
 #EXTINF:-1 tvg-id="historyhd" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/history.png",History Asia
 http://vthanhtivi.pw:5000/history/index.m3u8
-#EXTINF:-1 tvg-id="no_epg" group-title="ĐÔNG & NAM Á" tvg-logo="https://www.lyngsat.com/logo/tv/mm/macau_lotus_tv_mo.png",Macau Lotus TV
-http://103.112.191.9:880/LAOSAT1069.m3u8
+#EXTINF:-1 tvg-id="hits" group-title="🎬| Phim truyện" tvg-logo="https://phuhdtv.github.io/logo/ITB/hits.jpg",HITS
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/getlink/tv360/107/playlist.m3u8
 #EXTINF:0 tvg-id="KPlus.sg" tvg-logo="https://i.imgur.com/RbS0q71.png" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ",K-Plus
 http://210.210.155.37/uq2663/h/h08/index.m3u8
 #EXTINF:-1 tvg-id="kix" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/KIX.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",KIX HD Asia
@@ -567,7 +564,7 @@ http://vthanhtivi.pw:5000/natgeowild/index.m3u8
 https://code.vthanhtivi.pw/getlink/eazie/243114/playlist.m3u8
 #EXTINF:-1 tvg-id="outdoorhd" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/Outdoor.png",Outdoor Channel int. HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/tv360/216/2.m3u8
+https://code.vthanhtivi.pw/getlink/tv360/216/playlist.m3u8
 #EXTINF:-1 tvg-id="PressTV.ir" tvg-logo="https://i.imgur.com/orZX92w.png" group-title="TÂY Á & TRUNG ĐÔNG",Press TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -664,7 +661,7 @@ https://ctrl.laotv.la/live/PSTV/index.m3u8
 #EXTINF:-1 group-title="ĐÔNG NAM Á" tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230802/video/23dd1aba-312f-41fe-ab8d-6b928455af0a.png",Lao ESTV
 https://ctrl.laotv.la/live/LaoESTV/index.m3u8
 #EXTINF:-1 tvg-id="blueantext" tvg-logo="https://i.imgur.com/50EIb6z.png" group-title="ĐÔNG NAM Á",NBT2 HD
-http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist_w1095195643.m3u8
+https://ctrl.laotv.la/live/NBT/index.m3u8
 #EXTINF:-1 tvg-id="TVK.kh" tvg-logo="https://i.imgur.com/BIBHaGo.jpg" group-title="ĐÔNG NAM Á",TVK Cambodia
 https://live.kh.malimarcdn.com/live/tvk.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="TVK2.kh" tvg-logo="https://i.imgur.com/BIBHaGo.jpg" group-title="ĐÔNG NAM Á",TVK2 Cambodia
@@ -687,19 +684,21 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/index.m3u8
 https://cocphil.akamaized.net/hls/live/2042846/inctv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_sport" group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="https://phuhdtv.github.io/logo/Sport/bein-1.png",BeIN Sports 1 Thailand (English)
-http://103.112.191.9:880/LAOSAT1052.m3u8
+https://ctrl.laotv.la/live/Bsport1/index.m3u8
 #EXTINF:-1 tvg-id="no_epg_sport" group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="https://phuhdtv.github.io/logo/Sport/bein-2.png",BeIN Sports 2 Thailand (English)
-http://103.112.191.9:880/LAOSAT1078.m3u8
-#EXTINF:0 tvg-id="no_epg_sport" group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="https://i.imgur.com/Gr4PKgq.png",TRUE SPORTS 1 HD
-http://103.112.191.9:880/LAOSAT1020.m3u8
-#EXTINF:0 tvg-id="no_epg_sport" group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="https://i.imgur.com/OjpxRM2.png",TRUE SPORTS 2 HD
-http://103.112.191.9:880/LAOSAT1053.m3u8
-#EXTINF:0 tvg-id="no_epg_sport" group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="https://i.imgur.com/Yslav69.png",TRUE SPORTS 3 HD
-http://103.112.191.9:880/LAOSAT1054.m3u8
-#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://i.imgur.com/goTVVel.png" group-title="🇻🇳-🇷🇺| Thể Thao",True Premiere Football 1
-http://103.112.191.9:880/LAOSAT1026.m3u8
-#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://i.imgur.com/EodqrAZ.png" group-title="🇻🇳-🇷🇺| Thể Thao",True Premiere Football 2
-http://103.112.191.9:880/LAOSAT1027.m3u8
+https://ctrl.laotv.la/live/Bsport2/index.m3u8
+#EXTINF:-1 group-title="🇹🇭- Kênh Thái Lan" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_original.png",True Sports 1
+https://ctrl.laotv.la/live/TrueSport6/index.m3u8
+#EXTINF:-1 group-title="🇹🇭- Kênh Thái Lan" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png",True Sports 3
+https://ctrl.laotv.la/live/TrueSport3/index.m3u8
+#EXTINF:-1 group-title="🇹🇭- Kênh Thái Lan" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",True Sports 7
+https://edge1.laotv.la/live/THD7/index.m3u8
+#EXTINF:-1 group-title="🇹🇭- Kênh Thái Lan" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png",True Premier Football 1
+https://ctrl.laotv.la/live/TSport1/index.m3u8
+#EXTINF:-1 group-title="🇹🇭- Kênh Thái Lan" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png",True Premier Football 2
+https://ctrl.laotv.la/live/TSport2/index.m3u8
+#EXTINF:-1 group-title="🇹🇭- Kênh Thái Lan" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png",True Premier Football 3
+https://ctrl.laotv.la/live/TrueSport2/index.m3u8
 #EXTINF:0 tvg-id="SPOTV.id" group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="https://phuhdtv.github.io/logo/Sport/Spotv.jpg",SPOTV Asia
 https://code.vthanhtivi.pw/getlink/jptvvn/199/playlist.m3u8
 #EXTINF:0 tvg-id="SPOTV2.id" group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="https://phuhdtv.github.io/logo/Sport/spotv2.jpg",SPOTV2 Asia
