@@ -1161,6 +1161,10 @@ https://strm.voh.com.vn/radio/channel1/playlist.m3u8
 https://strm.voh.com.vn/radio/channel3/playlist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://phuhdtv.github.io/logo/Radio/XONE.jpg",Xone Radio
 https://multi-playlist-zmp3.zmdcdn.me/Ce5_Z5JFx2c/zhls/playback-realtime/f9a40e7c3239db678228/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://www.usagm.gov/wp-content/uploads/2022/01/RFA-logo-RGB-1.png" group-title="📻| Radio",RFA - Radio Free Asia
+https://rfahls-i.akamaihd.net/hls/live/226233/RFALive_2/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://cdn-profiles.tunein.com/s209673/images/logod.png" group-title="📻| Radio",RFI - Radio France Internationale
+https://rfivietnamien96k.ice.infomaniak.ch/rfivietnamien-96k.mp3
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://www.lyngsat.com/logo/radio/vv/voice-of-the-south-china-sea-cn.png",南海之声 (Voice of the South China Sea)
 http://sk.cri.cn/nhzs.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://www.lyngsat.com/logo/radio/cc/cnr-13-uyghur-radio-cn.png",CNR 维吾尔语广播 (Uyghur Radio)
@@ -1187,51 +1191,15 @@ http://icecast-rian.cdnvideo.ru/voicerushi
 http://94.127.94.107:8000/KuzbassFM
 #EXTINF:-1 tvg-id="retro-fm" group-title="📻| Radio" tvg-id="retro-fm" tvg-logo="https://i.imgur.com/QX43rbX.png",Ретро FM
 http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
-#EXTINF:-1 tvg-id="radio-shanson" tvg-logo="https://i.imgur.com/lbqM3K2.png" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG",Радио Шансон
+#EXTINF:-1 tvg-id="radio-shanson" tvg-logo="https://i.imgur.com/lbqM3K2.png" group-title="📻| Radio",Радио Шансон
 http://chanson.hostingradio.ru:8041/chanson256.mp3
-#EXTINF:-1 tvg-id="radio-strana-fm-tv" tvg-logo="https://i.imgur.com/wG8KyeG.png" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG",Радио Страна FM
+#EXTINF:-1 tvg-id="radio-strana-fm-tv" tvg-logo="https://i.imgur.com/wG8KyeG.png" group-title="📻| Radio",Радио Страна FM
 http://icecast.stranafm.cdnvideo.ru/stranafm
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-id="europa-plus-radio" tvg-logo="https://i.imgur.com/PlAiIoT.png",Радио Европа Плюс
+#EXTINF:-1 group-title="📻| Radio" tvg-id="europa-plus-radio" tvg-logo="https://i.imgur.com/PlAiIoT.png",Радио Европа Плюс
 https://ep128.hostingradio.ru:8030/ep128
-#EXTINF:-1 tvg-id="avtoradio" tvg-logo="https://i.imgur.com/SPaSFKm.png" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG",Авторадио
+#EXTINF:-1 tvg-id="avtoradio" tvg-logo="https://i.imgur.com/SPaSFKm.png" group-title="📻| Radio",Авторадио
 http://ic7.101.ru:8000/v3_1
-#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://i.imgur.com/ViOHdFW.png" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG",Радио Орфей
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://i.imgur.com/ViOHdFW.png" group-title="📻| Radio",Радио Орфей
 https://orfeyfm.hostingradio.ru:8034/orfeyfm128.mp3
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://www.usagm.gov/wp-content/uploads/2022/01/RFA-logo-RGB-1.png" group-title="📻| Radio",RFA - Radio Free Asia
-https://rfahls-i.akamaihd.net/hls/live/226233/RFALive_2/index.m3u8
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://cdn-profiles.tunein.com/s209673/images/logod.png" group-title="📻| Radio",RFI - Radio France Internationale
-https://rfivietnamien96k.ice.infomaniak.ch/rfivietnamien-96k.mp3
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/aVWTorO.png",VOA Radio
+#EXTINF:-1 tvg-id="no_epg" group-title="📻| Radio" tvg-logo="https://i.imgur.com/aVWTorO.png",VOA Radio
 https://voa-ingest.akamaized.net/hls/live/2035200/161_352R/playlist.m3u8
-
-#EXTINF:-1 group-title="📻| Radio" tvg-id="no_epg_music" tvg-logo="https://i.imgur.com/UdDg2vx.png",M Radio Việt Nam
-https://stream.zeno.fm/4q7y9hvkp2zuv
-#EXTINF:-1 group-title="📻| Radio" tvg-id="no_epg_music" tvg-logo="https://i.imgur.com/9Yo1uQK.png",Cải Lương Việt Nam
-https://stream.zeno.fm/0trm6wrnga0uv
-#EXTINF:-1 group-title="📻| Radio" tvg-id="no_epg_music" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgICQ7brTsQgMogEEemVubw/image/",Radio Nhạc Vàng Xưa
-https://stream.zeno.fm/x2z45v7d84zuv
-#EXTINF:-1 group-title="📻| Radio" tvg-id="no_epg_music" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgIDQidjS_wkMogEEemVubw/image/",Radio DJ
-https://stream.zeno.fm/ehbutdfccm0uv
-#EXTINF:-1 group-title="📻| Radio" tvg-id="no_epg_music" tvg-logo="https://i.imgur.com/A9kxU5m.png",Radio Phật Giáo
-https://stream.zeno.fm/8456uy0bcm0uv
-#EXTINF:-1 group-title="📻| Radio" tvg-id="no_epg_music" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgICw0ILTsQoMogEEemVubw/image/",Radio Nhạc Dân Ca
-https://stream.zeno.fm/a2dbs2tq1p8uv
-#EXTINF:-1 group-title="📻| Radio" tvg-id="no_epg_music" tvg-logo="https://i.imgur.com/DcciD6c.jpg",Radio Nhạc Xuân
-https://stream.zeno.fm/hvtxgd85rm0uv
-
-#EXTINF:-1 group-title="📻| Radio" tvg-id="no_epg_music" tvg-logo="https://photo-zmp3.zadn.vn/avatars/8/5/4/0/854010f76bddeefd5f13305a1d6cc8be.jpg",Zing MP3 - On Air
-https://multi-playlist-zmp3.zadn.vn/9tPzLPYORS8/zhls/playback-realtime/a07d79b945fcaca2f5ed/index.m3u8
-#EXTINF:-1 group-title="📻| Radio" tvg-id="no_epg_music" tvg-logo="https://i.imgur.com/4Yn7ubH.jpg",Zing MP3 - Chạm
-https://multi-playlist-zmp3.zadn.vn/62YE6lXdY4w/zhls/playback-realtime/db68d4afe8ea01b458fb/index.m3u8
-#EXTINF:-1 group-title="📻| Radio" tvg-id="no_epg_music" tvg-logo="https://i.imgur.com/CBi2ZzC.jpg",Zing MP3 - Vpop
-https://multi-playlist-zmp3.zadn.vn/wTSwRIGOON0/zhls/playback-realtime/6eeb692c5569bc37e578/index.m3u8
-#EXTINF:-1 group-title="📻| Radio" tvg-id="no_epg_music" tvg-logo="https://i.imgur.com/ihJeepG.jpg",Zing MP3 - Acoustic
-https://multi-playlist-zmp3.zadn.vn/ktkT8IgzcQQ/zhls/playback-realtime/08aae96dd5283c766539/index.m3u8
-#EXTINF:-1 group-title="📻| Radio" tvg-id="no_epg_music" tvg-logo="https://i.imgur.com/Clwi2Ea.jpg",Zing MP3 - Bolero
-https://multi-playlist-zmp3.zadn.vn/BtRvAOtW5jk/zhls/playback-realtime/e3b9f87ec43b2d65742a/index.m3u8
-#EXTINF:-1 group-title="📻| Radio" tvg-id="no_epg_music" tvg-logo="https://photo-zmp3.zadn.vn/avatars/b/f/3/b/bf3bf87a788a5d0b8719c6feee774a2e.jpg",Zing MP3 - Rap Việt
-https://multi-playlist-zmp3.zadn.vn/Itsn5VCb5Uo/zhls/playback-realtime/4f2980eebcab55f50cba/index.m3u8
-#EXTINF:-1 group-title="📻| Radio" tvg-id="no_epg_music" tvg-logo="https://photo-zmp3.zadn.vn/avatars/c/f/2/4/cf2428f7e56a8c2a52d84cb106891de2.jpg",Zing MP3 - Kpop
-https://multi-playlist-zmp3.zadn.vn/94rxZ-Dfzro/zhls/playback-realtime/ff294ded71a898f6c1b9/index.m3u8
-#EXTINF:-1 group-title="📻| Radio" tvg-id="no_epg_music" tvg-logo="https://photo-zmp3.zadn.vn/avatars/b/0/d/a/b0da7c8ecd6521337682f3a86fa0170f.jpg",Zing MP3 - USUK
-https://multi-playlist-zmp3.zadn.vn/RckDo1XPsU4/zhls/playback-realtime/111c87d8bb9d52c30b8c/index.m3u8
