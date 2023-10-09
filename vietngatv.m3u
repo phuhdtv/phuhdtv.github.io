@@ -1,15 +1,6 @@
 #EXTM3U url-tvg="http://trada.info/epg.xml,https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml,http://epg.51zmt.top:8000/e.xml,http://iptvx.one/EPG,http://epg.it999.ru/epg.xml.gz,"
 #EXTM3U Luôn cập nhật kênh ổn định - https://tinyurl.com/VietXoTV - https://hqth.me/vietstvKIPTV
 
-#EXTINF:-1 group-title="ASIAD 19" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2023-09/S__185475076.jpg.webp",ASIAD Live 1 (Server 01)
-http://asiad2.cvmtv.site:8002/EV01?token=asiad
-#EXTINF:-1 group-title="ASIAD 19" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2023-09/S__185475076.jpg.webp",ASIAD Live 1 (Server 02)
-https://asia.vthanhtivi.pw/asiad1/index.m3u8
-#EXTINF:-1 group-title="ASIAD 19" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2023-09/S__185475076.jpg.webp",ASIAD Live 2 (Server 01)
-http://asiad2.cvmtv.site:8002/EV02?token=asiad
-#EXTINF:-1 group-title="ASIAD 19" tvg-logo="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2023-09/S__185475076.jpg.webp",ASIAD Live 2 (Server 02)
-https://asia.vthanhtivi.pw/asiad2/index.m3u8
-
 #EXTINF:-1 tvg-id="vtv1hd" group-title="🇻🇳| Độ trễ thấp" tvg-logo="https://phuhdtv.github.io/logo/VTV/VTV1.jpg",VTV1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://stream.cvmtv.site:1000/VTV1HD?token=live
@@ -21,7 +12,7 @@ http://stream.cvmtv.site/vtv5?token=live
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="🇻🇳| VTV" tvg-logo="https://phuhdtv.github.io/logo/VTV/VTV1.jpg",VTV1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon/vtv1-hd/playlist.m3u8
+https://live2onsport.vtvcab.vn/onplus/VTV1_HD/m30_index.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🇻🇳| VTV" tvg-logo="https://phuhdtv.github.io/logo/VTV/VTV2.jpg",VTV2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/vtv2-hd/playlist.m3u8
