@@ -436,6 +436,8 @@ https://streaming.livescorethai.net/iptv/hd-discovery.stream/playlist.m3u8|Refer
 https://code.vthanhtivi.pw/getlink/vieon/dw-hd/playlist.m3u8
 #EXTINF:-1 tvg-id="dw" group-title="🌏| Quốc tế" tvg-logo="https://phuhdtv.github.io/logo/International/dw.png",Deutsche Welle Deutsch
 https://live.khanggtivi.xyz/rtp/?dash=232.84.3.168:10428
+#EXTINF:-1 tvg-name="dreamworks" group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/dreamworks.png",Dreamworks Asia
+https://live.khanggtivi.xyz/rtp/?dash=232.84.3.227:11284
 #EXTINF:-1 tvg-id="euronews-en" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://phuhdtv.github.io/logo/International/euronews.png",EURONEWS English
 https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTNAsiaPacific.us" tvg-logo="https://phuhdtv.github.io/logo/International/EWTN.jpg" group-title="🌏| Quốc tế",EWTN Asia-Pacific
@@ -624,6 +626,10 @@ https://ctrl.laotv.la/live/TSport2/index.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png",True Premier Football 3
 https://ctrl.laotv.la/live/TrueSport2/index.m3u8
 
+#EXTINF:-1 tvg-id="inthebox" group-title="📦| In The Box" tvg-logo="https://phuhdtv.github.io/logo/ITB/box.png",In The Box
+http://vthanhtivi.pw:5000/itb/mpegts
+#EXTINF:-1 tvg-id="boxhits" group-title="📦| In The Box" tvg-logo="https://phuhdtv.github.io/logo/ITB/boxhits.jpg",Box Hits
+http://vthanhtivi.pw:5000/bhits/mpegts
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://phuhdtv.github.io/logo/ITB/boxmovie1.png",Box Movie 1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
@@ -732,11 +738,9 @@ http://ott-cdn.ucom.am/s39/04.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="tnt-pl2" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿 🇦🇲" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/TNT.png",ТНТ (+2)
 http://213.59.128.165:8888/play/TNT/index.m3u8
-#EXTINF:0 tvg-id="tnt-int-cis" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿 🇦🇲" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/TNT.png",ТНТ International
+#EXTINF:-1 tvg-id="tnt-int-cis" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿 🇦🇲" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/TNT.png",ТНТ International
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Mobile; rv:26.0) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s19/04.m3u8
-#EXTINF:-1 tvg-id="tnt-int-by" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿 🇦🇲" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/TNT.png",ТНТ International (Беларусь)
-http://178.124.210.172:8000/play/a03d/index.m3u8
 #EXTINF:-1 tvg-id="muztv" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿 🇦🇲" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/MUZ.png",МУЗ ТВ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://edge02.odtv.az/o5/muztv/playlist.m3u8
