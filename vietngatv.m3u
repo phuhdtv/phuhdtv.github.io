@@ -431,7 +431,7 @@ http://vthanhtivi.pw:5000/discovery/index.m3u8
 https://live.khanggtivi.xyz/rtp/?dash=232.84.3.219:11236
 #EXTINF:-1 tvg-id="dw" group-title="🌏| Quốc tế" tvg-logo="https://phuhdtv.github.io/logo/International/dw.png",Deutsche Welle English
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon/dw-hd/playlist.m3u8
+https://qnetlive.nethubtv.vn/live/dw.smil/chunklist_b1628000_sleng.m3u8
 #EXTINF:-1 tvg-id="dw" group-title="🌏| Quốc tế" tvg-logo="https://phuhdtv.github.io/logo/International/dw.png",Deutsche Welle Deutsch
 https://live.khanggtivi.xyz/rtp/?dash=232.84.3.168:10428
 #EXTINF:-1 tvg-name="dreamworks" group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/dreamworks.png",Dreamworks Asia
@@ -444,11 +444,12 @@ https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="fashionhd" group-title="KÊNH 4K" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/FTV-UHD.png",Fashion TV UHD
 http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="france24eng" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://phuhdtv.github.io/logo/International/france24eng.png",FRANCE 24 English
+#EXTINF:-1 tvg-id="france24-fr" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://phuhdtv.github.io/logo/International/france24eng.png",FRANCE 24
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon2/france-24-english/playlist.m3u8
-#EXTINF:-1 tvg-id="france24-fr" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://phuhdtv.github.io/logo/International/france24eng.png",FRANCE 24 Français
-https://live.khanggtivi.xyz/rtp/?dash=232.84.3.207:11164
+https://qnetlive.nethubtv.vn/live/france24sd.smil/chunklist_b1628000_sleng.m3u8
+#EXTINF:-1 tvg-id="france24eng" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://phuhdtv.github.io/logo/International/france24eng.png",FRANCE 24 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://qnetlive.nethubtv.vn/live/france24hd.smil/chunklist_b1628000_sleng.m3u8
 #EXTINF:-1 tvg-id="FoodNetworkAsia.sg" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/FoodNetworkHD.jpg",Food Network Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Mobile; rv:26.0) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s18/04.m3u8
@@ -516,7 +517,7 @@ https://code.vthanhtivi.pw/getlink/eazie/242921/playlist.m3u8
 https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="tv5monde" group-title="🌏| Quốc tế" tvg-logo="https://phuhdtv.github.io/logo/International/TV5.jpg",TV5 Monde Asie
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon/tv5-monde-asie/playlist.m3u8
+https://qnetlive.nethubtv.vn/live/tv5mondeasie.smil/chunklist_b1628000_sleng.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr" group-title="Trung Đông" tvg-logo="https://phuhdtv.github.io/logo/International/TRT.png",TRT World HD
 http://tv-trtworld.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC" tvg-logo="https://phuhdtv.github.io/logo/Flim-Series/tvbv.jpg",TVB Vietnam
