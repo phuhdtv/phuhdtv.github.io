@@ -692,7 +692,7 @@ http://ott-cdn.ucom.am/s17/04.m3u8
 #EXTINF:-1 tvg-id="ntv-mir" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿 🇦🇲" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/NTV.png",Телекомпания НТВ (576p)
 http://45.159.74.13:80/HTB/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="piaty-int" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿 🇦🇲" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/5-Kanal-SPB.png",Петербург 5 канал
-http://31.146.176.94:80/5channel/index.m3u8
+http://178.124.179.122:8088/5/index.m3u8
 #EXTINF:-1 tvg-id="kultura" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿 🇦🇲" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/RK.png",Россия-Культура (480p)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s16/04.m3u8
@@ -722,11 +722,11 @@ http://ott-cdn.ucom.am/s85/04.m3u8
 http://45.159.74.14:80/RenTv/index.m3u8
 #EXTINF:-1 tvg-id="spas" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿 🇦🇲" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/Spas.png",СПАС ТВ
 http://spas.mediacdn.ru/cdn/spas/playlist.m3u8
-#EXTINF:-1 tvg-id="sts-int" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿 🇦🇲" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/CTC.png",СТС INTERNATIONAL (480p)
+#EXTINF:-1 tvg-id="sts" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿 🇦🇲" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/CTC.png",СТС
+http://45.159.74.13:80/CTC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="sts-int" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿 🇦🇲" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/CTC.png",СТС INTERNATIONAL
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s52/04.m3u8
-#EXTINF:-1 tvg-id="sts-int" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿 🇦🇲" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/CTC.png",СТС INTERNATIONAL (576p)
-http://31.146.176.94:80/CTC/index.m3u8
 #EXTINF:-1 tvg-id="domashny-int" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿 🇦🇲" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/DOM.png",Домашний International
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s88/04.m3u8
