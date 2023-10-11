@@ -691,9 +691,8 @@ http://ott-cdn.ucom.am/s21/04.m3u8
 http://edge02.odtv.az/o1/rossiya24/playlist.m3u8
 #EXTINF:-1 tvg-id="karusel-int" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿 🇦🇲" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/Karusel.png",Телеканал Карусель
 http://45.159.74.13:80/Karusel/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="otr" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿 🇦🇲" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/OTR.png",Общественное Телевидение России
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
+#EXTINF:-1 tvg-id="otr-pl4" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿 🇦🇲" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/OTR.png",Общественное Телевидение России (+4)
+http://213.59.128.165:8888/play/OTR/index.m3u8
 #EXTINF:-1 tvg-id="tvci" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿 🇦🇲" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/TVC.png",ТВ Центр International (480p)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s54/04.m3u8
@@ -714,9 +713,8 @@ http://ott-cdn.ucom.am/s52/04.m3u8
 #EXTINF:-1 tvg-id="domashny-int" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿 🇦🇲" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/DOM.png",Домашний International
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s88/04.m3u8
-#EXTINF:-1 tvg-id="tv3-ru" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿 🇦🇲" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/TV3.png",Телеканал ТВ3
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8
+#EXTINF:-1 tvg-id="tv3-ru-pl2" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿 🇦🇲" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/TV3.png",Телеканал ТВ3 (+2)
+http://213.59.128.165:8888/play/TV_3/index.m3u8
 #EXTINF:-1 tvg-id="piatnica-int" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿 🇦🇲" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/FRIDAY.png",Телекомпания Пятница
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s50/index.m3u8
