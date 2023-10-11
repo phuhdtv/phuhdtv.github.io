@@ -426,8 +426,6 @@ https://code.vthanhtivi.pw/getlink/eazie/242127/playlist.m3u8
 https://hls-live-media.cdn01.net/dvr/stream_37099_1.m3u8
 #EXTINF:-1 tvg-id="DAAITV.id" tvg-logo="https://phuhdtv.github.io/logo/International/DAAI-TV.jpg" group-title="ĐÔNG & NAM Á",DaAi
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/index.m3u8
-#EXTINF:-1 tvg-id="da-vinci" group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/davinci.png",Da Vinci Asia HD
-https://sc.id-tv.kz/DaVinci_34_35.m3u8
 #EXTINF:-1 tvg-id="discoveryhd" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/discovery-channel.png",Discovery Channel SEA
 http://vthanhtivi.pw:5000/discovery/index.m3u8
 #EXTINF:-1 tvg-id="discoveryasiahd" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/discoveryasia.png",Discovery Asia
@@ -734,9 +732,11 @@ http://ott-cdn.ucom.am/s39/04.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="tnt-pl2" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿 🇦🇲" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/TNT.png",ТНТ (+2)
 http://213.59.128.165:8888/play/TNT/index.m3u8
-#EXTINF:-1 tvg-id="tnt-int-cis" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿 🇦🇲" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/TNT.png",ТНТ International
+#EXTINF:0 tvg-id="tnt-int-cis" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿 🇦🇲" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/TNT.png",ТНТ International
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Mobile; rv:26.0) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s19/04.m3u8
+#EXTINF:-1 tvg-id="tnt-int-by" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿 🇦🇲" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/TNT.png",ТНТ International (Беларусь)
+http://178.124.210.172:8000/play/a03d/index.m3u8
 #EXTINF:-1 tvg-id="muztv" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿 🇦🇲" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/MUZ.png",МУЗ ТВ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://edge02.odtv.az/o5/muztv/playlist.m3u8
