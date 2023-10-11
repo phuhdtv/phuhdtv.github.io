@@ -771,10 +771,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://edge02.odtv.az/o7/rutv/playlist.m3u8
 #EXTINF:-1 tvg-id="sts-love" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿 🇦🇲" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/CTC-Love.png",СТС Love
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe02.cliptv.az/dash/STS_Love_SDgggdd45.ism/playlist.mpd
 #EXTINF:-1 tvg-id="8kanal-krasnoyarsk" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/8Kanal.png" group-title="🇷🇺 🇧🇾 🇦🇿 🇰🇿 🇰🇬 🇹🇯 🇺🇿 🇦🇲",8 канал
 http://80.65.18.213/8kanal/vintera/playlist.m3u8
@@ -886,10 +882,6 @@ http://ott-cdn.ucom.am/s33/04.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
 http://ott-cdn.ucom.am/s64/04.m3u8
 #EXTINF:-1 tvg-id="mir-seriala" tvg-logo="https://phuhdtv.github.io/logo/Flim-Series/MIR-Seriala.png" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC",Мир Сериала
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.is_realtime_stream=true
 http://mfe01.cliptv.az/dash/Mir_seriala_SD12sdsdsd.ism/playlist.mpd
 #EXTINF:-1 tvg-id="dorama" tvg-logo="https://phuhdtv.github.io/logo/Flim-Series/dorama.png" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC",Дорама
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Mobile; rv:26.0)"
