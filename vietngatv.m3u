@@ -616,7 +616,7 @@ https://tbs01-edge11.itdc.ge/ort/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s15/04.m3u8
 #EXTINF:-1 tvg-id="rtr-planeta-ua" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/RTRP.png",Россия РТР СНГ (576p)
-https://tbs01-edge11.itdc.ge/rtr/tracks-v1a1/mono.m3u8
+http://45.159.74.13:80/RTRPlaneta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="rtr-planeta-azia" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/RTRP.png",Россия РТР Азия
 https://live.khanggtivi.xyz/rtp/?dash=232.84.2.127:8544
 #EXTINF:-1 group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-id="match-tv" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/Match.png",Матч! ТВ HD
@@ -625,29 +625,30 @@ http://stream.cvmtv.site/Match?token=live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s17/04.m3u8
 #EXTINF:-1 tvg-id="ntv-mir" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/NTV.png",Телекомпания НТВ (576p)
-https://tbs01-edge11.itdc.ge/ntvmir/tracks-v1a1/mono.m3u8
+http://45.159.74.13:80/HTB/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru-pl2" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/5-Kanal-SPB.png",Петербург 5 канал (+2)
 http://213.59.128.165:8888/play/Pyatyj_kanal/index.m3u8
 #EXTINF:-1 tvg-id="kultura" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/RK.png",Россия-Культура (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s16/04.m3u8
 #EXTINF:-1 tvg-id="kultura" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/RK.png",Россия-Культура (576p)
-https://tbs01-edge11.itdc.ge/russiaculture/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://edge02.smart.az/o1/rtrkultura/playlist.m3u8
 #EXTINF:-1 tvg-id="rossia-24" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/R24.png",Россия-24 (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s21/04.m3u8
 #EXTINF:-1 tvg-id="rossia-24" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/R24.png",Россия-24 (576p)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://edge02.odtv.az/o1/rossiya24/playlist.m3u8
-#EXTINF:-1 tvg-id="karusel-int" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/Karusel.png",Телеканал Карусель
-https://tbs01-edge11.itdc.ge/karusel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="karusel-pl2" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/Karusel.png",Телеканал Карусель (+2)
+http://213.59.128.165:8888/play/Karusel/index.m3u8
 #EXTINF:-1 tvg-id="otr-pl4" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/OTR.png",Общественное Телевидение России (+4)
 http://213.59.128.165:8888/play/OTR/index.m3u8
 #EXTINF:-1 tvg-id="tvci" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/TVC.png",ТВ Центр International (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s54/04.m3u8
 #EXTINF:-1 tvg-id="tvci" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/TVC.png",ТВ Центр International (576p)
-https://tbs01-edge11.itdc.ge/tvc/tracks-v1a1/mono.m3u8
+http://202.21.104.6:88/Russia-rtr-tv/index.m3u8
 #EXTINF:-1 tvg-id="rentv-int" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/REN.png",РЕН ТВ International (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s85/04.m3u8
@@ -670,7 +671,7 @@ http://213.59.128.165:8888/play/TV_3/index.m3u8
 #EXTINF:-1 tvg-id="piatnica-int" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/FRIDAY.png",Телекомпания Пятница (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s50/04.m3u8
-#EXTINF:-1 tvg-id="piatnica-pl2" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/FRIDAY.png",Телекомпания Пятница (576p)
+#EXTINF:-1 tvg-id="piatnica-int" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/FRIDAY.png",Телекомпания Пятница (576p)
 https://tbs01-edge11.itdc.ge/friday/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="zvezda" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/Zvezda.png",Телеканал Звезда
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
@@ -791,7 +792,7 @@ http://rtmp.one.by:1499
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s43/index.m3u8
 #EXTINF:-1 tvg-id="shanson-tv" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/ShansonTV.png",Шансон ТВ (576p)
-https://tbs01-edge11.itdc.ge/shanson/tracks-v1a1/mono.m3u8
+http://86.57.178.105:10821
 
 #EXTINF:-1 tvg-id="shop24" group-title="🇻🇳-🇷🇺| Quảng Cáo" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/L24.png",Leomax 24 HD
 http://tvshops.bonus-tv.ru:80/cdn/shop24/tracks-v1a1/index.m3u8
@@ -800,11 +801,9 @@ http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
 #EXTINF:-1 tvg-id="yuvelirochka" group-title="🇻🇳-🇷🇺| Quảng Cáo" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/yuvelirochka.png",Ювелирочка ТВ HD
 http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="english-club-tv" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/EngClubTV.png",English Club TV (480p)
+#EXTINF:-1 tvg-id="english-club-tv" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/EngClubTV.png",English Club TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s37/04.m3u8
-#EXTINF:-1 tvg-id="english-club-tv" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/EngClubTV.png",English Club TV (576p)
-https://tbs01-edge11.itdc.ge/engclub/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="solnce" group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình" tvg-logo="https://phuhdtv.github.io/logo/children/Solnce.png",Солнце
 http://31.148.48.15:80/Disney_Channel/index.m3u8?token=test
@@ -838,7 +837,7 @@ https://tbs01-edge11.itdc.ge/amedia/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s33/04.m3u8
 #EXTINF:-1 tvg-id="amedia2" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC" tvg-logo="https://phuhdtv.github.io/logo/Flim-Series/a2.png",AMEDIA 2 (576p)
-https://tbs01-edge11.itdc.ge/tv3/tracks-v1a1/mono.m3u8
+http://31.148.48.15:80/A2/index.m3u8?token=test
 #EXTINF:-1 tvg-id="amedia-hit" tvg-logo="https://phuhdtv.github.io/logo/Flim-Series/amedia-hit.png" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC",Amedia Hit HD
 http://193.33.240.8:8080/amedia_hit_hd/index.m3u8
 #EXTINF:-1 tvg-id="amedia-premium" tvg-logo="https://phuhdtv.github.io/logo/Flim-Series/amedia-premium.png" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC",AMEDIA Premium 
@@ -848,8 +847,6 @@ http://31.148.48.15:80/Amedia_Premium_HD/index.m3u8?token=test
 http://ott-cdn.ucom.am/s95/04.m3u8
 #EXTINF:-1 tvg-id="dorama" tvg-logo="https://phuhdtv.github.io/logo/Flim-Series/dorama.png" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC",Дорама HD
 http://91.197.104.34:8080/Dorama/video.m3u8
-#EXTINF:-1 tvg-id="mir-seriala" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC" tvg-logo="https://phuhdtv.github.io/logo/Flim-Series/MIR-Seriala.png",МИР СЕРИАЛА
-https://tbs01-edge11.itdc.ge/mirseriala/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="zagorodny-int" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://phuhdtv.github.io/logo/Science/zagorodny.png",Загородный
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
@@ -864,7 +861,7 @@ http://ott-cdn.ucom.am/s40/04.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s98/04.m3u8
 #EXTINF:-1 tvg-id="nauka-20" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://phuhdtv.github.io/logo/Science/Nauka.png",Наука (576p)
-https://tbs01-edge11.itdc.ge/nayka/tracks-v1a1/mono.m3u8
+http://31.148.48.15:80/Nauka_2.0/index.m3u8?token=test
 #EXTINF:-1 tvg-id="arsenaltv" tvg-logo="https://phuhdtv.github.io/logo/Science/Arsenal.png" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG",Телеканал Арсенал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s68/04.m3u8
@@ -906,10 +903,8 @@ http://ott-cdn.ucom.am/s77/04.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s44/04.m3u8
 #EXTINF:-1 tvg-id="sarafan" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/SARAFAN.png" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ",Сарафан
-https://tbs01-edge11.itdc.ge/sarafan/tracks-v1a1/mono.m3u8
+http://86.57.178.105:10822
 
-#EXTINF:-1 tvg-id="rtvi" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/RTVi.png" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập",RTVI
-https://tbs01-edge11.itdc.ge/rtvi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tbn-ru" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/TBN.png" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập",ТБН
 http://62.32.67.187:1935/WEB_TBN/TBN.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="nastoyaschee-vremia" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/NV.png" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập",Настоящее время
