@@ -830,12 +830,16 @@ http://45.159.74.13:80/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="pobeda" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/POBEDA.png",Телеканал Победа
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Mobile; rv:26.0) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s47/04.m3u8
-#EXTINF:-1 tvg-id="amedia1" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC" tvg-logo="https://phuhdtv.github.io/logo/Flim-Series/A1.png",AMEDIA 1
+#EXTINF:-1 tvg-id="amedia1" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC" tvg-logo="https://phuhdtv.github.io/logo/Flim-Series/A1.png",AMEDIA 1 (Low)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Mobile; rv:26.0) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s45/04.m3u8
-#EXTINF:-1 tvg-id="amedia2" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC" tvg-logo="https://phuhdtv.github.io/logo/Flim-Series/a2.png",AMEDIA 2
+#EXTINF:-1 tvg-id="amedia1" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC" tvg-logo="https://phuhdtv.github.io/logo/Flim-Series/A1.png",AMEDIA 1 (High)
+http://31.148.48.15:80/A1/index.m3u8?token=test
+#EXTINF:-1 tvg-id="amedia2" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC" tvg-logo="https://phuhdtv.github.io/logo/Flim-Series/a2.png",AMEDIA 2 (Low)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Mobile; rv:26.0) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s33/04.m3u8
+#EXTINF:-1 tvg-id="amedia2" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC" tvg-logo="https://phuhdtv.github.io/logo/Flim-Series/a2.png",AMEDIA 2 (High)
+http://31.148.48.15:80/A2/index.m3u8?token=test
 #EXTINF:-1 tvg-id="amedia-hit" tvg-logo="https://phuhdtv.github.io/logo/Flim-Series/amedia-hit.png" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC",Amedia Hit HD
 http://193.33.240.8:8080/amedia_hit_hd/index.m3u8
 #EXTINF:-1 tvg-id="amedia-premium" tvg-logo="https://phuhdtv.github.io/logo/Flim-Series/amedia-premium.png" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC",AMEDIA Premium 
