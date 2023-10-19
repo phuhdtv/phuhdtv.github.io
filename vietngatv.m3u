@@ -119,9 +119,9 @@ http://113.164.225.140:1935/live/quochoitvlive.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="nhandan" group-title="🌐| Thiết yếu" tvg-logo="https://phuhdtv.github.io/logo/qg/Nhan_Dan.png",NHÂN DÂN TV HD
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/NHANDAN-SD-ABR/HTV-ABR/NHANDAN-SD-720p/playlist.m3u8
 
-#EXTINF:0 group-title="Other Channel" tvg-logo="https://phuhdtv.github.io/logo/PayTV/HiTV.jpg",HiTV HD
+#EXTINF:0 tvg-id="no_epg" group-title="Other Channel" tvg-logo="https://phuhdtv.github.io/logo/PayTV/HiTV.jpg",HiTV HD
 https://live.khanggtivi.xyz/rtp/?dash=232.84.3.84:11548
-#EXTINF:-1 group-title="Other Channel" tvg-logo="https://phuhdtv.github.io/logo/PayTV/phim-hay.png",Phim Hay
+#EXTINF:-1 tvg-id="no_epg" group-title="Other Channel" tvg-logo="https://phuhdtv.github.io/logo/PayTV/phim-hay.png",Phim Hay
 https://cdnw-liv02.todayplus.com.vn/hdb/smil:phimhay.smil/chunklist_b228915playlist.m3u8
 
 #EXTINF:-1 tvg-id="htv1" group-title="🇻🇳| HTV" tvg-logo="https://phuhdtv.github.io/logo/HTV/HTV1.png",HTV1
@@ -458,7 +458,7 @@ http://livear.cgtn.com/1000a/prog_index.m3u8
 https://cgntvlive-998.acs.wecandeo.com/ms/2850/998/index_1.m3u8
 #EXTINF:-1 tvg-id="clubbing-tv" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://phuhdtv.github.io/logo/International/CLUBBING-TV.jpg",CLUBBING TV
 https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/CRIME-INVESTIGATION.jpg",CRIME+INVESTIGATION
+#EXTINF:-1 tvg-id="no_epg" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/CRIME-INVESTIGATION.jpg",CRIME+INVESTIGATION
 https://code.vthanhtivi.pw/getlink/eazie/242127/playlist.m3u8
 #EXTINF:-1 tvg-id="DaystarTV.us" tvg-logo="https://i.imgur.com/IjzCv8f.png" group-title="🌏| Quốc tế",Daystar TV
 https://hls-live-media.cdn01.net/dvr/stream_37099_1.m3u8
@@ -566,7 +566,7 @@ https://qnetlive.nethubtv.vn/live/tv5mondeasie.smil/chunklist_b1628000_sleng.m3u
 http://tv-trtworld.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC" tvg-logo="https://phuhdtv.github.io/logo/Flim-Series/tvbv.jpg",TVB Vietnam
 https://bcovlive-a.akamaihd.net/07d9c30456d94f3dbbcd39af064fdefa/us-west-2/6314468039001/0914b33308e3498da3b00fe2c050764e/playlist_ssaiM.m3u8
-#EXTINF:0 group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/dwzOBZ1.png",TVE
+#EXTINF:0 tvg-id="no_epg" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/dwzOBZ1.png",TVE Internacional Asia
 https://live.khanggtivi.xyz/rtp/?dash=232.84.3.205:11152
 #EXTINF:-1 tvg-id="VoATVGlobal.us" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/aVWTorO.png",VOA TV
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/master.m3u8
@@ -576,9 +576,9 @@ https://live.khanggtivi.xyz/rtp/?dash=232.84.2.51:10516
 https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8
 #EXTINF:-1 tvg-id="world-fashion-channel-en" tvg-logo="https://phuhdtv.github.io/logo/International/WFC.png" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG",World Fashion Channel
 http://live-3.otcnet.ru/wfcint/index.m3u8
-#EXTINF:0 group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ" tvg-logo="https://i.imgur.com/m8UUfDh.png",Xing Kong
+#EXTINF:0 tvg-id="no_epg" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ" tvg-logo="https://i.imgur.com/m8UUfDh.png",Xing Kong
 https://live.khanggtivi.xyz/rtp/?dash=232.84.3.189:11056
-#EXTINF:0 group-title="🇰🇷-🇯🇵-🇰🇵| Hàn Quốc-Nhật Bản-Triều Tiên" tvg-logo="https://i.imgur.com/EbQKy78.png",YTN World
+#EXTINF:0 tvg-id="no_epg" group-title="🇰🇷-🇯🇵-🇰🇵| Hàn Quốc-Nhật Bản-Triều Tiên" tvg-logo="https://i.imgur.com/EbQKy78.png",YTN World
 https://live.khanggtivi.xyz/rtp/?dash=232.84.3.208:11170
 #EXTINF:-1 tvg-id="DaAi1.tw" tvg-logo="https://phuhdtv.github.io/logo/International/DAAI-TV.jpg" group-title="🇨🇳-🇭🇰-🇹🇼| Trung Quốc-Hồng Kông-Đài Loan",大愛 (DaAi)
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
