@@ -457,6 +457,8 @@ http://vthanhtivi.pw:5000/discovery/index.m3u8
 #EXTINF:-1 tvg-id="dw" group-title="🌏| Quốc tế" tvg-logo="https://phuhdtv.github.io/logo/International/dw.png",Deutsche Welle English
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://qnetlive.nethubtv.vn/live/dw.smil/chunklist_b1628000_sleng.m3u8
+#EXTINF:-1 tvg-id="dw" group-title="🌏| Quốc tế" tvg-logo="https://phuhdtv.github.io/logo/International/dw.png",Deutsche Welle English HD
+http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="euronews-en" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://phuhdtv.github.io/logo/International/euronews.png",EURONEWS English
 https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTNAsiaPacific.us" tvg-logo="https://phuhdtv.github.io/logo/International/EWTN.jpg" group-title="🌏| Quốc tế",EWTN Asia-Pacific
@@ -579,8 +581,6 @@ http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw993550557_162751766/ott.
 https://sc2022.stream-link.org/tv2306.php?id=h19
 #EXTINF:-1 tvg-name="贵州卫视" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://i.imgur.com/eSNdW3n.png",鳳凰衛視資訊台 - Phoenix InfoNews Channel
 https://sc2022.stream-link.org/tv2306.php?id=h18
-#EXTINF:-1 tvg-id="SanskarTV.in" tvg-logo="https://i.imgur.com/SDkiMvR.png" group-title="🇮🇳-🇵🇰-🇳🇵| Ấn Độ-Pakistan-Nepal",संस्कार (Sanskar TV)
-https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_sport" group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="https://phuhdtv.github.io/logo/Sport/bein-1.png",BeIN Sports 1 Thailand (English)
 https://ctrl.laotv.la/live/Bsport1/index.m3u8
@@ -751,8 +751,8 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="ru-tv" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/rutv.png",RU.TV
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://edge02.odtv.az/o7/rutv/playlist.m3u8
-#EXTINF:-1 tvg-id="8kanal-ru" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/8Kanal.png" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập",8 канал
-https://ucdn.beetv.kz/btv/live/hls/000001564.m3u8
+#EXTINF:-1 tvg-id="8kanal-ru" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/8Kanal.png" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập",8 канал (Красноярск)
+http://80.65.18.213/perviy_molodeginyi_3100kb.m3u8
 #EXTINF:-1 tvg-id="bst" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/BST.png",БСТ - Башкирское спутниковое телевидение
 http://bsttv.bonus-tv.ru:80/cdn/bst/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-id="kuraj" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/kurai.png" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập",Курай-ТВ
