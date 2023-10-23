@@ -1,6 +1,13 @@
 #EXTM3U url-tvg="http://trada.info/epg.xml,https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml,http://epg.51zmt.top:8000/e.xml,http://iptvx.one/EPG,http://epg.it999.ru/epg.xml.gz,"
 #EXTM3U Luôn cập nhật kênh ổn định - https://tinyurl.com/VietXoTV - https://hqth.me/vietstvKIPTV
 
+#EXTINF:-1 tvg-id="vtv1hd" group-title="🇻🇳| VTV (Độ trễ thấp)" tvg-logo="https://phuhdtv.github.io/logo/VTV/VTV1.jpg",VTV1 (Độ trễ thấp)
+http://stream.cvmtv.site:1000/VTV1HD?token=live
+#EXTINF:-1 tvg-id="vtv3hd" group-title="🇻🇳| VTV (Độ trễ thấp)" tvg-logo="https://phuhdtv.github.io/logo/VTV/VTV3.jpg",VTV3 (Độ trễ thấp)
+http://stream.cvmtv.site:1000/VTV3HD?token=live
+#EXTINF:-1 tvg-id="vtv5hd" group-title="🇻🇳| VTV (Độ trễ thấp)" tvg-logo="https://phuhdtv.github.io/logo/VTV/VTV5.jpg",VTV5 (Độ trễ thấp)
+http://stream.cvmtv.site/vtv5?token=live
+
 #EXTINF:-1 tvg-id="vtv1hd" group-title="🇻🇳| VTV" tvg-logo="https://phuhdtv.github.io/logo/VTV/VTV1.jpg",VTV1
 http://live.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🇻🇳| VTV" tvg-logo="https://phuhdtv.github.io/logo/VTV/VTV2.jpg",VTV2
@@ -23,13 +30,6 @@ https://live2onsport.vtvcab.vn/hls/VTV7_HD/sc-gaFEAA/m20_index.m3u8
 https://live2onsport.vtvcab.vn/hls/VTV8_HD/sc-gaFEAA/m20_index.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="🇻🇳| VTV" tvg-logo="https://phuhdtv.github.io/logo/VTV/VTV9.jpg",VTV9
 https://live2onsport.vtvcab.vn/hls/VTV9_HD/sc-gaFEAA/m20_index.m3u8
-
-#EXTINF:-1 tvg-id="vtv1hd" group-title="🇻🇳| VTV (Độ trễ thấp)" tvg-logo="https://phuhdtv.github.io/logo/VTV/VTV1.jpg",VTV1 (Độ trễ thấp)
-http://stream.cvmtv.site:1000/VTV1HD?token=live
-#EXTINF:-1 tvg-id="vtv3hd" group-title="🇻🇳| VTV (Độ trễ thấp)" tvg-logo="https://phuhdtv.github.io/logo/VTV/VTV3.jpg",VTV3 (Độ trễ thấp)
-http://stream.cvmtv.site:1000/VTV3HD?token=live
-#EXTINF:-1 tvg-id="vtv5hd" group-title="🇻🇳| VTV (Độ trễ thấp)" tvg-logo="https://phuhdtv.github.io/logo/VTV/VTV5.jpg",VTV5 (Độ trễ thấp)
-http://stream.cvmtv.site/vtv5?token=live
 
 #EXTINF:-1 group-title="VTVcab" tvg-id="vtvcab1hd" tvg-logo="https://phuhdtv.github.io/logo/VCTV/VCTV1.png",VTVCab1 HD
 http://stream.cvmtv.site/vie?token=live
