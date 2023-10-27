@@ -303,6 +303,9 @@ http://live.tv360.vn/manifest/VinhLong3_HD/playlist_1080p.m3u8
 http://live.tv360.vn/manifest/VinhLong4_HD/playlist_1080p.m3u8
 
 #EXTINF:-1 tvg-id="angiang" group-title="🇻🇳| Địa phương" tvg-logo="https://phuhdtv.github.io/logo/diaphuong/AnGiangTV.png",ATV - AN GIANG
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e8.endpoint.cdn.sctvonline.vn/hls/thangiang/index.m3u8
+#EXTINF:-1 tvg-id="angiang" group-title="🇻🇳| Địa phương" tvg-logo="https://phuhdtv.github.io/logo/diaphuong/AnGiangTV.png",ATV - AN GIANG HD
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/ANGIANG-SD-ABR/HTV-ABR/ANGIANG-SD-720p/chunks.m3u8
 #EXTINF:-1 tvg-id="baria" group-title="🇻🇳| Địa phương" tvg-logo="https://phuhdtv.github.io/logo/diaphuong/BaRiaVungTauTV.png",BRT - BÀ RIẠ VŨNG TÀU HD
 https://stream.brt.vn:8081/live/tv2.stream/playlist.m3u8
@@ -363,6 +366,8 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/DONGNAI1-SD-ABR/HTV-ABR/DONGNAI1-SD-7
 http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist_w1490477581_b1384000.m3u8
 #EXTINF:-1 tvg-id="dongnai3" group-title="🇻🇳| Địa phương" tvg-logo="https://phuhdtv.github.io/logo/diaphuong/dongnai3.jpg",ĐNRTV3 - ĐỒNG NAI 3
 https://code.vthanhtivi.pw/getlink/dnlive/dnrtv3/playlist.m3u8
+#EXTINF:-1 tvg-id="dongthap" group-title="🇻🇳| Địa phương" tvg-logo="https://phuhdtv.github.io/logo/diaphuong/DongThapTV.png",THĐT1 - ĐỒNG THÁP
+https://618b88f69e53b.streamlock.net/THDT/thdttv/chunklist_w1446285049.m3u8
 #EXTINF:-1 tvg-id="dongthap" group-title="🇻🇳| Địa phương" tvg-logo="https://phuhdtv.github.io/logo/diaphuong/DongThapTV.png",THĐT1 - ĐỒNG THÁP HD
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/DONGTHAP-SD-ABR/HTV-ABR/DONGTHAP-SD-720p/playlist.m3u8
 #EXTINF:-1 tvg-id="dienbien" group-title="🇻🇳| Địa phương" tvg-logo="https://phuhdtv.github.io/logo/diaphuong/DienBienTV.png",ĐTV - ĐIỆN BIÊN HD
@@ -647,7 +652,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/tv5/index.m3u8
 http://tv-trtworld.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="VoATVGlobal.us" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/aVWTorO.png",VOA TV
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/master.m3u8
-#EXTINF:-1 tvg-id="WION.in" tvg-logo="https://phuhdtv.github.io/logo/International/WION.png" group-title="🌏| Quốc tế",Wion
+#EXTINF:-1 tvg-id="WION.in" tvg-logo="https://phuhdtv.github.io/logo/International/WION.png" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH",Wion
 https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8
 #EXTINF:-1 tvg-id="world-fashion-channel-en" tvg-logo="https://phuhdtv.github.io/logo/International/WFC.png" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG",World Fashion Channel
 http://live-3.otcnet.ru/wfcint/index.m3u8
