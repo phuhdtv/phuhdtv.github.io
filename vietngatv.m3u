@@ -491,6 +491,9 @@ http://vthanhtivi.pw:5000/animax/index.m3u8
 https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelfareast_all/playlist.m3u8
 #EXTINF:-1 tvg-id="animalhd" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/animal-planet.png",Animal Planet SEA
 http://vthanhtivi.pw:5000/animal/index.m3u8
+#EXTINF:-1 tvg-id="afnhd" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/afnhd.png" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ",Asian Food Network
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+https://tiemnhazunn.click/tv360/tv360.php?id=215
 #EXTINF:-1 tvg-id="arirang" group-title="🇰🇷-🇯🇵-🇰🇵| Hàn Quốc-Nhật Bản-Triều Tiên" tvg-logo="https://phuhdtv.github.io/logo/International/Arirang.png",ARIRANG World
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 tvg-id="bloomberg" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://phuhdtv.github.io/logo/International/bloomberg.png",Bloomberg Asia
@@ -504,7 +507,7 @@ http://vthanhtivi.pw:5000/cartoon/index.m3u8
 #EXTINF:-1 tvg-name="Cartoonito" group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/Cartoonito.png",Cartoonito Asia HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://code.vthanhtivi.pw/getlink/tvfree/boomerang/playlist.m3u8
-#EXTINF:0 tvg-logo="https://phuhdtv.github.io/logo/Flim-Series/Celestial-Movies.jpg" group-title="Quốc Tế",Celestial Movies
+#EXTINF:0 tvg-logo="https://phuhdtv.github.io/logo/Flim-Series/Celestial-Movies.jpg" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC",Celestial Movies
 https://ctrl.laotv.la/live/CHCA/index.m3u8
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/CINEMAWORLD.png",CinemaWorld
 http://210.210.155.35/dr9445/h/h04/01.m3u8
@@ -600,12 +603,12 @@ https://qnetlive.nethubtv.vn/live/france24hd.smil/chunklist_b1628000_sleng.m3u8
 https://live.streamingfast.net/osmflivech1.m3u8
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.imgur.com/yce0NJB.png" group-title="Trung Đông",Hadi TV
 https://live.ishiacloud.com/haditv.co.uk/haditv1.m3u8
-#EXTINF:-1 tvg-id="HudaTV.eg" tvg-logo="https://i.imgur.com/1UUjU26.png" group-title="Trung Đông",Huda TV
-https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
 #EXTINF:-1 tvg-id="hbohd" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/HBO.jpg",HBO Asia
 https://ctrl.laotv.la/live/HBO/index.m3u8
 #EXTINF:-1 tvg-id="hbohd" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/HBO.jpg",HBO Asia (Vietnam Feed)
 http://vthanhtivi.pw:5000/hbo/index.m3u8
+#EXTINF:-1 tvg-id="HudaTV.eg" tvg-logo="https://i.imgur.com/1UUjU26.png" group-title="Trung Đông",Huda TV
+https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
 #EXTINF:-1 tvg-id="KCTV.kp" group-title="🇰🇷-🇯🇵-🇰🇵| Hàn Quốc-Nhật Bản-Triều Tiên" tvg-logo="https://i.imgur.com/wN1cSDd.png",Korean Central Television
 https://tv.nknews.org/tvdash/stream.mpd
 #EXTINF:-1 tvg-id="kbsworld" group-title="🇰🇷-🇯🇵-🇰🇵| Hàn Quốc-Nhật Bản-Triều Tiên" tvg-logo="https://phuhdtv.github.io/logo/International/kbs.png",KBS World (480p)
@@ -1073,8 +1076,6 @@ http://ott-cdn.ucom.am/s41/04.m3u8
 
 #EXTINF:-1 tvg-id="no_epg" group-title="B4TV" tvg-logo="http://b4tv.live/images/994c671dd2015154c0a928f00aa4934a.png",B4EVENT 1
 http://b4tv.live/b4tv/b4tv/47.m3u8
-#EXTINF:-1 tvg-id="no_epg" group-title="B4TV" tvg-logo="http://b4tv.live/images/994c671dd2015154c0a928f00aa4934a.png",B4EVENT 2
-http://b4tv.live/b4tv/b4tv/48.m3u8
 #EXTINF:-1 tvg-id="no_epg" group-title="B4TV" tvg-logo="http://b4tv.live/images/f48921dd0505305aff871882567eeca9.png",B4BOX
 http://b4tv.live/b4tv/b4tv/84.m3u8
 #EXTINF:-1 group-title="B4TV" tvg-id="no_epg" tvg-logo="http://b4tv.live/images/5150b363cf6c9192ebe147a113dea625.png",B4TUBE
