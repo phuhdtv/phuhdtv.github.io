@@ -77,6 +77,9 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab9/index.m3u8
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab10/index.m3u8
 #EXTINF:0 tvg-id="no_epg" group-title="🇻🇳-🇷🇺| Quảng Cáo" tvg-logo="https://phuhdtv.github.io/logo/VCTV/GSShop.png",GS Shop HD
 https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="vtvcab12hd" group-title="🇻🇳| VTVcab" tvg-logo="https://phuhdtv.github.io/logo/VCTV/VCTV12.jpg",ON Style
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab12/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab12hd" group-title="🇻🇳| VTVcab" tvg-logo="https://phuhdtv.github.io/logo/VCTV/VCTV12.jpg",ON Style HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/vtvcab12-style-tv/playlist.m3u8
@@ -94,7 +97,7 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/index.m3u8
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab17/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="🇻🇳| VTVcab" tvg-logo="https://phuhdtv.github.io/logo/VCTV/VCTV18.jpg",ON Sports News HD
 http://b4tv.live/b4tv/b4tv/3.m3u8
-#EXTINF:-1 tvg-id="vtvcab19hd" group-title="🇻🇳| VTVcab" tvg-logo="https://phuhdtv.github.io/logo/VCTV/VCTV19.png",VTVcab 19 HD
+#EXTINF:-1 tvg-id="vtvcab19hd" group-title="🇻🇳| VTVcab" tvg-logo="https://phuhdtv.github.io/logo/VCTV/VCTV19.png",VTVcab 19
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab19/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab20hd" group-title="🇻🇳| VTVcab" tvg-logo="https://phuhdtv.github.io/logo/VCTV/VCTV20.png",ON VFamily HD
@@ -470,7 +473,7 @@ https://60acee235f4d5.streamlock.net/THTV/travinhtv/chunklist_w1911186192.m3u8
 #EXTINF:-1 tvg-id="no_epg" group-title="🇻🇳| Địa phương" tvg-logo="https://phuhdtv.github.io/logo/diaphuong/TraVinhTV2.png",THTV2 - Trà Vinh 2
 https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/chunklist_w517483768.m3u8
 #EXTINF:-1 tvg-id="tuyenquang" group-title="🇻🇳| Địa phương" tvg-logo="https://phuhdtv.github.io/logo/diaphuong/tuyenquang.jpg",TTV - TUYÊN QUANG
-http://27.72.164.157:8080/hls/ttv.m3u8
+https://live.tuyenquangtv.vn/hls/ttv.m3u8
 #EXTINF:-1 tvg-id="vinhphuc" group-title="🇻🇳| Địa phương" tvg-logo="https://phuhdtv.github.io/logo/diaphuong/VinhPhucTV.png",VP - VĨNH PHÚC
 http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="yenbai" group-title="🇻🇳| Địa phương" tvg-logo="https://phuhdtv.github.io/logo/diaphuong/YenBaiTV.png",YTV - YÊN BÁI
@@ -503,8 +506,6 @@ http://vthanhtivi.pw:5000/cartoon/index.m3u8
 https://code.vthanhtivi.pw/getlink/tvfree/boomerang/playlist.m3u8
 #EXTINF:0 tvg-logo="https://phuhdtv.github.io/logo/Flim-Series/Celestial-Movies.jpg" group-title="Quốc Tế",Celestial Movies
 https://ctrl.laotv.la/live/CHCA/index.m3u8
-#EXTINF:0 tvg-logo="https://phuhdtv.github.io/logo/Flim-Series/CCM.png" group-title="Quốc Tế",Celestial Classic Movies
-http://210.210.155.37/qwr9ew/s/s31/index.m3u8
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/CINEMAWORLD.png",CinemaWorld
 http://210.210.155.35/dr9445/h/h04/01.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/cinemaxhd.jpg",Cinemax Asia
@@ -719,8 +720,6 @@ https://edge2.laotv.la/live/TSport2/index.m3u8
 
 #EXTINF:-1 tvg-id="inthebox" group-title="📦| In The Box" tvg-logo="https://phuhdtv.github.io/logo/ITB/box.png",In The Box
 http://vthanhtivi.pw:5000/itb/mpegts
-#EXTINF:-1 tvg-id="boxhits" group-title="📦| In The Box" tvg-logo="https://phuhdtv.github.io/logo/ITB/boxhits.jpg",Box Hits
-http://vthanhtivi.pw:5000/bhits/mpegts
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://phuhdtv.github.io/logo/ITB/boxmovie1.png",Box Movie 1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
@@ -855,7 +854,9 @@ http://80.65.18.213/perviy_molodeginyi_3100kb.m3u8
 #EXTINF:-1 tvg-id="bst" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/BST.png",БСТ - Башкирское спутниковое телевидение
 http://bsttv.bonus-tv.ru:80/cdn/bst/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-id="kuzbas1" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/KUZ_PERVIY.png" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập",Кузбасс Первый
-http://kuzbass1.ru:8082/10kanal/k24_576/playlist.m3u8
+http://192.162.37.3:8000/play/a005/index.m3u8
+#EXTINF:-1 tvg-id="kuzbas1" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/KUZ_PERVIY.png" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập",Кузбасс Первый HD
+http://192.162.37.3:8000/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="kuraj" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/kurai.png" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập",Курай-ТВ
 http://bsttv.bonus-tv.ru:80/cdn/kurai/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-id="tvk-krasnoyarsk" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/TVK6.png",ТВК 24 HD
