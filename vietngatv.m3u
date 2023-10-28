@@ -574,12 +574,8 @@ https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
 https://hls-live-media.cdn01.net/dvr/stream_37099_1.m3u8
 #EXTINF:-1 tvg-id="discoveryhd" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/discovery-channel.png",Discovery Channel SEA
 http://vthanhtivi.pw:5000/discovery/index.m3u8
-#EXTINF:-1 tvg-id="dw" group-title="🌏| Quốc tế" tvg-logo="https://phuhdtv.github.io/logo/International/dw.png",Deutsche Welle English (480p)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://qnetlive.nethubtv.vn/live/dw.smil/chunklist_b1628000_sleng.m3u8
-#EXTINF:-1 tvg-id="dw" group-title="🌏| Quốc tế" tvg-logo="https://phuhdtv.github.io/logo/International/dw.png",Deutsche Welle English (576p)
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e4.endpoint.cdn.sctvonline.vn/hls/dw/index.m3u8
+#EXTINF:-1 tvg-id="dw" group-title="🌏| Quốc tế" tvg-logo="https://phuhdtv.github.io/logo/International/dw.png",Deutsche Welle English
+https://ctrl.laotv.la/live/DW/index.m3u8
 #EXTINF:-1 tvg-logo="https://etmovie.ebc.net.tw/upload/etmovie/img/logoes/pc_logo.png" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC",EBC Movies
 https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
 #EXTINF:-1 tvg-logo="https://etmovie.ebc.net.tw/upload/etmovie/img/logoes/pc_logo.png" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC",EBC Foreign Movies
@@ -613,9 +609,7 @@ https://tiemnhazunn.click/tv360/tv360.php?id=107
 https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
 #EXTINF:-1 tvg-id="KCTV.kp" group-title="🇰🇷-🇯🇵-🇰🇵| Hàn Quốc-Nhật Bản-Triều Tiên" tvg-logo="https://i.imgur.com/wN1cSDd.png",Korean Central Television
 https://tv.nknews.org/tvdash/stream.mpd
-#EXTINF:-1 tvg-id="kbsworld" group-title="🇰🇷-🇯🇵-🇰🇵| Hàn Quốc-Nhật Bản-Triều Tiên" tvg-logo="https://phuhdtv.github.io/logo/International/kbs.png",KBS World (480p)
-http://mytv.dothome.co.kr/ch/catv/7.php
-#EXTINF:-1 tvg-id="kbsworld" group-title="🇰🇷-🇯🇵-🇰🇵| Hàn Quốc-Nhật Bản-Triều Tiên" tvg-logo="https://phuhdtv.github.io/logo/International/kbs.png",KBS World (576p)
+#EXTINF:-1 tvg-id="kbsworld" group-title="🇰🇷-🇯🇵-🇰🇵| Hàn Quốc-Nhật Bản-Triều Tiên" tvg-logo="https://phuhdtv.github.io/logo/International/kbs.png",KBS World
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/kbsworld/index.m3u8
 #EXTINF:-1 tvg-id="kbsworld" group-title="🇰🇷-🇯🇵-🇰🇵| Hàn Quốc-Nhật Bản-Triều Tiên" tvg-logo="https://phuhdtv.github.io/logo/International/kbs.png",KBS World HD
@@ -645,10 +639,7 @@ http://ott-cdn.ucom.am/s93/04.m3u8
 https://hls.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 tvg-id="SupremeMasterTV.tw" tvg-logo="https://i.imgur.com/CiFGi8J.png" group-title="🌏| Quốc tế",Supreme Master TV
 https://lbs-us1.suprememastertv.com/1080p.m3u8
-#EXTINF:-1 tvg-id="tv5monde" group-title="🌏| Quốc tế" tvg-logo="https://phuhdtv.github.io/logo/International/TV5.jpg",TV5 Monde Asie (480p)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://qnetlive.nethubtv.vn/live/tv5mondeasie.smil/chunklist_b1628000_sleng.m3u8
-#EXTINF:-1 tvg-id="tv5monde" group-title="🌏| Quốc tế" tvg-logo="https://phuhdtv.github.io/logo/International/TV5.jpg",TV5 Monde Asie (576p)
+#EXTINF:-1 tvg-id="tv5monde" group-title="🌏| Quốc tế" tvg-logo="https://phuhdtv.github.io/logo/International/TV5.jpg",TV5 Monde Asie
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/tv5/index.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr" group-title="Trung Đông" tvg-logo="https://phuhdtv.github.io/logo/International/TRT.png",TRT World HD
@@ -939,6 +930,12 @@ https://tbs01-edge11.itdc.ge/detskymir/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s59/04.m3u8
 
+#EXTINF:-1 tvg-id="sony-turbo" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC" tvg-logo="https://phuhdtv.github.io/logo/Flim-Series/Black.png",.BLACK
+https://ucdn.beetv.kz/btv/live/hls/000000520.m3u8
+#EXTINF:-1 tvg-id="sony-tv" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC" tvg-logo="https://phuhdtv.github.io/logo/Flim-Series/Red.png",.RED
+https://ucdn.beetv.kz/btv/live/hls/000000213.m3u8
+#EXTINF:-1 tvg-id="sony-scifi" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC" tvg-logo="https://phuhdtv.github.io/logo/Flim-Series/Scifi.png",.SCI-FI
+https://ucdn.beetv.kz/btv/live/hls/000000134.m3u8
 #EXTINF:-1 tvg-id="amedia1" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC" tvg-logo="https://phuhdtv.github.io/logo/Flim-Series/A1.png",AMEDIA 1 (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s45/04.m3u8
