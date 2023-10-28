@@ -630,7 +630,7 @@ https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
 http://210.210.155.35:80/dr9445/h/h16/01.m3u8
 #EXTINF:-1 tvg-id="blueantext" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/rock-action.png",Rock Action
 http://210.210.155.35:80/dr9445/h/h15/01.m3u8
-#EXTINF:-1 tvg-id="russia-today" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://phuhdtv.github.io/logo/International/RT-HD.png",RT - Russia Today
+#EXTINF:-1 tvg-id="russia-today" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://phuhdtv.github.io/logo/International/RT-HD.png",Russia Today
 https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-2/vift-hm2v_1080p/chunklist_DVR.m3u8
 #EXTINF:-1 tvg-id="rtd-ru" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://phuhdtv.github.io/logo/International/RTD.png",RT DOC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
@@ -654,8 +654,6 @@ http://live-3.otcnet.ru/wfcint/index.m3u8
 http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
 #EXTINF:-1 group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình" tvg-id="zoomoo.id" tvg-logo="https://phuhdtv.github.io/logo/children/ZooMoo.png",Zoo Moo Asia
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="DaAi1.tw" tvg-logo="https://phuhdtv.github.io/logo/International/DAAI-TV.jpg" group-title="🇨🇳-🇭🇰-🇲🇴-🇹🇼| Trung Quốc-Hồng Kông-Macao-Đài Loan",大愛 (DaAi)
-https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" group-title="🇨🇳-🇭🇰-🇲🇴-🇹🇼| Trung Quốc-Hồng Kông-Macao-Đài Loan" tvg-logo="https://phuhdtv.github.io/logo/cn/Tianjin.png",天津卫视 (Tianjin)
 http://[2409:8087:2001:20:2800:0:df6e:eb11]/wh7f454c46tw2730715388_788631706/ott.mobaibox.com/PLTV/3/224/3221227488/index.m3u8?icpid=3&RTS=1668597525&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" group-title="🇨🇳-🇭🇰-🇲🇴-🇹🇼| Trung Quốc-Hồng Kông-Macao-Đài Loan" tvg-logo="https://phuhdtv.github.io/logo/cn/Zhejiang.png",浙江卫视 (Zhejiang)
@@ -926,9 +924,11 @@ http://ott-cdn.ucom.am/s57/04.m3u8
 http://ott-cdn.ucom.am/s58/04.m3u8
 #EXTINF:-1 tvg-id="detsky-mir" group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình" tvg-logo="https://phuhdtv.github.io/logo/children/DEK-MIR.png",Детский мир (576p)
 https://tbs01-edge11.itdc.ge/detskymir/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="tiji" group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình" tvg-logo="https://phuhdtv.github.io/logo/children/Tiji.png",Tiji
+#EXTINF:-1 tvg-id="tiji" group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình" tvg-logo="https://phuhdtv.github.io/logo/children/Tiji.png",Tiji (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s59/04.m3u8
+#EXTINF:-1 tvg-id="tiji" group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình" tvg-logo="https://phuhdtv.github.io/logo/children/Tiji.png",Tiji (576p)
+https://ucdn.beetv.kz/btv/live/hls/000000174.m3u8
 
 #EXTINF:-1 tvg-id="sony-turbo" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC" tvg-logo="https://phuhdtv.github.io/logo/Flim-Series/Black.png",.BLACK
 https://ucdn.beetv.kz/btv/live/hls/000000520.m3u8
@@ -1098,8 +1098,8 @@ https://stream.vovmedia.vn/vov4tn
 https://stream.vovmedia.vn/vov4hcm
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://phuhdtv.github.io/logo/Radio/VOV4-DBSCL.png",VOV4 Đồng bằng Sông Cửu Long (Tây Nam Bộ)
 http://media.kythuatvov.vn:1936/live/VOV4_CT.sdp/chunklist.m3u8
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://phuhdtv.github.io/logo/Radio/VOV5-WORLD.png",VOV5 24/7
-https://stream.vovmedia.vn/vov247
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://phuhdtv.github.io/logo/Radio/VOV5-WORLD.png",VOV5
+https://stream.vovmedia.vn/vov5
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://phuhdtv.github.io/logo/Radio/vovgiaothonghanoi.png",VOV GT Hà Nội
 https://str.vov.gov.vn/vovlive/vovGTHN.sdp_aac/chunklist_w601606653.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://phuhdtv.github.io/logo/Radio/vovgiaothonghcm.png",VOV GT Thành Phố Hồ Chí Minh
