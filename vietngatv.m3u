@@ -805,6 +805,8 @@ http://edge02.odtv.az/o1/rbktv/playlist.m3u8
 #EXTINF:-1 tvg-id="rbk" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/RBK.png",РБК HD
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 #EXTINF:-1 tvg-id="izvestia" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/izvestia.png",Телеканал Известия
+http://176.99.135.119:8081/gorod/1/playlist.m3u8
+#EXTINF:-1 tvg-id="izvestia" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/izvestia.png",Телеканал Известия HD
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 tvg-id="mir-24" group-title="🇻🇳-🇷🇺| TIN TỨC & KINH TẾ TÀI CHÍNH" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/MIR24.png",МИР 24
 https://tbs01-edge11.itdc.ge/mir24/tracks-v1a1/mono.m3u8
@@ -917,6 +919,8 @@ https://tbs01-edge11.itdc.ge/amedia/tracks-v1a1/mono.m3u8
 http://ott-cdn.ucom.am/s33/04.m3u8
 #EXTINF:-1 tvg-id="amedia2" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC" tvg-logo="https://phuhdtv.github.io/logo/Flim-Series/a2.png",AMEDIA 2 (1080p)
 https://ucdn.beetv.kz/btv/live/hls/000000351.m3u8
+#EXTINF:-1 tvg-id="amedia-premium" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC" tvg-logo="https://phuhdtv.github.io/logo/Flim-Series/amedia-premium.png",Amedia Premium
+http://stream01.vnet.am/AmediaPremium/mono.m3u8
 #EXTINF:-1 tvg-id="vip-comedy" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC" tvg-logo="https://phuhdtv.github.io/logo/Flim-Series/Viju-Comedy.png",Viju+ COMEDY
 https://ucdn.beetv.kz/btv/live/hls/000000870.m3u8
 #EXTINF:-1 tvg-id="vip-megahit" group-title="🇻🇳-🇷🇺| PHIM TRUYỆN TRONG & NGOÀI NƯỚC" tvg-logo="https://phuhdtv.github.io/logo/Flim-Series/Viju-megahit.png",Viju+ MEGAHIT
@@ -983,6 +987,8 @@ http://ott-cdn.ucom.am/s56/04.m3u8
 https://ucdn.beetv.kz/btv/live/hls/000000206.m3u8
 #EXTINF:-1 tvg-id="moya-planeta" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/MPLAN.png",МОЯ ПЛАНЕТА
 https://ucdn.beetv.kz/btv/live/hls/000001049.m3u8
+#EXTINF:-1 tvg-id="tonus-tv" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG" tvg-logo="https://phuhdtv.github.io/logo/Science/Tonus.png",Тонус ТВ
+http://stream01.vnet.am/ZooTv/mono.m3u8
 
 #EXTINF:-1 tvg-id="rtg-tv" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/RTGTV.png" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG",RTG TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
@@ -1053,8 +1059,7 @@ https://amtv1.livestreamingcdn.com/am2abr/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s79/04.m3u8
 #EXTINF:-1 tvg-id="fightbox-hd" group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="https://phuhdtv.github.io/logo/Sport/FightBox.png",FightBox HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s86/04.m3u8
+https://stream01.vnet.am/Fightbox/mono.m3u8
 #EXTINF:-1 tvg-id="viasat-sport" group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="https://phuhdtv.github.io/logo/Sport/viju-sport.png",Viju+ Sport (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s38/04.m3u8
@@ -1066,19 +1071,6 @@ https://ucdn.beetv.kz/btv/live/hls/000000135.m3u8
 #EXTINF:-1 tvg-id="football-ru" group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="https://phuhdtv.github.io/logo/Sport/FUTBOL.png",Телеканал Футбол
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s41/04.m3u8
-
-#EXTINF:-1 group-title="B4TV Produce" tvg-logo="http://b4tv.live/images/6c30cdc8aa40aa5776c7d8ebd78a93d4.png", B4MEN
-http://b4tv.live/b4tv/b4tv/1.m3u8
-#EXTINF:-1 group-title="B4TV Produce" tvg-logo="http://b4tv.live/images/f48921dd0505305aff871882567eeca9.png", B4BOX
-http://b4tv.live/b4tv/b4tv/84.m3u8
-#EXTINF:-1 group-title="B4TV Produce" tvg-logo="http://b4tv.live/images/0ef23e2c33c966c5c76e2b5cca9428f8.png", B4CONNECT
-http://b4tv.live/b4tv/b4tv/76.m3u8
-#EXTINF:-1 group-title="B4TV Produce" tvg-logo="http://103.172.78.47/b4sport.png", B4SPORT1 PLUS (Kênh thể thao đỉnh cao)
-http://b4tv.live/b4tv/b4tv/19.m3u8
-#EXTINF:-1 group-title="B4TV Produce" tvg-logo="http://103.172.78.47/b4sport.png", B4SPORT2 PLUS(Kênh thể thao đỉnh cao)
-http://b4tv.live/b4tv/b4tv/20.m3u8
-#EXTINF:-1 group-title="B4TV Produce" tvg-logo="http://103.172.78.47/b4boxplus.png", B4BOX PLUS (Kênh phim mới chọn lọc)
-http://b4tv.live/b4tv/b4tv/120.m3u8
 
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://phuhdtv.github.io/logo/Radio/VOV1.png",VOV1
 https://stream.vovmedia.vn/vov1
