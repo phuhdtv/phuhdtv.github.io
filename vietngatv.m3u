@@ -79,8 +79,7 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv10/index.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab15/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="🇻🇳| VTVcab" tvg-logo="https://phuhdtv.github.io/logo/VCTV/VCTV16.jpg",ON Football HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab16/index.m3u8
+http://b4tv.live/b4tv/b4tv/48.m3u8
 #EXTINF:-1 tvg-id="vtvcab17hd" group-title="🇻🇳| VTVcab" tvg-logo="https://phuhdtv.github.io/logo/VCTV/VCTV17.png",ON Trending TV HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab17/index.m3u8
@@ -243,8 +242,7 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv13/index.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV14.smil/chunklist_b1692000.m3u8
 #EXTINF:-1 tvg-id="sctv15hd" group-title="🇻🇳| SCTV" tvg-logo="https://phuhdtv.github.io/logo/SCTV/sctv15.png",SCTV15 HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e7.endpoint.cdn.sctvonline.vn/live/SCTV15HD/chunklist.m3u8
+http://b4tv.live/b4tv/b4tv/47.m3u8
 #EXTINF:-1 tvg-id="sctv16hd" group-title="🇻🇳| SCTV" tvg-logo="https://phuhdtv.github.io/logo/SCTV/sctv16.png",SCTV16 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/index.m3u8
@@ -1071,21 +1069,17 @@ http://ott-cdn.ucom.am/s41/04.m3u8
 
 #EXTINF:-1 group-title="B4TV" tvg-logo="http://b4tv.live/images/6c30cdc8aa40aa5776c7d8ebd78a93d4.png",B4MEN
 http://b4tv.live/b4tv/b4tv/1.m3u8
-#EXTINF:-1 group-title="B4TV" tvg-logo="http://b4tv.live/images/994c671dd2015154c0a928f00aa4934a.png",B4EVENT1
-http://b4tv.live/b4tv/b4tv/47.m3u8
-#EXTINF:-1 group-title="B4TV" tvg-logo="http://b4tv.live/images/994c671dd2015154c0a928f00aa4934a.png",B4EVENT2
-http://b4tv.live/b4tv/b4tv/48.m3u8
 #EXTINF:-1 group-title="B4TV" tvg-logo="http://b4tv.live/images/f48921dd0505305aff871882567eeca9.png",B4BOX
 http://b4tv.live/b4tv/b4tv/84.m3u8
 #EXTINF:-1 group-title="B4TV" tvg-logo="http://b4tv.live/images/5150b363cf6c9192ebe147a113dea625.png",B4TUBE
 http://b4tv.live/b4tv/b4tv/85.m3u8
-#EXTINF:-1 group-title="B4TV" tvg-logo="http://b4tv.live/images/0ef23e2c33c966c5c76e2b5cca9428f8.png",B4CONNECT 2
+#EXTINF:-1 group-title="B4TV" tvg-logo="http://b4tv.live/images/0ef23e2c33c966c5c76e2b5cca9428f8.png",B4CONNECT
 http://b4tv.live/b4tv/b4tv/86.m3u8
-#EXTINF:-1 group-title="B4TV" tvg-logo="http://103.172.78.47/b4boxplus.png", B4BOX PLUS
+#EXTINF:-1 group-title="B4TV" tvg-logo="http://103.172.78.47/b4boxplus.png",B4BOX PLUS
 http://b4tv.live/b4tv/b4tv/120.m3u8
-#EXTINF:-1 group-title="B4TV" tvg-logo="http://103.172.78.47/b4sport.png", B4SPORT+ 1
+#EXTINF:-1 group-title="B4TV" tvg-logo="http://103.172.78.47/b4sport.png",B4SPORT+ 1
 http://b4tv.live/b4tv/b4tv/19.m3u8
-#EXTINF:-1 group-title="B4TV" tvg-logo="http://103.172.78.47/b4sport.png", B4SPORT+ 2
+#EXTINF:-1 group-title="B4TV" tvg-logo="http://103.172.78.47/b4sport.png",B4SPORT+ 2
 http://b4tv.live/b4tv/b4tv/20.m3u8
 
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://phuhdtv.github.io/logo/Radio/VOV1.png",VOV1
