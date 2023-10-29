@@ -167,11 +167,9 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/htv2/index.m3u8
 #EXTINF:-1 tvg-id="htv2hd" group-title="🇻🇳| HTV" tvg-logo="https://phuhdtv.github.io/logo/HTV/HTV2.png",HTV2 HD
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htv3" group-title="🇻🇳| HTV" tvg-logo="https://phuhdtv.github.io/logo/HTV/HTV3.png",HTV3
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e2.endpoint.cdn.sctvonline.vn/hls/htv3/index.m3u8
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV3-SD-480p/playlist.m3u8
 #EXTINF:-1 tvg-id="htv4" group-title="🇻🇳| HTV" tvg-logo="https://phuhdtv.github.io/logo/HTV/HTV4.jpg",HTV Key
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e2.endpoint.cdn.sctvonline.vn/hls/htv4/index.m3u8
+https://drm-livecdn.hplus.com.vn/htvonline/htv4.480p.nimble.tms/playlist.m3u8
 #EXTINF:-1 tvg-id="htv7hd" group-title="🇻🇳| HTV" tvg-logo="https://phuhdtv.github.io/logo/HTV/HTV7.png",HTV7
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv7/index.m3u8
@@ -309,9 +307,6 @@ https://code.vthanhtivi.pw/getlink/vieon/btv6/playlist.m3u8
 #EXTINF:-1 tvg-id="anvienhd" group-title="🇻🇳| Địa phương" tvg-logo="https://phuhdtv.github.io/logo/diaphuong/BTV9.png",BTV9 B Channel
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://ott3.nethubtv.vn/live/anvien/chunklist_1.m3u8
-#EXTINF:-1 tvg-id="anvienhd" group-title="🇻🇳| Địa phương" tvg-logo="https://phuhdtv.github.io/logo/diaphuong/BTV9.png",BTV9 B Channel HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon/an-vien-hd/playlist.m3u8
 #EXTINF:-1 tvg-id="binhduong11" group-title="🇻🇳-🇷🇺| Quảng Cáo" tvg-logo="https://phuhdtv.github.io/logo/diaphuong/BTV11.png",BTV11 - Top HomeShopping
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/btv11/playlist.m3u8
@@ -507,7 +502,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb21]/wh7f454c46tw30319478_-185824076/ott.
 http://[2409:8087:2001:20:2800:0:df6e:eb23]/wh7f454c46tw105619488_1866436632/ott.mobaibox.com/PLTV/3/224/3221228289/index.m3u8?icpid=3&RTS=1668594900&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="CCTV12" tvg-logo="https://phuhdtv.github.io/logo/cn/zh-cctv-12.png" group-title="🌿| Khám phá",CCTV12
 http://[2409:8087:2001:20:2800:0:df6e:eb23]/wh7f454c46tw185877003_-533945400/ott.mobaibox.com/PLTV/3/224/3221228401/index.m3u8?icpid=3&RTS=1668594980&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
-#EXTINF:-1 tvg-id="CCTV13" group-title="🌏| Quốc tế" tvg-logo="https://phuhdtv.github.io/logo/cn/zh-cctv-13.png",CCTV13
+#EXTINF:-1 tvg-id="CCTV13" group-title="🇨🇳-🇭🇰-🇲🇴-🇹🇼| Trung Quốc-Hồng Kông-Macao-Đài Loan" tvg-logo="https://phuhdtv.github.io/logo/cn/zh-cctv-13.png",CCTV13 HD
 http://[2409:8087:2001:20:2800:0:df6e:eb16]/wh7f454c46tw259647455_-1559913959/ott.mobaibox.com/PLTV/3/224/3221228224/index.m3u8?icpid=3&RTS=1668595054&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-name="CCTV14" group-title="🌈| Hoạt hình" tvg-logo="https://phuhdtv.github.io/logo/cn/zh-cctv-14.png",CCTV14 HD
 http://[2409:8087:2001:20:2800:0:df6e:eb22]/wh7f454c46tw340147088_1594094424/ott.mobaibox.com/PLTV/3/224/3221228292/index.m3u8?icpid=3&RTS=1668595134&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
@@ -607,7 +602,7 @@ https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
 http://210.210.155.35:80/dr9445/h/h16/01.m3u8
 #EXTINF:-1 tvg-id="blueantext" group-title="🤣| Giải trí" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/rock-action.png",Rock Action
 http://210.210.155.35:80/dr9445/h/h15/01.m3u8
-#EXTINF:-1 tvg-id="russia-today" group-title="🌏| Quốc tế" tvg-logo="https://phuhdtv.github.io/logo/International/RT-HD.png",Russia Today
+#EXTINF:-1 tvg-id="russia-today" group-title="🌏| Quốc tế" tvg-logo="https://phuhdtv.github.io/logo/International/RT-HD.png",Russia Today HD
 https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-2/vift-hm2v_1080p/chunklist_DVR.m3u8
 #EXTINF:-1 tvg-id="rtd-ru" group-title="🌿| Khám phá" tvg-logo="https://phuhdtv.github.io/logo/International/RTD.png",RT DOC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
@@ -629,6 +624,8 @@ http://live-3.otcnet.ru/wfcint/index.m3u8
 http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
 #EXTINF:-1 group-title="🌈| Hoạt hình" tvg-id="zoomoo.id" tvg-logo="https://phuhdtv.github.io/logo/children/ZooMoo.png",Zoo Moo Asia
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://phuhdtv.github.io/logo/cn/nntv.png" group-title="🇨🇳-🇭🇰-🇲🇴-🇹🇼| Trung Quốc-Hồng Kông-Macao-Đài Loan",内蒙古卫视 (NNTV)
+http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw2228825807_1324573507/ott.mobaibox.com/PLTV/3/224/3221227557/index.m3u8
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" group-title="🇨🇳-🇭🇰-🇲🇴-🇹🇼| Trung Quốc-Hồng Kông-Macao-Đài Loan" tvg-logo="https://phuhdtv.github.io/logo/cn/Tianjin.png",天津卫视 (Tianjin)
 http://[2409:8087:2001:20:2800:0:df6e:eb11]/wh7f454c46tw2730715388_788631706/ott.mobaibox.com/PLTV/3/224/3221227488/index.m3u8?icpid=3&RTS=1668597525&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" group-title="🇨🇳-🇭🇰-🇲🇴-🇹🇼| Trung Quốc-Hồng Kông-Macao-Đài Loan" tvg-logo="https://phuhdtv.github.io/logo/cn/Zhejiang.png",浙江卫视 (Zhejiang)
