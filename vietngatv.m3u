@@ -897,7 +897,7 @@ http://ott-cdn.ucom.am/s57/04.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s58/04.m3u8
 #EXTINF:-1 tvg-id="detsky-mir" group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình" tvg-logo="https://phuhdtv.github.io/logo/children/DEK-MIR.png",Детский мир (576p)
-https://tbs01-edge11.itdc.ge/detskymir/tracks-v1a1/mono.m3u8
+https://ucdn.beetv.kz/btv/live/hls/000000049.m3u8
 #EXTINF:-1 tvg-id="tiji" group-title="🇻🇳-🇷🇺| Thiếu Nhi - Hoạt hình" tvg-logo="https://phuhdtv.github.io/logo/children/Tiji.png",Tiji (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s59/04.m3u8
@@ -998,9 +998,15 @@ http://ott-cdn.ucom.am/s63/04.m3u8
 http://ott-cdn.ucom.am/s20/04.m3u8
 #EXTINF:-1 tvg-id="centralnoye-tv" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/CTV.png" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập",Центральное телевидение (576p)
 https://ucdn.beetv.kz/btv/live/hls/000001880.m3u8
-#EXTINF:-1 tvg-id="ntv-style" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/NTV-Style.png" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ",НТВ Стиль
+#EXTINF:-1 tvg-id="ntv-pravo" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/ntv-pravo.png" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ",НТВ ПРАВО
+https://ucdn.beetv.kz/btv/live/hls/000002759.m3u8
+#EXTINF:-1 tvg-id="ntv-serial" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/ntv-serial.png" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ",НТВ СЕРИАЛ
+https://ucdn.beetv.kz/btv/live/hls/000002760.m3u8
+#EXTINF:-1 tvg-id="ntv-style" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/NTV-Style.png" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ",НТВ Стиль (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s77/04.m3u8
+#EXTINF:-1 tvg-id="ntv-style" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/NTV-Style.png" group-title="🇻🇳-🇷🇺| VĂN HÓA - NGHỆ THUẬT & GIẢI TRÍ",НТВ Стиль (576p)
+https://ucdn.beetv.kz/btv/live/hls/000002761.m3u8
 #EXTINF:-1 tvg-id="no-epg" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/KOS.png" group-title="🇻🇳-🇷🇺| GIÁO DỤC - KHOA HỌC - CÔNG NGHỆ & ĐỜI SỐNG",Первый Космический (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s44/04.m3u8
