@@ -868,12 +868,8 @@ https://ucdn.beetv.kz/btv/live/hls/000000030.m3u8
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1 tvg-id="muzyka-pervogo" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/1M.png",МУЗЫКА ПЕРВОГО
 https://ucdn.beetv.kz/btv/live/hls/000000204.m3u8
-#EXTINF:-1 tvg-id="onemuz" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://i.imgur.com/RU7jA3I.png",Первый Музыкальный
-http://rtmp.one.by:1200
 #EXTINF:-1 tvg-id="onemuz" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://i.imgur.com/RU7jA3I.png",Первый Музыкальный HD
 http://rtmp.one.by:1300
-#EXTINF:-1 tvg-name="Первый музыкальный" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://i.imgur.com/3Z6GjxM.png",Первый Музыкальный Россия
-http://rtmp.one.by:2200
 #EXTINF:-1 tvg-name="Первый музыкальный" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://i.imgur.com/3Z6GjxM.png",Первый Музыкальный Россия HD
 http://rtmp.one.by:2300
 #EXTINF:-1 tvg-id="onemuz" group-title="KÊNH 4K" tvg-logo="https://i.imgur.com/RU7jA3I.png",Первый Музыкальный канал UHD
@@ -905,6 +901,8 @@ http://ott-cdn.ucom.am/s57/04.m3u8
 http://ott-cdn.ucom.am/s58/04.m3u8
 #EXTINF:-1 tvg-id="detsky-mir" group-title="🌈| Hoạt hình" tvg-logo="https://phuhdtv.github.io/logo/children/DEK-MIR.png",Детский мир (576p)
 https://ucdn.beetv.kz/btv/live/hls/000000049.m3u8
+#EXTINF:-1 tvg-id="detsky" group-title="🌈| Hoạt hình" tvg-logo="https://phuhdtv.github.io/logo/children/detsky.png",УНИКУМ
+https://tbs01-edge11.itdc.ge/detsky/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tiji" group-title="🌈| Hoạt hình" tvg-logo="https://phuhdtv.github.io/logo/children/Tiji.png",Tiji (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s59/04.m3u8
@@ -937,6 +935,8 @@ https://ucdn.beetv.kz/btv/live/hls/000000870.m3u8
 https://ucdn.beetv.kz/btv/live/hls/000000869.m3u8
 #EXTINF:-1 tvg-id="vip-premiere" group-title="🎬| Phim truyện" tvg-logo="https://phuhdtv.github.io/logo/Flim-Series/Viju-premiere.png",Viju+ Premiere
 https://ucdn.beetv.kz/btv/live/hls/000000868.m3u8
+#EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="🎬| Phim truyện" tvg-logo="https://phuhdtv.github.io/logo/Flim-Series/TV1000.png",Viju TV1000 Русское кино
+https://tbs01-edge11.itdc.ge/tv1000rukino/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="dorama" tvg-logo="https://phuhdtv.github.io/logo/Flim-Series/dorama.png" group-title="🎬| Phim truyện",Дорама
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s95/04.m3u8
@@ -1067,6 +1067,8 @@ http://ott-cdn.ucom.am/s38/04.m3u8
 http://edge02.odtv.az/o7/viasatsport/playlist.m3u8
 #EXTINF:-1 tvg-id="viasat-sport" group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="https://phuhdtv.github.io/logo/Sport/viju-sport.png",Viju+ Sport HD
 https://ucdn.beetv.kz/btv/live/hls/000000135.m3u8
+#EXTINF:-1 tvg-id="match-planeta" group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="http://epg.it999.ru/img2/2043.png",МАТЧ! ПЛАНЕТА
+https://tbs01-edge11.itdc.ge/matchplaneta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="football-ru" group-title="🇻🇳-🇷🇺| Thể Thao" tvg-logo="https://phuhdtv.github.io/logo/Sport/FUTBOL.png",Телеканал Футбол
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s41/04.m3u8
@@ -1111,8 +1113,6 @@ https://strm.voh.com.vn/radio/channel1/playlist.m3u8
 https://strm.voh.com.vn/radio/channel3/playlist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://phuhdtv.github.io/logo/Radio/XONE.jpg",Xone Radio
 https://multi-playlist-zmp3.zmdcdn.me/Ce5_Z5JFx2c/zhls/playback-realtime/f9a40e7c3239db678228/index.m3u8
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://cdn-profiles.tunein.com/s209673/images/logod.png" group-title="📻| Radio",RFI - Radio France Internationale
-http://rfimonde96k.ice.infomaniak.ch/rfimonde-96k.mp3
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://www.lyngsat.com/logo/radio/ww/wrn_uk.png" group-title="📻| Radio",World Radio Network English Africa-Asia & Pacific
 http://streaming.edmradio.online:8025/NAMAAP
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://www.lyngsat.com/logo/radio/vv/voice-of-the-south-china-sea-cn.png",南海之声 (Voice of the South China Sea)
