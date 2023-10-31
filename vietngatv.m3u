@@ -594,10 +594,10 @@ https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3
 https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="PressTV.ir" tvg-logo="https://i.imgur.com/orZX92w.png" group-title="Trung Đông",Press TV
 https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="blueantent" group-title="🤣| Giải trí" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/ROCK-Entertainment.png",Rock Entertainment
-http://210.210.155.35:80/dr9445/h/h16/01.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/512px-Rai_Italia_-_Logo_2017.svg.png",Rai Italia
 http://210.210.155.35/x6bnqe/s/s63/S4/mnf.m3u8
+#EXTINF:-1 tvg-id="blueantent" group-title="🤣| Giải trí" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/ROCK-Entertainment.png",Rock Entertainment
+http://210.210.155.35:80/dr9445/h/h16/01.m3u8
 #EXTINF:-1 tvg-id="blueantext" group-title="🤣| Giải trí" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/rock-action.png",Rock Action
 http://210.210.155.35:80/dr9445/h/h15/01.m3u8
 #EXTINF:-1 tvg-id="russia-today" group-title="🌏| Quốc tế" tvg-logo="https://phuhdtv.github.io/logo/International/RT-HD.png",Russia Today HD
@@ -790,7 +790,7 @@ http://s18209.cdn.ngenix.net/hls/CH_R02_PERETZ/playlist.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://edge02.odtv.az/o7/tnt4/playlist.m3u8
 #EXTINF:-1 tvg-id="tnt-music" group-title="🇻🇳-🇷🇺| CA NHẠC & THỜI TRANG" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/tntmusic.png",ТНТ Music
-https://ucdn.beetv.kz/btv/live/hls/000000013.m3u8
+https://tbs01-edge11.itdc.ge/rutv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/2x2.png",2x2
 https://bl.uma.media/live/317805/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/Subbota.png",Суббота!
@@ -1034,10 +1034,10 @@ https://ucdn.beetv.kz/btv/live/hls/000002760.m3u8
 http://ott-cdn.ucom.am/s77/04.m3u8
 #EXTINF:-1 tvg-id="ntv-style" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/NTV-Style.png" group-title="🤣| Giải trí",НТВ Стиль (576p)
 https://ucdn.beetv.kz/btv/live/hls/000002761.m3u8
-#EXTINF:-1 tvg-id="no-epg" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/KOS.png" group-title="🌿| Khám phá",Первый Космический (480p)
+#EXTINF:-1 tvg-id="no-epg" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/KOS.png" group-title="🌿| Khám phá",Космический (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s44/04.m3u8
-#EXTINF:-1 tvg-id="no-epg" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/KOS.png" group-title="🌿| Khám phá",Первый Космический (576p)
+#EXTINF:-1 tvg-id="no-epg" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/KOS.png" group-title="🌿| Khám phá",Космический (576p)
 https://ucdn.beetv.kz/btv/live/hls/000001220.m3u8
 #EXTINF:-1 tvg-id="nostalgia" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/NOS.png" group-title="🤣| Giải trí",НОСТАЛЬГИЯ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
@@ -1045,8 +1045,6 @@ http://edge02.odtv.az/o3/nostalgiya/playlist.m3u8
 
 #EXTINF:-1 tvg-id="atameken-business" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/Atameken_Business.png",Atameken Business HD
 http://live.atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="ua-tv" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/38UPLa9.png",FREEDOM
-http://210.210.155.35/uq2663/h/h101/S4/mnf.m3u8
 #EXTINF:-1 tvg-id="rtvi" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/RTVi.png",RTVi
 https://ucdn.beetv.kz/btv/live/hls/000000039.m3u8
 #EXTINF:-1 tvg-id="tbn-ru" tvg-logo="https://phuhdtv.github.io/logo/RU-SNG/TBN.png" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập",ТБН
