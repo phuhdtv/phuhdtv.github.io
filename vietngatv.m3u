@@ -112,6 +112,8 @@ http://live.tv360.vn/manifest/VTC1_HD/playlist_1080p.m3u8
 https://1117141481.vnns.net/VTC2/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc3hd" group-title="🇻🇳| VTC HD" tvg-logo="https://i.imgur.com/hS4bgHe.png",VTC3 HD
 http://live.tv360.vn/manifest/VTC3_HD/playlist_1080p.m3u8
+#EXTINF:-1 tvg-id="vtc4hd" group-title="🇻🇳| VTC SD" tvg-logo="https://i.imgur.com/5cwYPTt.png",VTC4
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/VTC4-SD-ABR/HTV-ABR/VTC4-SD-480p/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc4hd" group-title="🇻🇳| VTC HD" tvg-logo="https://i.imgur.com/5cwYPTt.png",VTC4 HD
 https://1117141481.vnns.net/VTC4/chunks.m3u8
 #EXTINF:-1 tvg-id="vtc5hd" group-title="🇻🇳| VTC SD" tvg-logo="https://i.imgur.com/VvfiwPJ.png",VTC5
@@ -147,19 +149,29 @@ http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8?$3840x2160
 https://1117141481.vnns.net/VTC14/chunks.m3u8
 #EXTINF:-1 tvg-id="vtc16" group-title="🇻🇳| VTC HD" tvg-logo="https://i.imgur.com/rltq2Dy.png",VTC16 HD
 https://1117141481.vnns.net/VTC16/chunks.m3u8
+#EXTINF:-1 tvg-id="vovtvhd" group-title="🇻🇳| VTC HD" tvg-logo="https://i.imgur.com/lARtNRO.png",VOV TV HD
+https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
 
+#EXTINF:-1 tvg-id="antvhd" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/eGkFbAh.png",AN NINH TV
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/ANTV-SD-ABR/HTV-ABR/ANTV-SD-480p/playlist.m3u8
 #EXTINF:-1 tvg-id="antvhd" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/eGkFbAh.png",AN NINH TV HD
 https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
+#EXTINF:-1 tvg-id="ttxvnhd" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/AAWIPHz.png",VNews - TTXVN
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/TTXVN-SD-ABR/HTV-ABR/TTXVN-SD-480p/playlist.m3u8
 #EXTINF:-1 tvg-id="ttxvnhd" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/AAWIPHz.png",VNews - TTXVN HD
 https://zjizeoupprliv.vcdn.cloud/live/vnews/chunklist_w1515940883.m3u8
 #EXTINF:-1 tvg-id="nhandan" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/Ud78FHF.png",NHÂN DÂN TV
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/NHANDAN-SD-ABR/HTV-ABR/NHANDAN-SD-480p/playlist.m3u8
+#EXTINF:-1 tvg-id="nhandan" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/Ud78FHF.png",NHÂN DÂN TV HD
 https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w2032123611.m3u8
+#EXTINF:-1 tvg-id="quochoi" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/YtZGuSy.png",Quốc Hội TV
+https://cloudstreamqh.tek4tv.vn/live/quochoitv_480p.m3u8
 #EXTINF:-1 tvg-id="quochoi" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/YtZGuSy.png",Quốc Hội TV HD
 http://live.tv360.vn/manifest/Quoc_Hoi_HD/playlist_1080p.m3u8
+#EXTINF:-1 tvg-id="qpvnhd" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/QPTV-SD-ABR/HTV-ABR/QPTV-SD-480p/playlist.m3u8
 #EXTINF:-1 tvg-id="qpvnhd" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN HD
 http://live.tv360.vn/manifest/QPVN_HD/playlist_1080p.m3u8
-#EXTINF:-1 tvg-id="vovtvhd" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/lARtNRO.png",VOV TV HD
-https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
 
 #EXTINF:-1 tvg-id="htv1" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/WMZDWZb.png",HTV1 HD
 https://drm-livecdn.hplus.com.vn/htvonline/htv1.720p.nimble.tms/playlist.m3u8
@@ -190,18 +202,30 @@ http://live.tv360.vn/manifest/HTV_The_Thao_HD-50fps/playlist_HTV-TheThao-HD-50fp
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVCOOP-SD-ABR/HTV-ABR/HTVCOOP-SD-720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="htvcthuanviet" group-title="🇻🇳| HTVC" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuần Việt
+http://live.tv360.vn/manifest/HTVC_Thuan_Viet/playlist_360p.m3u8
+#EXTINF:-1 tvg-id="htvcthuanviet" group-title="🇻🇳| HTVC" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuần Việt HD
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="htvcdulichhd" group-title="🇻🇳| HTVC" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC DU LỊCH & CUỘC SỐNG
+http://live.tv360.vn/manifest/HTVC_Du_Lich/playlist_360p.m3u8
 #EXTINF:-1 tvg-id="htvcdulichhd" group-title="🇻🇳| HTVC" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC DU LỊCH & CUỘC SỐNG HD
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-DULICH-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="🇻🇳| HTVC" tvg-logo="https://i.imgur.com/3WanRsM.png",HTVC GIA ĐÌNH
+http://live.tv360.vn/manifest/HTVC_Gia_Dinh/playlist_360p.m3u8
 #EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="🇻🇳| HTVC" tvg-logo="https://i.imgur.com/3WanRsM.png",HTVC GIA ĐÌNH HD
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htvcphunuhd" group-title="🇻🇳| HTVC" tvg-logo="https://i.imgur.com/MyyovVe.png",HTVC Phụ Nữ
+http://live.tv360.vn/manifest/HTVC_Phu_Nu/playlist_360p.m3u8
+#EXTINF:-1 tvg-id="htvcphunuhd" group-title="🇻🇳| HTVC" tvg-logo="https://i.imgur.com/MyyovVe.png",HTVC Phụ Nữ HD
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHUNU-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htvcphimhd" group-title="🇻🇳| HTVC" tvg-logo="https://i.imgur.com/W16kIQP.png",HTVC Phim HD
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="htvcplushd" group-title="🇻🇳| HTVC" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC PLUS
+http://live.tv360.vn/manifest/HTVC_Channel_B_SPR/playlist_360p.m3u8
+#EXTINF:-1 tvg-id="htvcplushd" group-title="🇻🇳| HTVC" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC PLUS HD
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htvccanhachd" group-title="🇻🇳| HTVC" tvg-logo="https://i.imgur.com/DowOolr.png",HTVC CA NHẠC
+http://live.tv360.vn/manifest/HTVC_Ca_Nhac/playlist_360p.m3u8
+#EXTINF:-1 tvg-id="htvccanhachd" group-title="🇻🇳| HTVC" tvg-logo="https://i.imgur.com/DowOolr.png",HTVC CA NHẠC HD
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-CANHAC-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="no_epg" group-title="🛒 Mua sắm" tvg-logo="https://i.imgur.com/byOpteB.png",HTVC Home Shopping
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESHOPPING-SD-720p/chunks.m3u8
@@ -359,8 +383,12 @@ http://123.31.36.68/live.m3u8?c=vstv365&q=high&type=tv&location=NA&pkg=pkg11.hni
 #EXTINF:0 tvg-id="hanam" tvg-logo="https://i.imgur.com/NgcSFah.png" group-title="🇻🇳| Địa phương",Hà Nam
 https://cdn.hanamtv.vn/live/285361fcafcd0ec47bba2fa3f5870f8dc72/chunklist.m3u8
 #EXTINF:-1 tvg-id="hanoi1" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/Je3K25E.png",Hà Nội 1
+https://ott2.nethubtv.vn/live/hanoi1/chunklist_1.m3u8
+#EXTINF:-1 tvg-id="hanoi1" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/Je3K25E.png",Hà Nội 1 HD
 https://cecex9g5cpliv.vcdn.cloud/capture/smil:HN1.smil/chunklist_b3128000_slen.m3u8
 #EXTINF:-1 tvg-id="hanoi2" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/szivqh2.png",Hà Nội 2
+https://ott2.nethubtv.vn/live/hanoi2/chunklist_1.m3u8
+#EXTINF:-1 tvg-id="hanoi2" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/szivqh2.png",Hà Nội 2 HD
 https://cecex9g5cpliv.vcdn.cloud/live/smil:HN2.smil/chunklist_b3128000_slen.m3u8
 #EXTINF:0 tvg-id="hatinh" tvg-logo="https://i.imgur.com/4yIgKKx.png" group-title="🇻🇳| Địa phương",Hà Tĩnh
 https://wse.hatinhtv.net/live/httv1/chunklist_w1950881898.m3u8
@@ -648,7 +676,7 @@ http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001223/index.m3u8?
 http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw993550557_162751766/ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8?icpid=3&RTS=1668604377&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-name="凤凰中文" group-title="🇨🇳-🇭🇰-🇲🇴-🇹🇼| Trung Quốc-Hồng Kông-Macao-Đài Loan" tvg-logo="https://i.imgur.com/rwY7FHT.png",凤凰中文 - Phoenix Chinese
 https://sc2022.stream-link.org/tv2306.php?id=h19
-#EXTINF:-1 tvg-name="贵州卫视" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/mt4h3VO.png",鳳凰衛視資訊台 - Phoenix InfoNews Channel
+#EXTINF:-1 tvg-name="贵州卫视" group-title="📰 Tin tức" tvg-logo="https://i.imgur.com/mt4h3VO.png",鳳凰衛視資訊台 - Phoenix InfoNews Channel
 https://sc2022.stream-link.org/tv2306.php?id=h18
 
 #EXTINF:-1 tvg-id="bein-sports-1-en" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/Vtk2cGI.png",BeIN Sports 1 Thailand (English)
