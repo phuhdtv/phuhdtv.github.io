@@ -966,6 +966,9 @@ https://edge02.odtv.az/o5/viasatexporer/playlist.m3u8
 https://ucdn.beetv.kz/btv/live/hls/000000260.m3u8
 #EXTINF:-1 tvg-id="avto24" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/GXSXmN2.png",АВТО 24
 https://ucdn.beetv.kz/btv/live/hls/000000815.m3u8
+#EXTINF:-1 tvg-id="sovsek" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/HM4xy4G.png",СОВЕРШЕННО СЕКРЕТНО
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o1/sovershennosekretno/playlist.m3u8
 #EXTINF:-1 tvg-id="zagorodny" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/YGqO3Us.png",Загородный (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s31/04.m3u8
@@ -976,7 +979,7 @@ https://ucdn.beetv.kz/btv/live/hls/000000235.m3u8
 http://ott-cdn.ucom.am/s71/04.m3u8
 #EXTINF:-1 tvg-id="istoria" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/eEjPail.png",Телеканал История
 http://stream01.vnet.am/Istoria/mono.m3u8
-#EXTINF:-1 tvg-id="" group-title="" tvg-logo="",ГЛАЗАМИ ТУРИСТА
+#EXTINF:-1 tvg-id="glazami-turista" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/GXJKWdy.png",ГЛАЗАМИ ТУРИСТА
 https://ucdn.beetv.kz/btv/live/hls/000001414.m3u8
 #EXTINF:-1 tvg-id="nauka-20" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/ZZxzueO.png",Наука (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
@@ -985,9 +988,6 @@ http://ott-cdn.ucom.am/s98/04.m3u8
 http://stream01.vnet.am/Nauka/mono.m3u8
 #EXTINF:-1 tvg-id="nst" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/uv2yxa5.png",НСТ
 https://ucdn.beetv.kz/btv/live/hls/000000078.m3u8
-#EXTINF:-1 tvg-id="" group-title="🌿| Khám phá" tvg-logo="",СОВЕРШЕННО СЕКРЕТНО
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://edge02.odtv.az/o1/sovershennosekretno/playlist.m3u8
 #EXTINF:-1 tvg-id="arsenaltv" tvg-logo="https://i.imgur.com/DBpVeb0.png" group-title="🌿| Khám phá",Телеканал Арсенал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s68/04.m3u8
