@@ -1,4 +1,4 @@
-https://cutt.ly/TeoVntv
+https://tinyurl.com/chinaiptv
 
 https://tinyurl.com/teovntv
 
