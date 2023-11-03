@@ -822,9 +822,12 @@ https://ucdn.beetv.kz/btv/live/hls/000000284.m3u8
 #EXTINF:-1 tvg-id="ginger-hd" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/K3PSHiT.png",КАПИТАН ФАНТАСТИКА
 https://ucdn.beetv.kz/btv/live/hls/000001474.m3u8
 #EXTINF:-1 tvg-id="mama" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/kmMIjjf.png",Мама
-http://stream01.vnet.am/Mama/mono.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o2/mamatv/playlist.m3u8
 #EXTINF:-1 tvg-id="mult" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/xi351Fx.png",Мульт
 https://ucdn.beetv.kz/btv/live/hls/000001207.m3u8
+#EXTINF:-1 tvg-id="mult" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/xi351Fx.png",Мульт HD
+http://stream01.vnet.am/Mult/mono.m3u8
 #EXTINF:-1 tvg-id="o_" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/pDc665V.png",О!
 https://ucdn.beetv.kz/btv/live/hls/000002928.m3u8
 #EXTINF:-1 tvg-id="ryzhy" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/QlncxbD.png",Рыжий
@@ -832,6 +835,8 @@ https://ucdn.beetv.kz/btv/live/hls/000002928.m3u8
 http://ott-cdn.ucom.am/s57/04.m3u8
 #EXTINF:-1 tvg-id="detsky-mir" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/bBVEP0S.png",Детский мир
 https://ucdn.beetv.kz/btv/live/hls/000000049.m3u8
+#EXTINF:-1 tvg-id="detsky-mir" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/bBVEP0S.png",Детский мир HD
+http://stream01.vnet.am/CartoonNetwork/mono.m3u8
 #EXTINF:-1 tvg-id="detsky" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/kSJZjDL.png",УНИКУМ
 https://ucdn.beetv.kz/btv/live/hls/000000048.m3u8
 #EXTINF:-1 tvg-id="tiji" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/QCOUJ30.png",Tiji
@@ -877,6 +882,8 @@ https://ucdn.beetv.kz/btv/live/hls/000000125.m3u8
 #EXTINF:-1 tvg-id="dorama" tvg-logo="https://i.imgur.com/ZH5LuXU.png" group-title="🎬| Phim truyện",Дорама
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s95/04.m3u8
+#EXTINF:-1 tvg-id="illuzion-plus" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/9GvuHQ5.png",ИЛЛЮЗИОН+
+https://tbs01-edge11.itdc.ge/illuzionplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="zee-tv" tvg-logo="https://i.imgur.com/xDVcDOc.png" group-title="🎬| Phim truyện",Индия
 https://stream01.vnet.am/ZeeTV/mono.m3u8
 #EXTINF:-1 tvg-id="lubimoe-kino" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/vBR6oX6.png",Любимое Кино
@@ -892,6 +899,8 @@ http://stream01.vnet.am/RusskiyRoman/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s47/04.m3u8
 
+#EXTINF:-1 tvg-id="365-dnej" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/NfnAiTR.png",365 ДНЕЙ
+https://tbs01-edge11.itdc.ge/365day/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="mir-uvlecheniy" group-title="🌿| Khám phá" tvg-logo="https://picon.pp.ua/mir-uvlecheniy.png",#Ктокуда
 https://ucdn.beetv.kz/btv/live/hls/000001377.m3u8
 #EXTINF:-1 tvg-id="english-class" group-title="🎓| Giáo dục" tvg-logo="https://i.imgur.com/gst7wW7.png",English Class
@@ -899,6 +908,8 @@ https://ucdn.beetv.kz/btv/live/hls/000001377.m3u8
 http://ott-cdn.ucom.am/s37/index.m3u8
 #EXTINF:-1 tvg-id="galaxy-tv" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/fR3abSD.png",GALAXY
 https://ucdn.beetv.kz/btv/live/hls/000000332.m3u8
+#EXTINF:-1 tvg-id="hd-life" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/tKgmhxh.png",HD Life
+https://tbs01-edge11.itdc.ge/hdlife/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="viasat-nature" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/8BPZ18l.png",Viju Nature
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://edge02.odtv.az/o5/viasatnature/playlist.m3u8
@@ -923,6 +934,8 @@ https://ucdn.beetv.kz/btv/live/hls/000001414.m3u8
 http://stream01.vnet.am/Nauka/mono.m3u8
 #EXTINF:-1 tvg-id="nst" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/uv2yxa5.png",НСТ
 https://ucdn.beetv.kz/btv/live/hls/000000078.m3u8
+#EXTINF:-1 tvg-id="kto-est-kto" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/PmD17UQ.png",КТО ЕСТЬ КТО
+https://tbs01-edge11.itdc.ge/ktoestkto/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="arsenaltv" tvg-logo="https://i.imgur.com/DBpVeb0.png" group-title="🌿| Khám phá",Телеканал Арсенал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s68/04.m3u8
@@ -942,6 +955,8 @@ https://ucdn.beetv.kz/btv/live/hls/000001049.m3u8
 https://ucdn.beetv.kz/btv/live/hls/000000286.m3u8
 #EXTINF:-1 tvg-id="oruzhie" tvg-logo="https://i.imgur.com/lfJQJqa.png" group-title="🌿| Khám phá",ОРУЖИЕ
 https://ucdn.beetv.kz/btv/live/hls/000000308.m3u8
+#EXTINF:-1 tvg-id="oxota-i-rybalka" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/nZwBaeW.png",Охота и рыбалка
+https://ucdn.beetv.kz/btv/live/hls/000002510.m3u8
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/Bj1jI7F.png",Охотник и Рыболов
 https://ucdn.beetv.kz/btv/live/hls/000000608.m3u8
 #EXTINF:-1 tvg-id="no-epg" tvg-logo="https://i.imgur.com/N1Ze5IE.png" group-title="🌿| Khám phá",Космический
@@ -952,8 +967,6 @@ http://stream01.vnet.am/KukhnyaTv/mono.m3u8
 https://ucdn.beetv.kz/btv/live/hls/000000147.m3u8
 #EXTINF:-1 tvg-id="poexali" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/mxsBZaC.png",ПОЕХАЛИ!
 https://ucdn.beetv.kz/btv/live/hls/000002991.m3u8
-#EXTINF:-1 tvg-id="oxota-i-rybalka" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/nZwBaeW.png",Охота и рыбалка
-https://ucdn.beetv.kz/btv/live/hls/000002510.m3u8
 #EXTINF:-1 tvg-id="Rybolov.ru" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/wJMTcFS.png",Рыболов
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s55/04.m3u8
@@ -1029,6 +1042,8 @@ http://edge02.odtv.az/o4/extremesport/playlist.m3u8
 http://ott-cdn.ucom.am/s79/04.m3u8
 #EXTINF:-1 tvg-id="fightbox-hd" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/mRsnztA.png",FightBox HD
 https://stream01.vnet.am/Fightbox/playlist.m3u8
+#EXTINF:-1 tvg-id="m1global" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/QhdxNsB.png",MMA-TV.COM
+https://tbs01-edge11.itdc.ge/m1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="setanta1-kz" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/zlJK7ca.png",Setanta Sport 1 Kazakhstan
 https://ucdn.beetv.kz/btv/live/hls/000004498.m3u8
 #EXTINF:-1 tvg-id="setanta2-kz" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/ZtoZQUV.png",Setanta Sport 2 Kazakhstan
@@ -1041,7 +1056,7 @@ https://ucdn.beetv.kz/btv/live/hls/000000135.m3u8
 #EXTINF:-1 tvg-id="avto-plus" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/sVc8cFt.png",АВТО ПЛЮС
 https://tbs01-edge11.itdc.ge/autoplus/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="box-tv" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/R1UjyfX.png",Бокс ТВ
-http://stream01.vnet.am/BoksTv/mono.m3u8
+https://tbs01-edge11.itdc.ge/boxtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="match-football1" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/XS2BB02.png",Матч! Футбол 1
 http://stream.cvmtv.site/MF1?token=live
 #EXTINF:-1 tvg-id="match-football2" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/WhdGfSo.png",Матч! Футбол 2
