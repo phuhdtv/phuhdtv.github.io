@@ -38,9 +38,12 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtv8/index.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtv9/index.m3u8
 
-#EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-id="vtvcab1hd" tvg-logo="https://i.imgur.com/ie6xPgE.png",VTVCab1 HD
+#EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-id="vtvcab1hd" tvg-logo="https://i.imgur.com/ie6xPgE.png",VTVCab1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab1/index.m3u8
+#EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-id="vtvcab1hd" tvg-logo="https://i.imgur.com/ie6xPgE.png",VTVCab1 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/getlink/vieon/vie-giai-tri-hd/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab2/index.m3u8
@@ -87,6 +90,9 @@ https://e7.endpoint.cdn.sctvonline.vn/live/smil:VTVCAB16.smil/chunklist_w2005840
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab17/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/wpRXpJg.png",ON Sports News HD
 http://b4tv.live/b4tv/b4tv/3.m3u8
+#EXTINF:-1 tvg-id="vtvcab19hd" group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/emLcVMU.png",VTVcab 19
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/getlink/vieon/vie-dramas-hd/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/emLcVMU.png",VTVcab 19 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab19/index.m3u8
@@ -534,7 +540,7 @@ http://livear.cgtn.com/1000a/prog_index.m3u8
 #EXTINF:-1 tvg-id="clubbing-tv" group-title="🎵| Ca Nhạc" tvg-logo="https://i.imgur.com/Yhpx1Ve.png",CLUBBING TV
 https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="da-vinci" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/eFKbeFy.png",DA VINCI
-https://ucdn.beetv.kz/btv/live/hls/000000333.m3u8
+https://tbs01-edge11.itdc.ge/davinci/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="discoveryhd" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/mYzIX3J.png",Discovery Channel SEA
 https://ctrl.laotv.la/live/Discovery/index.m3u8
 #EXTINF:-1 tvg-id="dw" group-title="📰 Tin tức" tvg-logo="https://i.imgur.com/A1xzjOI.png",Deutsche Welle English
@@ -821,9 +827,6 @@ http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 https://ucdn.beetv.kz/btv/live/hls/000000284.m3u8
 #EXTINF:-1 tvg-id="ginger-hd" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/K3PSHiT.png",КАПИТАН ФАНТАСТИКА
 https://ucdn.beetv.kz/btv/live/hls/000001474.m3u8
-#EXTINF:-1 tvg-id="mama" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/kmMIjjf.png",Мама
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://edge02.odtv.az/o2/mamatv/playlist.m3u8
 #EXTINF:-1 tvg-id="mult" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/xi351Fx.png",Мульт
 https://ucdn.beetv.kz/btv/live/hls/000001207.m3u8
 #EXTINF:-1 tvg-id="mult" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/xi351Fx.png",Мульт HD
@@ -949,6 +952,9 @@ https://ucdn.beetv.kz/btv/live/hls/000000146.m3u8
 https://ucdn.beetv.kz/btv/live/hls/000001187.m3u8
 #EXTINF:-1 tvg-id="moskovsky-obrazovatelny" tvg-logo="https://i.imgur.com/iHhlkDT.png" group-title="🎓| Giáo dục",Московский образовательный
 http://retc.educom.ru/mosobrtv/tv1/index.m3u8
+#EXTINF:-1 tvg-id="mama" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/kmMIjjf.png",Мама
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o2/mamatv/playlist.m3u8
 #EXTINF:-1 tvg-id="moya-planeta" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/uIiAdBv.png",МОЯ ПЛАНЕТА
 https://ucdn.beetv.kz/btv/live/hls/000001049.m3u8
 #EXTINF:-1 tvg-id="muzhskoy" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/xyztpBf.png",МУЖСКОЙ
@@ -1042,12 +1048,11 @@ http://edge02.odtv.az/o4/extremesport/playlist.m3u8
 http://ott-cdn.ucom.am/s79/04.m3u8
 #EXTINF:-1 tvg-id="fightbox-hd" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/mRsnztA.png",FightBox HD
 https://stream01.vnet.am/Fightbox/playlist.m3u8
-#EXTINF:-1 tvg-id="m1global" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/QhdxNsB.png",MMA-TV.COM
-https://tbs01-edge11.itdc.ge/m1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="setanta1-kz" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/zlJK7ca.png",Setanta Sport 1 Kazakhstan
 https://ucdn.beetv.kz/btv/live/hls/000004498.m3u8
 #EXTINF:-1 tvg-id="setanta2-kz" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/ZtoZQUV.png",Setanta Sport 2 Kazakhstan
 https://ucdn.beetv.kz/btv/live/hls/000004499.m3u8
+
 #EXTINF:-1 tvg-id="viasat-sport" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/fXESG0l.png",Viju+ Sport
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://edge02.odtv.az/o7/viasatsport/playlist.m3u8
