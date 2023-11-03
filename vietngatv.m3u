@@ -539,10 +539,10 @@ http://liveru.cgtn.com/1000r/prog_index.m3u8
 http://livear.cgtn.com/1000a/prog_index.m3u8
 #EXTINF:-1 tvg-id="clubbing-tv" group-title="🎵| Ca Nhạc" tvg-logo="https://i.imgur.com/Yhpx1Ve.png",CLUBBING TV
 https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="da-vinci" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/eFKbeFy.png",DA VINCI
+#EXTINF:-1 tvg-id="da-vinci" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/eFKbeFy.png",DA VINCI (Asia)
 https://tbs01-edge11.itdc.ge/davinci/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="discoveryhd" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/mYzIX3J.png",Discovery Channel SEA
-https://ctrl.laotv.la/live/Discovery/index.m3u8
+https://ctrl.laotv.la/live/DiscoveryAsia/index.m3u8
 #EXTINF:-1 tvg-id="dw" group-title="📰 Tin tức" tvg-logo="https://i.imgur.com/A1xzjOI.png",Deutsche Welle English
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/dw/index.m3u8
@@ -569,8 +569,6 @@ https://qnetlive.nethubtv.vn/live/france24sd.smil/chunklist_b1628000_sleng.m3u8
 https://ctrl.laotv.la/live/ABCA/index.m3u8
 #EXTINF:-1 tvg-id="france24eng" group-title="📰 Tin tức" tvg-logo="https://i.imgur.com/CMgoCrh.png",FRANCE 24 English HD
 https://qnetlive.nethubtv.vn/live/france24hd.smil/chunklist_b1628000_sleng.m3u8
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://i.imgur.com/yce0NJB.png" group-title="🌏| Quốc tế",Hadi TV
-https://live.ishiacloud.com/haditv.co.uk/haditv1.m3u8
 #EXTINF:-1 tvg-id="hbohd" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/qPXF25a.png",HBO Asia
 https://ctrl.laotv.la/live/HBO/index.m3u8
 #EXTINF:-1 tvg-id="KCTV.kp" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/wN1cSDd.png",Korean Central Television
@@ -580,6 +578,8 @@ https://tv.nknews.org/tvdash/stream.mpd
 https://e4.endpoint.cdn.sctvonline.vn/hls/kbsworld/index.m3u8
 #EXTINF:-1 tvg-id="kbsworld" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/vylHBC8.png",KBS World HD
 https://ctrl.laotv.la/live/KBS/index.m3u8
+#EXTINF:-1 tvg-id="kix" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/6u4tZn6.png",KIX
+http://210.210.155.37/dr9445/h/h07/index.m3u8
 #EXTINF:-1 tvg-id="love-nature-4k" group-title="KÊNH 4K" tvg-logo="https://i.imgur.com/oDacp1F.png",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="nhk-world" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK WORLD JAPAN HD
