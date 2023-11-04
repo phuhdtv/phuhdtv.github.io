@@ -26,14 +26,18 @@ https://ru.wikipedia.org/wiki/%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B5_%
 | 18 |        Мир Ⓢ       | [>](http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8) | <img height="20" src="https://i.imgur.com/L2slsbG.png"/> | Mir.ru |
 | 19 |       ТНТ Ⓢ        | [>](http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8) | <img height="20" src="https://i.imgur.com/T4A6rEI.png"/> | TNT.ru |
 | 20 |      Муз-ТВ Ⓢ      | [>](http://edge02.odtv.az/o5/muztv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/BtqrHmz.png"/> | MuzTV.ru |
-| 21 |        РБК Ⓢ       | [>](http://edge02.odtv.az/o1/rbktv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/P2Qii5B.png"/> | RBKTV.ru |
-| 22 |    RT Д Русский Ⓢ  | [>](https://hls.rt.com/hls/rtdru.m3u8) | <img height="20" src="https://i.imgur.com/v5fpEBo.png"/> | RTD.ru |
-| 23 |    CGTN Pусский Ⓢ  | [>](https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8) | <img height="20" src="https://i.imgur.com/fMsJYzl.png"/> | CGTNRussian.cn |
-| 24 |    Телеканал Ю Ⓢ   | [>](http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8) | <img height="20" src="https://i.imgur.com/KDZvt0Q.png"/> | U.ru |
-| 25 |         Че Ⓢ       | [>](http://s18209.cdn.ngenix.net/hls/CH_R02_PERETZ/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ZOcDGpB.png"/> | Che.ru |
-| 26 |        ТНТ4 Ⓢ      | [>](http://edge02.odtv.az/o7/tnt4/playlist.m3u8) | <img height="20" src="https://i.imgur.com/gBokU5i.png"/> | TNT4.ru |
+
+<h2>Analog</h2>
+
+|  # |      Channel       | Link  | Logo | EPG id |
+|:--:|:------------------:|:-----:|:----:|:------:|
+|  1 |    Телеканал Ю Ⓢ   | [>](http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8) | <img height="20" src="https://i.imgur.com/KDZvt0Q.png"/> | U.ru |
+|  2 |         Че Ⓢ       | [>](http://s18209.cdn.ngenix.net/hls/CH_R02_PERETZ/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ZOcDGpB.png"/> | Che.ru |
 
 <h2>Invalid</h2>
-
-| #   | Channel        | Link  | Logo | EPG id |
-|:---:|:--------------:|:-----:|:----:|:------:|
+|  # |      Channel       | Link  | Logo | EPG id |
+|:--:|:------------------:|:-----:|:----:|:------:|
+|  1 |        РБК Ⓢ       | [>](http://edge02.odtv.az/o1/rbktv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/P2Qii5B.png"/> | RBKTV.ru |
+|  2 |    RT Д Русский Ⓢ  | [>](https://hls.rt.com/hls/rtdru.m3u8) | <img height="20" src="https://i.imgur.com/v5fpEBo.png"/> | RTD.ru |
+|  3 |    CGTN Pусский Ⓢ  | [>](https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8) | <img height="20" src="https://i.imgur.com/fMsJYzl.png"/> | CGTNRussian.cn |
+|  4 |        ТНТ4 Ⓢ      | [>](http://edge02.odtv.az/o7/tnt4/playlist.m3u8) | <img height="20" src="https://i.imgur.com/gBokU5i.png"/> | TNT4.ru |
