@@ -8,7 +8,7 @@ https://ru.wikipedia.org/wiki/%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B5_%
 |:--:|:------------------:|:-----:|:----:|:------:|
 |  1 |   Первый канал Ⓢ   | [>](http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8) | <img height="20" src="https://i.imgur.com/1IqCGe9.png"/> | ChannelOne.ru |
 |  2 |     Россия 1 Ⓢ     | [>](http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8) | <img height="20" src="https://i.imgur.com/WI6hKez.png"/> | Russia1.ru |
-|  3 |     Матч ТВ Ⓢ      | [>](https://streaming.televizor-24-tochka.ru/live/6.m3u8) | <img height="20" src="https://i.imgur.com/kFdooR4.png"/> | Match.ru |
+|  3 |     Матч ТВ Ⓢ      | [>](http://stream.cvmtv.site/Match?token=live) | <img height="20" src="https://i.imgur.com/kFdooR4.png"/> | Match.ru |
 |  4 |       НТВ Ⓢ        | [>](http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8) | <img height="20" src="https://i.imgur.com/DtQX5P2.png"/> | NTV.ru |
 |  5 |   Пятый канал Ⓢ    | [>](http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8) | <img height="20" src="https://i.imgur.com/u8Q69D9.png"/> | 5Kanal.ru |
 |  6 | Россия-Культура Ⓢ  | [>](http://s18209.cdn.ngenix.net/hls/CH_R02_ROSSIAK/playlist.m3u8) | <img height="20" src="https://i.imgur.com/S12gaLc.png"/> | RussiaK.ru |
