@@ -33,7 +33,7 @@ https://ru.wikipedia.org/wiki/%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B5_%
 |:--:|:------------------:|:-----:|:----:|:------:|
 |  1 |    Телеканал Ю Ⓢ   | [>](http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8) | <img height="20" src="https://i.imgur.com/KDZvt0Q.png"/> | U.ru |
 |  2 |         Че Ⓢ       | [>](http://s18209.cdn.ngenix.net/hls/CH_R02_PERETZ/playlist.m3u8) | <img height="20" src="https://i.imgur.com/ZOcDGpB.png"/> | Che.ru |
-|  2 |       Солнце Ⓢ     | [x](https://okkotv-live.cdnvideo.ru/channel/Disney.m3u8) | <img height="20" src="https://i.imgur.com/nqOzHQF.png"/> | Solnce.ru |
+|  2 |        Солнце       | [x](https://okkotv-live.cdnvideo.ru/channel/Disney.m3u8) | <img height="20" src="https://i.imgur.com/nqOzHQF.png"/> | Solnce.ru |
 
 <h2>Invalid</h2>
 
