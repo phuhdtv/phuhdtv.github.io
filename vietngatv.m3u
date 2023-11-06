@@ -491,6 +491,8 @@ http://1.52.153.139:13579/udp/225.1.2.21:30120
 http://vthanhtivi.pw:5000/axn/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="bloomberg" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/idRFfhY.png",Bloomberg Television Asia
 http://210.210.155.35/dr9445/h/h03/01.m3u8
+#EXTINF:0 tvg-id="cbeebies" group-title="🌈| Hoạt hình" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cbeebies-uk-uk.svg",BBC CBeebies Asia
+http://1.52.153.139:13579/udp/225.1.1.134:30120
 #EXTINF:-1 tvg-id="bbcearth" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/z4rLIVW.png",BBC Earth Asia
 http://vthanhtivi.pw:5000/bbcearth/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/vSz2WEp.png",BBC News Asia
@@ -553,6 +555,8 @@ https://ctrl.laotv.la/live/Discovery/index.m3u8
 https://e4.endpoint.cdn.sctvonline.vn/hls/dw/index.m3u8
 #EXTINF:-1 tvg-id="dw" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/A1xzjOI.png",Deutsche Welle English HD
 https://ctrl.laotv.la/live/DW/index.m3u8
+#EXTINF:-1 tvg-id="dreamworks" group-title="🌈| Hoạt hình" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/512px-DreamWorks_Channel_Logo.svg.png",Dreamworks Asia
+http://1.52.153.139:13579/udp/225.1.1.136:30120
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QFZs80p.png" group-title="🎬| Phim truyện",EBC Movies
 https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ItNGE1z.png" group-title="🎬| Phim truyện",EBC Foreign Movies
@@ -614,6 +618,8 @@ https://hls.rt.com/hls/rtdru.m3u8
 https://lbs-us1.suprememastertv.com/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0HJi56.png" group-title="🌏| Quốc tế",Sun TV
 https://ctrl.laotv.la/live/SunTV/index.m3u8
+#EXTINF:-1 tvg-id="tlchd" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/LnGzp8D.png",TLC HD Asia
+http://1.52.153.139:13579/udp/225.1.1.236:30120
 #EXTINF:-1 tvg-id="tv5monde" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/FRsRXRR.png",TV5 Monde Asie
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/tv5/index.m3u8
