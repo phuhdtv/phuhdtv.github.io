@@ -23,7 +23,7 @@ https://ru.wikipedia.org/wiki/%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B5_%
 | 15 |       ТВ-3 Ⓢ       | [>](http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/%D0%A2V3_logo_2023.svg/556px-%D0%A2V3_logo_2023.svg.png"/> | TV3.ru |
 | 16 |     Пятница! Ⓢ     | [>](http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8) | <img height="20" src="https://i.imgur.com/rS11zVB.png"/> | Pyatnitsa.ru |
 | 17 |      Звезда Ⓢ      | [>](http://s18209.cdn.ngenix.net/hls/CH_R03_ZVEZDA/playlist.m3u8) | <img height="20" src="https://i.imgur.com/c0L0ncA.png"/> | TelekanalZvezda.ru |
-| 18 |        Мир Ⓢ       | [>](http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8) | <img height="20" src="https://i.imgur.com/L2slsbG.png"/> | Mir.ru |
+| 18 |       Мир Ⓢ        | [>](http://tvcdn01.esilnet.kz/tv/mir/index.m3u8) | <img height="20" src="https://i.imgur.com/L2slsbG.png"/> | Mir.ru |
 | 19 |       ТНТ Ⓢ        | [>](http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8) | <img height="20" src="https://i.imgur.com/T4A6rEI.png"/> | TNT.ru |
 | 20 |      Муз-ТВ Ⓢ      | [>](http://edge02.odtv.az/o5/muztv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/BtqrHmz.png"/> | MuzTV.ru |
 
