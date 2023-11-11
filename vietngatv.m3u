@@ -303,7 +303,7 @@ http://live.tv360.vn/manifest/VinhLong4_HD/playlist_1080p.m3u8
 
 #EXTINF:0 tvg-id="angiang" tvg-logo="https://i.imgur.com/0TkI4Ar.png" group-title="🇻🇳| Địa phương",An Giang
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/ANGIANG-SD-ABR/HTV-ABR/ANGIANG-SD-720p/chunks.m3u8
-#EXTINF:0 tvg-id="vungtau" tvg-logo="https://i.imgur.com/WEMfHas.png" group-title="🇻🇳| Địa phương",Bà Rịa Vũng Tàu
+#EXTINF:0 tvg-id="baria" tvg-logo="https://i.imgur.com/WEMfHas.png" group-title="🇻🇳| Địa phương",Bà Rịa Vũng Tàu
 https://stream.brt.vn:8081/live/tv2.stream/playlist.m3u8
 #EXTINF:0 tvg-id="bacgiang" tvg-logo="https://i.imgur.com/j9lbGel.png" group-title="🇻🇳| Địa phương",Bắc Giang
 https://ott3.nethubtv.vn/live/bacgiangtv/chunklist_1.m3u8
@@ -369,7 +369,7 @@ http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist_w828434596_b1384000.m3u8
 https://code.vthanhtivi.pw/getlink/dnlive/dnrtv3/playlist.m3u8
 #EXTINF:0 tvg-id="dongthap" tvg-logo="https://i.imgur.com/TqAz7ET.png" group-title="🇻🇳| Địa phương",Đồng Tháp 1
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/DONGTHAP-SD-ABR/HTV-ABR/DONGTHAP-SD-720p/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/PfETBEp.png" group-title="🇻🇳| Địa phương",Đồng Tháp 2 - Miền Tây
+#EXTINF:0 tvg-id="dongthap2" tvg-logo="https://i.imgur.com/PfETBEp.png" group-title="🇻🇳| Địa phương",Đồng Tháp 2 - Miền Tây
 https://64d0d74b76158.streamlock.net/THDT2/thdttv2/chunklist_w1473886109.m3u8
 #EXTINF:0 tvg-id="gialai" tvg-logo="https://i.imgur.com/ZEAxzoF.png" group-title="🇻🇳| Địa phương",Gia Lai
 http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
@@ -409,7 +409,7 @@ https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:0 tvg-id="kontum" tvg-logo="https://i.imgur.com/TFTkBVt.png" group-title="🇻🇳| Địa phương",Kon Tum
 https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
-#EXTINF:-1 tvg-id="laichau" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/n02cvKQ.png",Lai Châu
+#EXTINF:0 tvg-id="laichau" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/n02cvKQ.png",Lai Châu
 http://123.31.36.68/live.m3u8?c=vstv361&q=high&type=tv&location=NA&pkg=pkg11.hni
 #EXTINF:0 tvg-id="laocai" tvg-logo="https://i.imgur.com/ldwQU4L.png" group-title="🇻🇳| Địa phương",Lào Cai
 https://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
@@ -446,7 +446,7 @@ https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
 http://mediatech.vncdn.vn/qrtvlive/tv1live.m3u8
 #EXTINF:0 tvg-id="soctrang" tvg-logo="https://i.imgur.com/VcDV4Bv.png" group-title="🇻🇳| Địa phương",Sóc Trăng 1
 http://115.78.3.164:8088/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/v8tT6KL.png" group-title="🇻🇳| Địa phương",Sóc Trăng 2
+#EXTINF:0 tvg-id="soctrang" tvg-logo="https://i.imgur.com/v8tT6KL.png" group-title="🇻🇳| Địa phương",Sóc Trăng 2
 http://115.78.3.164:8088/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8
 #EXTINF:0 tvg-id="sonla" tvg-logo="https://i.imgur.com/xjkm6Zg.png" group-title="🇻🇳| Địa phương",Sơn La
 https://cdn.sonlatv.vn/live/28595222e707a364251b8724717894baa46/chunklist.m3u8
@@ -464,7 +464,7 @@ http://trtlive.f77de468.cdnviet.com/TRT-Online/chunklist.m3u8
 http://thtg.vn:8001/stream_hi.m3u8
 #EXTINF:0 tvg-id="travinh" tvg-logo="https://i.imgur.com/IhAFIHH.png" group-title="🇻🇳| Địa phương",Trà Vinh
 https://60acee235f4d5.streamlock.net/THTV/travinhtv/chunklist_w1911186192.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/FVmICGp.png",Trà Vinh 2
+#EXTINF:0 tvg-id="travinh" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/FVmICGp.png",Trà Vinh 2
 https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/chunklist_w517483768.m3u8
 #EXTINF:0 tvg-id="tuyenquang" tvg-logo="https://i.imgur.com/qPZeGPa.png" group-title="🇻🇳| Địa phương",Tuyên Quang
 https://live.tuyenquangtv.vn/hls/ttv.m3u8
@@ -483,8 +483,6 @@ https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelfareast_all/pla
 https://ctrl.laotv.la/live/AnimalPlanet/index.m3u8
 #EXTINF:-1 tvg-id="animalhd" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/BJVAUWg.png",Animal Planet SEA HD
 http://vthanhtivi.pw:5000/animal/index.m3u8
-#EXTINF:-1 tvg-id="afnhd" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network
-https://fbvip88.com/tv360/tv360.php?id=215
 #EXTINF:-1 tvg-id="arirang" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/DZNTBjC.png",ARIRANG World
 https://ctrl.laotv.la/live/Arirang/index.m3u8
 #EXTINF:-1 tvg-id="arirang" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/DZNTBjC.png",ARIRANG World HD
@@ -652,6 +650,11 @@ https://ctrl.laotv.la/live/PhoenixNews/index.m3u8
 https://ctrl.laotv.la/live/Bsport1/index.m3u8
 #EXTINF:-1 tvg-id="bein-sports-2-en" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/vUJZSvs.png",BeIN Sports 2 Thailand (English)
 https://ctrl.laotv.la/live/Bsport2/index.m3u8
+
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/HaoVsm5.png",SPOTV
+http://stream.cvmtv.site/SPO1?token=live
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/YD8fbTH.png",SPOTV2
+http://stream.cvmtv.site/SPO2?token=live
 
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-id="" tvg-logo="https://i.imgur.com/JGXzw5v.png",True Sports 1
 https://edge1.laotv.la/live/TrueSport6/index.m3u8
