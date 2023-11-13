@@ -438,7 +438,7 @@ https://beta.qrt.vn/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 http://118.107.85.5:1935/live/smil:PTQ.smil/playlist.m3u8
 #EXTINF:0 tvg-id="quangninh1" tvg-logo="https://i.imgur.com/KVia0uU.png" group-title="🇻🇳| Địa phương",Quảng Ninh 1
 https://live.baoquangninh.vn/qtvlive/tv1live.m3u8
-#EXTINF:0 tvg-id="quangninh3" tvg-logo="https://imgur.com/ci6kzgL.png" group-title="🇻🇳| Địa phương",Quảng Ninh 3
+#EXTINF:0 tvg-id="quangninh3" tvg-logo="https://i.imgur.com/ci6kzgL.png" group-title="🇻🇳| Địa phương",Quảng Ninh 3
 https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
 #EXTINF:0 tvg-id="quangtri" tvg-logo="https://i.imgur.com/xl4m2mn.png" group-title="🇻🇳| Địa phương",Quảng Trị
 http://mediatech.vncdn.vn/qrtvlive/tv1live.m3u8
@@ -500,9 +500,9 @@ http://vthanhtivi.pw:5000/cartoon/index.m3u8
 #EXTINF:-1 tvg-id="boomerang" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/C8nDHeY.png",Cartoonito Asia HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://code.vthanhtivi.pw/getlink/tvfree/boomerang/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTV4" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/ovUSVEQ.png",CCTV-4 中文国际（亚）
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/ovUSVEQ.png",CCTV-4 中文国际（亚）
 https://ctrl.laotv.la/live/CCTV4A/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/UNjmQVS.png",CCTV-5+ 体育赛事
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/UNjmQVS.png",CCTV-5+ 体育赛事
 https://edge1.laotv.la/live/CCTV5+/index.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://i.imgur.com/GhXlUpM.png" group-title="🌏| Quốc tế",CCTV-7 国防军事
 https://ctrl.laotv.la/live/CCTV7/index.m3u8
@@ -1129,11 +1129,11 @@ https://strm.voh.com.vn/radio/channel1/playlist.m3u8
 https://strm.voh.com.vn/radio/channel5/playlist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Xone-logo.jpg" radio="true",Xone Radio
 https://multi-playlist-zmp3.zmdcdn.me/Ce5_Z5JFx2c/zhls/playback-realtime/f9a40e7c3239db678228/index.m3u8
-#EXTINF:-1 tvg-id="vesti-fm" tvg-logo="https://www.lyngsat.com/logo/radio/vv/vesti-fm-ru.svg" group-title="📻| Radio" radio="true",Радио Вести FM
+#EXTINF:-1 group-title="📻| Radio" tvg-id="vesti-fm" tvg-logo="https://i.imgur.com/iFbX0ZH.png" radio="true",Радио Вести FM
 http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
-#EXTINF:-1 group-title="📻| Radio" tvg-id="radio-mayak" tvg-logo="https://www.lyngsat.com/logo/radio/rr/radio-mayak-ru.svg" radio="true",Радио Маяк
+#EXTINF:-1 group-title="📻| Radio" tvg-id="radio-mayak" tvg-logo="https://i.imgur.com/Wr2gxLl.png" radio="true",Радио Маяк
 http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
-#EXTINF:-1 group-title="📻| Radio" tvg-id="radio-rossii" tvg-logo="https://www.lyngsat.com/logo/radio/rr/radio-rossii-ru.svg" radio="true",Радио России
+#EXTINF:-1 group-title="📻| Radio" tvg-id="radio-rossii" tvg-logo="https://i.imgur.com/P0In2kv.png" radio="true",Радио России
 http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_128kbps
 #EXTINF:-1 tvg-id="no_epg" group-title="📻| Radio" tvg-logo="https://www.lyngsat.com/logo/radio/ss/sputnik_international_ru.png" radio="true",Радио Sputnik (English)
 http://icecast-rian.cdnvideo.ru/voiceenghi
