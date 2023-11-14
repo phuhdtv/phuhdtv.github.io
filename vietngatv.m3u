@@ -232,7 +232,7 @@ https://e8.endpoint.cdn.sctvonline.vn/channel/sctv3/index.m3u8
 #EXTINF:-1 tvg-id="sctv4hd" tvg-id="SCTV4" group-title="🇻🇳| SCTV" tvg-logo="https://i.imgur.com/6kQooGL.png",SCTV4
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e8.endpoint.cdn.sctvonline.vn/hls/sctv4/index.m3u8
-#EXTINF:0 group-title="🛒| Mua sắm" tvg-logo="https://i.imgur.com/N3WRCXt.png",SCTV5 - SCJ TV Shopping
+#EXTINF:0 group-title="🛒| Mua sắm" tvg-logo="https://i.imgur.com/AcJuwYm.png",SCTV5 - SCJ TV Shopping
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv5/index.m3u8
 #EXTINF:-1 tvg-id="sctv6hd" group-title="🇻🇳| SCTV" tvg-logo="https://i.imgur.com/x5G9UnO.png",SCTV6
@@ -360,16 +360,17 @@ https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
 https://ngvauezm51liv.vcdn.cloud/live/smil:daknong.smil/chunklist_b3128000_sleng.m3u8
 #EXTINF:0 tvg-id="dienbien" tvg-logo="https://i.imgur.com/hMDRDxN.png" group-title="🇻🇳| Địa phương",Điện Biên
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&q=high&type=tv&location=NA&pkg=pkg11.hni
-#EXTINF:0 tvg-id="dongnai1" tvg-logo="https://i.imgur.com/x7NLopc.png" group-title="🇻🇳| Địa phương",Đồng Nai 1
+#EXTINF:0 tvg-id="dongnai1" tvg-logo="https://i.imgur.com/DCLUAqZ.png" group-title="🇻🇳| Địa phương",Đồng Nai 1
 https://ott4.nethubtv.vn/live/dongnaitv/chunklist_2.m3u8
-#EXTINF:0 tvg-id="dongnai2" tvg-logo="https://i.imgur.com/FEVaoJH.png" group-title="🇻🇳| Địa phương",Đồng Nai 2
+#EXTINF:0 tvg-id="dongnai2" tvg-logo="https://i.imgur.com/8qlDA5N.png" group-title="🇻🇳| Địa phương",Đồng Nai 2
 http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist_w828434596_b1384000.m3u8
-#EXTINF:-1 tvg-id="dongnai3" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/bFkn8Di.png",Đồng Nai 3
+#EXTINF:-1 tvg-id="dongnai3" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/iiY2dI1.png",Đồng Nai 3
 https://code.vthanhtivi.pw/getlink/dnlive/dnrtv3/playlist.m3u8
 #EXTINF:0 tvg-id="dongthap" tvg-logo="https://i.imgur.com/TqAz7ET.png" group-title="🇻🇳| Địa phương",Đồng Tháp 1
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/DONGTHAP-SD-ABR/HTV-ABR/DONGTHAP-SD-720p/playlist.m3u8
 #EXTINF:0 tvg-id="dongthap2" tvg-logo="https://i.imgur.com/PfETBEp.png" group-title="🇻🇳| Địa phương",Đồng Tháp 2 - Miền Tây
-https://64d0d74b76158.streamlock.net/THDT2/thdttv2/chunklist_w1473886109.m3u8
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e8.endpoint.cdn.sctvonline.vn/hls/thdt2/index.m3u8
 #EXTINF:0 tvg-id="gialai" tvg-logo="https://i.imgur.com/ZEAxzoF.png" group-title="🇻🇳| Địa phương",Gia Lai
 http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
 #EXTINF:0 tvg-id="hagiang" tvg-logo="https://i.imgur.com/zXqjjUf.png" group-title="🇻🇳| Địa phương",Hà Giang
@@ -1118,13 +1119,13 @@ https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist_w1213978008.m3u8
 https://str.vov.gov.vn/vovlive/vovgtMeKong.sdp_aac/playlist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/m766imC.png" radio="true",VOV FM 89Mhz
 http://media.kythuatvov.vn:1936/live/VOV89.sdp/playlist.m3u8
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f0/AM_610_%28VOH%29.png" radio="true",VOH1 AM 610 KHz
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/Ie1Bbg2.png" radio="true",VOH1 AM 610 KHz
 https://strm.voh.com.vn/radio/channel2/playlist.m3u8
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/11/FM_99.9_%28VOH%29.png" radio="true",VOH2 FM 99.9 MHz
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/p89y5DE.png" radio="true",VOH2 FM 99.9 MHz
 https://strm.voh.com.vn/radio/channel3/playlist.m3u8
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/0/0b/FM_95.6_%28VOH%29.png" radio="true",VOH3 FM 95.6 Mhz
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/tSFXalD.png" radio="true",VOH3 FM 95.6 Mhz
 https://strm.voh.com.vn/radio/channel1/playlist.m3u8
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/82/FM_87.7_%28VOH%29.png" radio="true",VOH4 FM 87.7 MHz
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/Maoi692.png" radio="true",VOH4 FM 87.7 MHz
 https://strm.voh.com.vn/radio/channel5/playlist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Xone-logo.jpg" radio="true",Xone Radio
 https://multi-playlist-zmp3.zmdcdn.me/Ce5_Z5JFx2c/zhls/playback-realtime/f9a40e7c3239db678228/index.m3u8
