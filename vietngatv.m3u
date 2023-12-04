@@ -79,7 +79,7 @@ https://e7.endpoint.cdn.sctvonline.vn/live/smil:VTVCAB16.smil/chunklist_w2005840
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab17/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/wpRXpJg.png",ON Sports News HD
-http://cdn.vthanhtivi.pw/ON_Sports_News/index.m3u8
+http://edge.vthanhtivi.pw/ON_Sports_News/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/emLcVMU.png",VTVcab 19 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab19/index.m3u8
@@ -160,7 +160,7 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/QPTV-SD-ABR/HTV-ABR/QPTV-SD-720p/play
 #EXTINF:-1 tvg-id="qpvnhd" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN HD
 http://27.76.137.122:1935/standard/smil:standard.smil/chunklist_w1933869513_b996000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="htv1" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/Z8Y74ih.png",HTV1
+#EXTINF:-1 tvg-id="htv1" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/Z8Y74ih.png",HTV1 HD
 https://drm-livecdn.hplus.com.vn/htvonline/htv1.720p.nimble.tms/playlist.m3u8
 #EXTINF:-1 tvg-id="htv2hd" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/Yc3cmAi.png",HTV2
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -168,15 +168,23 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/htv2/index.m3u8
 #EXTINF:-1 tvg-id="htv2hd" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/Yc3cmAi.png",HTV2 HD
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htv3" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3
-https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV3-SD-480p/playlist.m3u8
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e2.endpoint.cdn.sctvonline.vn/hls/htv3/index.m3u8
 #EXTINF:-1 tvg-id="htv4" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/13jHqoG.png",HTV Key
-https://drm-livecdn.hplus.com.vn/htvonline/htv4.480p.nimble.tms/playlist.m3u8
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e2.endpoint.cdn.sctvonline.vn/hls/htv4/index.m3u8
+#EXTINF:-1 tvg-id="htv4" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/13jHqoG.png",HTV Key HD
+http://vtv.cvmtv.site/HTV4?token=live
 #EXTINF:-1 tvg-id="htv7hd" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/PPFu7pv.png",HTV7
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv7/index.m3u8
+#EXTINF:-1 tvg-id="htv7hd" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/PPFu7pv.png",HTV7 HD
+http://vtv.cvmtv.site/HTV7?token=live
 #EXTINF:-1 tvg-id="htv9hd" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/1SgC1yo.png",HTV9
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/index.m3u8
+#EXTINF:-1 tvg-id="htv9hd" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/1SgC1yo.png",HTV9 HD
+http://vtv.cvmtv.site/HTV9?token=live
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/ZkUUWWN.png",HTV Thể Thao HD
 http://vtv.cvmtv.site/HTVTT?token=live
 #EXTINF:-1 tvg-id="no_epg" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/cQZkjst.png",HTV CO.OP
@@ -267,31 +275,31 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/index.m3u8
 https://e8.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/index.m3u8
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ CINE
-http://cdn.vthanhtivi.pw/K_CINE/index.m3u8
+http://edge.vthanhtivi.pw/K_CINE/index.m3u8
 #EXTINF:-1 tvg-id="kaction" group-title="🍭| K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ ACTION
-http://cdn.vthanhtivi.pw/K_ACTION/index.m3u8
+http://edge.vthanhtivi.pw/K_ACTION/index.m3u8
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ SPORT1
-http://cdn.vthanhtivi.pw/K_SPORT1/index.m3u8
+http://edge.vthanhtivi.pw/K_SPORT1/index.m3u8
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ SPORT2
-http://cdn.vthanhtivi.pw/K_SPORT2/index.m3u8
+http://edge.vthanhtivi.pw/K_SPORT2/index.m3u8
 #EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+" tvg-logo="https://i.imgur.com/erWqYxh.png",K+ KIDS
-http://cdn.vthanhtivi.pw/K_KIDS/index.m3u8
+http://edge.vthanhtivi.pw/K_KIDS/index.m3u8
 #EXTINF:-1 tvg-id="klive1" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/046_K_LIVE1_landscape.jpg",K+ LIVE 1
-http://cdn.vthanhtivi.pw/K_LIVE1/index.m3u8
+http://edge.vthanhtivi.pw/K_LIVE1/index.m3u8
 #EXTINF:-1 tvg-id="klive2" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/043_K_LIVE2_landscape.jpg",K+ LIVE 2
-http://cdn.vthanhtivi.pw/K_LIVE2/index.m3u8
+http://edge.vthanhtivi.pw/K_LIVE2/index.m3u8
 #EXTINF:-1 tvg-id="klive3" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/044_K_LIVE3_landscape.jpg",K+ LIVE 3
-http://cdn.vthanhtivi.pw/K_LIVE3/index.m3u8
+http://edge.vthanhtivi.pw/K_LIVE3/index.m3u8
 #EXTINF:-1 tvg-id="ksktt1" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/SPORT1.jpg",SỰ KIỆN THỂ THAO 1
-http://cdn.vthanhtivi.pw/SKTT1/index.m3u8
+http://edge.vthanhtivi.pw/SKTT1/index.m3u8
 #EXTINF:-1 tvg-id="ksktt2" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/SPORT1.jpg",SỰ KIỆN THỂ THAO 2
-http://cdn.vthanhtivi.pw/SKTT2/index.m3u8
+http://edge.vthanhtivi.pw/SKTT2/index.m3u8
 #EXTINF:-1 tvg-id="ksktt3" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/SPORT1.jpg",SỰ KIỆN THỂ THAO 3
-http://cdn.vthanhtivi.pw/SKTT3/index.m3u8
+http://edge.vthanhtivi.pw/SKTT3/index.m3u8
 #EXTINF:-1 tvg-id="ksktt4" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/SPORT1.jpg",SỰ KIỆN THỂ THAO 4
-http://cdn.vthanhtivi.pw/SKTT4/index.m3u8
+http://edge.vthanhtivi.pw/SKTT4/index.m3u8
 #EXTINF:-1 tvg-id="ksktt5" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/SPORT1.jpg",SỰ KIỆN THỂ THAO 5
-http://cdn.vthanhtivi.pw/SKTT5/index.m3u8
+http://edge.vthanhtivi.pw/SKTT5/index.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/bF1sHjk.png",Vĩnh Long 1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -674,9 +682,9 @@ https://edge2.laotv.la/live/TSport2/index.m3u8
 https://ctrl.laotv.la/live/WWE/index.m3u8
 
 #EXTINF:-1 tvg-id="inthebox" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/C4bG0Md.png",In The Box
-http://cdn.vthanhtivi.pw/In_The_Box/mpegts
+http://edge.vthanhtivi.pw/In_The_Box/mpegts
 #EXTINF:-1 tvg-id="boxhits" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/VrfSOF4.png",Box Hits
-http://cdn.vthanhtivi.pw/Box_Hits/mpegts
+http://edge.vthanhtivi.pw/Box_Hits/mpegts
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://i.imgur.com/leWw1zz.png",Box Movie 1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
@@ -1077,6 +1085,8 @@ https://ucdn.beetv.kz/btv/live/hls/000000135.m3u8
 https://tbs01-edge11.itdc.ge/autoplus/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="box-tv" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/R1UjyfX.png",Бокс ТВ
 https://tbs01-edge11.itdc.ge/boxtv/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-id="match-arena" tvg-logo="https://i.imgur.com/udTzwzu.png",Матч! Арена
+http://free.cvmtv.site/MA?token=live
 #EXTINF:-1 tvg-id="match-football1" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/XS2BB02.png",Матч! Футбол 1
 http://free.cvmtv.site/MF1?token=live
 #EXTINF:-1 tvg-id="match-football2" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/WhdGfSo.png",Матч! Футбол 2
