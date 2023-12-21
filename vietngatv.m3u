@@ -167,11 +167,9 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/htv2/index.m3u8
 #EXTINF:-1 tvg-id="htv2hd" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/Yc3cmAi.png",HTV2 HD
 https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htv3" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e2.endpoint.cdn.sctvonline.vn/hls/htv3/index.m3u8
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV3-SD-480p/playlist.m3u8
 #EXTINF:-1 tvg-id="htv4" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/13jHqoG.png",HTV Key
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e2.endpoint.cdn.sctvonline.vn/hls/htv4/index.m3u8
+https://drm-livecdn.hplus.com.vn/htvonline/htv4.480p.nimble.tms/playlist.m3u8
 #EXTINF:-1 tvg-id="htv4" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/13jHqoG.png",HTV Key HD
 http://vtv.cvmtv.site/HTV4?token=live
 #EXTINF:-1 tvg-id="htv7hd" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/PPFu7pv.png",HTV7
@@ -359,9 +357,9 @@ http://123.31.36.68/live.m3u8?c=vstv365&q=high&type=tv&location=NA&pkg=pkg11.hni
 #EXTINF:-1 tvg-id="hanam" tvg-logo="https://i.imgur.com/NgcSFah.png" group-title="🇻🇳| Địa phương",Hà Nam
 https://live.mediatech.vn/live/285361fcafcd0ec47bba2fa3f5870f8dc72/chunklist.m3u8
 #EXTINF:-1 tvg-id="hanoi1" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/Je3K25E.png",Hà Nội 1
-https://zva42xy9rlliv.vcdn.cloud/hntv_events2/index.m3u8
+https://cecex9g5cpliv.vcdn.cloud/capture/smil:HN1.smil/chunklist_b3128000_slen.m3u8
 #EXTINF:-1 tvg-id="hanoi2" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/szivqh2.png",Hà Nội 2
-https://zva42xy9rlliv.vcdn.cloud/hntv_events1/index.m3u8
+https://cecex9g5cpliv.vcdn.cloud/live/smil:HN2.smil/chunklist_b3128000_slen.m3u8
 #EXTINF:-1 tvg-id="hatinh" tvg-logo="https://i.imgur.com/4yIgKKx.png" group-title="🇻🇳| Địa phương",Hà Tĩnh
 https://wse.hatinhtv.net/live/httv1/chunklist_w1950881898.m3u8
 #EXTINF:-1 tvg-id="haiduong" tvg-logo="https://i.imgur.com/KrYncYX.png" group-title="🇻🇳| Địa phương",Hải Dương
@@ -413,9 +411,9 @@ https://beta.qrt.vn/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 tvg-id="quangngai" tvg-logo="https://i.imgur.com/FTyvVYO.png" group-title="🇻🇳| Địa phương",Quảng Ngãi
 http://118.107.85.5:1935/live/smil:PTQ.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="quangninh1" tvg-logo="https://i.imgur.com/KVia0uU.png" group-title="🇻🇳| Địa phương",Quảng Ninh 1
-https://live.baoquangninh.vn/qtvlive/tv1live.m3u8
+http://103.90.220.236/qtvlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="quangninh3" tvg-logo="https://i.imgur.com/ci6kzgL.png" group-title="🇻🇳| Địa phương",Quảng Ninh 3
-https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
+http://103.90.220.236/qtvlive/tv3live.m3u8
 #EXTINF:-1 tvg-id="quangtri" tvg-logo="https://i.imgur.com/xl4m2mn.png" group-title="🇻🇳| Địa phương",Quảng Trị
 http://mediatech.vncdn.vn/qrtvlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="soctrang" tvg-logo="https://i.imgur.com/VcDV4Bv.png" group-title="🇻🇳| Địa phương",Sóc Trăng 1
