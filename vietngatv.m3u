@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="http://trada.info/epg.xml,http://lichphatsong.xyz/schedule/beartv_epg.xml,https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml,http://epg.51zmt.top:8000/e.xml,http://iptvx.one/EPG,http://epg.it999.ru/epg.xml.gz"
 #EXTM3U Luôn cập nhật kênh ổn định - https://tinyurl.com/VietXoTV - https://hqth.me/vietstvKIPTV
 
+#EXTINF:-1 group-title="🇻🇳| AVG" tvg-logo="https://i.imgur.com/mPtn2TS.png",AVG — Hướng dẫn khách hàng
+https://ctrl.laotv.la/live/ABCA/index.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtv1/index.m3u8
@@ -552,8 +554,6 @@ https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr
 #EXTINF:-1 tvg-id="fashionhd" group-title="KÊNH 4K" tvg-logo="https://i.imgur.com/vQuyyWO.png",Fashion TV UHD
 http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="france24eng" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/CMgoCrh.png",FRANCE 24 English
-https://ctrl.laotv.la/live/ABCA/index.m3u8
-#EXTINF:-1 tvg-id="france24eng" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/CMgoCrh.png",FRANCE 24 English HD
 http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="hbohd" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/qPXF25a.png",HBO Asia
 http://vthanhtivi.pw:5000/hbo/index.m3u8
