@@ -1,8 +1,6 @@
 #EXTM3U url-tvg="http://trada.info/epg.xml,http://lichphatsong.xyz/schedule/beartv_epg.xml,https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml,http://epg.51zmt.top:8000/e.xml,http://iptvx.one/EPG,http://epg.it999.ru/epg.xml.gz"
 #EXTM3U Luôn cập nhật kênh ổn định - https://tinyurl.com/VietXoTV - https://hqth.me/vietstvKIPTV
 
-#EXTINF:-1 group-title="🇻🇳| AVG" tvg-logo="https://i.imgur.com/mPtn2TS.png",AVG — Hướng dẫn khách hàng
-https://ctrl.laotv.la/live/ABCA/index.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 HD
 https://cdnw-liv02.todayplus.com.vn/hdb/smil:vtv1-sub.smil/chunklist_w28623972_b2289152.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
@@ -426,6 +424,8 @@ http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
 https://live.yenbaitv.org.vn/hls/livestream.m3u8
 
 #EXTINF:-1 tvg-id="ABCNewsAustralia.au" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/GpgrYCb.png",ABC News Australia
+https://ctrl.laotv.la/live/ABCA/index.m3u8
+#EXTINF:-1 tvg-id="ABCNewsAustralia.au" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/GpgrYCb.png",ABC News Australia HD
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 tvg-id="al-jazeera-int" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/Sv8C4XK.png",Aljazeera International HD
 https://ctrl.laotv.la/live/ALJazeera/index.m3u8
