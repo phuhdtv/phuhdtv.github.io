@@ -680,13 +680,14 @@ https://streaming.televizor-24-tochka.ru/live/12.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://edge02.odtv.az/o2/tvc/playlist.m3u8
 #EXTINF:-1 tvg-id="rentv" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/0Tu5lte.png",РЕН ТВ
-https://streaming.televizor-24-tochka.ru/live/14.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o2/rentv/playlist.m3u8
 #EXTINF:-1 tvg-id="spas" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/yY39nMg.png",СПАС ТВ
 https://spas.mediacdn.ru/cdn/spas/playlist.m3u8
-#EXTINF:-1 tvg-id="sts" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/ilUzAeb.png",СТС
+#EXTINF:-1 tvg-id="sts-int" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/ilUzAeb.png",СТС
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s52/04.m3u8
-#EXTINF:-1 tvg-id="domashny" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/XVRwgom.png",Домашний
+#EXTINF:-1 tvg-id="domashny-int" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/XVRwgom.png",Домашний
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s88/04.m3u8
 #EXTINF:-1 tvg-id="tv3-ru" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/JLAvq8O.png",ТВ3
