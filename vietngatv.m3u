@@ -663,7 +663,8 @@ http://dvr-player.smotrim.ru/hls/planeta_rtr_asia/playlist_3.m3u8
 #EXTINF:-1 tvg-id="match-tv" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/kFdooR4.png",Матч! ТВ
 http://free.cvmtv.site/Match?token=live
 #EXTINF:-1 tvg-id="ntv-mir" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/DtQX5P2.png",НТВ — МИР
-https://ucdn.beetv.kz/btv/live/hls/000000079.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s17/04.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/cVvzJ8D.png",Пятый канал
 https://streaming.televizor-24-tochka.ru/live/8.m3u8
 #EXTINF:-1 tvg-id="kultura" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/S12gaLc.png",Россия-Культура
@@ -895,7 +896,8 @@ http://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-serial" tvg-logo="https://i.imgur.com/QdVa8tl.png" group-title="🤣| Giải trí",НТВ СЕРИАЛ
 http://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-style" tvg-logo="https://i.imgur.com/rX6K6qT.png" group-title="🤣| Giải trí",НТВ Стиль
-http://cdn.ntv.ru/th_style/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s77/04.m3u8
 #EXTINF:-1 tvg-id="ntv-xit" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/FfKBvz5.png",НТВ Хит
 http://ntv-hls-orig.cdnvideo.ru/th_hit/index.m3u8
 #EXTINF:-1 tvg-id="nostalgia" tvg-logo="https://i.imgur.com/YBdBc0J.png" group-title="🤣| Giải trí",НОСТАЛЬГИЯ
