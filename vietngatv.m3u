@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://trada.info/epg.xml,http://lichphatsong.xyz/schedule/beartv_epg.xml,https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml,http://epg.51zmt.top:8000/e.xml,http://iptvx.one/EPG,http://epg.it999.ru/epg.xml.gz"
+#EXTM3U url-tvg="http://trada.info/epg.xml,http://lichphatsong.xyz/schedule/beartv_epg.xml,https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml,http://content.stream-link.org/epg/guide.xml,http://epg.51zmt.top:8000/e.xml,http://iptvx.one/EPG,http://epg.it999.ru/epg.xml.gz"
 #EXTM3U Luôn cập nhật kênh ổn định - https://tinyurl.com/VietXoTV - https://hqth.me/vietstvKIPTV
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
@@ -414,9 +414,9 @@ http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="yenbai" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/WKneY2w.png",Yên Bái
 https://live.yenbaitv.org.vn/hls/livestream.m3u8
 
-#EXTINF:-1 tvg-id="ABCNewsAustralia.au" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/GpgrYCb.png",ABC News Australia
+#EXTINF:-1 tvg-id="ABCNewsLive" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/GpgrYCb.png",ABC News Australia
 https://ctrl.laotv.la/live/ABCA/index.m3u8
-#EXTINF:-1 tvg-id="ABCNewsAustralia.au" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/GpgrYCb.png",ABC News Australia HD
+#EXTINF:-1 tvg-id="ABCNewsLive" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/GpgrYCb.png",ABC News Australia HD
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 tvg-id="al-jazeera-int" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/Sv8C4XK.png",Aljazeera International HD
 https://ctrl.laotv.la/live/ALJazeera/index.m3u8
@@ -477,7 +477,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/cna/index.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="cnn" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/KacMcVa.png",CNN International Asia HD
 https://ctrl.laotv.la/live/CNN/index.m3u8
-#EXTINF:-1 tvg-id="cnbc" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/Mn8Rsup.png",CNBC Asia
+#EXTINF:-1 tvg-id="CNBCAsia" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/Mn8Rsup.png",CNBC Asia
 https://ctrl.laotv.la/live/CNBC/index.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/JHv0WxM.png",CGTN Documentary
 http://103.130.141.67:81/live/4/playlist.m3u8
@@ -542,13 +542,13 @@ https://livemtaasia.akamaized.net/hls/live/2039224/mta6asia/playlist.m3u8
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mhldfsB.png" group-title="🌈| Hoạt hình",Nick HD+
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/chT8xP5.png",Nick Jr Asia
+#EXTINF:-1 tvg-id="NickJrAsia" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/chT8xP5.png",Nick Jr Asia
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 tvg-id="nhk-world" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK WORLD JAPAN
 http://210.210.155.37/uq2663/h/h23/index.m3u8
 #EXTINF:-1 tvg-id="nhk-world" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK WORLD JAPAN HD
 https://ctrl.laotv.la/live/NHK/index.m3u8
-#EXTINF:-1 tvg-id="NHKWorldPremium.jp" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/4ESi2La.png",NHK World Premium
+#EXTINF:-1 tvg-id="NHKWorldPremium" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/4ESi2La.png",NHK World Premium
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1 tvg-id="outdoorfhd" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/isCqVcE.png",Outdoor Channel HD
 https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
@@ -576,9 +576,9 @@ http://vthanhtivi.pw/tlc/index.m3u8
 #EXTINF:-1 tvg-id="tv5monde" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/FRsRXRR.png",TV5 Monde Asie
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/tv5/index.m3u8
-#EXTINF:-1 tvg-id="TRTWorld.tr" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/PLpyQsV.png",TRT World
+#EXTINF:-1 tvg-id="TRTWorld" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/PLpyQsV.png",TRT World
 http://210.210.155.35/uq2663/h/h156/S4/mnf.m3u8
-#EXTINF:-1 tvg-id="TRTWorld.tr" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/PLpyQsV.png",TRT World HD
+#EXTINF:-1 tvg-id="TRTWorld" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/PLpyQsV.png",TRT World HD
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-id="warnertvhd" group-title="🤣| Giải trí" tvg-logo="https://imgur.com/wYvsJMj.png",Warner TV Asia
 http://vthanhtivi.pw/warnertv/index.m3u8
@@ -907,7 +907,7 @@ http://ott-cdn.ucom.am/s92/04.m3u8
 #EXTINF:-1 tvg-id="teleputeshestvia" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/eXJm1n3.png",Телепутешествия
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s71/04.m3u8
-#EXTINF:-1 tvg-id="tonus-tv" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/O15eGBK.png",Тонус ТВ
+#EXTINF:-1 tvg-id="tonus-tv" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/O15eGBK.png",Тонус
 http://stream01.vnet.am/ZooTv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="avto-plus" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/sVc8cFt.png",Авто плюс
