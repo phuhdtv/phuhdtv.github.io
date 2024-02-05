@@ -143,7 +143,7 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/htv3/index.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv4/index.m3u8
 #EXTINF:-1 tvg-id="htv4" group-title="🇻🇳| Kênh trong nước & Địa phương" tvg-logo="https://i.imgur.com/13jHqoG.png",HTV Key HD
-https://code.vthanhtivi.pw/getlink/htv/htv-keys-2528/playlist.m3u8
+http://str1.cvtv.xyz/htv4?token=live
 #EXTINF:-1 tvg-id="htv7hd" group-title="🇻🇳| Kênh trong nước & Địa phương" tvg-logo="https://i.imgur.com/PPFu7pv.png",HTV7
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv7/index.m3u8
@@ -226,11 +226,9 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/index.m3u8
 https://e8.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/index.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="🇻🇳| Kênh trong nước & Địa phương" tvg-logo="https://i.imgur.com/bF1sHjk.png",Vĩnh Long 1
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e2.endpoint.cdn.sctvonline.vn/hls/thvl1/index.m3u8
+http://str1.cvtv.xyz/thvl1?token=live
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="🇻🇳| Kênh trong nước & Địa phương" tvg-logo="https://i.imgur.com/ceo06Rf.png",Vĩnh Long 2
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e2.endpoint.cdn.sctvonline.vn/hls/thvl2/index.m3u8
+http://str1.cvtv.xyz/thvl2?token=live
 
 #EXTINF:-1 tvg-id="angiang" tvg-logo="https://i.imgur.com/0TkI4Ar.png" group-title="🇻🇳| Kênh trong nước & Địa phương",An Giang
 http://ott3.nethubtv.vn/live/angiangtv/playlist.m3u8
@@ -559,6 +557,12 @@ http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
 https://ctrl.laotv.la/live/PhxChinese/index.m3u8
 #EXTINF:-1 tvg-name="贵州卫视" group-title="📰| Tin tức" tvg-logo="https://i.imgur.com/mt4h3VO.png",鳳凰衛視資訊台
 https://ctrl.laotv.la/live/PhoenixNews/index.m3u8
+
+#EXTINF:-1 tvg-id="spotv1" group-title="⚽| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1200px-SPOTV_logo.svg.png",SPOTV ASIA
+http://ott4livecdb.khanggtivi.xyz/spotv/mpegts
+
+#EXTINF:-1 tvg-id="spotv2" group-title="⚽| Thể thao" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/SPOTV2_logo_2018.png/revision/latest?cb=20230507021015",SPOTV2 ASIA
+http://ott4livecdb.khanggtivi.xyz/spotv2/mpegts
 
 #EXTINF:-1 tvg-id="bein-sports-1-en" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/Vtk2cGI.png",BeIN Sports 1 Thailand (English)
 https://ctrl.laotv.la/live/Bsport1/index.m3u8
