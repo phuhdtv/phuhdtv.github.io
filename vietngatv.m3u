@@ -68,18 +68,36 @@ https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w2032123611.m3u
 #EXTINF:-1 tvg-id="qpvnhd" group-title="🇻🇳| Kênh trong nước" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN
 http://27.76.137.122:1935/standard/smil:standard.smil/chunklist_w1933869513_b996000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="htv1" group-title="🇻🇳| Kênh trong nước" tvg-logo="https://i.imgur.com/Z8Y74ih.png",HTV1
+#EXTINF:-1 tvg-id="htv1" group-title="🇻🇳| HTV"  tvg-logo="https://i.imgur.com/Z8Y74ih.png",HTV1
 http://str1.cvtv.xyz/htv1?token=live
-#EXTINF:-1 tvg-id="htv2hd" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/f3KlwDX.png",HTV2 — Vie Channel
+#EXTINF:-1 tvg-id="htv2hd" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/f3KlwDX.png",HTV2 — Vie Channel
 https://code.vthanhtivi.pw/getlink/htv/htv2-hd-2669/playlist.m3u8
-#EXTINF:-1 tvg-id="htv4" group-title="🇻🇳| Kênh trong nước" tvg-logo="https://i.imgur.com/13jHqoG.png",HTV Key
+#EXTINF:-1 tvg-id="htv3" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e2.endpoint.cdn.sctvonline.vn/hls/htv3/index.m3u8
+#EXTINF:-1 tvg-id="htv4" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/13jHqoG.png",HTV Key
 http://str1.cvtv.xyz/htv4?token=live
-#EXTINF:-1 tvg-id="htv7hd" group-title="🇻🇳| Kênh trong nước" tvg-logo="https://i.imgur.com/PPFu7pv.png",HTV7 HD
+#EXTINF:-1 tvg-id="htv7hd" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/PPFu7pv.png",HTV7 HD
 http://str1.cvtv.xyz/htv7?token=live
-#EXTINF:-1 tvg-id="htv9hd" group-title="🇻🇳| Kênh trong nước" tvg-logo="https://i.imgur.com/1SgC1yo.png",HTV9 HD
+#EXTINF:-1 tvg-id="htv9hd" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/1SgC1yo.png",HTV9 HD
 http://str1.cvtv.xyz/htv9?token=live
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/ZkUUWWN.png",HTV Thể Thao HD
 http://str1.cvtv.xyz/htvtt?token=live
+
+#EXTINF:-1 tvg-id="htvcthuanviet" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuần Việt
+https://code.vthanhtivi.pw/getlink/htv/htvc-thuan-viet-hd-2398/playlist.m3u8
+#EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/3WanRsM.png",HTVC Gia đình HD
+https://code.vthanhtivi.pw/getlink/htv/htvc-gia-dinh-full-hd-1080-2394/playlist.m3u8
+#EXTINF:-1 tvg-id="htvcphunuhd" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/MyyovVe.png",HTVC Phụ nữ HD
+https://code.vthanhtivi.pw/getlink/htv/htvc-phu-nu-full-hd-1080-2393/playlist.m3u8
+#EXTINF:-1 tvg-id="htvcdulichhd" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du lịch Cuộc sống HD
+https://code.vthanhtivi.pw/getlink/htv/htvc-du-lich-va-cuoc-song-full-hd-1080-2328/playlist.m3u8
+#EXTINF:-1 tvg-id="htvccanhachd" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/de7a3sf.png",HTVC Ca nhạc HD
+https://code.vthanhtivi.pw/getlink/htv/htvc-ca-nhac-full-hd-1080-2264/playlist.m3u8
+#EXTINF:-1 tvg-id="htvcphimhd" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/W16kIQP.png",HTVC Phim HD
+https://code.vthanhtivi.pw/getlink/htv/htvc-phim-hd-2399/playlist.m3u8
+#EXTINF:-1 tvg-id="htvcplushd" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC Plus HD
+https://code.vthanhtivi.pw/getlink/htv/htvc-plus-full-hd-1080-2395/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sctv15hd"  group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/nKAF1ZO.png",SCTV15
 https://uy7qk2oykpliv.vcdn.cloud/hls/sctv15/01.m3u8
