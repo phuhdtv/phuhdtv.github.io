@@ -329,8 +329,6 @@ http://viettel.nekocdn.xyz/AnimalPlanet/index.m3u8
 https://ctrl.laotv.la/live/Arirang/index.m3u8
 #EXTINF:-1 tvg-id="arirang" group-title="🌏| Đối ngoại/Tin tức quốc tế" group-logo="https://i.imgur.com/D27GR9D.png" tvg-logo="https://i.imgur.com/DZNTBjC.png",ARIRANG World HD
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-#EXTINF:-1 group-title="🎬| Phim truyện" group-logo="https://i.imgur.com/tdozyTU.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1920px-AMC_logo_2016.svg.png",AMC Asia
-https://ctrl.laotv.la/live/StarMovie/index.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="🤣| Giải trí" group-logo="https://i.imgur.com/xNSIpkN.png" tvg-logo="https://i.imgur.com/OnJMiz5.png",AXN Asia
 http://viettel.nekocdn.xyz/AXN/index.m3u8
 #EXTINF:-1 tvg-id="bloomberg" group-title="🌏| Đối ngoại/Tin tức quốc tế" group-logo="https://i.imgur.com/D27GR9D.png" tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg Television Asia
@@ -464,6 +462,8 @@ http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/32212
 
 #EXTINF:-1 tvg-id="spotv1" group-title="⚽| Thể thao" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://i.imgur.com/hXYkO7B.png",SPOTV ASIA
 http://202.150.161.68/spotv1/index.m3u8
+#EXTINF:-1 tvg-id="spotv2" group-title="⚽| Thể thao" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://i.imgur.com/EBKmDBi.png",SPOTV2 ASIA
+http://202.150.161.68/spotv2/index.m3u8
 #EXTINF:-1 tvg-id="bein-sports-1-en" group-title="⚽| Thể thao" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://i.imgur.com/Vtk2cGI.png",BeIN Sports 1 Thailand (English)
 https://ctrl.laotv.la/live/Bsport1/index.m3u8
 #EXTINF:-1 tvg-id="bein-sports-2-en" group-title="⚽| Thể thao" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://i.imgur.com/vUJZSvs.png",BeIN Sports 2 Thailand (English)
@@ -638,8 +638,7 @@ http://stream01.vnet.am/Mult/playlist.m3u8
 #EXTINF:-1 tvg-id="o_" group-title="🌈| Hoạt hình" group-logo="https://i.imgur.com/iyRf0WP.png" tvg-logo="https://i.imgur.com/pDc665V.png",О!
 https://bkm.beetv.kz/btv/live/hls/000002928.m3u8
 #EXTINF:-1 tvg-id="ryzhy" group-title="🌈| Hoạt hình" group-logo="https://i.imgur.com/iyRf0WP.png" tvg-logo="https://i.imgur.com/aHpwsM2.png",Рыжий
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s57/04.m3u8
+https://bkm.beetv.kz/btv/live/hls/000001445.m3u8
 #EXTINF:-1 tvg-id="detsky-mir" group-title="🌈| Hoạt hình" group-logo="https://i.imgur.com/iyRf0WP.png" tvg-logo="https://i.imgur.com/aigjmea.png",Детский мир
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s58/04.m3u8
@@ -661,9 +660,15 @@ http://stream01.vnet.am/Kinoseriya/mono.m3u8
 #EXTINF:-1 tvg-id="amedia1" group-title="🎬| Phim truyện" group-logo="https://i.imgur.com/tdozyTU.png" tvg-logo="https://i.imgur.com/2pAHdAi.png",AMEDIA 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s45/04.m3u8
+#EXTINF:-1 tvg-id="amedia1" group-title="🎬| Phim truyện" group-logo="https://i.imgur.com/tdozyTU.png" tvg-logo="https://i.imgur.com/2pAHdAi.png",AMEDIA 1 HD
+https://bkm.beetv.kz/btv/live/hls/000000710.m3u8
 #EXTINF:-1 tvg-id="amedia2" group-title="🎬| Phim truyện" group-logo="https://i.imgur.com/tdozyTU.png" tvg-logo="https://i.imgur.com/NqHla2V.png",AMEDIA 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s33/04.m3u8
+#EXTINF:-1 tvg-id="amedia2" group-title="🎬| Phim truyện" group-logo="https://i.imgur.com/tdozyTU.png" tvg-logo="https://i.imgur.com/NqHla2V.png",AMEDIA 2 HD
+https://bkm.beetv.kz/btv/live/hls/000000351.m3u8
+#EXTINF:0 tvg-id="amedia-hit" group-title="🎬| Phim truyện" group-logo="https://i.imgur.com/tdozyTU.png" tvg-logo="https://i.imgur.com/a8ZBGBw.png",Amedia Hit
+https://bkm.beetv.kz/btv/live/hls/000001662.m3u8
 #EXTINF:-1 tvg-id="amedia-premium" group-title="🎬| Phim truyện" group-logo="https://i.imgur.com/tdozyTU.png" tvg-logo="https://i.imgur.com/UUjehw9.png",Amedia Premium
 http://stream01.vnet.am/AmediaPremium/playlist.m3u8
 #EXTINF:-1 tvg-id="bolt-ru" group-title="🎬| Phim truyện" group-logo="https://i.imgur.com/tdozyTU.png" tvg-logo="https://i.imgur.com/YdIHXOR.png",Bolt
