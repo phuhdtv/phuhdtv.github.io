@@ -443,6 +443,10 @@ http://ott-cdn.ucom.am/s95/04.m3u8
 http://mfe01.cliptv.az/dash/Evrokino_SDas67gh.ism/playlist.mpd
 #EXTINF:-1 tvg-id="kino-tv" group-title="🎬| Movies/Series" group-logo="https://i.imgur.com/tdozyTU.png" tvg-logo="https://i.imgur.com/sMpamNO.png",Кино ТВ
 http://mfe01.cliptv.az/dash/Kino_TV_HDwnwnh67.ism/playlist.mpd
+#EXTINF:-1 tvg-id="ntv-serial" tvg-logo="https://i.imgur.com/QdVa8tl.png" group-title="🎬| Movies/Series" group-logo="https://i.imgur.com/tdozyTU.png",НТВ СЕРИАЛ
+https://bkm.beetv.kz/btv/live/hls/000002760.m3u8
+#EXTINF:-1 tvg-id="ntv-xit" group-title="🎬| Movies/Series" group-logo="https://i.imgur.com/xNSIpkN.png" tvg-logo="https://i.imgur.com/FfKBvz5.png",НТВ Хит
+http://92.242.110.52:9835/udp/238.1.7.27:1234
 #EXTINF:-1 tvg-id="nst" group-title="🎬| Movies/Series" group-logo="https://i.imgur.com/tdozyTU.png" tvg-logo="https://i.imgur.com/uv2yxa5.png",НСТ
 https://bkm.beetv.kz/btv/live/hls/000000078.m3u8
 #EXTINF:-1 tvg-id="nashe-lubimoe-hd" group-title="🎬| Movies/Series" group-logo="https://i.imgur.com/tdozyTU.png" tvg-logo="https://i.imgur.com/iKPfM5K.png",Любимое кино
@@ -538,14 +542,9 @@ http://otv.wotom.net:4433/udp/238.1.1.181:1234
 #EXTINF:0 tvg-id="kvn-tv" group-title="🤣| Entertainment" tvg-logo="https://i.imgur.com/Vw3LFLX.png",КВН
 https://stream01.vnet.am/Bober/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-pravo" tvg-logo="https://i.imgur.com/3ChnWGg.png" group-title="🤣| Entertainment" group-logo="https://i.imgur.com/xNSIpkN.png",НТВ ПРАВО
-http://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ntv-serial" tvg-logo="https://i.imgur.com/QdVa8tl.png" group-title="🤣| Entertainment" group-logo="https://i.imgur.com/xNSIpkN.png",НТВ СЕРИАЛ
-http://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
+https://bkm.beetv.kz/btv/live/hls/000002759.m3u8
 #EXTINF:-1 tvg-id="ntv-style" tvg-logo="https://i.imgur.com/rX6K6qT.png" group-title="🤣| Entertainment" group-logo="https://i.imgur.com/xNSIpkN.png",НТВ Стиль
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s77/04.m3u8
-#EXTINF:-1 tvg-id="ntv-xit" group-title="🤣| Entertainment" group-logo="https://i.imgur.com/xNSIpkN.png" tvg-logo="https://i.imgur.com/FfKBvz5.png",НТВ Хит
-http://ntv-hls-orig.cdnvideo.ru/th_hit/index.m3u8
+https://bkm.beetv.kz/btv/live/hls/000002761.m3u8
 #EXTINF:-1 tvg-id="nostalgia" tvg-logo="https://i.imgur.com/YBdBc0J.png" group-title="🤣| Entertainment" group-logo="https://i.imgur.com/xNSIpkN.png",НОСТАЛЬГИЯ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://edge02.odtv.az/o3/nostalgiya/playlist.m3u8
