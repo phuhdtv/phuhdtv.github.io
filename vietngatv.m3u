@@ -142,8 +142,8 @@ https://wintv.fun/360/14/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv15hd" group-title="⚽| Thể thao" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://i.imgur.com/nKAF1ZO.png",SCTV15
 https://uy7qk2oykpliv.vcdn.cloud/hls/sctv15/01.m3u8
-#EXTINF:0 tvg-id="ksport1hd" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ Sport 1
-https://edge1.laotv.la/live/VTV1HD/index.m3u8
+#EXTINF:0 tvg-id="ksport2hd" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ Sport 2
+https://edge1.laotv.la/live/K+Sport2/index.m3u8
 
 #EXTINF:-1 group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c8/HiTV_logo_2013.png/revision/latest?cb=20230303020910&path-prefix=vi",HiTV
 https://wintv.fun/360/32/index.m3u8
@@ -336,20 +336,26 @@ http://viettel.nekocdn.xyz/BBCEarth/index.m3u8
 https://ctrl.laotv.la/live/CartoonNetwork/index.m3u8
 #EXTINF:-1 tvg-id="cartoonhd" group-title="🌈| Hoạt hình" group-logo="https://i.imgur.com/iyRf0WP.png" tvg-logo="https://i.imgur.com/9aw5DAe.png",Cartoon Network Asia HD
 http://viettel.nekocdn.xyz/CartoonNetwork/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" group-title="🌏| Đối ngoại/Tin tức quốc tế" group-logo="https://i.imgur.com/D27GR9D.png" tvg-logo="https://i.imgur.com/TpA3cUl.png",CCTV-1 综合
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" group-title="🇨🇳| Trung Quốc" group-logo="https://i.imgur.com/lDqML4S.png" tvg-logo="https://i.imgur.com/TpA3cUl.png",CCTV-1 综合
 https://edge1.laotv.la/live/CCTV1/index.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" group-title="🌏| Đối ngoại/Tin tức quốc tế" group-logo="https://i.imgur.com/D27GR9D.png" tvg-logo="https://i.imgur.com/6s4pYkx.png",CCTV-4 中文国际（亚）
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" group-title="🇨🇳| Trung Quốc" tvg-logo="https://imgur.com/ILamhwU.png",CCTV-2 财经
+https://edge1.laotv.la/live/CCTV2/index.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" group-title="🇨🇳| Trung Quốc" tvg-logo="https://imgur.com/iFlkIuw.png",CCTV-3 综艺
+https://edge1.laotv.la/live/CCTV3/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" group-title="🇨🇳| Trung Quốc" tvg-logo="https://i.imgur.com/6s4pYkx.png",CCTV-4 中文国际（亚）
 https://ctrl.laotv.la/live/CCTV4A/index.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" group-title="⚽| Thể thao" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://i.imgur.com/OK8mdJV.png",CCTV-5+ 体育赛事
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/OK8mdJV.png",CCTV-5+ 体育赛事
 https://ctrl.laotv.la/live/CCTV5+/index.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://i.imgur.com/CKcPMQC.png" group-title="🌏| Đối ngoại/Tin tức quốc tế" group-logo="https://i.imgur.com/D27GR9D.png",CCTV-7 国防军事
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://i.imgur.com/CKcPMQC.png" group-title="🇨🇳| Trung Quốc",CCTV-7 国防军事
 https://ctrl.laotv.la/live/CCTV7/index.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://i.imgur.com/GyHaZ8X.png" group-title="🎬| Phim truyện" group-logo="https://i.imgur.com/tdozyTU.png",CCTV-8 电视剧
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://i.imgur.com/GyHaZ8X.png" group-title="🇨🇳| Trung Quốc",CCTV-8 电视剧
 https://ctrl.laotv.la/live/CCTV8/index.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://i.imgur.com/c5SXW7i.png" group-title="🌈| Hoạt hình" group-logo="https://i.imgur.com/iyRf0WP.png",CCTV-14 少儿
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://i.imgur.com/c5SXW7i.png" group-title="🇨🇳| Trung Quốc",CCTV-14 少儿
 https://ctrl.laotv.la/live/CCTV14/index.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://i.imgur.com/CCV0eRG.png" group-title="🎧| Âm nhạc" group-logo="https://i.imgur.com/SveJAEl.png",CCTV-15 音乐
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://i.imgur.com/CCV0eRG.png" group-title="🇨🇳| Trung Quốc",CCTV-15 音乐
 https://ctrl.laotv.la/live/CCTV15/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iqJJTmH.png" group-title="⚽| Thể thao",CCTV-高尔夫·网球
+https://edge1.laotv.la/live/BosiGolf/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mb5ssnu.png" group-title="🎬| Phim truyện" group-logo="https://i.imgur.com/tdozyTU.png",Celestial Movies
 https://ctrl.laotv.la/live/CHCA/index.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="🎬| Phim truyện" group-logo="https://i.imgur.com/tdozyTU.png" tvg-logo="https://i.imgur.com/uB76Ft0.png",Cinemax Asia

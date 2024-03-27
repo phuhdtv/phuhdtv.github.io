@@ -1,7 +1,5 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/beartv_epg.xml,https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml,http://content.stream-link.org/epg/guide.xml,http://epg.51zmt.top:8000/e.xml,http://iptvx.one/EPG,http://epg.it999.ru/epg.xml.gz"
 
-#EXTINF:-1 tvg-id="vtv1hd" group-title="🇻🇳| Public" group-logo="https://i.imgur.com/i3Nszt6.png" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
-https://edge1.laotv.la/live/VTV1HD/index.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🤣| Entertainment" group-logo="https://i.imgur.com/xNSIpkN.png" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
 https://edge1.laotv.la/live/VTV3/index.m3u8
 
@@ -77,20 +75,26 @@ http://viettel.nekocdn.xyz/BBCEarth/index.m3u8
 https://ctrl.laotv.la/live/CartoonNetwork/index.m3u8
 #EXTINF:-1 tvg-id="cartoonhd" group-title="🌈| Kids/Animation" group-logo="https://i.imgur.com/iyRf0WP.png" tvg-logo="https://i.imgur.com/9aw5DAe.png",Cartoon Network Asia HD
 http://viettel.nekocdn.xyz/CartoonNetwork/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" group-title="🌏| International/World News" group-logo="https://i.imgur.com/D27GR9D.png" tvg-logo="https://i.imgur.com/TpA3cUl.png",CCTV-1 综合
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" group-title="🇨🇳| China" group-logo="https://i.imgur.com/lDqML4S.png" tvg-logo="https://i.imgur.com/TpA3cUl.png",CCTV-1 综合
 https://edge1.laotv.la/live/CCTV1/index.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" group-title="🌏| International/World News" group-logo="https://i.imgur.com/D27GR9D.png" tvg-logo="https://i.imgur.com/6s4pYkx.png",CCTV-4
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" group-title="🇨🇳| China" tvg-logo="https://imgur.com/ILamhwU.png",CCTV-2 财经
+https://edge1.laotv.la/live/CCTV2/index.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" group-title="🇨🇳| China" tvg-logo="https://imgur.com/iFlkIuw.png",CCTV-3 综艺
+https://edge1.laotv.la/live/CCTV3/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" group-title="🇨🇳| China" tvg-logo="https://i.imgur.com/6s4pYkx.png",CCTV-4 中文国际（亚）
 https://ctrl.laotv.la/live/CCTV4A/index.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" group-title="⚽| Sports" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://i.imgur.com/OK8mdJV.png",CCTV-5+
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/OK8mdJV.png",CCTV-5+ 体育赛事
 https://ctrl.laotv.la/live/CCTV5+/index.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://i.imgur.com/CKcPMQC.png" group-title="🌏| International/World News" group-logo="https://i.imgur.com/D27GR9D.png",CCTV-7
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://i.imgur.com/CKcPMQC.png" group-title="🇨🇳| China",CCTV-7 国防军事
 https://ctrl.laotv.la/live/CCTV7/index.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://i.imgur.com/GyHaZ8X.png" group-title="🎬| Movies/Series" group-logo="https://i.imgur.com/tdozyTU.png",CCTV-8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://i.imgur.com/GyHaZ8X.png" group-title="🇨🇳| China",CCTV-8 电视剧
 https://ctrl.laotv.la/live/CCTV8/index.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://i.imgur.com/c5SXW7i.png" group-title="🌈| Kids/Animation" group-logo="https://i.imgur.com/iyRf0WP.png",CCTV-14
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://i.imgur.com/c5SXW7i.png" group-title="🇨🇳| China",CCTV-14 少儿
 https://ctrl.laotv.la/live/CCTV14/index.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://i.imgur.com/CCV0eRG.png" group-title="🎧| Music" group-logo="https://i.imgur.com/SveJAEl.png",CCTV-15
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://i.imgur.com/CCV0eRG.png" group-title="🇨🇳| China",CCTV-15 音乐
 https://ctrl.laotv.la/live/CCTV15/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iqJJTmH.png" group-title="⚽| Sports" group-logo="https://i.imgur.com/2MYvCZa.png",CCTV-高尔夫·网球
+https://edge1.laotv.la/live/BosiGolf/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mb5ssnu.png" group-title="🎬| Movies/Series" group-logo="https://i.imgur.com/tdozyTU.png",Celestial Movies
 https://ctrl.laotv.la/live/CHCA/index.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="🎬| Movies/Series" group-logo="https://i.imgur.com/tdozyTU.png" tvg-logo="https://i.imgur.com/uB76Ft0.png",Cinemax Asia
