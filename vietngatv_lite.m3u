@@ -98,8 +98,6 @@ https://ctrl.laotv.la/live/CCTV8/index.m3u8
 https://ctrl.laotv.la/live/CCTV14/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://i.imgur.com/CCV0eRG.png" group-title="🇨🇳| China",CCTV-15 音乐
 https://ctrl.laotv.la/live/CCTV15/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iqJJTmH.png" group-title="⚽| Sports" group-logo="https://i.imgur.com/2MYvCZa.png",CCTV-高尔夫·网球
-https://edge1.laotv.la/live/BosiGolf/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mb5ssnu.png" group-title="🎬| Movies/Series" group-logo="https://i.imgur.com/tdozyTU.png",Celestial Movies
 https://ctrl.laotv.la/live/CHCA/index.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="🎬| Movies/Series" group-logo="https://i.imgur.com/tdozyTU.png" tvg-logo="https://i.imgur.com/uB76Ft0.png",Cinemax Asia
@@ -194,6 +192,8 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 http://ott-cdn.ucom.am/s93/04.m3u8
 #EXTINF:-1 tvg-id="rtd-ru" group-title="🌿| Science" group-logo="https://i.imgur.com/M1HlAeS.png" tvg-logo="https://i.imgur.com/aeu5zIC.png",RT DOC HD
 https://hls.rt.com/hls/rtdru.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/AAS6FS3.png" group-title="⚽| Sports" group-logo="https://i.imgur.com/2MYvCZa.png",Sportcast Golf 2
+https://edge1.laotv.la/live/BosiGolf/index.m3u8
 #EXTINF:-1 tvg-id="SupremeMasterTV.tw" tvg-logo="https://i.imgur.com/CiFGi8J.png" group-title="🌏| International/World News" group-logo="https://i.imgur.com/D27GR9D.png",Supreme Master TV
 https://lbs-us1.suprememastertv.com/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0HJi56.png" group-title="🤣| Entertainment" group-logo="https://i.imgur.com/xNSIpkN.png",Sun TV
@@ -291,7 +291,7 @@ http://edge02.odtv.az/o7/tnt4/playlist.m3u8
 #EXTINF:-1 tvg-id="tnt-music" group-title="🎧| Music" group-logo="https://i.imgur.com/SveJAEl.png" tvg-logo="https://i.imgur.com/RenuH4S.png",ТНТ Music
 http://31.148.48.15:80/TNT_Music/index.m3u8?token=test
 #EXTINF:-1 tvg-id="2na2" group-title="🇷🇺| Russia" group-logo="https://i.imgur.com/D41JSNR.png" tvg-logo="https://i.imgur.com/fhQFLEl.png",2x2
-http://31.148.48.15:80/2x2/index.m3u8?token=test
+http://mfe02.cliptv.az/dash/2x2_SDhhh63hd.ism/playlist.mpd
 #EXTINF:-1 tvg-id="super" group-title="🇷🇺| Russia" group-logo="https://i.imgur.com/D41JSNR.png" tvg-logo="https://i.imgur.com/nsk8PpB.png",Суббота
 http://31.148.48.15:80/Super/index.m3u8?token=test
 #EXTINF:-1 tvg-id="yu" group-title="🇷🇺| Russia" group-logo="https://i.imgur.com/D41JSNR.png" tvg-logo="https://i.imgur.com/KDZvt0Q.png",Телеканал Ю
@@ -383,6 +383,8 @@ http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
 #EXTINF:-1 tvg-id="yuvelirochka" group-title="🛒| Shop" group-logo="https://i.imgur.com/75di4n1.png" tvg-logo="https://i.imgur.com/IcWtXCZ.png",Ювелирочка ТВ HD
 http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 
+#EXTINF:0 tvg-id="gulli-girl" group-title="🌈| Kids/Animation" group-logo="https://i.imgur.com/iyRf0WP.png" tvg-logo="https://imgur.com/lbViDuC.png",Gulli Girl
+https://bkm.beetv.kz/btv/live/hls/000000284.m3u8
 #EXTINF:-1 tvg-id="mama" group-title="🌈| Kids/Animation" group-logo="https://i.imgur.com/iyRf0WP.png" tvg-logo="https://i.imgur.com/kmMIjjf.png",Мама
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://edge02.odtv.az/o2/mamatv/playlist.m3u8
