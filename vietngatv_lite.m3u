@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,http://trada.info/epg.xml,https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml,http://content.stream-link.org/epg/guide.xml,http://epg.51zmt.top:8000/e.xml,http://iptvx.one/EPG,http://epg.it999.ru/epg.xml.gz"
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,http://trada.info/epg.xml,https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml,http://content.stream-link.org/epg/guide.xml,http://epg.51zmt.top:8000/e.xml,http://iptvx.one/EPG,http://epg.it999.ru/epg.xml.gz,https://akkradet.github.io/IPTV-THAI/guide.xml"
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="🇻🇳| VTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/VTV.png" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
 https://edge1.laotv.la/live/VTV1SD/index.m3u8
@@ -238,9 +238,9 @@ http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
 http://202.150.161.68/spotv1/index.m3u8
 #EXTINF:-1 tvg-id="spotv2" group-title="⚽| Sports" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://i.imgur.com/EBKmDBi.png",SPOTV2 ASIA
 http://202.150.161.68/spotv2/index.m3u8
-#EXTINF:-1 tvg-id="bein-sports-1-en" group-title="⚽| Sports" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://i.imgur.com/Vtk2cGI.png",BeIN Sports 1 Thailand (English)
+#EXTINF:-1 tvg-id="beIN SPORTS 1" group-title="⚽| Sports" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://i.imgur.com/Vtk2cGI.png",BeIN Sports 1 Thailand (English)
 https://ctrl.laotv.la/live/Bsport1/index.m3u8
-#EXTINF:-1 tvg-id="bein-sports-2-en" group-title="⚽| Sports" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://i.imgur.com/vUJZSvs.png",BeIN Sports 2 Thailand (English)
+#EXTINF:-1 tvg-id="beIN SPORTS 2" group-title="⚽| Sports" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://i.imgur.com/vUJZSvs.png",BeIN Sports 2 Thailand (English)
 https://ctrl.laotv.la/live/Bsport2/index.m3u8
 #EXTINF:-1 group-title="⚽| Sports" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://i.imgur.com/JGXzw5v.png",True Sports 1
 https://edge1.laotv.la/live/TrueSport6/index.m3u8
@@ -254,7 +254,7 @@ https://edge1.laotv.la/live/THD7/index.m3u8
 https://edge2.laotv.la/live/TSport1/index.m3u8
 #EXTINF:-1 group-title="⚽| Sports" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://i.imgur.com/EodqrAZ.png",True Premier Football 2
 https://edge2.laotv.la/live/TSport2/index.m3u8
-#EXTINF:-1 group-title="⚽| Sports" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://www.lyngsat.com/logo/tv/tt/t-sports-7-th.png",TSports7
+#EXTINF:-1 group-title="⚽| Sports" tvg-id="T Sports 7" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://www.lyngsat.com/logo/tv/tt/t-sports-7-th.png",TSports7
 https://ctrl.laotv.la/live/TSports7/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/l9COIym.jpg" group-title="⚽| Sports" group-logo="https://i.imgur.com/2MYvCZa.png",WWE
 https://ctrl.laotv.la/live/WWE/index.m3u8
