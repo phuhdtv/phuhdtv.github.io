@@ -303,8 +303,6 @@ http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
 http://edge02.odtv.az/o5/muztv/playlist.m3u8
 #EXTINF:-1 tvg-id="che" group-title="🇷🇺| Russia" group-logo="https://i.imgur.com/D41JSNR.png" tvg-logo="https://i.imgur.com/ZOcDGpB.png",Че
 http://s18209.cdn.ngenix.net/hls/CH_R02_PERETZ/playlist.m3u8
-#EXTINF:-1 tvg-id="perec-int" group-title="🇷🇺| Russia" group-logo="https://i.imgur.com/D41JSNR.png" tvg-logo="https://imgur.com/On6ggLe.png",Перец
-https://cdn1.skygo.mn/live/disk1/Che/HLS-FTA/Che.m3u8
 #EXTINF:-1 tvg-id="sts-love" group-title="🇷🇺| Russia" group-logo="https://i.imgur.com/D41JSNR.png" tvg-logo="https://i.imgur.com/YBVZoDd.png",СТС Love
 http://mfe02.cliptv.az/dash/STS_Love_SDgggdd45.ism/playlist.mpd
 #EXTINF:-1 tvg-id="tnt4" group-title="🇷🇺| Russia" group-logo="https://i.imgur.com/D41JSNR.png" tvg-logo="https://i.imgur.com/gBokU5i.png",ТНТ4
@@ -355,6 +353,8 @@ http://air.tvk6.ru/tvk24/playlist.m3u8
 http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="tamyr" tvg-logo="https://i.imgur.com/Ia3acCB.png" group-title="🌈| Kids/Animation" group-logo="https://i.imgur.com/iyRf0WP.png",Тамыр
 http://bsttv.bonus-tv.ru:80/cdn/tamyr/playlist_sdhigh.m3u8
+#EXTINF:0 tvg-id="tnv-planeta" group-title="🇷🇺| Russia" group-logo="https://i.imgur.com/D41JSNR.png" tvg-logo="https://i.imgur.com/ijA1zDw.png",ТНВ-Планета
+http://planeta.mediacdn.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tri-angela" group-title="🇷🇺| Russia" group-logo="https://i.imgur.com/D41JSNR.png" tvg-logo="https://i.imgur.com/4fhBbam.png",Три Ангела
 https://3abn-live.akamaized.net//hls/live/2010548/Russia/HQs/chunklist.m3u8
 #EXTINF:-1 tvg-id="soyuz" group-title="🇷🇺| Russia" group-logo="https://i.imgur.com/D41JSNR.png" tvg-logo="https://i.imgur.com/w3OewHc.png",Союз
@@ -372,6 +372,8 @@ http://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
 
 #EXTINF:-1 tvg-id="bridge-tv" group-title="🎧| Music" group-logo="https://i.imgur.com/SveJAEl.png" tvg-logo="https://i.imgur.com/qYObfrG.png",Bridge TV
 http://otv.wotom.net:4433/udp/238.1.1.117:1234
+#EXTINF:0 tvg-id="mezzo" group-title="🎧| Music" group-logo="https://i.imgur.com/SveJAEl.png" tvg-logo="https://imgur.com/auNdGeW.png",Mezzo
+https://bkm.beetv.kz/btv/live/hls/000000030.m3u8
 #EXTINF:-1 group-title="🎧| Music" tvg-id="la-minor" tvg-logo="https://i.imgur.com/RH6hTWG.png",Ля-Минор
 http://otv.wotom.net:4433/udp/238.1.1.135:1234
 #EXTINF:-1 tvg-id="muzsoyuz" group-title="🎧| Music" group-logo="https://i.imgur.com/SveJAEl.png" tvg-logo="https://i.imgur.com/v6KNZms.png",МузСоюз
@@ -423,7 +425,7 @@ http://ott-cdn.ucom.am/s58/04.m3u8
 #EXTINF:-1 tvg-id="detsky-mir" group-title="🌈| Kids/Animation" group-logo="https://i.imgur.com/iyRf0WP.png" tvg-logo="https://i.imgur.com/aigjmea.png",Детский мир HD
 http://stream01.vnet.am/CartoonNetwork/playlist.m3u8
 #EXTINF:-1 tvg-id="sts-kids-hd" group-title="🌈| Kids/Animation" group-logo="https://i.imgur.com/iyRf0WP.png" tvg-logo="https://i.imgur.com/o9kLpAL.png",СТС Kids
-http://stream02.vnet.am/DisneyChannel/mono.m3u8
+https://bkm.beetv.kz/btv/live/hls/000003892.m3u8
 #EXTINF:-1 tvg-id="detsky" group-title="🌈| Kids/Animation" group-logo="https://i.imgur.com/iyRf0WP.png" tvg-logo="https://i.imgur.com/kSJZjDL.png",УНИКУМ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://bkm.beetv.kz/btv/live/hls/000000048.m3u8
