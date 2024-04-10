@@ -661,7 +661,7 @@ http://otv.wotom.net:4433/udp/238.1.1.78:1234
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s41/04.m3u8
 
-#EXTINF:-1 group-title="🇯🇵| Japan" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G Osaka
+#EXTINF:-1 group-title="🇯🇵| Japan" tvg-id="nhkg" group-logo="https://cdn.hqth.me/logo/category/jp.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G Osaka
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
 #EXTINF:-1 group-title="🇯🇵| Japan" tvg-id="mbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/2560px-Mainichi_Broadcasting_System_logo.svg.png",MBS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01
@@ -733,7 +733,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
 #EXTINF:-1 group-title="🇯🇵| Japan" tvg-id="disneyjr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png",ディズニージュニア
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
 
-#EXTINF:-1 group-title="🇰🇷| Korea" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3f/CJB.jpg/revision/latest?cb=20200224093248&path-prefix=ko",CJB SBS
+#EXTINF:-1 group-title="🇰🇷| Korea" group-logo="https://cdn.hqth.me/logo/category/kr.png" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3f/CJB.jpg/revision/latest?cb=20200224093248&path-prefix=ko",CJB SBS
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 #EXTINF:-1 group-title="🇰🇷| Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/ko/8/8b/TJB_Logo.jpg",TJB SBS
 http://1.245.74.5:1935/live/tv/playlist.m3u8
