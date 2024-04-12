@@ -44,7 +44,7 @@ http://113.160.152.31:5050/rtp/232.84.2.191:10930
 http://113.160.152.31:5050/rtp/232.84.3.72:11620
 #EXTINF:-1 tvg-id="vtvcab12hd" group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/6LQ0Z1O.png",ON Style TV
 http://113.160.152.31:5050/rtp/232.84.3.71:11626
-#EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/ms11bjD.png",VTV Hyundai Homeshopping
+#EXTINF:-1 group-title="🛒| Mua sắm" group-logo="https://i.imgur.com/75di4n1.png" tvg-logo="https://i.imgur.com/ms11bjD.png",VTV Hyundai Homeshopping
 http://113.160.152.31:5050/rtp/232.84.1.142:10386
 #EXTINF:-1 tvg-id="vtvcab15hd" group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/45BXPY3.png",ON Music 
 http://113.160.152.31:5050/rtp/232.84.3.70:11632
@@ -137,6 +137,8 @@ https://edge1.laotv.la/live/K+Sport2/index.m3u8
 
 #EXTINF:-1 tvg-id="hitv" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png" tvg-logo="https://i.imgur.com/78fQx65.png",HCATV1 - HiTV HD
 http://113.160.152.31:5050/rtp/232.84.3.84:11548
+#EXTINF:0 group-title="🛒| Mua sắm" tvg-logo="https://i.imgur.com/KKhrAXP.png",HCATV5
+http://113.160.152.31:5050/rtp/232.84.1.229:9348
 
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="🇻🇳| Kênh Địa phương" group-logo="https://i.imgur.com/ZCB4rmF.png" tvg-logo="https://i.imgur.com/q3fjpYc.png",THVL1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -324,11 +326,13 @@ http://113.160.152.31:5050/rtp/232.84.3.225:11272
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 #EXTINF:-1 tvg-id="bloomberg" group-title="🌏| Đối ngoại/Tin tức quốc tế" group-logo="https://i.imgur.com/D27GR9D.png" tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg Television Asia
 https://4da261f13a2445c2a8fada9704df3e17.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_Bloomberg/playlist.m3u8
-#EXTINF:-1 tvg-id="CartoonNetworkAsia" group-title="🌈| Hoạt hình" group-logo="https://i.imgur.com/iyRf0WP.png" tvg-logo="https://i.imgur.com/9aw5DAe.png",Cartoon Network Asia
-https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
-#EXTINF:0 tvg-id="boomerang" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/C8nDHeY.png",Cartoonito Asia [Boomerang]
+#EXTINF:0 group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/Qegqnn2.png",Boomerang Thailand
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chboomberang/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkAsia" group-title="🌈| Hoạt hình" group-logo="https://i.imgur.com/iyRf0WP.png" tvg-logo="https://i.imgur.com/9aw5DAe.png",Cartoon Network Asia
+https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
+#EXTINF:0 tvg-id="boomerang" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/C8nDHeY.png",Cartoonito Asia
+http://113.160.152.31:5050/rtp/232.84.3.60:11692
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" group-title="🇨🇳| Trung Quốc" group-logo="https://i.imgur.com/lDqML4S.png" tvg-logo="https://i.imgur.com/TpA3cUl.png",CCTV-1 综合
 https://edge1.laotv.la/live/CCTV1/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" group-title="🇨🇳| Trung Quốc" tvg-logo="https://i.imgur.com/ILamhwU.png",CCTV-2 财经
