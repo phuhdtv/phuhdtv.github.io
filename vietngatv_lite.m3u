@@ -57,15 +57,15 @@ https://1236573804.pop.vnptcdn.com/VTC16/playlist.m3u8
 https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
 
 #EXTINF:-1 tvg-id="quochoi" group-title="🇻🇳| Essentials" group-logo="https://i.imgur.com/i3Nszt6.png" tvg-logo="https://i.imgur.com/YtZGuSy.png",Quoc Hoi
-http://113.164.225.140:1935/live/quochoitvlive.stream/chunklist.m3u8
+https://lms-vnetwork-vtv.swiftfederation.com/quochoitv/quochoitv-manifest.m3u8
 #EXTINF:-1 tvg-id="antvhd" group-title="🇻🇳| Essentials" group-logo="https://i.imgur.com/i3Nszt6.png" tvg-logo="https://i.imgur.com/QztqOe0.png",ANTV
-https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
+https://lms-vnetwork-vtv.swiftfederation.com/antv/antv-manifest.m3u8
 #EXTINF:-1 tvg-id="ttxvnhd" group-title="🇻🇳| Essentials" group-logo="https://i.imgur.com/i3Nszt6.png" tvg-logo="https://i.imgur.com/AAWIPHz.png",VNews
-https://zjizeoupprliv.vcdn.cloud/live/vnews/chunklist.m3u8
+https://lms-vnetwork-vtv.swiftfederation.com/ttxvn/ttxvn-manifest.m3u8
 #EXTINF:-1 tvg-id="nhandan" group-title="🇻🇳| Essentials" group-logo="https://i.imgur.com/i3Nszt6.png" tvg-logo="https://i.imgur.com/7zgsFIK.png",Nhan Dan
-https://arpt.tvic.vn/live/nhandan720/chunklist.m3u8
+https://lms-vnetwork-vtv.swiftfederation.com/nhandantv/nhandantv-manifest.m3u8
 #EXTINF:-1 tvg-id="qpvnhd" group-title="🇻🇳| Essentials" group-logo="https://i.imgur.com/i3Nszt6.png" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN
-https://playlive.qpvn.vn/live/qpvn.m3u8
+https://lms-vnetwork-vtv.swiftfederation.com/qpvntv/qpvntv-manifest.m3u8
 
 #EXTINF:0 tvg-id="ksport1hd" group-title="⚽| Sports" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ Sport 1
 https://edge2.laotv.la/live/K+Sport1/index.m3u8
@@ -156,15 +156,14 @@ https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ItNGE1z.png" group-title="🎬| Movies/Series" group-logo="https://i.imgur.com/tdozyTU.png",EBC Foreign Movies
 https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
 #EXTINF:-1 tvg-id="euronews-en" group-title="🌏| International/World News" group-logo="https://i.imgur.com/D27GR9D.png" tvg-logo="https://i.imgur.com/0iOuMds.png",EURONEWS English
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC35/index.m3u8
+#EXTINF:-1 tvg-id="euronews-en" group-title="🌏| International/World News" group-logo="https://i.imgur.com/D27GR9D.png" tvg-logo="https://i.imgur.com/0iOuMds.png",EURONEWS English HD
 https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="euronews" group-title="🌏| International/World News" group-logo="https://i.imgur.com/D27GR9D.png" tvg-logo="https://i.imgur.com/0iOuMds.png",EURONEWS Russian
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://edge02.odtv.az/o1/euronews/playlist.m3u8
 #EXTINF:-1 tvg-id="fashionhd" group-title="🤣| Entertainment" group-logo="https://i.imgur.com/xNSIpkN.png" tvg-logo="https://i.imgur.com/6u4tZn6.png",Fashion TV
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="france-24" group-title="🌏| International/World News" tvg-logo="https://i.imgur.com/sTK7s5R.png",France 24
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://bkm.beetv.kz/btv/live/hls/000000290.m3u8
+https://edge6a.v2h-cdn.com/france24/france24.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="🌿| Khám phá" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/FoodNetwork.png",Food Network Asia
 https://denver1769.pages.dev/Discovery/food_network_hd_english.m3u8
 #EXTINF:-1 tvg-id="HBOAsia" group-title="🎬| Movies/Series" group-logo="https://i.imgur.com/tdozyTU.png" tvg-logo="https://i.imgur.com/qPXF25a.png",HBO Asia
@@ -207,6 +206,9 @@ http://210.210.155.35/x6bnqe/s/s63/S4/mnf.m3u8
 http://210.210.155.35:80/dr9445/h/h16/01.m3u8
 #EXTINF:-1 tvg-id="ROCK Action" group-title="🤣| Entertainment" group-logo="https://i.imgur.com/xNSIpkN.png" tvg-logo="https://i.imgur.com/l6lmlqG.png",Rock Action
 http://210.210.155.35:80/dr9445/h/h15/01.m3u8
+#EXTINF:-1 tvg-id="russia-today" group-title="🌏| International/World News" group-logo="https://i.imgur.com/D27GR9D.png" tvg-logo="https://i.imgur.com/Fbli6Ml.png",Russia Today
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC9/index.m3u8
 #EXTINF:-1 tvg-id="russia-today" group-title="🌏| International/World News" group-logo="https://i.imgur.com/D27GR9D.png" tvg-logo="https://i.imgur.com/Fbli6Ml.png",Russia Today HD
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="rtd-ru" group-title="🌿| Science" group-logo="https://i.imgur.com/M1HlAeS.png" tvg-logo="https://i.imgur.com/aeu5zIC.png",RT DOC
@@ -230,8 +232,15 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-
 https://edge1.laotv.la/live/TSHD/index.m3u8
 #EXTINF:-1 group-title="🎬| Movies/Series" tvg-logo="https://i.imgur.com/z9XvYLe.png",True Film 1
 https://ctrl.laotv.la/live/TureFilm/index.m3u8
+#EXTINF:0 group-title="🌏| International/World News" tvg-logo="https://i.imgur.com/YyYy7jy.png",TVE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC4/index.m3u8
 #EXTINF:-1 tvg-id="tv5monde" group-title="🌏| International/World News" tvg-logo="https://i.imgur.com/FRsRXRR.png",TV5Monde ASIE
-https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC10/index.m3u8
+#EXTINF:-1 group-title="🌏| International/World News" tvg-logo="https://i.imgur.com/FRsRXRR.png",TV5Monde Style
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC25/index.m3u8
 #EXTINF:-1 group-title="🤣| Entertainment" tvg-logo="https://i.imgur.com/QVKzHm6.jpg",tvN Asia
 http://210.210.155.35:80/dr9445/h/h20/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c4XvwO2.png" group-title="🎬| Movies/Series",tvN Movies
