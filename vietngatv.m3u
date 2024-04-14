@@ -106,6 +106,8 @@ https://lms-vnetwork-vtv.swiftfederation.com/nhandantv/nhandantv-manifest.m3u8
 #EXTINF:-1 tvg-id="qpvnhd" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN — Truyền Hình Quốc Phòng Việt Nam
 https://lms-vnetwork-vtv.swiftfederation.com/qpvntv/qpvntv-manifest.m3u8
 
+#EXTINF:-1 tvg-id="htv1" group-title="🇻🇳| HTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/HTV.png" tvg-logo="https://i.imgur.com/Z8Y74ih.png",HTV1
+http://iptv.mikrotik.id.vn:2024/udp/225.1.4.55:30120
 #EXTINF:-1 tvg-id="htv2" group-title="🇻🇳| HTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/HTV.png" tvg-logo="https://i.imgur.com/Yc3cmAi.png",HTV2
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv2/index.m3u8?
@@ -123,6 +125,8 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/htv7/index.m3u8?
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/index.m3u8?
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/cQZkjst.png",HTV CO.OP
 https://1011337676.vnns.net/CDN-FPT02/HTVCOOP-SD-ABR/playlist.m3u8
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="⚽| Thể thao" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://i.imgur.com/ZkUUWWN.png",HTV Thể Thao
+http://iptv.mikrotik.id.vn:2024/udp/225.1.1.165:30120
 
 #EXTINF:-1 group-title="🇻🇳| SCTV" group-logo="https://cdn.hqth.me/logo/category/sctv.png" tvg-logo="https://i.ibb.co/6FB7zBz/SCTV1-cc.webp",SCTV1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -599,7 +603,7 @@ https://cdn1.skygo.mn/live/disk1/MIR/HLS-FTA/MIR.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="360-podmoskovie" tvg-logo="https://i.imgur.com/VTJqdoX.png" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập",360
 http://85.172.79.221:36037/live/360/playlist_360.m3u8
-#EXTINF:-1 tvg-id="360-news" tvg-logo="https://i.imgur.com/YXDeX8q.png" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập",360 Новости
+#EXTINF:-1 tvg-id="360-news" tvg-logo="https://i.imgur.com/YXDeX8q.png" group-title="🌏| Đối ngoại/Tin tức quốc tế",360 Новости
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="8kanal-ru" tvg-logo="https://i.imgur.com/q3JCAC3.png" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập",8 канал
 http://146.158.0.56:80/8kanal/index.m3u8
