@@ -130,6 +130,21 @@ https://1011337676.vnns.net/CDN-FPT02/HTVCOOP-SD-ABR/playlist.m3u8
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="⚽| Thể thao" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://i.imgur.com/ZkUUWWN.png",HTV Thể Thao
 http://iptv.mikrotik.id.vn:2024/udp/225.1.1.165:30120
 
+#EXTINF:0 tvg-id="htvccanhachd" group-title="🇻🇳| HTVC" group-logo="https://phuhdtv.github.io/thumbs/Groups/HTVC.png" tvg-logo="https://i.imgur.com/ZHVkEIC.png",HTVC Ca Nhạc
+http://iptv.mikrotik.id.vn:2024/udp/225.1.4.223:30120
+#EXTINF:0 tvg-id="htvcdulichhd" group-title="🇻🇳| HTVC" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du Lịch và Cuộc Sống
+http://iptv.mikrotik.id.vn:2024/udp/225.1.4.67:30120
+#EXTINF:0 tvg-id="htvcgiadinhhd" group-title="🇻🇳| HTVC" tvg-logo="https://i.imgur.com/3WanRsM.png",HTVC Gia Đình
+http://iptv.mikrotik.id.vn:2024/udp/225.1.4.64:30120
+#EXTINF:0 tvg-id="htvcphimhd" group-title="🇻🇳| HTVC" tvg-logo="https://i.imgur.com/W16kIQP.png",HTVC Phim
+http://iptv.mikrotik.id.vn:2024/udp/225.1.4.63:30120
+#EXTINF:0 tvg-id="htvcphunuhd" group-title="🇻🇳| HTVC" tvg-logo="https://i.imgur.com/MyyovVe.png",HTVC Phụ Nữ
+http://iptv.mikrotik.id.vn:2024/udp/225.1.4.66:30120
+#EXTINF:0 tvg-id="htvcthuanviet" group-title="🇻🇳| HTVC" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuần Việt
+http://iptv.mikrotik.id.vn:2024/udp/225.1.4.62:30120
+#EXTINF:0 tvg-id="htvcplushd" group-title="🇻🇳| HTVC" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+
+http://iptv.mikrotik.id.vn:2024/udp/225.1.4.91:30120
+
 #EXTINF:-1 group-title="🇻🇳| SCTV" group-logo="https://cdn.hqth.me/logo/category/sctv.png" tvg-logo="https://i.ibb.co/6FB7zBz/SCTV1-cc.webp",SCTV1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e8.endpoint.cdn.sctvonline.vn/hls/sctv1/index.m3u8
@@ -374,7 +389,7 @@ https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelfareast_all/pla
 #EXTINF:-1 tvg-id="animalhd" group-title="🌿| Khám phá" group-logo="https://i.imgur.com/M1HlAeS.png" tvg-logo="https://i.imgur.com/odiBT9V.png",Animal Planet Asia
 https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
 #EXTINF:-1 tvg-id="animaxhd" group-title="🌈| Hoạt hình" group-logo="https://i.imgur.com/iyRf0WP.png" tvg-logo="https://i.imgur.com/bLjwPFU.png",Animax Asia
-https://vnpt.nekocdn.xyz/hls/Animax/index.m3u8
+http://iptv.mikrotik.id.vn:2024/udp/225.1.4.168:30120
 #EXTINF:-1 tvg-id="arirang" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/DZNTBjC.png",ARIRANG World
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:0 tvg-id="afnhd" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network
