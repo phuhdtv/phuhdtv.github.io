@@ -650,7 +650,7 @@ https://bkm.beetv.kz/btv/live/hls/000000013.m3u8
 #EXTINF:-1 tvg-id="2na2" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/fhQFLEl.png",2x2
 http://mfe02.cliptv.az/dash/2x2_SDhhh63hd.ism/playlist.mpd
 #EXTINF:-1 tvg-id="super" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/nsk8PpB.png",Суббота
-http://31.148.48.15:80/Super/index.m3u8token=test
+http://31.148.48.15:80/Super/index.m3u8?token=test
 #EXTINF:-1 tvg-id="yu" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/KDZvt0Q.png",Телеканал Ю
 http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8
 #EXTINF:-1 tvg-id="ru-tv" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/Z7HUU7V.png",RU.TV
@@ -709,7 +709,7 @@ http://brics.bonus-tv.ru/cdn/brics/russian/playlist.m3u8
 #EXTINF:-1 tvg-id="baby-time" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/lW3WIBD.png",Baby Time
 http://178.212.236.3:8802/play/a01a
 #EXTINF:-1 tvg-id="bridge-tv" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/qYObfrG.png",Bridge TV
-http://31.148.48.15:80/Bridge_TV/index.m3u8token=test
+http://31.148.48.15:80/Bridge_TV/index.m3u8?token=test
 #EXTINF:-1 tvg-id="bridge-tv-classic" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/JJTQq81.png",Bridge TV Classic
 http://stream01.vnet.am/BRIDGETVClassic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-ruxit" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/f9xdIlN.png",Bridge TV Русский хит
@@ -880,7 +880,7 @@ https://cdn1.skygo.mn/live/disk1/Pobeda/HLS-FTA/Pobeda.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://edge02.odtv.az/o2/rodnoekino/playlist.m3u8
 #EXTINF:-1 tvg-id="russky-bestseller" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/w0ZE9QJ.png",Русский Бестселлер
-http://31.148.48.15:80/Russkiy_Bestseller/index.m3u8token=test
+http://31.148.48.15:80/Russkiy_Bestseller/index.m3u8?token=test
 #EXTINF:-1 tvg-id="russky-detektiv" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/H3qhN8S.png",Русский Детектив
 http://91.142.158.107:8092/play/27/index.m3u8
 #EXTINF:-1 tvg-id="russky-roman" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/cQN0P2B.png",Русский Роман
