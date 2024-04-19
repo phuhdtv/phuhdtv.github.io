@@ -11,6 +11,9 @@ http://171.238.180.25:18080/155.m3u8
 http://s4.nihontv.net:21585/vtv4/index.m3u8
 #EXTINF:0 tvg-id="vtv5hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
 http://171.238.181.52:18080/194.m3u8
+#EXTINF:-1 tvg-id="vtv5tnb" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e8.endpoint.cdn.sctvonline.vn/hls/vtv5_tnb/index.m3u8?
 #EXTINF:0 tvg-id="vtv6hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ
 http://171.238.181.52:18080/156.m3u8
 #EXTINF:0 tvg-id="vtv7hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7
@@ -783,10 +786,10 @@ https://bkm.beetv.kz/btv/live/hls/000000239.m3u8
 https://bkm.beetv.kz/btv/live/hls/000004466.m3u8
 #EXTINF:-1 tvg-id="hollywood" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/1j7cT2I.png",Hollywood
 http://stream01.vnet.am/ParamountChannel/playlist.m3u8
-#EXTINF:0 tvg-id="start-air" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/4bACa7x.png",START Air HD
+#EXTINF:0 tvg-id="start-air" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/4bACa7x.png",START Air
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://bkm.beetv.kz/btv/live/hls/000007815.m3u8
-#EXTINF:0 tvg-id="start-world" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/TXtY5eM.png",START World HD
+#EXTINF:0 tvg-id="start-world" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/TXtY5eM.png",START World
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://bkm.beetv.kz/btv/live/hls/000007818.m3u8
 #EXTINF:0 tvg-id="trashtv" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/jnUD3ak.png",Trash
@@ -1010,8 +1013,6 @@ http://210.210.155.37/uq2663/h/h101/index2.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://bkm.beetv.kz/btv/live/hls/000000039.m3u8
 #EXTINF:-1 tvg-id="belarus24" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/BP7tY6F.png",Беларусь 24
-http://mfe02.cliptv.az/dash/Mir_Uvleceniy_SDsddffg34.ism/playlist.mpd
-#EXTINF:-1 tvg-id="belarus24" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/BP7tY6F.png",Беларусь 24 HD
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="tro" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/tUF33HD.png",БелРос
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
