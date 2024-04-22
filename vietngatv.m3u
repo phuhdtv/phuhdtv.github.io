@@ -835,14 +835,14 @@ http://31.148.48.15:80/Bridge_TV/index.m3u8?token=test
 #EXTINF:-1 tvg-id="bridge-tv-classic" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/JJTQq81.png",Bridge TV Classic
 http://stream01.vnet.am/BRIDGETVClassic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-ruxit" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/f9xdIlN.png",Bridge TV Русский хит
-http://92.242.110.52:9835/udp/238.1.9.5:1234
+http://31.148.48.15:80/Bridge_TV/index.m3u8?token=test
 #EXTINF:-1 tvg-id="europa-plus-tv" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/GLc4qrc.png",Europa Plus TV
-http://92.242.110.52:9835/udp/238.1.6.5:1234
+http://45.15.43.12:80/europaplus/video.m3u8?token=test
 #EXTINF:0 tvg-id="mezzo" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/auNdGeW.png",Mezzo
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://bkm.beetv.kz/btv/live/hls/000000030.m3u8
 #EXTINF:-1 group-title="🎧| Âm nhạc" tvg-id="la-minor" tvg-logo="https://i.imgur.com/RH6hTWG.png",Ля-Минор
-http://92.242.110.52:9835/udp/238.1.6.17:1234
+http://45.15.43.12:80/lyaminor/video.m3u8?token=test
 #EXTINF:-1 tvg-id="muzsoyuz" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/v6KNZms.png",МузСоюз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1 tvg-id="muzyka-pervogo" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/U0vKj3P.png",Музыка Первого
@@ -851,7 +851,7 @@ https://cdn1.skygo.mn/live/disk1/Muzika/HLS-FTA/Muzika.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://edge02.odtv.az/o7/shansontv/playlist.m3u8
 #EXTINF:-1 tvg-id="zhara" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/41K9Y2s.png",Жара
-http://92.242.110.52:9835/udp/238.1.6.6:1234
+http://45.15.43.12:80/stv/video.m3u8?token=test
 
 #EXTINF:-1 tvg-id="shop24" group-title="🛒| Mua sắm" group-logo="https://i.imgur.com/75di4n1.png" tvg-logo="https://i.imgur.com/qU9ohQu.png",Leomax 24 HD
 https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
@@ -861,9 +861,7 @@ http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
 http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ani" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/i2AP0hp.png",Ani
-http://92.242.110.52:9835/udp/238.1.7.2:1234
-#EXTINF:-1 tvg-id="fanhd" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/mDeTbaF.png",FAN
-http://92.242.110.52:9835/udp/238.1.7.6:1234
+http://31.148.48.15:80/Ani/index.m3u8?token=test
 #EXTINF:-1 tvg-id="gulli-girl" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/lbViDuC.png",Gulli Girl
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://bkm.beetv.kz/btv/live/hls/000000284.m3u8
@@ -875,9 +873,9 @@ http://edge02.odtv.az/o2/mamatv/playlist.m3u8
 #EXTINF:-1 tvg-id="mult" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/xi351Fx.png",Мульт
 http://stream01.vnet.am/Mult/playlist.m3u8
 #EXTINF:-1 tvg-id="multimuzyka" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/SYt6BZP.png",Мульт и музыка
-http://92.242.110.52:9835/udp/238.1.7.23:1234
+http://109.239.208.82:80/multmusic/index.m3u8
 #EXTINF:-1 tvg-id="multimania" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/ccwijY0.png",Мультиландия
-http://92.242.110.52:9835/udp/238.1.7.22:1234
+http://31.148.48.15:80/Multilandiya/index.m3u8?token=test
 #EXTINF:-1 tvg-id="o_" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/pDc665V.png",О!
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://bkm.beetv.kz/btv/live/hls/000002928.m3u8
@@ -983,7 +981,7 @@ http://45.159.74.14/Kinokomedia/index.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://bkm.beetv.kz/btv/live/hls/000002760.m3u8
 #EXTINF:-1 tvg-id="ntv-xit" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/FfKBvz5.png",НТВ Хит
-http://92.242.110.52:9835/udp/238.1.7.27:1234
+http://cdn2.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="nst" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/uv2yxa5.png",НСТ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://bkm.beetv.kz/btv/live/hls/000000078.m3u8
@@ -1029,7 +1027,7 @@ http://ott-cdn.ucom.am/s37/index.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://bkm.beetv.kz/btv/live/hls/000000332.m3u8
 #EXTINF:-1 tvg-id="hd-life" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/tKgmhxh.png",HDL
-http://92.242.110.52:9835/udp/238.1.12.2:1234
+http://31.148.48.15:80/HD_Life/index.m3u8?token=test
 #EXTINF:-1 tvg-id="rtg-tv" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/ZMKPAho.png",RTG TV
 #EXTVLCOPT:http-referrer=http://fe.cliptv.az
 http://mfe02.cliptv.az/dash/RTG_HDkfy734.ism/playlist.mpd
@@ -1083,7 +1081,7 @@ http://ott-cdn.ucom.am/s68/04.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://bkm.beetv.kz/btv/live/hls/000001049.m3u8
 #EXTINF:-1 tvg-id="kto-est-kto" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/PmD17UQ.png",Кто есть кто
-http://92.242.110.52:9835/udp/238.1.6.15:1234
+http://45.15.43.12:80/ktoestkto/video.m3u8?token=test
 #EXTINF:-1 tvg-id="kuxnia-tv" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/7jxZnuS.png",Кухня ТВ
 http://stream01.vnet.am/KukhnyaTv/playlist.m3u8
 #EXTINF:-1 tvg-id="istoria" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/eEjPail.png",История
@@ -1131,13 +1129,11 @@ http://mfe02.cliptv.az/dash/Avto_Plus_SDngbg23480d.ism/playlist.mpd
 #EXTINF:0 tvg-id="anekdottv" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/wKfB79s.png",Анекдот ТВ
 https://bkm.beetv.kz/btv/live/hls/000001921.m3u8
 #EXTINF:-1 tvg-id="zvezda-plus" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/NNmjD9Z.png",Звезда Плюс
-http://92.242.110.52:9835/udp/238.1.6.27:1234
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="🤣| Giải trí" tvg-id="lapki-live" tvg-logo="https://epgx.site/p/lapki-live.png",Лапки Live
 http://91.247.68.229:8000/play/Lapki/index.m3u8
 #EXTINF:-1 tvg-id="kvn-tv" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/Vw3LFLX.png",КВН
 https://stream01.vnet.am/Bober/mono.m3u8
-#EXTINF:-1 tvg-id="konny-mir" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/X6otbK0.png",Конный Мир
-http://92.242.110.52:9835/udp/238.1.2.8:1234
 #EXTINF:0 tvg-id="muzhskoy" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/xyztpBf.png",Мужской
 https://bkm.beetv.kz/btv/live/hls/000000286.m3u8
 #EXTINF:-1 tvg-id="ntv-pravo" tvg-logo="https://i.imgur.com/3ChnWGg.png" group-title="🤣| Giải trí",НТВ ПРАВО
@@ -1149,6 +1145,8 @@ https://bkm.beetv.kz/btv/live/hls/000002761.m3u8
 #EXTINF:-1 tvg-id="nostalgia" tvg-logo="https://i.imgur.com/YBdBc0J.png" group-title="🤣| Giải trí",НОСТАЛЬГИЯ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://edge02.odtv.az/o3/nostalgiya/playlist.m3u8
+#EXTINF:-1 tvg-id="sarafan" tvg-logo="https://i.imgur.com/u4q1rMT.png" group-title="🤣| Giải trí",Сарафан
+http://86.57.178.105:10822
 #EXTINF:-1 group-title="🤣| Giải trí" tvg-id="russkaya-komedia" tvg-logo="https://i.imgur.com/VRC5juh.png",Комедия
 #EXTVLCOPT:http-referrer=http://fe.cliptv.az
 http://mfe02.cliptv.az/dash/Paramount_Comedy_SDfghsk.ism/playlist.mpd
@@ -1168,8 +1166,6 @@ https://bkm.beetv.kz/btv/live/hls/000000039.m3u8
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="tro" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/tUF33HD.png",БелРос
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
-#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/v0OYe1d.png",Соловьёв Live
-http://92.242.110.52:9835/udp/238.1.12.13:1234
 #EXTINF:-1 tvg-id="kazakh-tv" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://www.lyngsat.com/logo/tv/ss/silk-way-kz.png",Silk Way TV
 https://pop3.akamaized.net/SilkwayRussia/index.m3u8
 
@@ -1184,8 +1180,6 @@ https://stream01.vnet.am/Fightbox/playlist.m3u8
 #EXTINF:-1 tvg-id="viasat-sport" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/fXESG0l.png",Viju+ Sport
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://edge02.odtv.az/o7/viasatsport/playlist.m3u8
-#EXTINF:-1 tvg-id="start" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/VBqVkno.png",Старт
-http://92.242.110.52:9835/udp/238.1.1.30:1234
 #EXTINF:-1 tvg-id="box-tv" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/R1UjyfX.png",Бокс ТВ
 http://stream01.vnet.am/BoksTv/mono.m3u8
 #EXTINF:0 tvg-id="match-planeta" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/vhyMb9D.png",Матч! Планета
