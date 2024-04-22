@@ -2,27 +2,21 @@
 #EXTM3U Luôn cập nhật kênh ổn định - https://tinyurl.com/VietXoTV - https://hqth.me/vietstvKIPTV
 
 #EXTINF:0 tvg-id="vtv1hd" group-title="🇻🇳| VTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/VTV.png" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
-https://vtc301220.cdn.vnns.io/VTV1HD.stream/playlist.m3u8
+http://171.238.181.52:18080/154.m3u8
 #EXTINF:0 tvg-id="vtv2hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
-http://118.107.85.4:1935/live/smil:VTV2.smil/chunklist.m3u8
+http://171.238.180.25:18080/192.m3u8
 #EXTINF:0 tvg-id="vtv3hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
-https://edge1.laotv.la/live/VTV3/index.m3u8
+http://171.238.180.25:18080/155.m3u8
 #EXTINF:0 tvg-id="vtv4hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4
 http://s4.nihontv.net:21585/vtv4/index.m3u8
 #EXTINF:0 tvg-id="vtv5hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTVLCOPT:http-referrer=http://sctvonline.vn
-https://e8.endpoint.cdn.sctvonline.vn/hls/vtv5/index.m3u8?
+http://171.238.181.52:18080/194.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTVLCOPT:http-referrer=http://sctvonline.vn
-https://e8.endpoint.cdn.sctvonline.vn/hls/vtv5_tnb/index.m3u8?
+http://171.238.181.52:18080/307.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên
-https://apps3.101vn.com/cl.php?id=163
+http://171.238.181.52:18080/308.m3u8
 #EXTINF:0 tvg-id="vtv6hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTVLCOPT:http-referrer=http://sctvonline.vn
-https://e8.endpoint.cdn.sctvonline.vn/hls/vtv6/index.m3u8?
+http://171.238.181.52:18080/156.m3u8
 #EXTINF:0 tvg-id="vtv7hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
@@ -148,7 +142,7 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/htv7/index.m3u8?
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/index.m3u8?
 #EXTINF:0 tvg-id="htvthethaohd" group-title="⚽| Thể thao" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV Thể Thao
-https://vc.101vn.com/htv/htvcmb.php?id=4009
+http://171.238.180.25:18080/304.m3u8
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/cQZkjst.png",HTV CO.OP
 https://1011337676.vnns.net/CDN-FPT02/HTVCOOP-SD-ABR/playlist.m3u8
 
