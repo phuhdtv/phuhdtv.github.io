@@ -798,7 +798,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="360-podmoskovie" tvg-logo="https://i.imgur.com/VTJqdoX.png" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập",360
 http://85.172.79.221:36037/live/360/playlist_360.m3u8
 #EXTINF:-1 tvg-id="360-news" tvg-logo="https://i.imgur.com/YXDeX8q.png" group-title="🌏| Đối ngoại/Tin tức quốc tế",360 Новости
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
+http://109.239.208.82:80/360-news/index.m3u8
 #EXTINF:-1 tvg-id="8kanal-ru" tvg-logo="https://i.imgur.com/q3JCAC3.png" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập",8 канал
 http://146.158.0.56:80/8kanal/index.m3u8
 #EXTINF:-1 tvg-id="bst" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/jhqLy0N.png",Башкирское спутниковое телевидение
@@ -829,6 +829,7 @@ http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 http://185.46.48.18:80/disney/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="1hd" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/4Ww7CsR.png",1HD Music TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://bkm.beetv.kz/btv/live/hls/000001020.m3u8
 #EXTINF:-1 tvg-id="bridge-tv" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/qYObfrG.png",Bridge TV
 http://31.148.48.15:80/Bridge_TV/index.m3u8?token=test
@@ -866,6 +867,7 @@ http://31.148.48.15:80/Ani/index.m3u8?token=test
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://bkm.beetv.kz/btv/live/hls/000000284.m3u8
 #EXTINF:0 tvg-id="v-gostiax-u-skazki" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/jNJkLHl.png",В гостях у сказки
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://bkm.beetv.kz/btv/live/hls/000002762.m3u8
 #EXTINF:-1 tvg-id="mama" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/kmMIjjf.png",Мама
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
@@ -894,6 +896,7 @@ https://bkm.beetv.kz/btv/live/hls/000000048.m3u8
 http://stream01.vnet.am/Tiji/playlist.m3u8
 
 #EXTINF:-1 tvg-id="sony-turbo" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/Q4A6ci4.png",.Black
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://bkm.beetv.kz/btv/live/hls/000000520.m3u8
 #EXTINF:-1 tvg-id="sony-tv" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/GET9Qut.png",.Red
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -934,6 +937,7 @@ https://bkm.beetv.kz/btv/live/hls/000007815.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://bkm.beetv.kz/btv/live/hls/000007818.m3u8
 #EXTINF:0 tvg-id="trashtv" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/jnUD3ak.png",Trash
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://bkm.beetv.kz/btv/live/hls/000005621.m3u8
 #EXTINF:-1 tvg-id="vip-comedy" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/YoNOFu7.png",Viju+ Comedy
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -961,11 +965,13 @@ https://cdn1.skygo.mn/live/disk1/Vremya/HLS-FTA/Vremya.m3u8
 #EXTINF:-1 tvg-id="domkino" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/EblGdT7.png",Дом Кино
 https://stream01.vnet.am/DomKino/playlist.m3u8
 #EXTINF:-1 tvg-id="domkino-premium" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/rJpQtvK.png",Дом Кино Премиум
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://bkm.beetv.kz/btv/live/hls/000002943.m3u8
 #EXTINF:-1 tvg-id="dorama" tvg-logo="https://i.imgur.com/ZH5LuXU.png" group-title="🎬| Phim truyện",Дорама
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://bkm.beetv.kz/btv/live/hls/000003392.m3u8
 #EXTINF:0 tvg-id="feniks-plus-kino" tvg-logo="https://i.imgur.com/S9OPMLE.png" group-title="🎬| Phim truyện",Феникс+ Кино
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://bkm.beetv.kz/btv/live/hls/000000125.m3u8
 #EXTINF:-1 tvg-id="evrokino" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/8LPtPf6.png",Еврокино
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -974,6 +980,7 @@ https://bkm.beetv.kz/btv/live/hls/000000152.m3u8
 #EXTVLCOPT:http-referrer=http://fe.cliptv.az
 http://mfe01.cliptv.az/dash/Kino_TV_HDwnwnh67.ism/playlist.mpd
 #EXTINF:0 tvg-id="kineko" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/Otfvlmf.png",Кинеко
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://bkm.beetv.kz/btv/live/hls/000008136.m3u8
 #EXTINF:0 tvg-id="kinokomedia" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/dVjtth0.png",Кинокомедия
 http://45.159.74.14/Kinokomedia/index.m3u8
@@ -1004,6 +1011,7 @@ http://45.15.43.12:80/illuzion/video.m3u8?token=test
 #EXTINF:-1 tvg-id="pobeda" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/4KiYSln.png",Победа
 https://cdn1.skygo.mn/live/disk1/Pobeda/HLS-FTA/Pobeda.m3u8
 #EXTINF:0 tvg-id="sapfir" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/NMOBvle.png",Сапфир
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://bkm.beetv.kz/btv/live/hls/000008135.m3u8
 #EXTINF:-1 tvg-id="rodnoe-kino" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/H70LxoZ.png",РОДНОЕ КИНО
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
@@ -1032,6 +1040,7 @@ http://31.148.48.15:80/HD_Life/index.m3u8?token=test
 #EXTVLCOPT:http-referrer=http://fe.cliptv.az
 http://mfe02.cliptv.az/dash/RTG_HDkfy734.ism/playlist.mpd
 #EXTINF:0 tvg-id="terra-ru" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/ZxUjCpF.png",Terra
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://bkm.beetv.kz/btv/live/hls/000008142.m3u8
 #EXTINF:-1 tvg-id="sovsek" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/HM4xy4G.png",Top Secret
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
@@ -1049,8 +1058,10 @@ http://edge02.odtv.az/o5/viasatnature/playlist.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o5/viasatexporer/playlist.m3u8
 #EXTINF:0 tvg-id="zoopark" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/IO5jegK.png",ZooПaрк
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://bkm.beetv.kz/btv/live/hls/000000260.m3u8
 #EXTINF:-1 tvg-id="avto24" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/GXSXmN2.png",АВТО 24
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://bkm.beetv.kz/btv/live/hls/000000815.m3u8
 #EXTINF:-1 tvg-id="avto-plus" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/sVc8cFt.png",Авто плюс
 #EXTVLCOPT:http-referrer=http://fe.cliptv.az
@@ -1058,10 +1069,13 @@ http://mfe02.cliptv.az/dash/Avto_Plus_SDngbg23480d.ism/playlist.mpd
 #EXTINF:-1 tvg-id="bobior" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/clWWhB8.png",Бобер
 https://cdn1.skygo.mn/live/disk1/Bober/HLS-FTA/Bober.m3u8
 #EXTINF:0 tvg-id="dikaya-oxota-hd" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/EOue13e.png",Дикая охота
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://bkm.beetv.kz/btv/live/hls/000004609.m3u8
 #EXTINF:0 tvg-id="dikaya-rybalka-hd" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/e3BFVgt.png",Дикая рыбалка
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://bkm.beetv.kz/btv/live/hls/000004610.m3u8
 #EXTINF:-1 tvg-id="dialogi-o-rybalke" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/OuBtnGU.png",Диалоги о рыбалке
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://bkm.beetv.kz/btv/live/hls/000003174.m3u8
 #EXTINF:-1 tvg-id="domashnie-zhivotnye" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/ISJzQGP.png",Домашние животные
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -1069,7 +1083,8 @@ https://bkm.beetv.kz/btv/live/hls/000000146.m3u8
 #EXTINF:-1 tvg-id="dikiy" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/VDXDiPC.png",Дикий
 #EXTVLCOPT:http-referrer=http://fe.cliptv.az
 http://mfe01.cliptv.az/dash/Oxota_i_Ribalka_SDkjk467.ism/playlist.mpd
-#EXTINF:0 tvg-id="glazami-turista" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/GXJKWdy.png",Глазами Туриста. 
+#EXTINF:0 tvg-id="glazami-turista" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/GXJKWdy.png",Глазами Туриста
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://bkm.beetv.kz/btv/live/hls/000001414.m3u8
 #EXTINF:-1 tvg-id="nauka-20" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/ZZxzueO.png",Наука
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
@@ -1093,14 +1108,18 @@ https://cdn1.skygo.mn/live/disk1/Poehali/HLS-FTA/Poehali.m3u8
 #EXTINF:-1 tvg-id="prikluchenia-hd" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/qQ6pPPQ.png",Приключения
 http://stream01.vnet.am/PriklyucheniyaHd/playlist.m3u8
 #EXTINF:0 tvg-id="oruzhie" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/lfJQJqa.png",Оружие
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://bkm.beetv.kz/btv/live/hls/000000308.m3u8
 #EXTINF:0 tvg-id="oxota-i-rybalka" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/nZwBaeW.png",Охота и рыбалка
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://bkm.beetv.kz/btv/live/hls/000002510.m3u8
 #EXTINF:0 tvg-id="oxotnik-i-rybolov" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/Bj1jI7F.png",Охотник и рыболов
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://bkm.beetv.kz/btv/live/hls/000000608.m3u8
 #EXTINF:-1 tvg-id="zagorodny" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/YGqO3Us.png",Загородный
 http://stream01.vnet.am/DTX/mono.m3u8
 #EXTINF:0 tvg-id="zagorodnaya-zhizn" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/RoYd5pz.png",Загородная жизнь
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://bkm.beetv.kz/btv/live/hls/000000289.m3u8
 #EXTINF:-1 tvg-id="zoo-tv" tvg-logo="https://i.imgur.com/p7WzqGS.png" group-title="🌿| Khám phá",Зоо ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
@@ -1112,12 +1131,15 @@ https://bkm.beetv.kz/btv/live/hls/000003208.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s71/04.m3u8
 #EXTINF:0 tvg-id="texno-24" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/1W6R14o.png",Техно 24
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://bkm.beetv.kz/btv/live/hls/000000008.m3u8
 #EXTINF:-1 tvg-id="tonus-tv" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/O15eGBK.png",Тонус
 http://stream01.vnet.am/ZooTv/playlist.m3u8
 #EXTINF:0 tvg-id="uspex" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/o3K1h5Q.png",Успех
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://bkm.beetv.kz/btv/live/hls/000000288.m3u8
 #EXTINF:0 tvg-id="zhivaya-priroda" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/9lHQPdN.png",Живая Природа
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://bkm.beetv.kz/btv/live/hls/000001187.m3u8
 
 #EXTINF;0 tvg-id="mir-uvlecheniy" group-title="🤣| Giải trí" tvg-logo="https://ntvplus.tv/files/image/68/79/06/9wn.png",#Кто куда
@@ -1127,6 +1149,7 @@ https://bkm.beetv.kz/btv/live/hls/000001377.m3u8
 #EXTVLCOPT:http-referrer=http://fe.cliptv.az
 http://mfe02.cliptv.az/dash/Avto_Plus_SDngbg23480d.ism/playlist.mpd
 #EXTINF:0 tvg-id="anekdottv" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/wKfB79s.png",Анекдот ТВ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://bkm.beetv.kz/btv/live/hls/000001921.m3u8
 #EXTINF:-1 tvg-id="zvezda-plus" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/NNmjD9Z.png",Звезда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
@@ -1135,6 +1158,7 @@ http://91.247.68.229:8000/play/Lapki/index.m3u8
 #EXTINF:-1 tvg-id="kvn-tv" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/Vw3LFLX.png",КВН
 https://stream01.vnet.am/Bober/mono.m3u8
 #EXTINF:0 tvg-id="muzhskoy" group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/xyztpBf.png",Мужской
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://bkm.beetv.kz/btv/live/hls/000000286.m3u8
 #EXTINF:-1 tvg-id="ntv-pravo" tvg-logo="https://i.imgur.com/3ChnWGg.png" group-title="🤣| Giải trí",НТВ ПРАВО
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -1188,6 +1212,7 @@ http://45.159.74.13/MatchPlaneta/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s41/04.m3u8
 #EXTINF:0 tvg-id="ufc" group-title="⚽| Thể thao" tvg-logo="https://epgx.site/p/ufc.png",Удар
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://bkm.beetv.kz/btv/live/hls/000007802.m3u8
 
 #EXTINF:-1 group-title="📻| Radio" group-logo="https://i.imgur.com/IPNh4tM.png" tvg-logo="https://i.imgur.com/fuuXXSo.png" radio="true",VOV1
