@@ -136,9 +136,13 @@ http://home1.tranducanh.com:4444/udp/225.1.4.55:30120
 #EXTINF:-1 tvg-id="htv1" group-title="🇻🇳| HTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/HTV.png" tvg-logo="https://i.imgur.com/KEMSBD3.png",HTV1 HD
 https://vc.101vn.com/htv/htvcmb.php?id=2631
 #EXTINF:-1 tvg-id="htv2" group-title="🇻🇳| HTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/HTV.png" tvg-logo="https://i.imgur.com/Yc3cmAi.png",HTV2
-https://1011337676.vnns.net/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-referrer=http://sctvonline.vn
+https://e2.endpoint.cdn.sctvonline.vn/hls/htv2/index.m3u8?
 #EXTINF:-1 tvg-id="htv3" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3
-https://1011337676.vnns.net/CDN-FPT02/HTV3-SD-480p/playlist.m3u8
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-referrer=http://sctvonline.vn
+https://e2.endpoint.cdn.sctvonline.vn/hls/htv3/index.m3u8?
 #EXTINF:-1 tvg-id="htv4" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/13jHqoG.png",HTV Key
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
@@ -158,22 +162,22 @@ http://home1.tranducanh.com:4444/udp/225.1.4.11:30120
 #EXTINF:0 tvg-id="htvthethaohd" group-title="⚽| Thể thao" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV Thể Thao
 https://vc.101vn.com/htv/htvcmb.php?id=4009
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/cQZkjst.png",HTV CO.OP
-https://1011337676.vnns.net/CDN-FPT02/HTVCOOP-SD-ABR/playlist.m3u8
+https://1011154949.vnns.net/CDN-FPT02/HTVCOOP-SD-ABR/playlist.m3u8
 
 #EXTINF:0 tvg-id="htvccanhachd" group-title="🇻🇳| HTVC" group-logo="https://phuhdtv.github.io/thumbs/Groups/HTVC.png" tvg-logo="https://i.imgur.com/ZHVkEIC.png",HTVC Ca Nhạc
-https://1011337676.vnns.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/playlist.m3u8
+https://1011154949.vnns.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/playlist.m3u8
 #EXTINF:0 tvg-id="htvcdulichhd" group-title="🇻🇳| HTVC" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du Lịch và Cuộc Sống
-https://1011337676.vnns.net/CDN-FPT02/HTVC-DULICH-HD-1080p/playlist.m3u8
+https://1011154949.vnns.net/CDN-FPT02/HTVC-DULICH-HD-1080p/playlist.m3u8
 #EXTINF:0 tvg-id="htvcgiadinhhd" group-title="🇻🇳| HTVC" tvg-logo="https://i.imgur.com/KxWRNH6.png",HTVC Gia Đình
-https://1011337676.vnns.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
+https://1011154949.vnns.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
 #EXTINF:0 tvg-id="htvcphimhd" group-title="🇻🇳| HTVC" tvg-logo="https://i.imgur.com/SXV3ya9.png",HTVC Phim
-https://1011337676.vnns.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
+https://1011154949.vnns.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
 #EXTINF:0 tvg-id="htvcphunuhd" group-title="🇻🇳| HTVC" tvg-logo="https://i.imgur.com/PLliKL6.png",HTVC Phụ Nữ
-https://1011337676.vnns.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/playlist.m3u8
+https://1011154949.vnns.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/playlist.m3u8
 #EXTINF:0 tvg-id="htvcthuanviet" group-title="🇻🇳| HTVC" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuần Việt
-https://1011337676.vnns.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8
+https://1011154949.vnns.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8
 #EXTINF:0 tvg-id="htvcplushd" group-title="🇻🇳| HTVC" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+
-https://1011337676.vnns.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
+https://1011154949.vnns.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 group-title="🇻🇳| SCTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/SCTV.png" tvg-logo="https://i.imgur.com/5s4Os2C.png",SCTV1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -292,7 +296,7 @@ http://home1.tranducanh.com:4444/udp/225.1.4.176:30120
 http://home1.tranducanh.com:4444/udp/225.1.4.217:30120
 
 #EXTINF:-1 tvg-id="angiang" tvg-logo="https://i.imgur.com/0TkI4Ar.png" group-title="🇻🇳| Địa phương",An Giang
-https://1011337676.vnns.net/CDN-FPT02/ANGIANG-SD-ABR/playlist.m3u8
+https://oipf0znpmnliv.vcdn.cloud/hls/thangiang/index.m3u8
 #EXTINF:-1 tvg-id="baria" tvg-logo="https://i.imgur.com/WEMfHas.png" group-title="🇻🇳| Địa phương",Bà Rịa Vũng Tàu
 http://113.163.216.23:1935/live/tv2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="bacgiang" tvg-logo="https://i.imgur.com/j9lbGel.png" group-title="🇻🇳| Địa phương",Bắc Giang
@@ -304,11 +308,11 @@ https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv360&q=high&type=tv&location=NA&pkg
 #EXTINF:-1 tvg-id="baclieu" tvg-logo="https://i.imgur.com/ATG11ql.png" group-title="🇻🇳| Địa phương",Bạc Liêu
 https://tv.thbl.vn/live/tv/tv.m3u8
 #EXTINF:-1 tvg-id="bentre" tvg-logo="https://i.imgur.com/l8Ae26m.png" group-title="🇻🇳| Địa phương",Bến Tre
-https://1011337676.vnns.net/CDN-FPT02/BENTRE-SD-ABR/playlist.m3u8
+https://1012163901.vnns.net/bentre.adm.480p.tms/playlist.m3u8
 #EXTINF:-1 tvg-id="binhdinh" tvg-logo="https://i.imgur.com/0yZnK57.png" group-title="🇻🇳| Địa phương",Bình Định
 http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8
 #EXTINF:-1 tvg-id="binhduong1" tvg-logo="https://i.imgur.com/Soe6MC8.png" group-title="🇻🇳| Địa phương",Bình Dương 1
-https://1011337676.vnns.net/CDN-FPT02/BINHDUONG1-SD-ABR/playlist.m3u8
+https://oipf0znpmnliv.vcdn.cloud/hls/btv1/index.m3u8
 #EXTINF:-1 tvg-id="binhduong2" tvg-logo="https://i.imgur.com/pEaPECX.png" group-title="🇻🇳| Địa phương",Bình Dương 2
 https://oipf0znpmnliv.vcdn.cloud/hls/btv2/index.m3u8
 #EXTINF:-1 tvg-id="anvienhd" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/jeunb3Y.png",Bình Dương 9
@@ -388,7 +392,7 @@ https://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
 #EXTINF:-1 tvg-id="longan" tvg-logo="https://i.imgur.com/j6T7sqT.png" group-title="🇻🇳| Địa phương",Long An
 https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/playlist.m3u8
 #EXTINF:-1 tvg-id="namdinh" tvg-logo="https://i.imgur.com/juBOaJJ.png" group-title="🇻🇳| Địa phương",Nam Định
-https://1011337676.vnns.net/htvc/namdinh.480p.fpt.tms/playlist.m3u8
+https://1011154949.vnns.net/htvc/namdinh.480p.fpt.tms/playlist.m3u8
 #EXTINF:-1 tvg-id="nghean" tvg-logo="https://i.imgur.com/FLvFSLS.png" group-title="🇻🇳| Địa phương",Nghệ An
 https://live.truyenhinhnghean.vn/hls/na1/index.m3u8
 #EXTINF:-1 tvg-id="ninhbinh" tvg-logo="https://i.imgur.com/pL4NqYO.png" group-title="🇻🇳| Địa phương",Ninh Bình 
@@ -398,7 +402,7 @@ https://60acee235f4d5.streamlock.net/live/mystream/chunklist_w1911661624.m3u8
 #EXTINF:-1 tvg-id="phutho" tvg-logo="https://i.imgur.com/LXuRwJY.png" group-title="🇻🇳| Địa phương",Phú Thọ
 http://cdn.3ssoft.vn/livetv/phuthotv/phuthotv/index.m3u8
 #EXTINF:-1 tvg-id="phuyen" tvg-logo="https://i.imgur.com/DJsuiHq.png" group-title="🇻🇳| Địa phương",Phú Yên
-https://ott3.nethubtv.vn/live/phuyentv/playlist.m3u8
+http://113.161.4.48:8080/phuyen/tv/index.m3u8
 #EXTINF:-1 tvg-id="quangbinh" tvg-logo="https://i.imgur.com/JCFsITk.png" group-title="🇻🇳| Địa phương",Quảng Bình
 https://ott4.nethubtv.vn/live/quangbinhtv/playlist.m3u8
 #EXTINF:-1 tvg-id="quangnam" tvg-logo="https://i.imgur.com/oxOSXWv.png" group-title="🇻🇳| Địa phương",Quảng Nam
