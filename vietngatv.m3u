@@ -339,9 +339,11 @@ http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="dongnai2" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/tNKPSkO.png",Đồng Nai 2
 http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="dongthap" tvg-logo="https://i.imgur.com/TqAz7ET.png" group-title="🇻🇳| Địa phương",Đồng Tháp 1
-https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8
+https://oipf0znpmnliv.vcdn.cloud/hls/thdongthap/index.m3u8
 #EXTINF:-1 tvg-id="dongthap2" tvg-logo="https://i.imgur.com/PfETBEp.png" group-title="🇻🇳| Địa phương",Đồng Tháp 2 — Miền Tây
-https://64d0d74b76158.streamlock.net/THDT2/thdttv2/playlist.m3u8
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-referrer=http://sctvonline.vn
+https://e8.endpoint.cdn.sctvonline.vn/hls/thdt2/index.m3u8?
 #EXTINF:-1 tvg-id="gialai" tvg-logo="https://i.imgur.com/ZEAxzoF.png" group-title="🇻🇳| Địa phương",Gia Lai
 https://tv.gialaitv.vn:8134/hls/gialaitv/gialaitv.m3u8
 #EXTINF:-1 tvg-id="hagiang" tvg-logo="https://i.imgur.com/zXqjjUf.png" group-title="🇻🇳| Địa phương",Hà Giang
@@ -381,7 +383,7 @@ http://118.107.85.5:1935/live/smil:LTV.smil/chunklist_b1384000.m3u8
 #EXTINF:-1 tvg-id="langson" tvg-logo="https://i.imgur.com/yxz02UD.png" group-title="🇻🇳| Địa phương",Lạng Sơn 
 https://live.mediatech.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u8
 #EXTINF:-1 tvg-id="laocai" tvg-logo="https://i.imgur.com/ldwQU4L.png" group-title="🇻🇳| Địa phương",Lào Cai
-https://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
+https://ott4.nethubtv.vn/live/laocaitv/playlist.m3u8
 #EXTINF:-1 tvg-id="longan" tvg-logo="https://i.imgur.com/j6T7sqT.png" group-title="🇻🇳| Địa phương",Long An
 https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/playlist.m3u8
 #EXTINF:-1 tvg-id="namdinh" tvg-logo="https://i.imgur.com/juBOaJJ.png" group-title="🇻🇳| Địa phương",Nam Định
@@ -435,7 +437,7 @@ https://live.tuyenquangtv.vn/hls/ttv.m3u8
 #EXTINF:-1 tvg-id="vinhphuc" tvg-logo="https://i.imgur.com/CXUvMX2.png" group-title="🇻🇳| Địa phương",Vĩnh Phúc
 http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="yenbai" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/WKneY2w.png",Yên Bái
-https://live.yenbaitv.org.vn/hls/livestream.m3u8
+http://home1.tranducanh.com:4444/udp/225.1.4.167:30120
 
 #EXTINF:0 tvg-id="abcaustralia" group-title="🌏| Đối ngoại/Tin tức quốc tế" group-logo="https://i.imgur.com/D27GR9D.png" tvg-logo="https://i.imgur.com/yIvBE2i.png",ABC Australia
 http://home1.tranducanh.com:4444/udp/225.1.4.19:30120
