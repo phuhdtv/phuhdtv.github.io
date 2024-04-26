@@ -718,8 +718,8 @@ https://ctrl.laotv.la/live/WWE/index.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://bkm.beetv.kz/btv/live/hls/000001227.m3u8
 #EXTINF:-1 tvg-id="rtr-planeta-azia" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/MfWQxD2.png",РТР Планета Азия
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://bkm.beetv.kz/btv/live/hls/000000812.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC57/index.m3u8
 #EXTINF:-1 tvg-id="ntv-mir" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/DtQX5P2.png",НТВ МИР
 http://stream02.vnet.am/HTB/mono.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/cVvzJ8D.png",Пятый канал
@@ -828,13 +828,11 @@ http://31.148.48.15:80/Bridge_TV/index.m3u8?token=test
 http://stream01.vnet.am/BRIDGETVClassic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-ruxit" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/f9xdIlN.png",Bridge TV Русский хит
 http://31.148.48.15:80/Bridge_TV/index.m3u8?token=test
-#EXTINF:-1 tvg-id="europa-plus-tv" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/GLc4qrc.png",Europa Plus TV
-http://45.15.43.12:80/europaplus/video.m3u8?token=test
 #EXTINF:0 tvg-id="mezzo" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/auNdGeW.png",Mezzo
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://bkm.beetv.kz/btv/live/hls/000000030.m3u8
 #EXTINF:-1 group-title="🎧| Âm nhạc" tvg-id="la-minor" tvg-logo="https://i.imgur.com/RH6hTWG.png",Ля-Минор
-http://45.15.43.12:80/lyaminor/video.m3u8?token=test
+http://146.158.0.56:80/Lya-Minor/mono.m3u8
 #EXTINF:-1 tvg-id="muzsoyuz" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/v6KNZms.png",МузСоюз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1 tvg-id="muzyka-pervogo" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/U0vKj3P.png",Музыка Первого
@@ -842,8 +840,6 @@ https://cdn1.skygo.mn/live/disk1/Muzika/HLS-FTA/Muzika.m3u8
 #EXTINF:-1 tvg-id="shanson-tv" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/qkLrxZf.png",Шансон ТВ
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://edge02.odtv.az/o7/shansontv/playlist.m3u8
-#EXTINF:-1 tvg-id="zhara" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/41K9Y2s.png",Жара
-http://45.15.43.12:80/stv/video.m3u8?token=test
 
 #EXTINF:-1 tvg-id="shop24" group-title="🛒| Mua sắm" group-logo="https://i.imgur.com/75di4n1.png" tvg-logo="https://i.imgur.com/qU9ohQu.png",Leomax 24 HD
 https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
@@ -998,7 +994,7 @@ http://mfe02.cliptv.az/dash/Mujskoye_Kino_SDpoiu876.ism/playlist.mpd
 #EXTINF:-1 tvg-id="zee-tv" tvg-logo="https://i.imgur.com/xDVcDOc.png" group-title="🎬| Phim truyện",Индия
 https://stream01.vnet.am/ZeeTV/playlist.m3u8
 #EXTINF:-1 tvg-id="illuzion-plus" tvg-logo="https://i.imgur.com/9GvuHQ5.png" group-title="🎬| Phim truyện",Иллюзион+
-http://45.15.43.12:80/illuzion/video.m3u8?token=test
+http://sc.id-tv.kz/IlluzionPlus_36_37.m3u8
 #EXTINF:-1 tvg-id="pobeda" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/4KiYSln.png",Победа
 https://cdn1.skygo.mn/live/disk1/Pobeda/HLS-FTA/Pobeda.m3u8
 #EXTINF:0 tvg-id="sapfir" group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/NMOBvle.png",Сапфир
@@ -1017,8 +1013,6 @@ http://stream01.vnet.am/RusskiyRoman/playlist.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://edge02.odtv.az/o2/ruilluzion/playlist.m3u8
 
-#EXTINF:-1 tvg-id="365-dnej" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/NfnAiTR.png",365
-http://45.15.43.12:80/365dney/video.m3u8?token=test
 #EXTINF:-1 tvg-id="english-class" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/gst7wW7.png",English Class
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s37/index.m3u8
@@ -1086,8 +1080,6 @@ http://ott-cdn.ucom.am/s68/04.m3u8
 #EXTINF:0 tvg-id="moya-planeta" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/uIiAdBv.png",Моя Планета
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://bkm.beetv.kz/btv/live/hls/000001049.m3u8
-#EXTINF:-1 tvg-id="kto-est-kto" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/PmD17UQ.png",Кто есть кто
-http://45.15.43.12:80/ktoestkto/video.m3u8?token=test
 #EXTINF:-1 tvg-id="kuxnia-tv" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/7jxZnuS.png",Кухня ТВ
 http://stream01.vnet.am/KukhnyaTv/playlist.m3u8
 #EXTINF:-1 tvg-id="istoria" group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/eEjPail.png",История
@@ -1195,8 +1187,6 @@ https://stream01.vnet.am/Fightbox/playlist.m3u8
 http://edge02.odtv.az/o7/viasatsport/playlist.m3u8
 #EXTINF:-1 tvg-id="box-tv" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/R1UjyfX.png",Бокс ТВ
 http://stream01.vnet.am/BoksTv/mono.m3u8
-#EXTINF:0 tvg-id="match-planeta" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/vhyMb9D.png",Матч! Планета
-http://45.159.74.13/MatchPlaneta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="football-ru" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/pEuaZVx.png",Телеканал Футбол
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s41/04.m3u8
