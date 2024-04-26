@@ -274,11 +274,6 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/sctv22/index.m3u8?
 #EXTVLCOPT:http-referrer=http://sctvonline.vn
 https://e8.endpoint.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8?
 
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ SPORT1 
-https://edge1.laotv.la/live/K+Sport1/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ SPORT2 
-https://edge1.laotv.la/live/K+Sport2/index.m3u8
-
 #EXTINF:0 tvg-id="youtv" group-title="🇻🇳| HCATV" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Emblem_of_Hanoi.svg/800px-Emblem_of_Hanoi.svg.png" tvg-logo="https://i.imgur.com/jUl8zK4.png",YouTV
 http://home1.tranducanh.com:4444/udp/225.1.4.222:30120
 #EXTINF:0 tvg-id="" group-title="🇻🇳| HCATV" tvg-logo="https://i.imgur.com/KKhrAXP.png",HCATV5
@@ -802,7 +797,7 @@ http://146.158.0.56:80/8kanal/index.m3u8
 #EXTINF:-1 tvg-id="bst" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/jhqLy0N.png",Башкирское спутниковое телевидение
 http://bsttv.bonus-tv.ru:80/cdn/bst/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-id="enisey-region" tvg-logo="https://i.imgur.com/GTXkAUu.png" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập",Енисей
-http://91.215.232.5:8888/udp/239.195.41.46:1234
+http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="katun-24" tvg-logo="https://i.imgur.com/mr2Peqj.png" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập",Катунь 24
 https://live.katun24.ru:8082/katun/katun/index.m3u8
 #EXTINF:-1 tvg-id="kuzbas1" tvg-logo="https://i.imgur.com/GYVF3cI.png" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập",Кузбасс Первый
