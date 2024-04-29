@@ -736,8 +736,9 @@ https://ctrl.laotv.la/live/TSports7/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l9COIym.jpg" group-title="⚽| Thể thao",WWE
 https://ctrl.laotv.la/live/WWE/index.m3u8
 
-#EXTINF:-1 tvg-id="pervy-pl4" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" group-logo="https://i.imgur.com/D41JSNR.png" tvg-logo="https://i.imgur.com/ASoP8bJ.png",Первый канал
-http://188.113.190.15/98/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="pervy-kanal-csi" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" group-logo="https://i.imgur.com/D41JSNR.png" tvg-logo="https://i.imgur.com/ASoP8bJ.png",Первый канал
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://bkm.beetv.kz/btv/live/hls/000001227.m3u8
 #EXTINF:-1 tvg-id="rtr-planeta-azia" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/MfWQxD2.png",РТР Планета Азия
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://bkm.beetv.kz/btv/live/hls/000000812.m3u8
@@ -752,7 +753,7 @@ https://edge02.odtv.az/o1/rtrkultura/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://edge02.odtv.az/o1/rossiya24/playlist.m3u8
 #EXTINF:-1 tvg-id="karusel" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/4wmnx1W.png",Карусель
-http://31.148.6.9:10008/index.m3u8
+https://cdn1.skygo.mn/live/disk1/Karusel/HLS-FTA/Karusel.m3u8
 #EXTINF:-1 tvg-id="otr" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/QyZvT3e.png",Общественное Телевидение России
 http://31.148.6.9:10009/index.m3u8
 #EXTINF:-1 tvg-id="tvcentr" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/ZP0D6Rd.png",ТВ Центр (Москва)
@@ -764,13 +765,13 @@ http://edge02.odtv.az/o2/rentv/playlist.m3u8
 #EXTINF:-1 tvg-id="spas" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/yY39nMg.png",СПАС ТВ
 https://spas.mediacdn.ru/cdn/spas/playlist.m3u8
 #EXTINF:-1 tvg-id="sts" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/ilUzAeb.png",СТС
-http://31.148.6.9:10013/index.m3u8
+https://cdn1.skygo.mn/live/disk1/STS/HLS-FTA/STS.m3u8
 #EXTINF:-1 tvg-id="domashny" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/XVRwgom.png",Домашний
-http://31.148.6.9:10014/index.m3u8
+http://45.159.74.13:80/Domashniy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tv3-ru" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/JLAvq8O.png",ТВ3
-http://31.148.6.9:10015/index.m3u8
+https://bkm.beetv.kz/btv/live/hls/000004712.m3u8
 #EXTINF:-1 tvg-id="piatnica" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/UfmlXxe.png",Пятница
-http://31.148.6.9:10016/index.m3u8
+https://cdn1.skygo.mn/live/disk1/Friday/HLS-FTA/Friday.m3u8
 #EXTINF:-1 tvg-id="zvezda" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/4PAcpfM.png",Телеканал Звезда
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://edge02.odtv.az/o1/tvzvezda/playlist.m3u8
@@ -785,8 +786,7 @@ http://edge02.odtv.az/o5/muztv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://edge02.odtv.az/o5/chetv/playlist.m3u8
 #EXTINF:-1 tvg-id="sts-love" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/YBVZoDd.png",СТС Love
-#EXTVLCOPT:http-referrer=http://fe.cliptv.az
-http://mfe02.cliptv.az/dash/STS_Love_SDgggdd45.ism/playlist.mpd
+http://31.148.48.15:80/STS_Love/index.m3u8?token=test
 #EXTINF:-1 tvg-id="tnt4" group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/gBokU5i.png",ТНТ4
 http://edge02.odtv.az/o7/tnt4/playlist.m3u8
 #EXTINF:-1 tvg-id="tnt-music" group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/RenuH4S.png",ТНТ Music
