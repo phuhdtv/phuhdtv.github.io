@@ -1,4 +1,4 @@
-https://phuhdtv.github.io/Southeast-asia-IPTV.m3u
+https://phuhdtv.github.io/vietngatv_vod.m3u
 
 https://tinyurl.com/chinaiptv
 
