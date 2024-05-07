@@ -14,6 +14,8 @@ https://tinyurl.com/BIINN-OLD
 
 http://bit.ly/tungapp
 
+http://drm-play.com/android/drm-play.lite_1.56.apk
+
 http://gg.gg/IPTVbyvovanloc-m3u
 
 http://gg.gg/khichtv75-hue
