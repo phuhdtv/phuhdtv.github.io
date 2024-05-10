@@ -2,8 +2,6 @@ https://phuhdtv.github.io/vietngatv_vod.m3u
 
 http://gg.gg/japaniptv
 
-https://tinyurl.com/chinaiptv
-
 https://tinyurl.com/teovntv
 
 http://plst.rf.gd/?i=1
