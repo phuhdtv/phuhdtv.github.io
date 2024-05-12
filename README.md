@@ -14,6 +14,7 @@ http://bit.ly/tungapp
 
 http://drm-play.com/android/drm-play.lite_1.56.apk
 
+https://hqth.me/Phu3xIPTV
 
 http://gg.gg/IPTVbyvovanloc-m3u
 
