@@ -1,3 +1,5 @@
+https://vietngatv2024.github.io/vietngatv.m3u
+
 https://vietngatv2024.github.io/vietngatv_vod.m3u
 
 http://gg.gg/japaniptv
