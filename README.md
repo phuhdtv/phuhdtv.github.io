@@ -8,6 +8,8 @@ http://gg.gg/japaniptv
 
 http://plst.rf.gd/?i=1
 
+http://bit.ly/tungapp
+
 https://tinyurl.com/imediatv
 
 https://tinyurl.com/BIINN-OLD
